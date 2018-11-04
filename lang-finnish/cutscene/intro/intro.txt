@@ -1,0 +1,532 @@
+#(=========== This is the PC intro script =========================)
+
+#( !!!WARNING!!! Do not mess with the timing of this script starting )
+#( from SYNC in Slide 1. The music is synchronized to the slides. If )
+#( you MUST change timing of a subtitle, make sure this change is    )
+#( balanced off by another subtitle within the same slide!           )
+
+#(Clear entire screen first; set size...)
+DIMS 320 240
+
+#(... and clear)
+CLS
+
+#(Set sequence dimensions; param1=width; param2=height)
+DIMS 320 200
+#(Everything is drawn within the clipping rect defined by DIMS, from 0, 0)
+
+#(Fade all to black; param1=fade time)
+FTB 0
+
+#(Set text fore color; 0xRRGGBB)
+TC FFFFFF
+#(Set text back color; 0xRRGGBB)
+TBC 000000
+#(Set text effect; Traced, None, others when added)
+TE TRACED
+
+#(Load font to use later)
+FONT 0 addons/lang-finnish/fonts/starcon.fon
+#(Load font to use later)
+FONT 1 addons/lang-finnish/fonts/slides.fon
+
+#(************ Title Screen ******************************************)
+
+#(+++++++++++ Title 1 +++++++++++++++++++++++++++++++++)
+
+#(Set font to use)
+FONT 0
+
+#(Set ANIM to draw slides from)
+ANI base/cutscene/intro/title.ani
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC 000000
+
+#(Set text vertical position; can be T=top, B=bottom, M=middle)
+TVA B
+
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Fade-in a slide; param1=fade time)
+FTC 1500
+#(Wait)
+WAIT 2000
+#(Fade slide to black; param1=fade time)
+FTB 2000
+#(Wait)
+WAIT 500
+
+#(++++++++++++ Title 2 +++++++++++++++++++++++++++++++++++)
+
+#(Play music)
+MUSIC base/cutscene/intro/introx.mod
+
+#(Move sync point to current time index)
+RESYNC
+
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Fade-in a slide; param1=fade time)
+FTC 3000
+#(Synchronize)
+SYNC 5000
+#(Text fade-in)
+TFI Perustuu STAR CONTROL II:n lähdekoodiin
+(STAR CONTROL on Atarin tavaramerkki)
+#(Synchronize)
+SYNC 8000
+#(Text fade-out)
+TFO
+#(Wait)
+WAIT 200
+#(Text fade-in)
+TFI Alunperin luoneet
+Fred Ford ja Paul Reiche III
+vuonna 1992
+#(Synchronize)
+SYNC 12000
+#(Text fade-out)
+TFO
+#(Wait)
+WAIT 200
+#(Text fade-in)
+TFI Vapautettu Open Source -yhteisölle
+vuonna 2002
+
+#(Synchronize)
+SYNC 16000
+
+#(Fade slide to black; param1=fade time)
+FTB 3000
+
+#(************* Slides *********************************************)
+
+#(Set font to use)
+FONT 1
+
+#(Set ANIM to draw slides from)
+ANI base/cutscene/intro/intro.ani
+
+#(Set text vertical position; can be T=top, B=bottom, M=middle)
+TVA T
+
+#(++++++++++++++++++++ Slide 1 ++++++++++++++++++++++++)
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC 1018BC
+
+#(!!! Milestone Sync 1 !!!)
+SYNC 20000
+
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Fade-in a slide; param1=fade time)
+FTC 700
+#(Text fade-in)
+TFI Oli monia suuria taisteluita...
+#(Wait)
+WAIT 2500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Maa ja sen kumppanit
+Vapaiden Tähtien Allianssissa...
+#(Wait)
+WAIT 3000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Pahoja Ur-Quaneja ja niiden
+Taisteluorjien Hierarkiaa vastaan.
+#(!!! Milestone Sync 2 !!!)
+SYNC 35000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI ...ja Ur-Quanit olivat voitolla...
+#(Wait)
+WAIT 2000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Samaan aikaan tunnetun
+avaruuden rajamailla tehtiin
+hämmästyttävä löytö...
+#(!!! Milestone Sync 3 !!!)
+SYNC 41000
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI syvällä tutkimattoman
+muukalaismaailman pinnan alla...
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 0
+
+#(Wait)
+WAIT 700
+
+#(Fade slide to black; param1=fade time)
+FTB 700
+
+#(+++++++++++++++++++++ Slide 2 ++++++++++++++++++++++)
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC 707070
+
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Fade-in a slide; param1=fade time)
+FTC 700
+
+#(Text fade-in)
+TFI Valtava maanalainen kaupunki...
+#(Wait)
+WAIT 3500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Täynnä edistyneen muukalaislajin,
+Edelläkävijöiden, teknologisia ihmeitä...
+#(Wait)
+WAIT 6000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Jotka katosivat tuhat
+vuosisataa sitten.
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Mutta sitten Ur-Quanien
+päälaivasto murtautui Allianssin
+puolustuslinjojen läpi...
+#(Wait)
+WAIT 6500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Eristäen planeetan ja kariuttaen
+tiedemiehet sadan valovuoden
+päähän Maasta.
+#(Wait)
+WAIT 6500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI He odottivat toiveikkaina
+pelastusalusta...
+#(Wait)
+WAIT 3500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI joka ei koskaan tullut.
+#(Wait)
+WAIT 3000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 1
+
+#(Wait)
+WAIT 700
+
+#(Fade slide to black; param1=fade time)
+FTB 700
+
+#(+++++++++++++++++++++++ Slide 3 +++++++++++++++++++++++++++)
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC FCA030
+
+#(Draw slide; param1=ANI index)
+DRAW 2
+#(Fade-in a slide; param1=fade time)
+FTC 700
+
+#(Text fade-in)
+TFI 20 vuotta on kulunut...
+#(Wait)
+WAIT 3000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 2
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Me, tutkimusretkikunnan selviytyjät,
+olemme asuttaneet tämän planeetan.
+#(Wait)
+WAIT 4500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 2
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Jatkoimme maanalaisen
+kaupungin tutkimista...
+#(Wait)
+WAIT 4500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 2
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Ja olemme keksineet sen
+tarkoituksen...
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 2
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Se on tehdas.
+#(Wait)
+WAIT 3000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 2
+
+#(Wait)
+WAIT 700
+
+#(Fade slide to black; param1=fade time)
+FTB 700
+
+#(+++++++++++++++++++++++ Slide 4 +++++++++++++++++++++++++++)
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC FC480C
+
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Fade-in a slide; param1=fade time)
+FTC 700
+
+#(Text fade-in)
+TFI Tehdas avaruusalusten
+rakentamista varten!
+#(Wait)
+WAIT 4500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Mutta täällä ei ole tarpeeksi
+materiaaleja kokonaisen aluksen
+valmistamiseen.
+#(Wait)
+WAIT 5000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Pystymme saamaan valmiiksi vain
+aluksen luurangon.
+#(Wait)
+WAIT 5000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Mutta sen täytyy riittää --
+#(Wait)
+WAIT 3500
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Sillä SINUN täytyy toimia aluksen
+kapteenina...
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Ja palata Maahan!
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 3
+
+#(Wait)
+WAIT 700
+
+#(Fade slide to black; param1=fade time)
+FTB 700
+
+#(+++++++++++++++++++++++ Slide 5 +++++++++++++++++++++++++++)
+
+#(Set text fade in/out color; 0xRRGGBB)
+TFC 000000
+
+#(Draw slide; param1=ANI index)
+DRAW 4
+#(Fade-in a slide; param1=fade time)
+FTC 700
+
+#(Text fade-in)
+TFI Matkustaaksesi tämän suuren
+välimatkan, sinun täytyy työntyä
+Hyperavaruuteen...
+#(Wait)
+WAIT 6000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 4
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Ota selville, mitä näiden monien
+vuosien aikana on tapahtunut...
+#(Wait)
+WAIT 5000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 4
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Kerro Maalle ahdingostamme!
+#(Wait)
+WAIT 4000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 4
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Ja jos sota Ur-Quanien kanssa
+raivoaa yhä...
+#(Wait)
+WAIT 5000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 4
+#(Wait)
+WAIT 500
+
+#(Text fade-in)
+TFI Taistele Maan ja Allianssin puolesta
+niin hyvin kuin osaat...
+#(Wait)
+WAIT 6000
+#(Text fade-out)
+TFO
+#(Draw slide; param1=ANI index)
+DRAW 4
+
+#(Wait)
+WAIT 700
+
+#(Fade slide to black; param1=fade time)
+FTB 700
+
+#(***************************** The End ********************************)

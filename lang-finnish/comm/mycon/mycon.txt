@@ -1,0 +1,418 @@
+#(TELL_US_ABOUT_WORLD)	mycon-000.ogg
+Ehdotuksesi on sopiva.
+Uudet hyväksyttävät maailmat ovat etusijalla Juffo-Wupin nopeassa ja täydellisessä leviämisessä.
+Haluamme tietää enemmän soveliaisuuden arviointia varten.
+Kerro meille tästä maailmasta.
+
+#(BYE_AND_DIE_HOMEWORLD)	mycon-001.ogg
+Estät Juffo-Wupin virtauksen läpi universumin.
+Poistamme nyt tämän tukoksen.
+Autamme Juffo-Wupia eliminoimalla sinut!
+
+#(RAMBLE_1)	mycon-002.ogg
+Yksinäinen itiö maassa löytää ravintonsa mädästä ja saavuttaa kypsyyden..
+Vuorollaan se erittää elämän pilven, tuhat itiötä, jokainen laskeutuu, löytää ravintonsa mädästä
+niin etenee Juffo-Wup.
+
+#(RAMBLE_2)	mycon-003.ogg
+Kehomme kuohuvat geeniemme intohimosta.
+Tuhat lajisi yksilöä ei omaa yhden soluni rikkautta.
+
+#(RAMBLE_3)	mycon-004.ogg
+Täytyn vanhempieni vanhempien vanhempien vanhempien vanhempien vanhempien vanhemmista
+Olen he -- he ovat minä. Silloin, ja nyt.
+
+#(RAMBLE_4)	mycon-005.ogg
+Syvät Lapset ovat osa Juffo-Wupia -- kodinrakentajat.
+Mohorovichicin asuttajat.
+
+#(RAMBLE_5)	mycon-006.ogg
+Olen Dugee
+olen puhtauden valvoja
+valitsen, mitkä silmut saavat kypsyyntyä
+ja mitkä tulee poistaa.
+Kuolin yleiseen häiriöön 57 283 vuotta sitten.
+
+#(RAMBLE_6)	mycon-007.ogg
+Kylmä kivi, pyörien hiljaisesti tyhjyydessä, Lapsen kohtu.
+
+#(RAMBLE_7)	mycon-008.ogg
+Sykkivä kuuma neste virtaa venytettyjen lonkeroitteni läpi, lähettäen väristyksiä sisälleni.
+Aika on tullut. Paisun ja purkaudun.
+Yläpuolellani kuiskivan elämän pilvi kieppuu ilmassa.
+Olen tyytyväinen.
+
+#(RAMBLE_8)	mycon-009.ogg
+Juffo-Wup on vahva tässä paikassa.
+
+#(RAMBLE_9)	mycon-010.ogg
+Teidän yksinkertainen seksuaalinen prosessinne tuottaa satunnaisia geenien mosaiikkeja
+samalla kun minä, hengityksen yksinkertaisuudella, muutan omaa kuvioitani.
+Te ihmiset parannatte työkalua ja tuplaatte kykynne.
+Me Myconit parannamme itseämme ja nousemme tuhatkertaisiksi.
+
+#(RAMBLE_10)	mycon-011.ogg
+Syvät Lapset!
+Valon Keihäät pimeydessä!
+Niiden hylätyt kuoret puhuvat tulevasta ilosta.
+
+#(RAMBLE_11)	mycon-012.ogg
+Olen valinnut jälkeläisieni muistit varovaisesti muistoistani
+olemassaoloni armaat ja lämpimät ajat ja nuo minun vanhempieni vanhempien vanhempien
+osia miljoonista elämistä sulautuneena täydellisen tietoisuuden syntymälahjaksi.
+
+#(RAMBLE_12)	mycon-013.ogg
+Pimeässä ne kasvavat, syvä tuli ruokkii Lapsia.
+Niiden syntymä hengittää lämpöä kylmään maailmaan.
+
+#(RAMBLE_13)	mycon-014.ogg
+`...systeemi vaatii enemmän energiaa. Otollinen esiintymä on pinnan alla...'
+
+#(RAMBLE_14)	mycon-015.ogg
+Etsimme Juffo-Wupia saadaksemme suunnan, ja se välittää meille mallin
+loputtoman leviämisen saavuttamisen puhtaudella ja virheiden sietämättömyydellä.
+
+#(RAMBLE_15)	mycon-016.ogg
+Olen Shloosh
+käristyin neljätoista tuhatta Maan vuotta sitten
+elän nyt, mutta vain hetken
+ja sitten, olen mennyttä.
+
+#(RAMBLE_16)	mycon-017.ogg
+`...tiheiden amfibolikuitujen yhdistäminen takaa selviytymisen äärimmäisissä ilmastoissa...'
+
+#(RAMBLE_17)	mycon-018.ogg
+Kaihoan magmaa
+virtaavia kuumia basaltteja
+laava-altaiden punaista hehkua.
+
+#(RAMBLE_18)	mycon-019.ogg
+Kun kohtaamme Muun, meidän täytyy absorboida Muu, tai hylätä Muu jotta se ei olisi enää Muuta.
+
+#(RAMBLE_19)	mycon-020.ogg
+`...kohinan siirtyminen signaaliin on väistämätöntä. Meidän täytyy kehittää suodatusmekanismi...'
+
+#(RAMBLE_20)	mycon-021.ogg
+Yksikön lakkaaminen on väistämätöntä
+olemassaolon seuraus
+mutta elämän syntymisen kanssa yksilöllisyys on siirretty osiin
+ja saattaa toisinaan saada valta-aseman ajanjaksoon
+saavuttaen tietynlaisen jaetun kuolemattomuuden.
+
+#(RAMBLE_21)	mycon-022.ogg
+`...Selviytyminen on prioriteetti. Laajeneminen on prioriteetti. Kehittyminen on prioriteetti...'
+
+#(RAMBLE_22)	mycon-023.ogg
+Juffo-Wup myöntää Tyhjäämättömän Muun olemassaolon
+ja kun me olemme yhteydessä moiseen, me liitymme, absorboimme ja odotamme mahdollisuuttamme
+oppiaksemme heikkouden, joka sallii meidän Tyhjyyttää Muu.
+
+#(RAMBLE_23)	mycon-024.ogg
+Ajoittain, tapaan toisen, joka jakaa minun kanssani vanhemman elämän mielessä
+ja jos me puhumme niin tämä sirpale vallitseva meissä molemmissa
+itse tapaa itsensä ajoittain valaisevin tuloksin.
+
+#(RAMBLE_24)	mycon-025.ogg
+Siemenalukset paukkuvat plasmansäilytyskentän kanssa
+jonka jälkeläiset haluavat muuttaa Muun Tyhjyydeksi
+kentät muuttuvat tiheämmiksi ja tiheämmiksi
+generaattoreiden bassoryminä kasvaa asteittain korkeaksi polttavaksi huutoon
+yhtäkkinen hiljaisuus ja valonvälähdys ilmoittavat vapautuksesta
+kuuma sykkiminen rauhoittuu hidaasti.
+
+#(RAMBLE_25)	mycon-026.ogg
+Syvät Lapset putoavat Tyhjyydestä, keräten vauhtia lävistykseen.
+Kestävä kotelo lämpenee, kun se menee läpi ilmakehän hehkuen valkoisena kun se osuu pintaan
+kiinteä kivi virtaa kuin neste, ja lapsi liukuu lämpimiin, turvallisiin syvyyksiin pinnan alla.
+
+#(RAMBLE_26)	mycon-027.ogg
+`...katso... ajattele... toimi... katso... opi... muista... opeta... katso... ajattele...'
+
+#(RAMBLE_27)	mycon-028.ogg
+Istutuslaivasto on kerääntynyt vihreän maailman ylle
+heikkouden kuviot paljastajat johdannon paikan.
+Lapsi on valmis syntymämatkalleen.
+Vapauttakaa!
+
+#(RAMBLE_28)	mycon-029.ogg
+Olen Gussh
+minä pidän huolta synnytysnystyröistä
+kuolin 343 Maan vuotta sitten
+en tiedä miksi.
+
+#(RAMBLE_29)	mycon-030.ogg
+Kun Juffo-Wup on valmis
+kun lopultakin ei enää ole Tyhjyyttä tai Muuta
+kun Luojat palaavat
+sitten voimme lopulta levätä.
+
+#(RAMBLE_30)	mycon-031.ogg
+Pimeys on Tyhjyys
+Juffo-Wup on valo.
+
+#(RAMBLE_31)	mycon-032.ogg
+`... planetaarinen muuntajabiootti 94-18: ota paikkasi siirrin-daissa...'
+
+#(RAMBLE_32)	mycon-033.ogg
+Olet Muuta. Sinun täytyy mennä, ja olla ikinä palaamatta.
+
+#(question_1)
+Mitä voitte kertoa minulle lajistanne?
+
+#(question_2)
+Selvä, mitä voitte kertoa historiastanne?
+
+#(question_3)
+Miksi et suostu vastaanottamaan kysymyksiäni?
+
+#(question_4)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_5)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_6)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_7)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_8)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_9)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_10)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_11)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_12)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_13)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_14)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_15)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(question_16)
+Ette kiinnitä minuun huomiota, vai mitä?
+
+#(bye_space)
+Älä vaivaa itseäsi, poistun itsekin.
+
+#(BYE_AND_DIE_SPACE)	mycon-034.ogg
+Juffo-Wup täyttää kuituni ja pöhötyn. Väkivaltainen toimenpide seuratkoon.
+
+#(gonna_die)
+Aika kuolla.
+
+#(insult_1)
+Miltähän maistuisit, voissa paistettuna?
+
+#(insult_2)
+Tiedät kai, minulla lienee sukulaisiasi varpaideni välissä!
+
+#(insult_3)
+Onko tuo kivi, millä istut, vai onko sinulla vain suuri takamus?
+
+#(insult_4)
+Ei kai olisi mahdollisuutta, että todella vastaisit siihen, mitä minä sanon, vai?
+
+#(insult_5)
+En voi uskoa, että yritän keskustella kuuman sienen kanssa.
+
+#(insult_6)
+Lopeta noiden... noiden... mitä nyt ikinä ovatkaan nytkyttely!
+
+#(insult_7)
+Missä Absorbing Junior on kun sitä tarvitsee?
+
+#(insult_8)
+Heiii? Ruma! Kuuletko minua?
+
+#(come_in_peace)
+Myconit. Yrittäkää ymmärtää. Toivomme rauhaa kansojemme välille.
+
+#(HELLO_HOMEWORLD_1)	mycon-035.ogg
+Juffo-Wup on Kaikki... kaikkitietävä, leviävä ja muuttaa Muun Juffo-Wupiksi.
+Olet Muuta, jonka täytyy tulla Juffo-Wupiksi tai Tyhjyydeksi.
+Olemme Juffo-Wupin agentteja.
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_2)	mycon-036.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_3)	mycon-037.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_4)	mycon-038.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_5)	mycon-039.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_6)	mycon-040.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_7)	mycon-041.ogg
+Olemme Myconit.
+
+#(HELLO_HOMEWORLD_8)	mycon-042.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_1)	mycon-043.ogg
+Olemme osa Juffo-Wupia.
+Juffo-Wup on kuuma valo pimeydessä.
+Kaikki muu on täyttämätöntä Tyhjää.
+Olemme Myconit.
+
+#(HELLO_SPACE_2)	mycon-044.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_3)	mycon-045.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_4)	mycon-046.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_5)	mycon-047.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_6)	mycon-048.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_7)	mycon-049.ogg
+Olemme Myconit.
+
+#(HELLO_SPACE_8)	mycon-050.ogg
+Olemme Myconit.
+
+#(lets_be_friends)
+Ollaan ystäviä.
+
+#(came_to_homeworld)
+Olemme tulleet kotimaailmaanne saadaksemme aselevon.
+
+#(submit_to_us)
+Katalat sienet! Alistukaa tahtoomme!
+
+#(bye_sun_device)
+No, me lähdemmekin tästä.
+
+#(GOODBYE_SUN_DEVICE)	mycon-051.ogg
+Olet Muuta. Sinun täytyy mennä, ja olla ikinä palaamatta.
+
+#(RESPONSE_1)	mycon-052.ogg
+Se on hyvä.
+
+#(RESPONSE_2)	mycon-053.ogg
+Se on hyvä.
+
+#(RESPONSE_3)	mycon-054.ogg
+Se on hyvä.
+
+#(clue_1)
+Sen ilma on puhdasta ja raikasta.
+
+#(clue_2)
+Sen pinta kuhisee elämää.
+
+#(clue_3)
+Aurinko lämmittää hellästi sen pintaa.
+
+#(what_about_shattered)
+Miksi Murskaantuneita Maailmoja löytyy ainoastaan teidän avaruudestanne?
+
+#(ABOUT_SHATTERED)	mycon-055.ogg
+Ne ovat Syvien Lapsien koteja.
+
+#(HELLO_SUN_DEVICE_WORLD_1)	mycon-056.ogg
+Tämä on erikoinen paikka
+täynnä Juffo-Wupia.
+Meidän täytyy estää Muun pääsy sinne.
+Sinun täytyy mennä. Nyt.
+
+#(HELLO_SUN_DEVICE_WORLD_2)	mycon-057.ogg
+Olet palannut meidän erikoiseen paikkaamme.
+Tämä ei ole sallittavaa.
+Poistu.
+
+#(whats_up_sun_device)
+Mikä tekee tästä maailmasta niin erikoisen teille?
+
+#(GENERAL_INFO_SUN_DEVICE)	mycon-058.ogg
+Juffo-Wup on elämän voima... kuumaa lämpöä kylmässä Tyhjässä.
+Se virtaa läpi kaikkien asioiden, sitoen ne yhteen, tehden niistä yhden.
+Olet Ei-Juffo-Wup, et voi ymmärtää.
+Alhaalla on Juffo-Wupin kotelo -- ollut jo satatuhatta vuotta.
+Kun meillä on kylmä, kotelo avautuu ja lämmittää meitä.
+Kun on pimeää, kotelo puristuu ja kas, on valoisaa.
+Olet Muuta. Kotelo ei ole sinulle. Sinun täytyy poistua.
+
+#(like_to_land)
+Minulla on asiaa tähän maailmaan. Pois tieltä.
+
+#(NEVER_LET_LAND)	mycon-059.ogg
+Juffo-Wup virtaa läpi Ajan ja Avaruuden. Sitä ei voida pysäyttää pelkillä energiaräjähdyksillä.
+Kuitenkin, sinä olet Muuta -- et osa Juffo-Wupia.
+Sinut VOIDAAN tuhota energiaräjähdyksillä.
+Todistakaamme.
+
+#(bye_homeworld)
+Heippa sienipojat!
+
+#(i_have_a_cunning_plan)
+Organon-tähdellä on maailma. Uskon, että se on täydellinen teidän Syville Lapsillenne.
+
+#(DIE_LIAR)	mycon-060.ogg
+Olet este Juffo-Wupille.
+Sinut täytyy poistaa.
+
+#(how_goes_implanting)
+Oletteko käyneet planeetalla, josta kerroin?
+
+#(UNFORSEEN_DELAYS)	mycon-061.ogg
+Meillä on ollut ennennäkemättömiä viiveitä Syvien Lapsien Organon ensimmäisen pinnan alle istuttamisessa.
+Silti, Juffo-Wup on väistämätön. Syvät Lapset TULEVAT syntymään.
+
+#(DIE_THIEF)	mycon-062.ogg
+Olet ottanut meiltä jotakin, mitä me arvostamme... mikä on tärkeää Juffo-Wupille.
+Palauta Aurinkosäätäjä välittömästi.
+
+#(DIE_THIEF_AGAIN)	mycon-063.ogg
+Olet ottanut meiltä jotakin, mitä me arvostamme... mikä on tärkeää Juffo-Wupille.
+Palauta Aurinkosäätäjä välittömästi.
+
+#(GOODBYE_AND_DIE)	mycon-064.ogg
+Juffo-Wup on Kaikki
+mutta et ole osa Juffo-Wupia
+joten sinun olemassaolosi täytyy loppua.
+Me tulemme lopettamaan olemassaolosi, kautta Juffo-Wupin.
+
+#(AMBUSH_TAIL)
+  
+
+#(RAMBLE_TAIL)
+  
+
+#(WE_GO_TO_IMPLANT)	mycon-065.ogg
+Jos sanasi ovat totta, niin me mielellämme levitämme Juffo-Wupia uuteen maailmaan!
+Me kokoamme Synnytyslaivaston ja lähetämme sen tälle planeetalle.
+Me lähetämme monia aluksia puolustamaan Lapsia, kun ne kasvavat.
+Olet tehnyt meille palveluksen.
+Sinun eläytymisesi sanomattomalle Juffo-Wupille on rohkaisevaa.
+Ehkä, jos situtamme itiöpusseja aivoelimeesi
+ja annamme sen juurien levitä läpi lihasi
+sitten voisit todella ymmärtää Juffo-Wupia... olla osa Juffo-Wupia.
+Sinä OLISIT onnellisempi ja täyttyneempi. Harkitse ehdotustamme.
+
+#(WONT_FALL_FOR_TRICK)	mycon-066.ogg
+Tämä on erityinen paikka.
+Sinun täytyy mennä. Nyt.

@@ -1,0 +1,378 @@
+#(name_1)
+Uutta Vapaiden Tähtien Allianssia!
+
+#(name_2)
+Muukalaisvaltioiden Sopimuksta!
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatiota!
+
+#(name_40)
+Imperiumi 
+#(name_41)
+ 
+
+#(tanaka) shofixti-000.ogg
+Tanaka
+
+#(katana) shofixti-001.ogg
+Katana
+
+#(HOSTILE_KATANA_1)	shofixti-002.ogg
+Minä, Soturi Katana, olen matkustanut monta pitkää vuotta halki avaruuden päästäkseni lopulta kotiin
+ainoastaan todistaakseni kun ammut veljeni atomeiksi!
+Nyt kuolet!
+
+#(HOSTILE_KATANA_2)	shofixti-003.ogg
+Ur-Quan on palannut! Kuinka poikkeuksellisen rohkeata
+spitaaliselta, toimimattomalta sukupuolielimeltä, kuten sinä.
+
+#(HOSTILE_KATANA_3)	shofixti-004.ogg
+Paha murhaaja, luulet pilkkaavasi minua.
+Ha! Ja uudestaan sanon, Ha!
+Olen kohdannut paljon pahempaa kuin sinä
+Senkin kuusi viikkoa kuolleena olleen Dhrangin surkuhupaisa jäljitelmä!
+
+#(HOSTILE_KATANA_4)	shofixti-005.ogg
+Vannon kautta sankarin, Daikonin, että tällä kertaa tapan sinut.
+
+#(HOSTILE_TANAKA_1)	shofixti-006.ogg
+Huomio, valtava muukalaisalus!
+Vaikka suurin osa sensorimittareistani onkin epäkunnossa
+massanosoittimeni näyttää valtavan kokoisen aluksen
+paljastaen, ettet ole kukaan muu kuin
+iljettävä Ur-Quanin limaläjä!
+Olen maineikas shofixtisoturi Tanaka.
+Tapoitte isäni... Äitini... monet veljeni
+kaikki kuusi sisartani
+itse asiassa, koko lajini.
+Valmistaudu kuolemaan!
+
+#(HOSTILE_TANAKA_2)	shofixti-007.ogg
+Ah, se pelkurillinen etanansikiö on siis palannut!
+Olit onnekas viime kerralla, senkin kammottava, pussiton friikki
+mutta tällä kerralla tuhoan varmasti aluksesi
+senkin mädäntyneiden karvapallojen mateleva syöjä.
+
+#(HOSTILE_TANAKA_3)	shofixti-008.ogg
+Näen, että olet palannut saadaksesi vielä lisää nöyryytystä, senkin leuhka Ur-Quanin märkäpaise.
+
+#(HOSTILE_TANAKA_4)	shofixti-009.ogg
+Tapan sinut tällä kertaa, senkin surkuteltava, jänishousuinen laumaeläinten ulosteiden ihailija!
+
+#(HOSTILE_TANAKA_5)	shofixti-010.ogg
+Tapan sinut tällä kertaa, senkin surkuteltava, jänishousuinen laumaeläinten ulosteiden ihailija!
+
+#(HOSTILE_TANAKA_6)	shofixti-011.ogg
+Tapan sinut tällä kertaa, senkin surkuteltava, jänishousuinen laumaeläinten ulosteiden ihailija!
+
+#(HOSTILE_TANAKA_7)	shofixti-012.ogg
+Tapan sinut tällä kertaa, senkin surkuteltava, jänishousuinen laumaeläinten ulosteiden ihailija!
+
+#(HOSTILE_TANAKA_8)	shofixti-013.ogg
+Tapan sinut tällä kertaa, senkin surkuteltava, jänishousuinen laumaeläinten ulosteiden ihailija!
+
+#(dont_attack)
+Älä hyökkää -- emme ole Ur-Quaneja! Olemme liittolaisiasi!
+
+#(TYPICAL_PLOY)	shofixti-014.ogg
+Tyypillinen Ur-Quanien juoni... joka on epäonnistunut.
+Ja nyt ulvon kuoleman huudon!
+Kyaiee!
+
+#(hey_stop)
+Hei, lopeta ampuminen! Johonkuhun voisi sattua!
+
+#(ONLY_STOP)	shofixti-015.ogg
+Lopetan vasta kun olet kuollut.
+Kyaiee!
+
+#(look_you_are)
+Kuule, alat TODELLA ottaan minua päähän! Lopeta hyökkääminen ja puhu!
+
+#(TOO_BAD)	shofixti-016.ogg
+Ikävämpi juttu.
+Kyaiee!
+
+#(dont_know)
+Etkö tiedä, että sota on ohi?
+
+#(NEVER)	shofixti-017.ogg
+Minulle se ei koskaan tule olemaan loppu.
+Kyaiee!
+
+#(look0)
+Kuule 
+#(look1)
+, sota on loppu -- oikeasti!
+
+#(FOR_YOU)	shofixti-018.ogg
+Ehkä sinulle, läskille, pelkurimaiselle laardipötkölle.
+Kyaiee!
+
+#(no_bloodshed)
+Ei ole tarvetta enempään verenvuodatukseen.
+
+#(YES_BLOODSHED)	shofixti-019.ogg
+Oi, kyllä vain on!
+Kun olet vuodattanut tarpeeksi verta, Sinä Kuolet!
+Kyaiee!
+
+#(dont_want_to_fight)
+Huh, jos jos kerran suhtautumisesi on tämä, lähden matkoihini.
+
+#(MUST_FIGHT_YOU_URQUAN_1)	shofixti-020.ogg
+Oi ei, etkä lähde
+Kyaiee!
+
+#(MUST_FIGHT_YOU_URQUAN_2)	shofixti-021.ogg
+Oi ei, etkä lähde
+Kyaiee!
+
+#(MUST_FIGHT_YOU_URQUAN_3)	shofixti-022.ogg
+Oi ei, etkä lähde
+Kyaiee!
+
+#(MUST_FIGHT_YOU_URQUAN_4)	shofixti-023.ogg
+Oi ei, etkä lähde
+Kyaiee!
+
+#(no_one_insults)
+Kukaan ei loukkaa meitä tuolla tavalla, senkin hampaaton, puolikalju, impotentti räyhäjänis!
+
+#(YOU_LIMP)	shofixti-024.ogg
+Senkin veltto, veretön pussi mätänevää lihaa, Ur-Quan! Sinä kuolet!
+Kyaiee!
+
+#(mighty_words)
+Nuo ovat mahtavia sanoja tihkuvalta, kuonomätäiseltä pikku karvapallolta!
+
+#(HANG_YOUR)	shofixti-025.ogg
+Ripustan kuihtuneet lisääntymiselimesi roikkumaan takamonitoristani!
+Kyaiee!
+
+#(donkey_breath)
+Kuules, muulinhönkä - yksikin loukkaus vielä ja saat höyrystämishoitoa!
+
+#(DGRUNTI)	shofixti-026.ogg
+Sinä senkin rypevä, limantäytteinen Dgruntin mahan nuolijä, senkin
+hei
+Ur-Quanit eivät ole ikinä ennen solvanneet minua!
+Kuka sanoitkaan olevasi?
+
+#(i_am_captain0)
+Olen kapteeni 
+#(i_am_captain1)
+Edustan 
+#(i_am_captain2)
+ lippulaivalla 
+#(i_am_captain3)
+. Lopeta aggressiot välittömästi!
+
+#(i_am_nice)
+Olen se mukava, ystävällinen liittolainen, JOTA OLET YRITTÄNYT TAPPAA -- SENKIN IDIOOTTI, ÄÄLIÖ ROTANPÄÄ!
+
+#(i_am_guy)
+Olen se heppu, joka kutsui sinua muulinhöngäksi, senkin väkivaltainen pikku syöpäläinen.
+
+#(SO_SORRY)	shofixti-027.ogg
+Oho. Olen syvästi pahoillani.
+Minua pitää ojentaa.
+Kun raportoimme Star Controlille...
+
+#(MUST_UNDERSTAND)	shofixti-028.ogg
+Hyai! Mikä typerys olenkaan!
+Minun olisi pitänyt arvata, kun et lähettänytkään hävittäjiä.
+Juuri niitä virheitä joita tulee tehtyä sodassa...
+
+#(NICE_BUT_WHAT_IS_DONKEY)	shofixti-029.ogg
+Ah, Maan huumoria! Hyvin hauskaa. Ha-ha-ha!
+Mutta mikä on muu...
+
+#(IS_DEFEAT_TRUE)	shofixti-030.ogg
+Äkkiä sanasi soivat korvissani...`sota on ohi.'
+Kapteeni, onko se totta? Onko Ur-Quanit tuhottu?
+Onko kansani lopullinen uhraus johtanut Allianssin vapauteen?
+
+#(yes_and_no)
+No, kyllä JA ei... enimmäkseen ei.
+
+#(butt_blasted)
+Olen pahoillani että joudun kertomaan sinulle, mutta Allianssia ammuttiin persuuksiin.
+
+#(clobbered)
+Öö... ehkä meidän pitäisi puhua tästä myöhemmin.
+
+#(VERY_SAD_KILL_SELF)	shofixti-031.ogg
+HYAIEEE!
+Olen voitettu soturi! Arvoton kuori!
+Minun täytyy kuolla!!!!
+
+#(important_duty)
+Ei, odota, shofixti! Minulla on sinulle tärkeä velvollisuus suoritettavaksi.
+
+#(WHAT_DUTY)	shofixti-032.ogg
+Mikähän se olisi?
+
+#(need_you_for_duty)
+Shofixti, olen nyt uusi komentajasi. Käsken sinua olemaan tappamatta itseäsi. Sinun tulee pysyä täällä ja vartioida aurinkokuntaasi.
+
+#(OK_WILL_BE_SENTRY)	shofixti-033.ogg
+Taistella jälleen? Ur-Quaneja vastaan?
+Kyllä. Mutta ei
+En saata jättää kotimaailmaani vartiotta. Jään tänne ja pidän yksinäistä yövalvontaa.
+Hyvästi.
+
+#(dont_do_it)
+Älä tee sitä, vanha Soturi! Sinulla on vielä paljon, minkä puolesta elää!
+
+#(YES_I_DO_IT)	shofixti-034.ogg
+Kuten mitä?!
+Rotuni on kuollut. Maailmani on ilmaton kivi. Ja olen nähnyt kaikki FunRomini ainakin sataan kertaan.
+Elämäni on lopussa.
+Olen jo valinnut asteroidin jota päin on hyvä murskautua
+joten, jos et pistä pahaksesi, minäpä menenkin tuhoamaan itseni.
+Ellet halua hävittää minua itse.
+
+#(go_ahead)
+Selvä. Anna mennä. Tapa itsesi, senkin väkivaltainen pikku lumikko.
+
+#(ON_SECOND_THOUGHT)	shofixti-035.ogg
+Odota! Oivalsin äkillisesti jotain!
+Jos olet täällä, noin hämmästyttävässä aluksessa
+se tarkoittaa, että on vielä toivoa niiden pahojen mätäkoira-Ur-Quanien voittamiseen!
+Äkillinen hilpeys kulkee läpi vanhan kehoni
+Olen muuttanut mieltäni, Kapteeni! En murskaakaan itseäni päin asteroidia
+sen sijaan odotan täällä, ja kun aika tulee, Kapteeni
+kun olet löytänyt velvollisuuden, jonka vain minä voin suorittaa
+Odotan sinua täällä... halukkaana auttamaan sinua.
+
+#(procreating_wildly)
+Mitä pitäisit villisti lisääntymisestä?
+
+#(replenishing_your_species)
+Voin antaa sinulle mahdollisuuden uusintaa lajisi.
+
+#(hope_you_have)
+Shofixti, minulla on jotain paljon parempaa kuin FunRomit. Oletko kiinnostunut?
+
+#(SOUNDS_GREAT_BUT_HOW)	shofixti-036.ogg
+Kuulostaa kiinnostavalta, Kapteeni, mutta mistä oikein puhut?
+
+#(females)
+Olemme saaneet haltuumme lajisi naaraita.
+
+#(nubiles)
+Meillä on tarjolla parvi hedelmällisiä, naimaikäisiä shofixteja.
+
+#(rat_babes)
+Mitäpä sanoisit yltäkylläisestä määrästä rottabeibejä?
+
+#(LEAPING_HAPPINESS)	shofixti-037.ogg
+Voi suuret loikkivat onnen kumpareet!
+Sinua tullaan kunnioittamaan iäti, Kapteeni, shofixtikunnan pelastajana!
+Minulle on myönnetty suurin mahdollinen palkinto, ööh... velvollisuus.
+Tämä nöyrä soturi ottaa hallussasi olevat shofixtineidot
+herättää heidät hellästi
+ja suorittaa sitten ruokottomia ylittämättömän hedelmällisyyden tekoja!
+Heidän suostumuksellaan, tietenkin.
+Kansamme tulee syntymään uudestaan!
+Nimesi tullaan tallentamaan kaikkein pyhimpiin kirjoituksimme!
+Kiitos, Kapteeni, ja näkemiin... Minulla on kiireisiä asioita toimitettavana.
+
+#(bye0)
+Näkemiin, 
+#(bye1)
+.
+
+#(GOODBYE0)
+Näkemiin, Kapteeni 
+#(GOODBYE1)
+.
+
+#(why_here0)
+Mitä siis olitkaan tekemässä täällä, 
+#(why_here1)
+?
+
+#(I_GUARD)	shofixti-038.ogg
+Vartioin kotimaailmaa. Haen kostoa sen tuhoajia, Ur-Quaneja ja heidän taisteluorjiaan
+vastaan. Odotan sankari Daikonin paluuta ja lajini uudelleensyntymistä.
+
+#(where_world)
+Missä on elämäntäyteinen kotimaailmasi, Kyabetsu?
+
+#(BLEW_IT_UP)	shofixti-039.ogg
+Kansani räjäytti auringon, heh, heh, heh!
+Tai ainakin he saivat sen leiskumaan kuin novan, tuhoten monta sataa
+Hierarkian alusta, jotka olivat tunkeutuneet järjestelmäämme orjuuttaakseen shofixtit.
+
+#(how_survive)
+Jos aurinkonne meni novaksi, kuinka sinä selvisit?
+
+#(NOT_HERE)	shofixti-040.ogg
+En ollut täällä, kun aurinko saatettiin purkautumaan.
+Minut oli siirretty Yehat-lentueeseen toimimaan etutunnustelijana suorittamaan syvätiedustelua myconien avaruudessa.
+Meidät lähetettiin tutkimaan raportteja epätavallisesta myconien toiminnasta Beta Brahen luona.
+Minun alukseni oli ensimmäinen, joka saapui järjestelmään.
+Skannerini näyttivät pienen laivaston mycon-aluksia, jotka olivat hajaantuneet planeetan ympärille ja testasivat jotain laitetta.
+Laite oli pieni, ei edes puolta aluksen koosta.
+Kun myconit aktivoivat sen, hehku alkoi säteillä ulospäin.
+Hivuttauduin lähemmäs, saadakseni paremman näkymän.
+Yhtäkkiä oli leimahdus, kuin vastasyntynyt aurinko, joka sokeutti minut ja ylikuormitti sensorini.
+Kun näköni palasi, tunteja myöhemmin, myconit olivat menneet laitteineen.
+Pystyin tekemään korjauksia alukselleni ja lähtemään järjestelmistä, mutta olin
+joutunut erilleen lentueestani, ja jouduin matkaamaan kotiin yksin.
+
+#(what_happened)
+Mitä siis tapahtui aluksellesi?
+
+#(MET_VUX)	shofixti-041.ogg
+Matkallani kotiin kohtasin VUXien Tunkeilijan.
+Ennen kuin tuhosin sen, VUX pystyi kiinnittämään muutamia niistä inhottavista takiaisista alukseeni
+ja minun piti palata kotiin huomattavasti vähentyneellä nopeudella.
+Huomasin kuitenkin yhden kiinnostavan asian, kun pyyhkäisin läpi Yehatien avaruuden reunan.
+Poikkesin Zeta Sextantikseen ladatakseni tyhjentyneitä energia-akkuni uudestaan
+joten siirryin syvälle sisempään järjestelmään. Sieltä, aivan auringosta seuraavana
+löysin hyvin oudon planeetan... se sotki sensorini jotenkin
+sen takia en pystynyt heti tunnistamaan alustasi.
+En ollut ikinä ennen nähnyt sellaista planeettaa, joten ehkä sinun pitäisi tutkia asiaa?
+
+#(glory_device)
+Kun taistelimme, mikset käyttänyt Kunnialaitettasi?
+
+#(SWITCH_BROKE)	shofixti-042.ogg
+Taistelussani VUXien kassa päätin käyttää sitä asetta.
+Luulen, että innostuin vähän liikaa
+ja kytkin meni rikki.
+
+#(bye)
+Näkemiin, Tanaka.
+
+#(GOODBYE)	shofixti-043.ogg
+Hyvää metsästystä.
+
+#(FRIENDLY_HELLO)	shofixti-044.ogg
+Tervehdys, Kapteeni. On hyvä nähdä sinut jälleen.
+
+#(report0)
+Mikä on raporttisi, 
+#(report1)
+?
+
+#(NOTHING_NEW)	shofixti-045.ogg
+Ei mitään uutta raportoitavaa, sir.
+
+#(OUT_TAKES)	shofixti-046.ogg
+Ah, näen jonkun lähestyvän, mutta kuka se on?
+Ho, ho! Sehän on se olento, jota perusteettomasti kutsuin inhottavaksi Ur-Quanin limaläjäksi..
+...ja pelkurimaiseksi etanansikiöksi...
+...ja pussittomaksi laardipötkyläfriikiksi...
+...ja spitaaliseksi toimimattomaksi sukupuolielimeksi...
+...ja rypeväksi, limantäytteiseksi Ogruntin mahan nuolijaksi.
+HA! Ihmisystäväni on palannut!
+Niin mitäkö teen täällä, kysyt?
+YRITÄN SAADA VÄHÄN LEPOA, SITÄ JUURI!!!
+Minulla on onnea, jos en kohta saa sydänkohtausta.
+Sinulla ei ole mitään käsitystä siitä, kuinka kovaa on uudistaa kokonainen laji henkilökohtaisesti!
+

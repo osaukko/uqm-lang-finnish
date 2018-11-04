@@ -1,0 +1,394 @@
+#(HELLO_SAMATRA)	urquan-000.ogg
+Et voi lähestyä muinaista Sa-Matraa, Ur-Quanien dominoinnin symbolia!
+Läsnäolosi täällä on jatkettua orjalakien loukkaamista
+joita lajisi on jo loukannut niin häpeämättömästi.
+Emme saata sietää moista tottelemattomuutta!
+Lajisi rangaistus tulee olemaan tuhoutuminen!
+
+#(SENSE_EVIL)	urquan-001.ogg
+Täällä on jotain väärää... jotain, joka saa tuppeni vetäytymään ja kynteni vuotamaan.
+Tunnen tuhannen pahan ajatuksen rumuuden
+ja olen paikallistanut näiden iljettävien päästöjen lähteen.
+Ne tulevat aluksesi kannelta!
+Typerä luopioihminen, miksi olet tullut tänne? Kaikki minkä olet löytänyt
+on väistämätön rangaistuksesi.
+
+#(INIT_URQUAN_WAKE_UP)	urquan-002.ogg
+...lisäksi kieltäytymisesi lähetyksiimme vastaamiseen otetaan loukkauksena
+josta palkitaan Kuolemalla, ellet vastaa välittömästi!
+
+#(where_am_i)
+Hei? Missä minä olen?
+
+#(YOU_ARE_HERE)	urquan-003.ogg
+Tottelemattomuutesi on sietämätöntä!
+Sinun TÄYTYY totella orjalakeja tai kohdata hirvittävä rangaistuksemme!
+
+#(why_does_my_head_hurt)
+Miksi päätäni särkee?
+
+#(HURTS_BECAUSE)	urquan-004.ogg
+Unohdat, että huonon käytöksesi seuraamukset
+tulevat aiheuttamaan suurta kärsimystä koko kansallesi.
+
+#(what_about_2_weeks)
+Vau!? Minne kaksi viimeistä viikkoa menivät?
+
+#(ABOUT_2_WEEKS)	urquan-005.ogg
+Olemme olleet lempeitä lajisi kanssa, sillä olette niin epäkypsiä.
+Nyt tämä asenne on muuttunut.
+Sinua TULLAAN pitämään syyllisenä väärinkäytöksistäsi!
+
+#(compulsion)
+Huh! Minun on täytynyt olla jonkinlaisen oudon henkisen pakotuksen alaisena.
+
+#(WHAT_COMPULSION)	urquan-006.ogg
+MITÄ SANOIT?!
+PAKOTUKSEN!?
+MITÄ TAPAHTUI?! SELITÄ!
+
+#(wascally_little_guy)
+Se oli se roistomainen pikku heppu umgahien avaruudessa. Hän teki sen!
+
+#(WHAT_IT_LOOK_LIKE)	urquan-007.ogg
+MILTÄ SE OLENTO NÄYTTI?!
+
+#(terran_amphibian)
+Se muistutti suurta Maan sammakkoeläintä.
+
+#(talking_pet_on_steroids)
+Se näytti yhdeltä Puhuvista Lemmikeistänne, joka on saanut aivosteroideja.
+
+#(BAD_NEWS)	urquan-008.ogg
+Puhuva Lemmikki, jolla on pakotusvoimia!
+Tämä on todellakin vakava uutinen, pahin vuosituhansiin!
+Vauhditamme sotaamme serkkujamme, Kohr-Aheja vastaan
+ja sitten huolehdimme tästä neo-Dnyarrista, tästä Puhuvasta Lemmikistä.
+Muukalaiskapteeni! Olet tehnyt meille suuremman palveluksen kuin pystyt kuvittelemaankaan.
+Palkintosi on eloonjääminen, ja jos palaat Maahan ja tuhoat aluksesi VÄLITTÖMÄSTI
+kumoamme kaikki rangaistukset sinua ja lajiasi vastaan.
+Nyt lähde!... äläkä palaa ikinä.
+
+#(turd_and_toad)
+Se oli ulosteen ja konnan välimuoto.
+
+#(WHAT_IS_TURD_AND_TOAD)	urquan-009.ogg
+Nämä viittaukset ovat epäselviä. Kuvaile uudestaan.
+
+#(alien_mind_control)
+Luulen että minua vastaan hyökättiin jonkinlaisella avaruusolentojen mielenhallinnalla!
+
+#(WHAT_FELT_LIKE)	urquan-010.ogg
+MITÄ?!! OI EI!!!
+EI VOI OLLA!
+NOPEASTI, IHMINEN! KERRO MINULLE: MILTÄ SE TUNTUI, TÄMÄ PAKOTUS?
+
+#(possessed_by_devil)
+Olen aika varma että minuun meni piru.
+
+#(STUPID_DEVIL)	urquan-011.ogg
+Piru? Ainoita todellisia piruja ovat ne, jotka lentävät mustilla aluksilla, ihminen
+murhanhimoiset Kohr-Ahit.
+NYT ANNA VAATIMANI TIETO!
+
+#(falling_asleep)
+Se oli kuin olisin vajonnut uneen tai ollut tajuton.
+
+#(someone_else_controlled)
+Minusta tuntui, että joku hallitsi mieltäni ja ruumistani.
+
+#(SOUNDS_FAMILIAR)	urquan-012.ogg
+Tämä kuulostaa aivan liian tutulta... kyllä, painajainen alkaa uudestaan.
+Ehkä meidän pitäisi ottaa yhteyttä Kohr-Ahien Priimakseen, selittää hänelle.
+Ei, he eivät usko. He ovat liian itsepäisiä ja yksinkertaisia.
+He eivät näe vaaraa ennen kuin on liian myöhäistä!
+Ihminen, lähde pois! Häivy silmistäni! Meidän täytyy voittaa Kohr-Ahit pikaisesti
+niin että voimme kiinnittää huomiomme tähän uuteen Dnyarri-uhkaan.
+
+#(before_coffee)
+Vähän kuin ruutu olisi mennyt mustaksi, ja sitten PAM! olittekin jo täällä.
+
+#(EXPLAIN)	urquan-013.ogg
+MITÄ TARKOITAT?! SELVENNÄ!
+
+#(why_explain)
+Miksi minun pitäisi selittää tämä sinulle? Sinähän aiot vain tappaa minut!
+
+#(MUST_EXPLAIN)	urquan-014.ogg
+Ihminen. Me Ur-Quanit emme ikinä valehtele, EMME IKINÄ!
+Valehteleminen on heikkoutta, ja jollet ole huomannut, Ur-Quanit eivät ole heikkoja!
+Kuuntele siis, ja usko näitä sanoja
+jos se mitä sanot on totta, että olit yhteydessä niin kauhistuttavaan, niin pahaan olentoon
+se tekee KAIKEN muun mitä olet ikinä tiennyt VÄHÄPÄTÖISEKSI verrattaessa.
+Dnyarrin julmuudelle, sen rakkaudelle kidutusta kohtaan ei ole vastinetta.
+Kuoleminen TUHAT KERTAA olisi miellyttävämpää kuin se mitä sinulle tapahtuu
+jos emme pysäytä sitä olentoa.
+Kerro siis minulle mitä haluan tietää, ihminen. NYT!
+
+#(bye_init_hypno)
+Kuules, ääh... tämä oli pelkkä virhe. Outo virhe. Heippa!
+
+#(GOODBYE_AND_DIE_INIT_HYPNO)	urquan-015.ogg
+Röyhkeydelläsi ei ole rajoja!
+Sinua tullaan rankaisemaan.
+
+#(SUBSEQUENT_URQUAN_WAKE_UP)	urquan-016.ogg
+...ja olet jälleen loukannut suurta taistelukenttäämme
+sekaantunut Oppisotaamme!
+Viime kerralla olimme pitkämielisiä ja sallimme sinun paeta.
+Tällä kertaa et tule olemaan yhtä onnekas.
+
+#(uh_oh)
+Uh huh.
+
+#(NO_UH_OH)	urquan-017.ogg
+On aivan kuin lajinne aivot olisivat liian pieniä sellaiselle yksinkertaiselle ajatukselle
+kuin että ME TAPAMME SINUT JOS ET TOTTELE!
+Tämä ei ole monimutkainen ajatus.
+
+#(stop_meeting)
+Meidän TÄYTYY lopettaa tapailu tällä tavalla!
+
+#(NO_STOP_MEETING)	urquan-018.ogg
+Tulet urheasti meidän avaruuteemme! Lähestyt tätä Taistelulaivaa aivan kuin se olisi virkistysasema
+ja sitten leikit typerää hominidia?
+Miksi sinä oikein meitä luulet, Kapteeni... spatheiksi!?
+
+#(bye_sub_hypno)
+Kuulkaas, ööh... iso moka! Meillä on kiire! Hyvästi.
+
+#(GOODBYE_AND_DIE_SUB_HYPNO)	urquan-019.ogg
+Emme saata sallia tällaista tottelemattomuutta orjiltamme.
+Sinusta tehdään esimerkki muille alaisillemme.
+
+#(CAUGHT_YA)	urquan-020.ogg
+JAAHA! JÄLKIKASVU ON PALANNUT PESÄÄNSÄ!
+Kun jätit tämän järjestelmän, aluksemme oli tarpeeksi lähellä havaitakseen siirtymisesi hyperavaruuteen.
+Vaikka kadotimmekin hyperavaruusjälkesi, pystyimme laskemaan että lähtöpaikkasi oli tässä tähtikunnassa.
+Ja mitä me LÖYSIMME? Lainsuojattomien kulttuurin! Ihmisiä orjakilven ulkopuolella!
+Huomaat, että tämä huolimattomuus on korjattu.
+Nyt me suoritamme työmme loppuun.
+
+#(INIT_FLEE_HUMAN)	urquan-021.ogg
+Siis... sehän on se ihmisorja.
+Kuinka outoa. Olin luullut, että lajisi olisi jo kuollut sukupuuttoon.
+Meillä on ehdotus sinulle.
+PAKENE! Kiidä niin nopeasti ja kauas kuin aluksesi vie sinut.
+
+#(SUBSEQUENT_FLEE_HUMAN)	urquan-022.ogg
+Ihminen? Olet typerys! Miksi olet yhä täällä?
+Pakene!... Ennen kuin Kohr-Ahit löytävät sinut!
+
+#(why_flee)
+Miksi meidän pitäisi paeta?
+
+#(FLEE_BECAUSE)	urquan-023.ogg
+Koska olet tuhoontuomittu jos jäät tänne!
+Oppisotamme on loppu. Me, Kzer-Zat, olemme hävinneet.
+PAKENE, IHMINEN!
+Koska jos et pakene -- jos et löydä jotain paikkaa mihin piilottaa ja säilyttää lajisi
+kuolette sukupuuttoon, ja me, jotka olemme yrittäneet suojella sinua
+olemme nyt voimattomia pysäyttämään Kohr-Ahien tappovimmaa.
+
+#(what_happens_now)
+Mitä nyt siis tapahtuu?
+
+#(HAPPENS_NOW)	urquan-024.ogg
+Nyt Kohr-Ahit ja heidän Iankaikkinen Oppinsa voivat hallita näitä tähtiä vapaasti.
+Kohr-Ahit käyvät jokaisen orjalajin luona ja viipyvät vain sen verran
+ettei lajeista jää kukaan varmasti henkiin.
+
+#(what_about_you)
+Mitä teille sitten tapahtuu?
+
+#(ABOUT_US)	urquan-025.ogg
+Ihminen, päiviä sitten olisin tappanut sinut hävyttömyydestäsi
+mutta nyt... mitä hyötyä? Sinä ja kaltaisesi saatte aivan kohta suurimman mahdollisen rangaistuksen.
+Kerron sinulle mitä haluat tietää.
+Kun Kohr-Ahit liikkuvat avaruuden halki tappaen lähistön lajit
+jäämme tänne ja vartioimme voitonmerkkiä... Sa-Matraa.
+Kun Kohr-Ahit ovat lopettaneet synkät toimensa
+he ottavat Sa-Matran haltuunsa ja me sitten lähdemme
+kyntäen galaksia vastakkaisiin suuntiiin ja täyttäen oppejamme
+ja valmistuen seuraavaan Oppisotaan.
+
+#(bye_wars_over)
+No, tämä on ollut vähemmän kuin mieltä ylentävää. Hei.
+
+#(GOODBYE_WARS_OVER)	urquan-026.ogg
+Hyvästi, ihminen. Toivon että lajinne selviytyy.
+
+#(SEND_MESSAGE)	urquan-027.ogg
+Huomio, tunkeilija - kuule tämä tallennettu viesti!
+Tämä luotainalus puhuu Ur-Quanien äänellä ja auktoriteetilla.
+Olet tunkeutunut Ur-Quanien avaruuteen.
+Tätä maailmaa, Maata, ei saa lähestyä mistään syystä.
+Myöskään vihamielisyyksiä kiertoradalla olevaa asemaamme kohtaan ei tulla suvaitsemaan.
+Tämän lisäksi aluksenne ei vastaa standardeihin Hierarkian tunnistuslähetyksiin
+ja on täten todettu... itsenäiseksi.
+Se ei ole hyväksyttävää -- Ainoastaan alistumista siedetään.
+Tämä luotain lähtee nyt tiedottamaan Ur-Quaneja loukkauksistanne.
+Teitä käsketään pysymään täällä ja odottamaan Ur-Quanien saapumista.
+Tottelemattomuudesta tullaan rankaisemaan.
+
+#(INIT_HELLO)	urquan-028.ogg
+MITÄ! Ihminen Edelläkävijöiden huoltoaluksessa?!
+Kuinka pakenit orjakilven alta, ihminen?
+Vai oletko vaeltava rosvo?
+
+#(SUBSEQUENT_HELLO_1)	urquan-029.ogg
+Ihminen, et ole välittänyt käskyistämme ja nyt sinua rangaistaan.
+
+#(SUBSEQUENT_HELLO_2)	urquan-030.ogg
+Tottelemattomuutesi on sietämätöntä!
+Sinun TÄYTYY totella orjalakejamme!
+Tottelemattomuuden jatkuminen tulee aiheuttamaan rangaistustoimenpiteitä kotimaailmaasi kohtaan.
+
+#(SUBSEQUENT_HELLO_3)	urquan-031.ogg
+Emme anna sinulle enää varoituksia, luopioihminen.
+
+#(SUBSEQUENT_HELLO_4)	urquan-032.ogg
+Emme anna sinulle enää varoituksia, luopioihminen.
+
+#(you_must_surrender)
+Ööh... antaudu, iljettävä olento!
+
+#(NOPE)	urquan-033.ogg
+Alistu tai kuole, typerä ihminen!
+
+#(i_surrender)
+Okei. Taidanpa antautua.
+
+#(DISOBEDIENCE_PUNISHED)	urquan-034.ogg
+Emme tapa koko miehistöäsi
+ainoastaan ne, jotka ovat vastuussa päätösten tekemisestä
+etenkin SINUT, Kapteeni, ja sinun upseerisi.
+
+#(i_wont_surrender)
+Eipäs! En antaudu!
+
+#(BAD_CHOICE)	urquan-035.ogg
+Olet tehnyt väärän valinnan
+ja sinun pitää nyt kärsiä virheesi seuraamukset.
+
+#(i_will_surrender)
+Minä todella, todella, ihan oikeasti antaudun. Tarkoitan sitä. En pilaile.
+
+#(GOOD_CHOICE)	urquan-036.ogg
+Viisas ratkaisusi on säästänyt monet miehistöstäsi kuoleman tuskalta.
+Luopioaluksesi komentajaupseerina sinä kuitenkin
+joudut kärsimään säädetyn rangaistuksen kaikessa ankaruudessaan
+ja se on kuolema...
+
+#(key_phrase)
+Pysähtykää! Se mitä teette meille on väärin! Miksi teette näin?
+
+#(URQUAN_STORY)	urquan-037.ogg
+Muukalainen, olet lausunut Sanat, ja olet lausunut ne oikein.
+Kerromme sinulle syymme siihen miksi orjuutamme kaiken muun tietoisen elämän.
+Me kehityimme vihamielisellä maailmalla, erakkomaisten metsästäjien jälkeläisinä.
+Noina muinaisina päivinä ei ollut Kohr-Aheja tai Kzer-Zoja, ainoastaan Ur-Quaneja.
+Tutkimme omaa maailmaamme ja sitten avaruutta sen ulkopuolella.
+Sillä tapasimme Tietoisen Yhteisön kuusi lajia, johon liityimme kumppaneina.
+Eräällä rutiinimaisella planeetalle laskeutumisella yksi meidän Yhteisö-tiedustelijoistamme tapasi dnyarrit ensi kerran.
+Ne olivat pahoja, älykkäitä olentoja jotka pystyivät hallitsemaan toisten mieltä.
+Ne tahtoivat hallita maailmankaikkeutta. Meillä ei ollut muuta mahdollisuutta kuin antaa se heille.
+Tuhansien vuosien ajan me Dnyarrien ajatuksettomia orjia.
+Dnyarrit pitivät erityisesti meistä Ur-Quaneista
+joten he alkoivat peukaloida geenejämme. He loivat kaksi Ur-Quanien alalajia
+toinen Vihreä, ajattelijat ja suunnittelijat
+toinen Musta, soturit ja työntekijät.
+Kun marttyyrinero Kzer-Za antoi meille dnyarrien voittamisen salaisuuden, me tuhosimme heidät.
+Silloin päätimme ettemme enää ikinä olisi orjia.
+Seuraisimme Nykyisyyden ja Iäisyyden Tietä.
+Päätimme orjuuttaa tai vangita kaiken muun älyllisen elämän galaksissa.
+Olimme laittaneet orjakilven yhden maailman ympärille kun saimme tietää että mustat Ur-Quanit
+uuden johtajansa, Kohr-Ahin, johdolla olivat kehittäneet Iankaikkisen Opin
+joka vaati `puhdistamista', kaiken älyllisen elämän, joka ei ole Ur-Quaneja, tuhoamista.
+Ennen kuin saatoimme pysäyttää heidät, he korvensivat yuptarien lajin kotimaailman
+ja olivat matkalla viimeisen jäljelle jääneen vapaan lajin kotiplaneetalle.
+Tapasimme Kohr-Ahit sen planeetan kiertoradalla. Asetuimme heitä vastaan. He eivät suostuneet alistumaan. Me taistelimme.
+Kun taistelu oli ohi, Kohr-Ahit oli lyöty.
+Karkotimme heidät, lähetimme Kohr-Ahien laivaston rippeet kohti galaksin tuntemattomia kolkkia.
+Sitten aloitimme vaelluksemme, liikkuen pitkin galaksia toiseen suuntaan kuin Kohr-Ahit.
+Kapteeni. Olet kuullut sanamme. Nyt sinulla on päätös tehtävänä.
+Alistu meidän, Ur-Quan Kzer-Zojen, valtaan, tai kohtaa vihamme.
+
+#(like_to_leave)
+Lähden nyt.
+
+#(INDEPENDENCE_IS_BAD)	urquan-038.ogg
+Itsenäisyytesi on liian vaarallista meille, jotta voisimme suvaita sitä.
+Sinua tullaan rankaisemaan.
+
+#(whats_up_1)
+Miksi tahdotte orjuuttaa meidät?
+
+#(GENERAL_INFO_1)	urquan-039.ogg
+Vaikka pidättekin meitä vihollisina, nämä johtopäätökset ovat virheellisiä. Me olemme pelastuksenne.
+Tuomme teille rauhan
+rauhan joka on rakennettu MEIDÄN sosiaaliselle rakenteellemme istutettuna planeetallenne
+uuden maailmanjärjestyksen jossa Ur-Quanit takaavat teidän hyvinvointinne ja turvallisuutenne.
+Suojelemme teitä tämän vihamielisen kaikkeuden vaaroilta, vaaroilta jotka ovat niin kauhistuttavia
+että yksinkertaiset mielenne eivät saata käsittää niiden synkkiä voimia.
+Tänään me olemme vihollisia. Ajan myötä tämä tulee muuttumaan.
+Pian tulette ymmärtämään orjuuden, johon teidät pakotamme, siunauksen
+ja sitten kunnioitatte ja jopa rakastatte meitä tämän lahjan ansiosta.
+
+#(whats_up_2)
+Ette vastanneet kysymykseeni. Mikä teidän ongelmanne on?
+
+#(GENERAL_INFO_2)	urquan-040.ogg
+Olet tunkeutunut Kohr-Ahien kanssa käymämme Oppisodan taistelukentälle.
+Tämä ei ole suvaittavaa.
+Meidän täytyy säilyttää keskittymisemme tähän sotaan. Meidän täytyy voittaa.
+Jos häviämme, seuraamukset sinulle ja kaikelle muulle älylliselle elämälle tässä osassa galaksia
+olisivat hyvin vakavat.
+Koska olet kieltäytynyt lähtemästä vapaaehtoisesti
+näyttää siltä, että meidän pitää eliminoida sinut itse.
+
+#(whats_up_3)
+Haloo? Ur-Quan? Kiinnitätkö minuun lainkaan huomiota?
+
+#(GENERAL_INFO_3)	urquan-041.ogg
+Niinä kahtenakymmenenä tuhantena vuotena jotka olemme kulkeneet pitkin Nykyisyyden ja Iäisyyden Tietä
+olemme valloittaneet tuhansia lajeja, kyllä
+mutta olemme pelastaneet satoja sukupuutolta.
+Kuvittelette tuntemattomien valloittajien uhan tai aurinkotuulen kuljettaman muukalaisruton.
+Olemme nähneet niitä. Mutta ette tunnusta omaa pahinta vihollistanne, itseänne.
+Olemme löytäneet luvuttomia kuolleita maailmoja, atomitulen tai ekologisen luhistumisen runtelemia planeettoja.
+Niitä planeettoja eivät olleet ulkopuoliset voimat tehneet elottomiksi.
+Ne kantavat surullisen testamentin hillitsemättömälle vaistolle ja tunteille
+tai pelkälle tietämättömyydelle.
+Me estämme sellaiset virheet.
+
+#(whats_up_4)
+Te ette pahemmin kuuntele, vai?
+
+#(GENERAL_INFO_4)	urquan-042.ogg
+Viimeinen käsky, ihminen, mutta se on enemmänkin anomus.
+Tottelemattomuutesi on taannut kuolemasi, se on ainoa mahdollisuus
+mutta lajisi ei ole vielä ylittänyt sitä tottelemattomuuden rajalinjaa
+joka vaatisi meitä tuhoamaan Maan.
+Olet selviytynyt taistelusta kanssamme ennen. Saatat selvitä seuraavasta taistelusta.
+Jos näin tapahtuu, lähde! Palaa kotiisi. Odota siellä saapumistamme.
+Jos häiritset meitä täällä, saatamme hävitä Oppisotamme Kohr-Aheille.
+Jos meidät lyödään, sinutkin lyödään.
+Kohr-Ahit pääsevät valloilleen. He aloittavat lajimurha-orgiat ja puhdistavat kaiken tunnetun älyn.
+He murtavat orjakilven Maan ympärillä ja muuttavat sinisen maailmasi pinnan tuhkaksi.
+
+#(OUT_TAKES) urquan-043.ogg
+Pöh, pöh, pöh!
+Maijal' oli karitsa!
+Haluaisin pitää sylissä pörröisiä pikkueläimiä ja halia niitä.
+Varmaankin ihmettelet miksi Ur-Quan sanoo noin typeriä juttuja.
+No, hän ei sanokaan niitä. Minä sanon... aivan oikein -- MINÄ...
+...se pikku heppu täällä nurkassa.
+Koska olen ollut jumissa täällä koko tämän pelin ajan...
+...kääntäen `Alistu tai Kuole!' noin sadalle eri kielelle...
+...ajattelin vain, että käyttäisin tämän tilaisuuden ilmaistakseni OMIA tuntemuksiani.
+Haluatko tietää mitä ajattelen?
+Minusta tämä koko peli olisi ollut parempi...
+...jos se olisi tehty musikaaliksi!
+Tämä on minun mielipiteeni, mutta kuuntelivatko suunnittelijat minua? EIVÄT!
+

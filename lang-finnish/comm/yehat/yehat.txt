@@ -1,0 +1,363 @@
+#(HOMEWORLD_HELLO_1)	yehat-000.ogg
+On totisesti varmaa, että muukalaistunkeilijaa on nyt varoitettu
+lähestymästä Caer Zeep-Reepiä. Kuningattaren Korkeaa Ortta
+jottei sitä ammuta vailla enempiä varoituksia!
+
+#(HOMEWORLD_HELLO_2)	yehat-001.ogg
+On järkyttävä asia nähdä ihmisluopion palaavan!
+Se tiedetään, ettei tämä enteile hyvää hänen Majesteetillensa.
+
+#(whats_up_homeworld)
+Mitä on tapahtunut niinä kahtenakymmenenä vuotena sen jälkeen kun lajimme tapasivat viimeksi?
+
+#(GENERAL_INFO_HOMEWORLD_1)	yehat-002.ogg
+Mieleeni saapuu ihmettelevä ajatus, ihmisten avaruusaluksen Kapteeni.
+Etkö tiedä, että Kuningattaren ja imperiumimme asia
+on nyt liitossa mahtavien Ur-Quanien kohtalon kanssa?...
+...ja että läsnäolosi täällä aiheuttaa vain oman elämäsi lopun?
+Eikö sinulla ole järkeä, ihminen, tietää näin yksinkertainen asia?
+
+#(GENERAL_INFO_HOMEWORLD_2)	yehat-003.ogg
+Kysyt järjettömän lapsen sanoin, ihminen!
+Täällä, Kuningattaren Korkean Orren Salissa
+et ole löytävä sympatiaa, jota niin turhaan haet.
+Täällä ei muita ole kuin yehatien Klaanien aatelisia ja taistelumestareita.
+Totisesti emme tule heittämään kukkien terälehtiä kapinalliselle tiellesi.
+
+#(i_demand_you_ally_homeworld0)
+Minä, 
+
+#(i_demand_you_ally_homeworld1)
+, 
+
+#(i_demand_you_ally_homeworld2)
+ edustaja, komennossani 
+
+#(i_demand_you_ally_homeworld3)
+ vaadin teitä pitäytymään velvollisuuksissanne ihmislajin liittolaisina!
+
+#(ENEMY_MUST_DIE)	yehat-004.ogg
+Oletko SEKAPÄINEN, ihminen!? Etkö ole kuullut sanojamme?
+Sinä ja kaltaisesi ovat orjia, aivan kuin mekin
+mutta teidät ihmiset on suljettu orjien kilven sisään!
+Tämän yhden kilven ulkopuolelta löytyminen on taatusti oma turmanne!
+Teille EI ole sallittu asia matkustaa halki avaruuden
+ja nyt meidän tulee mukautua Kuningattaren Ur-Quaneille vannomaan valaan.
+Meidän täytyy ryhtyä teidän surmaamisenne työhön!
+
+#(at_least_help_us_homeworld)
+Teidän täytyy auttaa meitä. Olette varmasti velkaa vähintäänkin tämän!
+
+#(NO_HELP_ENEMY)	yehat-005.ogg
+Tämä on uskomatonta, toden totta!
+Puhut sanoilla, jotka pöyhistävät sulkamme ja saavat veremme kiehumaan!
+Me, Kuningattarelle uskolliset, olkoon hänen Nokkansa siunattu, emme auta kaltaisiasi
+tai ketään petturillisistä Yehat-äpäristä, joita olet ehkä löytänyt klaanien riveistä!
+
+#(give_info)
+Kai nyt joidenkin tiedonhitusten jakaminen meille kävisi, eikö kävisikin?
+
+#(NO_INFO_FOR_ENEMY)	yehat-006.ogg
+Kuningattaremme on puhunut käskynsä meille, ja me tottelemme hänen sanojaan!
+Ei avunantoa, ei minkäänlaista, anneta sinulle, ihminen
+joten älä tee oletuksia että erotat väärän asian oikeasta!
+Oletko viisaampi kuin Kuningatar, sitäkö sinä sanot, ihminen?
+Emme anna sinulle edes LIHANHITUSTA!... puhumattakaan salaisuuksistamme.
+
+#(what_about_pkunk_royalist)
+Olemme kohdanneet lajinne verson, pkunkit. Kertokaa meille heistä.
+
+#(PKUNK_ABSORBED_ROYALIST)	yehat-007.ogg
+Olemme sulauttaneet Pkunkit itseemme.
+Niitä ei enää ole. Näin pitäisikin olla.
+Asia on nyt ratkaistu, ihminen. Älä enää tuo sitä esiin...
+
+#(HATE_PKUNK_ROYALIST)	yehat-008.ogg
+Ne pelkurit elävät?!! HISS!! Tämä on uskomatonta!!
+On SURULLINEN, SURULLINEN päivä, että kuulen tämän sinulta, ihminen.
+P... pku... En saata edes sanoa niiden iljettävää nimeä!
+Pku... PKUN-KIT! ovat suurin häpeä minkä lajimme on ikinä kärsinyt!
+Älä kutsu näitä kurjia olentoja lajimme versoksi!
+Parempi olisi sinun kutsua niitä ROSKAKSI! tai JÄTÖKSIKSI!
+Tai paremminkin olla puhumatta niistä lainkaan!
+
+#(bye_homeworld)
+Olette aiheuttaneet meille pettymyksen. Odotimme teiltä enemmän. Hyvästi.
+
+#(GOODBYE_AND_DIE_HOMEWORLD)	yehat-009.ogg
+Ihminen, luulet siis että voit nyt hiipiä pois
+tehdäksesi kurjia petoksia ja tahrataksesi Kuningattaremme nimen. Eikö se olekin totta?
+Älä vaivaudu vastaamaan! Tiedämme totuuden.
+Emme anna sinun mennä!
+
+#(SPACE_HELLO_1)	yehat-010.ogg
+Mitä mahdankaan nähdä näköruudullani!?
+Se ei ole mitään muuta kuin vanhojen ystäviemme, ihmisten, litistynyt vanha naama!
+Mutta vanha liittolainen, etkö tiedä, että me yehatit olemme nyt liitossa Ur-Quanien kanssa?...
+ja läsnäolosi orjakilven ulkopuolella, ja aseistetussa avaruusaluksessa
+ovat selviä Uskollisuusvalanne rikkomuksia?!
+Mitä oikein teemme? Ei vain ole oikein tappaa sinua, ihminen
+mutta Klaanini uskollisena jäsenenä minun tulee totella Kuningattaremme toiveita!
+
+#(SPACE_HELLO_2)	yehat-011.ogg
+HUUU! Ihminen, mitä oikein teet täällä!? Oletko aivan tippunut orreltasi!?
+Tunnemme sympatiaa asiaasi kohtaan, se on totta
+mutta meidän täytyy totella Kuningattaremme käskyjä, vaikka olisimme miten eri mieltä niistä!
+
+#(SPACE_HELLO_3)	yehat-012.ogg
+Ihminen! Alan todellakin uskoa, että olet tärähtänyt!
+Uhmaat kohtaloa ja sympatiaamme liian kanssa, uskon ma.
+Tällä kertaa emme ehkä pysty olemaan niin paljon ystäviäsi kuin haluaisit.
+
+#(SPACE_HELLO_4)	yehat-013.ogg
+Ihminen! Ihminen. Koettelet sielujamme paluullasi!
+Mitä mahdat tällä kertaa haluta?
+
+#(whats_up_space_1)
+Meidän pitäisi olla liittolaisia... ystäviä! Selitä, miksei näin voi olla.
+
+#(GENERAL_INFO_SPACE_1)	yehat-014.ogg
+Sanasi liitävät tosiasioiden naaman edessä, ihminen.
+Me emme enää ole teidän liittolaisianne.
+Mutta toisin kuin kotimaailmamme aateliset, meitä, Tähtilaivojen Klaaneja
+on riistetty näiden tapahtumien kulussa.
+Kuningattaren päätös liittyä Hierarkiaan aiheuttaa meille tuskaa!
+
+#(whats_up_space_2)
+Kuinka Ur-Quanit voittivat teidät? Mitä tapahtui?
+
+#(GENERAL_INFO_SPACE_2)	yehat-015.ogg
+MEITÄ - EI - VOITETTU, IHMINEN!!!!
+Ei ikinä! Ikinä Veep-Neepien Kuningattarien kahdentuhannen vuoden aikana
+eivät yehatit ole ikinä, IKINÄ kärsineet tappiota!
+YKSIN tämä asia saa uskollisuutemme Kuningatarta kohtaan niin vahvaksi!
+Se on se murtumaton sidos, joka pitää Klaanit yhdessä!
+Kun Ur-Quanit saapuivat kotitähdellemme Gamma Serpentiksessä
+meillä oli tuhannen avaruusalusta puolustamassa kotiamme, BRAK!!
+Mutta sitten... Kuningattaremme... Hän... hän
+liittoutui Ur-Quanien kanssa
+ja taistelu on ohi ennen kuin se edes alkaa. ÄÄVK!
+
+#(whats_up_space_3)
+Entä legendaarinen kunnianne? Rohkeutenne? Mitä shofixtit ajattelisivat?!
+
+#(GENERAL_INFO_SPACE_3)	yehat-016.ogg
+(niisk!)... (uiii!) Olemme vajonneet niin alas. (niisk!)
+Emme ole samoja (uiii!) suuria petolintuja, jotka kansasi tunsi ja joihin se luotti.
+Me kaikki olemme pettäneet Klaanimme kunnian, (uiii!)... kuten Kuningattaremmekin
+pettää meitä kaikkia tehdessään yhteistyötä Ur-Quanien kanssa...
+Jos se uljas lapsilaji, (niisk-kulp!)... shofixtit olisivat täällä tänään
+häpeää!... Voi häpeää!... se olisi sietämätöntä!
+(uiii!)... äävk!
+
+#(whats_up_space_4)
+Ettekö te ole vain orjia Ur-Quaneille?
+
+#(GENERAL_INFO_SPACE_4)	yehat-017.ogg
+EI! ME EMME OLE ORJIA!! OLEMME!... Olemme!... olemme...
+Taisteluorjia.
+
+#(i_demand_you_ally_space0)
+Kunniasi kautta, yehat-kapteeni, minä, 
+
+#(i_demand_you_ally_space1)
+, joka olen aluksen 
+
+#(i_demand_you_ally_space2)
+ valtias, kutsun 
+
+#(i_demand_you_ally_space3)
+ nimessä Tähtilaivojen Klaaneja kunnioittamaan sanaansa ja taistelemaan puolellamme!
+
+#(WE_CANNOT_1)	yehat-018.ogg
+Niin paljon kuin sydämeni halajaakin avittaa sinua, uljas ihminen, en voi!
+Meidän jokaisen ylin vala on Kuningatarta kohtaan, joka
+on käskenyt meitä kohtelemaan sinua Kruunun vihollisena!
+
+#(obligation)
+Lajinne velvoitetta ei nyt vain voida unohtaa! Entä teidän kunnianne, ylpeytenne!?
+
+#(WE_CANNOT_2)	yehat-019.ogg
+Etkö näe, että tapat minut, ihminen?
+Sitä häpeää!... sen kauhistuttavaa häpeää!
+Se mitä sanot on totta, meidän PITÄISI olla saman siiven alla
+mutta, KIROTUT SILMÄSI!... Kuningattaremme on antanut Ur-Quaneille uskollisuutemme
+ja sille en mahda mitään nyt!
+
+#(at_least_help_us_space)
+Antakaa meille ainakin materiaaleja kamppailuamme varten!
+
+#(SORRY_CANNOT)	yehat-020.ogg
+ÄÄVK! Emme voi!
+Sen tekeminen olisi ylhäisen Kuningattaremme käskyjen suoraa loukkaamista!
+
+#(dishonor)
+Ajatelkaa nyt, yehatit. Tämän kaiken silkkaa kunniattomuutta.
+
+#(HERES_A_HINT)	yehat-021.ogg
+Emme saata antaa sinulle materiaalista apua, Kapteeni.
+Mutta ehkä voit hyötyä tästä tiedosta, Kapteeni.
+Kun, taistelimme Suurta Sotaa myconeja vastaan
+löysimme joukon outoja maailmoja, joiden kuoret näyttivät olevan murskaantumassa.
+Sula laava virtasi pitkin pintaa valtavina jokina, ja tiheitä metalliesiintymiä oli runsaasti.
+Mutta omituisin löytämämme maailma oli ensimmäinen planeetta koordinaateissa 639.5 : 231.2.
+Myconit vartioivat tätä planeettaa miltei rajattomalla määrällä Palkolaivojaan
+aivan kuin siellä olisi jotain suuresti arvokasta.
+Emme ikinä pystyneet murtautumaan niiden läpi, vaikka tuhosimmekin kahmaloittain niiden aluksia.
+Ehkä, jos pärjäät meitä paremmin, tai pystyt jotenkin huijaamaan myconit antamaan sinun laskeutua
+voit ehkä paljastaa tämän salaisuuden, ja se saattaa auttaa sinua tehtävässäsi.
+
+#(what_about_pkunk_space)
+Kertokaa meille pkunkeista.
+
+#(PKUNK_ABSORBED_SPACE)	yehat-022.ogg
+Tämä on yehatien asia, ja AINOASTAAN yehatien.
+Pkunkit on sulautettu... ja tähän se päättyykin.
+Älä enää kysy tästä asiasta.
+
+#(HATE_PKUNK_SPACE)	yehat-023.ogg
+Oletko tavannut niitä!?? Ne kurjat olennot ovat elossa?!!
+Sinun tulisi kertoa meille, missä ne ovat, Kapteeni!
+Kerro meille, niin voimme korjata vuosituhansia sitten tehdyn virheen
+kun sallimme pkunkien lähteä Pesästämme elävinä.
+Meidän olisi pitänyt tappaa ne pelkuriraukat viimeistä lintua myöten!
+
+#(bye_space)
+Näkemiin, yehatit... liittolaisemme ja ystävämme.
+
+#(GO_IN_PEACE)	yehat-024.ogg
+Vaikka emme kunnioitakaan vanhaa velvoitettamme,
+annamme teidän mennä rauhassa.
+
+#(GOODBYE_AND_DIE_SPACE)	yehat-025.ogg
+Saat meidät suruisiksi, ihminen, suruisiksi tosiaankin
+koska nyt meidän täytyy totella Kuningattaremme käskyjä ja tuhota sinut.
+
+#(shofixti_alive_1)
+Tämä voi tulla järkytyksenä, mutta shofixtit ovat syntyneet uudelleen.
+
+#(shofixti_alive_2)
+Meillä on täällä shofixtikapteeni. Uskotteko nyt?
+
+#(SEND_HIM_OVER_1)	yehat-026.ogg
+Jos tämä on totta, tulee tapahtumaan monia muutoksia.
+Mutta me olemme kaukaa viisas laji, mitä tulee petokseen.
+Sinun täytyy todistaa sanomasi sanat, Kapteeni.
+Lähetä shofixti meille todistuskappaleena.
+
+#(SEND_HIM_OVER_2)	yehat-027.ogg
+Valehtelet meille jälleen, Kapteeni. Tarvitsemme nyt käsinkoskeltavaa todistusaineistoa.
+Käske väitettyä shofixtiasi tulemaan luoksemme, Kapteeni.
+
+#(not_here)
+No, ei minulla ole sellaista juuri TÄÄLLÄ.
+
+#(not_send)
+En altista yhtäkään upseeriani sellaiselle vaaralle. Kuinka tiedän, ettette vain tapa häntä?
+
+#(JUST_A_TRICK_1)	yehat-028.ogg
+Se on sitten temppu, eikö olekin! Eikä mitään muuta.
+Ihminen, olemme olleet kärsivällisiä tähän asti, KLAK! mutta nyt olet mennyt liian pitkälle.
+Olet mitä taidokkaimmin hieronut suolaa haavoihimme ja nyt saat maksaa sen verellä!
+
+#(JUST_A_TRICK_2)	yehat-029.ogg
+Taas uusi TEMPPU!
+Valehteleva kielesi on tuominnut sinut!
+
+#(ok_send)
+Hyvä on, lähetän shofixtin sinne... mutta älkää sitten tehkö hänelle mitään, okei?
+
+#(WE_REVOLT)	yehat-030.ogg
+Luotaamme aluksen eroamista laivastostasi, Kapteeni
+ja sen muoto on tosiaankin sama kuin shofixtien Tiedustelija-aluksella.
+Tämän on parempi olla olematta temppu, Kapteeni!
+Kunnialaitteen voima on tiedossamme, ja jos räjäytät aseen lähellä meitä
+sen hinta tulee olemaan sinulle kallis, hyvin kallis.
+Tiedustelija on telakoitunut, ja odotamme pilotin saapumista ilmalukkoon.
+Ilmanvaihto on suoritettu... ovi liukuu auki... ja
+SE ON TOTTA!!! SHOFIXTIT OVAT ELOSSA!!!
+Katsokaa tuota karvaista kuonoa, noita kiiltäviä mustia silmiä, suloisia kynsiä!
+Lapsemme ovat palanneet unohduksesta!!
+Mutta mitä julmin totuus on nyt edessämme!...
+...Me jotka olemme uhranneet kunniamme! Me jotka olemme maanneet vihollisemme kanssa!
+EMME OLE ARVOLLISIA! EMME OLE MITÄÄN!... Olemme vähemmän kuin ei mitään.
+Mutta odota! Me emme ole spatheja. Me olemme yehateja... TÄHTILAIVOJEN KLAANEISTA!
+Me EMME elä tässä valheessa enää hetkeäkään!
+Kuule kun puhun nämä sanat! Jos Kuningattaremme tekee kunniattoman käskyn
+sitten KUNINGATAR ON SE, JOLLA EI KUNNIAA!
+Ja kunniaton Kuningatar EI OLE KUNINGATAR LAISINKAAN!
+Me, Zeep-Zeepit, olemme ainoa Klaani joka muistaa kunnian TODELLISEN MERKITYKSEN
+tulemme REPIMÄÄN KUNINGATTAREN ALAS VALTAISTUIMELTAAN!
+Veep-Neepien Kuningattarien kahdentuhannen vuoden valtakausi on OHI!
+VALLANKUMOUS ON ALKANUT!
+
+#(ROYALIST_SPACE_HELLO_1)	yehat-031.ogg
+Ihminen... et ikinä tule täysin ymmärtämään sitä vahinkoa, jota nyt teet kulttuurillemme.
+Täydet KAKSITUHATTA VUOTTA on rauha vallinnut Klaaniemme välillä!...
+...ja nyt olet heittänyt riidan muinaisen siemenen nokkiemme väliin!
+Veriset Kruununperimyssodat alkavat uudestaan, ja SINÄ olet syy, Kapteeni!
+Vaikka Zeep-Zeepien petturit ovatkin ehkä liittolaisiasi, Kapteeni
+voin taata sinulle, että me, Feep-Eeepien Tähtilaivaklaanista
+emme halaja mitään kiihkeämmin kuin sinun kuolemaasi!
+
+#(ROYALIST_SPACE_HELLO_2)	yehat-032.ogg
+Se on se Ihmisyllyttäjä, joka haluaa vetää Hänen Majesteettinsa alas Korkealta Orrelta!
+Kadut vielä sitä päivää, kun kehitit tämän kurjan suunnitelman!
+
+#(ROYALIST_HOMEWORLD_HELLO_1)	yehat-033.ogg
+Ihminen! Kaikkien sankarien tapaan olet yhtä aivoton kuin rohkeakin.
+Etkö tiedä, että täällä ei ole ketään petturillisista Zeep-Zeepien Tähtilaivaklaaneista!
+Olet käytännössä kuollut, ihminen.
+
+#(ROYALIST_HOMEWORLD_HELLO_2)	yehat-034.ogg
+Lopeta kirottu ivaamisesi, ihminen!
+Tanssit kuin sairas breeg, etkä ikinä käy taisteluun kuolemaan asti
+kuten kunnia ja todellinen urhoollisuus vaativat!
+
+#(how_is_rebellion)
+Kuinkas teidän tyyppien vallankumous sujuu?
+
+#(ROYALIST_REBELLION_1)	yehat-035.ogg
+Vallankumous!? Onnittelet itseäsi tarpeettomasti, Kapteeni.
+Tämä ei ole mitään muuta kuin... joukko konnia, jotka yrittävät tuhota sadan sukupolven rauhan!
+Paistamme petturit aluksiinsa, ja murramme munat heidän Klaaninsa kotipaikassa
+niin etteivät Zeep-Zeepien rikolliset enää koskaan lennä tähtiemme halki.
+
+#(ROYALIST_REBELLION_2)	yehat-036.ogg
+Älä turhaan huolehdi, Kapteeni! Voitto on miltei käsissämme.
+
+#(sorry_about_revolution)
+Jukra, olen pahoillani tästä vallankumousjutusta. En tarkoittanut mitään pahaa.
+
+#(ALL_YOUR_FAULT)	yehat-037.ogg
+Tämän hyödyttömän yhteenoton tuska ja kärsimys ovat pelkkää henkien traagista tuhlaamista.
+Onnittele itseäsi, Kapteeni. Kaiken tämän kuoleman ja kurjuuden lähde on sinussa itsessäsi.
+
+#(bye_royalist)
+Hyvästi, rojalistiääliö!
+
+#(GOODBYE_AND_DIE_ROYALIST)	yehat-038.ogg
+Nyt saat maksaa rikoksistasi, ihminen!
+
+#(name_1)
+Uuden Vapaiden Tähtien Allianssin
+
+#(name_2)
+Muukalaisvaltioiden Sopimuksen
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaation
+
+#(name_40)
+Imperiumi 
+#(name_41)
+n 
+#(OUT_TAKES) yehat-039.ogg
+Niin, luulen että ihmettelet mitä minä oikein teen tällä ohjauskonsolilla...
+...no, luulenpa että voin nyt kertoa sinulle.
+Kirjoitan käsikirjoitusta!
+Se on eksistentiaalinen trilleri!
+Vähän kuin sekoitus Woody Allenin angstailua, johon on sotkettu osia Tobe Hooperin parhaista töistä.
+Mutta oikeasti tämä on vain minun tapani saada siipeni oven väliin, tajuat kai...
+...se, mitä oikeasti haluan tehdä, on OHJAAJAN homma!
+

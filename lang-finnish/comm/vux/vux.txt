@@ -1,0 +1,521 @@
+#(ZEX_HELLO_1)	vux-000.ogg
+Ah, ihmisvierailijoita! Mikä yllätys!
+Minä olen Amiraali ZEX. Älä pelästy. Toisin kuin muu lajini, Minä... nautin ihmisistä.
+Saatat tuntea minut maineeltani, johdin osaa VUX-voimista sodassa Allianssiasi vastaan.
+Takaan, että tämä käytös, ikävä välttämättömyys tuolloin, on johtanut mukavampaan ja hellempään olentoon.
+Ole tervetullut! Voimme tutustua toisiimme... laajentaa lajiemme välisiä suhteita.
+Mutta. Kuinka tyhmää minulta. Et ole täällä kohteliaan sanailun takia.
+Olet tullut koska haluat Shofixti-Neitoni.
+
+#(ZEX_HELLO_2)	vux-001.ogg
+Miksi olen näin siunattu! Parhaat ystäväni, ihmiset, ovat palanneet.
+Kapteeni, on mukava nähdä taas.
+Te Ihmiset olette niin mielenkiintoisia, niin... Kauniita.
+Tiedäthän, minulla on monia kuvia lajistasi!
+Pidän niitä seinilläni... inspiroidakseni itseäni.
+
+#(ZEX_HELLO_3)	vux-002.ogg
+Kapteeni! Olet tullut takaisin näin pian!
+Meidän täytyy olla varovaisia (hee! hee!), tai maanmieheni alkavat kuiskailla meistä.
+
+#(ZEX_HELLO_4)	vux-003.ogg
+Täyteläinen, roteva ihminen... Olen innolla odottanut paluutasi.
+
+#(FIGHT_OR_TRADE_1)	vux-004.ogg         
+Kapteeni! Pakenit sittenkin! Kuinka erinomaista!
+
+#(FIGHT_OR_TRADE_2)	vux-005.ogg         
+Ihminen... meidän pitäisi olla ystäviä, ei vihollisia!
+Suhteemme voi tulla niin läheiseksi kuin vain tahdot.
+
+#(what_you_do_here)
+Mitä teette täällä, Amiraali ZEX?
+
+#(MY_MENAGERIE)	vux-006.ogg
+Ah, hyvä kysymys! Mutta olette aina olleet niin älykäs laji.
+Minäpä selitän.
+Suuren sodan jälkeen, jossa minulla oli pieni rooli
+VUX:en Korkein Neuvosto, tunnustuksena saavutuksistani
+antoivat minulle tämän planeetan, jotta voisin harjoittaa... Harrastustani
+ilman että muu VUX-populaatio häiriintyisi.
+Olen keräilijä, näethän.
+Minulla on hienoin kokoelma... kauneimpia... olentoja koko avaruudessa.
+
+#(what_about_menagerie)
+Eläinkokoelma? Onko tämä kuten eläintarha?
+
+#(NEED_NEW_CREATURE)	vux-007.ogg
+Eläimiä? Hee! Hee! Hee! Ehei, Kapteeni! Ei vain eläimiä!
+Kokoelmassani on vain... Kauneimpia.. Eliöitä galaksissa!
+Jokainen lapsistani, kuten kutsun niitä, omaa erinomaisen kokoelman kykyjä.
+jotka tekevät niistä ainutlaatuisia ja erikoisia... varsinkin minulle!
+Minulla on täysin kattava kokoelma niinkin kaukaa kuin Procyonista ja Vegasta.
+Ei, tämä ei ole vain jokin "eläintarha"!
+Olen työskennellyt tunnollisesti monia vuosia saadakseni aikaan kokoelmani, parannellakseni sitä.
+Ehkä sinä et sitä erota, mutta olen itse asiassa hyvin ylpeä siitä!
+Paha kyllä on olemassa yksi ÄÄRIMMÄISEN ihana eläin jota minulla ei vielä ole.
+Antaisin lähes mitä tahansa siitä oliosta, Kapteeni.
+
+#(what_about_creature)
+Jos me hankkisimme sinulle tämän eläimen, antaisitko meille shofixti-Neitosi?
+
+#(ABOUT_CREATURE)	vux-008.ogg
+Hmmm... Mielenkiintoinen ehdotus!
+En olisi koskaan keksinyt näin ihmeellistä ideaa itse.
+Olet nero, Kapteeni!
+Vastauksena kysymykseesi, Kyllä! Hyväksyn tarjouksesi.
+Toimita tämä eläin minulle, ja annan sinulle Shofixti-Neitoni.
+Annan sinulle jopa vinkin jotta löydät kyseisen eliön kotiplaneetan!
+Lähteeni tälle tiedolle on ikivanha villieläinten käsikirja
+jonka kirjoitti vuosituhat sitten joku tuntematon muukalainen. Asiaankuuluva pätkä menee näin
+`... kuolema, Se(!) paistattelee Linch-Nas-Ploh:n tähtijoukon keltaisessa valossa.'
+Olemme kääntäneet `Linch-Nas-Ploh':n tarkoittamaan suunnilleen:
+`pitkä, ohut olento joka on nielaissut jättimäisen olennon.'
+Pelkään että tämä on kaikki mitä tiedän.
+Toivon että se on tarpeeksi.
+
+#(about_creature_again)
+Kertoisitko minulle taas mistä voisin löytää olennon jota haluat niin paljon?
+
+#(CREATURE_AGAIN)	vux-009.ogg
+Tottakai, sileäihoinen ystäväni!
+Lähteeni tälle tiedolle on ikivanha villieläinten käsikirja
+jonka kirjoitti vuosituhat sitten joku tuntematon muukalainen. Asiaankuuluva pätkä menee näin
+`... kuolema, Se(!) paistattelee Linch-Nas-Ploh:n tähtijoukon keltaisessa valossa.'
+Olemme kääntäneet `Linch-Nas-Ploh':n tarkoittamaan suunnilleen
+``pitkä, ohut olento joka on nielaissut jättimäisen olennon.'
+Pelkään että tämä on kaikki mitä tiedän.
+Toivon että se on tarpeeksi.
+
+#(i_have_beast)
+Komentaja ZEX, olemme ottaneet kiinni kauhean otuksen Delta Lyncisistä. Tehdään vaihtokaupat.
+
+#(GIVE_BEAST)	vux-010.ogg
+Ah, erittäin hyviä uutisia! Tunikani kostuu kiihtymyksestäni!
+Olen odottanut tätä niin kauan! Hee! Hee! Hee!
+Alaiseni odottavat valmiina ottamaan vastaan pedon aluksestasi, Kapteeni.
+Suorita sen siirto ja sitten... Annan sinulle Neidot jotka tahdot.
+
+#(ok_take_beast)
+Hyvä on, peto on sinun! Mutta ole varovainen, se on tappaja!
+
+#(FOOL_AIEE0)	vux-011.ogg
+Ah! Uusi lapseni on nyt tukikohdassani. Hän on niin iso, eikö olekin?
+...ja niin leikkisä!
+Olen aivan sanaton siitä, että annoit sen minulle, Kapteeni
+mutta luulen, että on tapahtunut pieni muutos suunnitelmiimme. Valitettava, mutta välttämätön.
+Oi, kaunis, uhkea ihmiseni, Olin ajatellut että se ruma, väkivaltainen olento jonka juuri annoit
+täydentäisi minun Rumuuden kokoelmani, Hirviöiden eläinkokoelmani... Olin väärässä!
+SINÄ, rakas ihmiseni, olet kauhein, raivokkain ja viheliäisin!
+Kokoelmani ei voisi koskaan olla täydellinen ilman sinua. Tarvitsen sinua, Kapteeni
+Mutta ah, pelkään että et anna suostumustasi vapaaehtoisesti. Olenko oikeassa?
+Näinollen... Alikomentaja DAX, lopettakaa yhteydenpito... käynnistäkää muunneltu Tunkeutujani.
+Käynnistäkää Edelläkävijöiden hypynestäjä. Hee! Hee! Hee!... Valmistaudu taisteluun!
+
+#(FOOL_AIEE1)	vux-012.ogg
+Alikomentaja? Miksi pääkonsolini ei toimi?
+Lähetystila on lukittu!
+Miten niin päätietokone on vaurioitunut? Miten!?...
+...Peto!?... Karannut!!
+Ei, Alikomentaja, tämä on mahdotonta. Se ei ole voinut karata vahvimmasta eristystilastamme
+SE ON MITÄ?!! Kannet viisi ja kuusi?! Yksitoista miehistön jäsentä!!
+Hälytys päälle, idiootti! Missä se on nyt?! Koneosasto, raportoikaa!.. Koneosasto?!
+Alikomentaja, sinetöikää välisein-- Alikomentaja... Kuunteletteko te minua? Mitä oikein tuijotat?
+HUOMIO, ALIKOMENTAJA! Anna raportti sen paika-- MITÄ OIKEIN TUIJOTAT!...
+takanani?
+MIT- tä- mitä- mi- AIEEEEE!!!!!...
+
+#(why_trust_1)
+Ai, Komentaja ZEX, ettekö ole unohtanut jotain? Shofixti-Neidot?
+
+#(TRUST_1)	vux-013.ogg
+Aivan, ei ongelmia. Tälläkin hetkellä alaiseni ovat tuomassa niitä planeetan pinnalta.
+Joten ei hukata aikaa. Lähetä se ihana olento tänne, heti!
+
+#(why_trust_2)
+Katsokaas, me uskomme yksi-yhteen -kauppoihin. Annamme olion kun saamme Neidot.
+
+#(TRUST_2)	vux-014.ogg
+Kapteeni, olemme molemmat kunnian olentoja.
+Jos sanon että Shofixti-Neidot ovat tulossa planeetan pinnalta, niin ne ovat.
+Saatte ne pian, saatte siitä sanani. Nyt, kapteeni, Olento?
+
+#(why_trust_3)
+Kuulkaas, Zex! Ihmisillä ja VUX:lla on ollut varsin myrskyisät välit. Miksi luottaisin teihin?
+
+#(TRUST_3)	vux-015.ogg
+Kapteeni! Asetat kunniani kyseenalaiseksi!
+Olet parjannut minua syvästi, ja olen erittäin loukkaantunut.
+Luulin että olimme saaneet luottamusta välillemme, vaikka olemmekin erilaisia
+Mutta ei, tajuan nyt sen kiihkoilut ja väärinkäsitykset
+jotka johtivat kansamme sotaan!
+Tämä oli mahdollisuutemme saada aikaiseksi hyvät välit VUXien ja ihmisten välille.
+Vaikutusvallallani olisi Korkeimman Neuvoston helposti voinut saada näkemään
+ihmiset paljon paremmassa valossa
+
+#(why_dont_you_attack)
+Amiraali Zex, miksette hyökkää kimppuumme kuten kaikki muut VUXit tekevät?
+
+#(LIKE_YOU)	vux-016.ogg
+Koska pidän ihmisistä, kapteeni. Kunnioitan ja ihailen lajiasi.
+Minulla ei ole kiihkomielisen lajini näkemyksiä.
+
+#(why_like_me)
+Ah, Komentaja ZEX? Miksi pidätte meistä? Luulimme, että kaikki VUXit vihaavat ihmisiä.
+
+#(LIKE_BECAUSE)	vux-017.ogg
+Ei ei, ei kaikki VUXit, Kapteeni! Suurin osa... Muttei kaikki.
+On totta että kun suurin osa kansastani näkee jonkun rodustasi
+heidän on pakko oksentaa
+mutta jotkut meistä ovat kasvaneet sellaisen lapsellisuuden ohi, ottaakseen liberaalimman näkökannan.
+Me muutamat hienostuneet, emme välitä kaikista nykyisen muodin kiemuroista.
+Mistä pidämme ja emme pidä johtuu pelkästään henkilökohtaisista maiustamme.
+Me näemme.. kauneutta teissä ihmisissä.. Arvon pitkän kantaman.. suhteissa.
+Olette erilaisia, kyllä. Mutta henkilökohtaisesti, midä pidän erilaisuudesta.
+Itse asiassa, JUMALOIN sitä.
+Fysiikkanne on niin ihanan monipuolista! Monet ulkomuotonne, pienet silmänne
+teidän monet ihonvärit, ja karvoituksenne mosaiikki, joka peittää vaan osia ruumiistannes
+jättäen osat paljaiksi ja sileiksi! Mmmmmm!
+Pidän lajianne arvossa, Kapteeni. Näen teidät "ihmisinä".. kuten VUXitkin.
+
+#(are_you_a_pervert)
+Hei, Komentaja Zex! Tämä on hieman liian outoa. Oletteko jonkin sortin perv-- öö.. esteetikko?
+
+#(CALL_ME_WHAT_YOU_WISH)	vux-018.ogg
+Olet puhunut maanmiehieni kanssa, etkö olekin?
+He ovat sulkeutunoita idiootteja.. kiihkoilijoita joka tavalla.
+Kutsu minua miksi haluat Kapteeni. Minä pidän itseäni.. tuota 
+yksinkertaisesti avoimena... vapaana kokemaan kaikki elämän tarjoamat tilaisuudet.
+VUXien hallitsijat eivät voineet kieltää sotilaallista nerouttani, olla huomioimatta monia voittojani.
+Mutta he eivät kestäneet käyttäytymistäni, pitäneet halujani normaaleina
+joten he lähettivät minut tänne... Sankarin maanpakoon! Missä en myrkytä nuorison mieliä
+`oudoilla' ideoillani ja `perversoituneella' elämäntyylillä. Hmh.. kiihkoilijat.
+Näethän, Kapteeni, me, sinä ja minä, emme ole itse asiassa niin erilaisia.
+Olemme erilaisia kuin useimmat VUXit, joten olemme VUXien silmissä molemmat hirviöitä.
+
+#(take_by_force)
+Vaadimme Shofixti-neidot. Olemme valmiit käyttämään voimaa vaadittaessa.
+
+#(PRECURSOR_DEVICE)	vux-019.ogg
+Hee! Hee! Hee! Oh, Kapteeni, se olisi niin epäonninen virhe
+kauhea erhe kummankin kannalta.
+Meillä on niin paljon opittavaa toisiltamme, niin paljon annettavaa toisillemme.
+Olisi niin surullista jos joutuisimme takaisin aivottoman ampumiseen ja tappamiseen
+joka on pitänyt lajiemme välejä niin huonoina tähän asti.
+Eittämättä, tunnustettuna VUXien sotilaallisen nerona
+olisi mielenkiintoista kohdata sinun YKSI ainut tehokas muukalaisaluksesi
+omalla jättimäisellä laivastollani, mutta oi! Mikä virhe se olisikaan.
+...myöskin... Luulen että on vain reilua varoittaa sinua, Kapteeni
+että sotaretkieni aikana olen kerännyt monia mielenkiintoisia esineitä.
+Yksi näistä aarteista on Edelläkävijöiden artifakti, hypynestokenttä
+joka estää lähellä olevia aluksia tekemästä pakoliikkeitä hyperavaruuteen.
+Näen jäljistä aluksen perässäsi että olet tehnyt niin monia kertoja.
+Joten, Kapteeni, jos hyökkäät kimppuuni, kohtaat VUXien historian parhaimman sotilastaktikon
+joka komentaa lähes loppumatonta määrää vastustajasi aluksia.
+Ja taistelu tulee kestämään kuolemaan saakka!
+Voimme varmasti löytää jonkin vaihtoehdon.
+
+#(regardless)
+Tappelemme silti, huolimatta Edelläkävijöiden artifaktista!
+
+#(THEN_FIGHT)	vux-020.ogg
+Hyvä on... Kuolemaan saakka!
+
+#(you_lied)
+Valehtelitte, Komentaja Zex!!! Ei teillä ollut 'hypynestokenttää'! Huijari!
+
+#(YUP_LIED)	vux-021.ogg
+Kyllä, valehtelin.
+Tottakai, jos pieni valhe voi pelastaa satoja henkiä, se on hyväksyttävää.
+Valitettavasti näit valheeni läpi, ja arvatenkin henkiä menetettiin
+Lopetetaan tämä mieletön agressio ennen kuin se tuhoaa meidät.
+
+#(kill_you)
+Emme pelkää yhtiäkään 'laitteistasi'. Nyt tapamme teidät!
+
+#(FIGHT_AGAIN)	vux-022.ogg
+Kuinka ikävää. Kallista... ja onnetonta.
+Kapteeni, ilmankin sellaista laitetta, sinun täytyy ymmärtää että komennossani on ylivoimaiset voimat!
+Et voi voittaa minua täällä. Se on mahdotonta.
+Mutta.. Jos tahdot taistelua, olkoon niin.
+
+#(bye_zex)
+Näkemiin, Komentaja Zex.
+
+#(GOODBYE_ZEX)	vux-023.ogg
+Näkemiin, kaunis ihminen. Toivon että voimme jonain päivänä kohdata ystävinä.. ehkä jopa jonain enempänä.
+
+#(HOMEWORLD_HELLO_1)	vux-024.ogg
+Tervetuloa elämäsi päätepisteeseen, kiitos VUXien teknologian.
+Loppumaton määrä Tunkeutuja-aluksia on jopa tälläkin hetkellä lukitsemassa höyrystäjiä sijaintiinne.
+Ja päätämme teidän tuskallisen, groteskin olemassaolonne niin pian kuin mahdollista.
+Sillä välin, tässä hieman odotusmusiikkia.
+
+#(HOMEWORLD_HELLO_2)	vux-025.ogg
+Tervetuloa taas. Luotamme että nautit tunkeutumisesta VUXien avaruuteen
+ja olemme odotamme innolla olemassaolosi lopettamista aikaisimmimmalla mahdollisella hetkellä.
+Jos luulet pääseväsi tappelemalla voittamattomien joukkojemme läpi planeettamme pinnalle, olet oikeassa.
+Hieman tuhkaa ja muutama haituva pahanhajuista höyryä pääsee varmasti niin pitkälle.
+Päivän erikoinen on hiukkasten erotus!
+Joten jos ystävällisesti voisit avata ruokinta-aukkosi ja alkaa huutamaan, me voimme aloittaa.
+
+#(HOMEWORLD_HELLO_3)	vux-026.ogg
+Tervetuloa takaisin täydelliseen tuhoon, jossa, kuten sanotaan
+kerta on sattumaa, toinen kerta on oudon arveluttavaa
+mutta kolmannella kerralla se vasta sattuu.
+Olkaa hyvä ja pysykää istuma-asennossa kunnes aluksenne alkaa savuta
+jonka jälkeen olette vapaita lyömään päänne kivuliaasti lattiaan.
+
+#(HOMEWORLD_HELLO_4)	vux-027.ogg
+Onnittelut VUXien sanaston kuluttamisesta loppuun koskien tervehdyksiä halveksittaville elämänmuodoille.
+Voisimmeko käyttää tilanteen hyödyksi lukitaksemme tuhoajasäteemme alukseenne
+ja toivottaaksemme teille epämiellyttävää tuonpuoleista elämää.
+
+#(SPACE_HELLO_1)	vux-028.ogg
+Tervehdykset VUXeilta!... viimeisin sana elämänmuotojen tuhoamisessa!
+Saadaksesi yksityiskohtaisen kokemuksen sotakoneistamme
+yksinkertaisesti pistä kätesi silmiesi päälle, ja laske kolmeen.
+
+#(SPACE_HELLO_2)	vux-029.ogg
+Tervehdys, olkoon itsesuojelu- vaistosi aina niin himmeä.
+Sillä välin kun Tunkeutujamme ympäröivät aluksesi, voit nostaa molemmat kätesi ilmaan
+ja harjoitella ikivanhaa hyppelehtivän oowee-mestari ZEN DUXin messua, joka alkaa:
+`AAAAAAAAA AAAAAAHH!!!'
+
+#(SPACE_HELLO_3)	vux-030.ogg
+Tämä on VUX-komentaja YAX. Täällä olevan tiimimme puolesta
+Haluaisin sanoa kuinka paljon me kaikki olemme nauttineet haukkumisestanne.
+ja onnitellaksemme teitä pääsystänne VUXien ystävällisyyden rajoille
+jonka olette nyt ylittäneet. Niinpä, antakaa minun vain sanoa
+Kuole, kaksisilmäinen, inhottava, kasvoton etana!
+
+#(SPACE_HELLO_4)	vux-031.ogg
+Tervetuloa takaisin. Kaikki kohdistetut aseemme ovat juuri nyt pois käytöstä
+mutta jos voisitte pitää nykyisen nopeutenne ja kurssinne
+yksi on pian vapaa tuhoamaan teidät.
+
+#(kill_you_squids_1)
+Te groteskit mustekalat! Tapamme teidät röyhkeytenne takia!
+
+#(kill_you_squids_2)
+Olette kauheimpia ja yököttävimpia olentoja joita olen koskaan nähnyt!
+
+#(kill_you_squids_3)
+Täytyy myöntää, arvosananne oksetusmittarilla olisi AINAKIN yhdeksänkymmentäkuusi.
+
+#(kill_you_squids_4)
+Turvonnut protoplasmasäkki! Senkin mato!
+
+#(WE_FIGHT)	vux-032.ogg
+Katsokaa kaikki! Aiomme tuhota luotaantyöntävän pienen hirviön nyt!
+
+#(why_so_mean)
+Miksi olette niin vihamielisiä lajiamme kohtaan?
+
+#(URQUAN_SLAVES)	vux-033.ogg
+Äägh! Olet jopa rumempi kuin olin ajatellut mahdolliseksi!
+Etkö näe, että teet minut sairaaksi?
+Voisitko, kauhea olio, kääntää päätäsi, tai parempaa, pistää säkin sen päälle.
+Tai no, ei sillä niin väliä. Säädin näyttöäni niin että se on siedettävän himmeä.
+Vastauksena kysymykseesi, vastauksemme on yksinkertainen.
+Meidän täytyy hyökätä koska johtajamme, Ur-Quanit niin tahtovat!
+Nyt, jos voisit lopettaa nyökkäilyn.
+Meillä VUXeillä ei ole mahdollisuutta samankaltaiseen liikkeeseen
+ja se näyttää siltä kuin kaulasi olisi murtunut
+ja olisit höpisevä ruumis. Ugh.
+
+#(deeper_reason)
+Eikö ole olemassa muuta syytä sille että vihaatte meitä? Kertokaahan nyt totuus.
+
+#(OLD_INSULT)	vux-034.ogg
+Tarvitsemmeko muuta syytä?
+Aah! Ymmärrän. Tarkoitat Ensimmäistä Ihmisten Tapaamista.
+Suurta Loukkausta!
+Mitä muuta voidaan sanoa? Sinä päivänä lajinne todisti todellisen, törkeän luontonsa.
+Näethän, me VUXit olemme ylpeitä avoimuudestamme
+kyvystämme nähdä jopa oudoimman ja iljettävimmän ulkokuoren, kuten teidän, läpi
+mutta se loukkaus oli niin alhainen, niin täydellisen tuomittava, että emme koskaan unohda sitä.
+Kyllä, ollakseni rehellinen, se tapaus suurimmaksi osaksi vakituisti asenteemme kohdalle `INHO'
+Luullakseni me tulemme halveksimaan teitä ikuisesti.
+
+#(if_we_apologize)
+Entä jos me pyydämme anteeksi? Voisimmeko sitten keskutella aselevosta?
+
+#(PROBABLY_NOT)	vux-035.ogg
+Öö... Luultavasti ei. Katsos, vaikka me VUXit olemme hyvin johdonmukaisia olentoja
+jotka eivät koskaan tuomitsisi rotua pelkästään sen (Äägh!) ulkonäön perusteella
+oli Kapteeni Randin loukkaus sitä luokkaa että emme luultavasti koskaan anna sitä anteeksi lajillenne.
+
+#(try_any_way)
+No, Yritän silti. Maapallon Ihmiset Pyytävät Täten Anteeksi VUXeilta!
+
+#(NOPE)	vux-036.ogg
+Ei, en usko että se oli tarpeeksi. Siinä ei ollut tunnetta mukana.
+Anteeksi, mutta pelkään että meidän täytyy tappaa teidät nyt.
+
+#(APOLOGIZE_IN_SPACE)	vux-037.ogg
+Koska ihminen nimeltä Rand loukkasi erästä avaruusalustemme komentajaa
+anteeksi pyytäminen täällä kotiplaneetallamme on turhaa
+Sitäpaitsi, olemme päättäneet että olette aivan liian iljettäviä saadaksenne elää
+joten olemme päättäneet höyrystää teidät.
+
+#(apology_1)
+Kokeillaanpas uudelleen. Me, Maan Asukkaat, Ihan Oikeasti Olemme Pahoillamme Siitä Tyhmästä Loukkauksesta, Jonka Kapteeni Rand Teki.
+
+#(NOT_ACCEPTED_1)	vux-038.ogg
+Ee-ehei. Sekään ei toiminut.
+
+#(apology_2)
+Olitte OIKEASSA! Me OLIMME väärässä. Näemme sen nyt niin selvästi!
+
+#(NOT_ACCEPTED_2)	vux-039.ogg
+En usko että otit tuon tosissasi.
+
+#(apology_3)
+Pliiiiiiiiis antakaa anteeksi!
+
+#(NOT_ACCEPTED_3)	vux-040.ogg
+Sanoit tuon vain siksi että haluat tavaraa meiltä VUXeilta. Et todella tarkoittanut sitä.
+
+#(apology_4)
+Me - olemme - pahoillamme! Pistäköön tuhat hyönteistä pehmeimpiä osiani jos valehtelen!
+
+#(NOT_ACCEPTED_4)	vux-041.ogg
+Se on päämäärätöntä. Miksi edes yritätte?
+
+#(apology_5)
+Tahtoisimme antaa telle adressin joka sisältää miljoona allekirjoitusta. Jokaisessa lukee "Olen pahoillani!"
+
+#(NOT_ACCEPTED_5)	vux-042.ogg
+Hyvä yritys, Kapteeni... Muttei tarpeeksi hyvä
+
+#(apology_6)
+Väärässä? Kyllä, olimme väärässä, Niin väärässä. Voi pojat että olimme väärässä. Väärimmässä.
+
+#(NOT_ACCEPTED_6)	vux-043.ogg
+Huomaamme häivähdyksen oikeaa katumusta. Mutta emme tarpeeksi antaaksemme anteeksi.
+
+#(apology_7)
+(Kokeillaanpa käänteistä psykologiaa) Kuulkaa VUXit! Olette oikeassa! Emme voi koskaan hyvittää Randin julmaa loukkausta!
+
+#(NOT_ACCEPTED_7)	vux-044.ogg
+Ai? Ajattelin juuri, että ehkä meidän pitäisi harkita teille anteeksi antamista
+mutta luulenpa että olet oikeassa.
+Takaisin ei ole paluuta.
+
+#(apology_8)
+Jos suru olisi pikkukivi, katumuksemme olisi.. olisi!... öö.. Iso mahtava kivi!
+
+#(NOT_ACCEPTED_8)	vux-045.ogg
+Hei! Sehän oli itse asiassa ihan hyvä!
+Pystyin aistimaan todellisen surun äänessäsi rotusi menneen tyhmyyden johdosta.
+Valitettavasti se ei ollut tarpeeksi syvää.
+
+#(apology_9)
+Jos on olemasssa MITÄÄN mitä voimme tehdä saadaksemme anteeksiantonne, teemme sen tuhat kertaa!
+
+#(NOT_ACCEPTED_9)	vux-046.ogg
+Ööh.. Ömm.. Se olikin sitten niin hyvää kuin mahdollista, luulisin.
+Mutta me emme voi hyväksyä sitä koska... koska... tuota, no SIKSI!
+
+#(apology_10)
+Järjen rakkauden tähden! Kuulkaa nämä sanat: Me, Maapallon asukkaat, pyydämme anteeksi VUXeilta.
+
+#(TRUTH)	vux-047.ogg
+AIEEE! Ihminen! Olet pommittanut ja pommittanut meitä säälittävillä anteeksipyynnöil- läsi!
+Se ajaa meidät hulluiksi! LOPETA! Voisitko LOPETTAA!
+Luovutamme. Me hyväksymme! Me hyväksymme! Tästä lähtien emme enää käytä Randin loukkausta lajianne vastaan.
+Te olette saaneet anteeksi lopuksi ikuisuudeksi, lopettakaa vain se anteeksipyytely!!
+Mutta nyt olette pakottaneet meidät paljastamaan TODELLISEN syyn miksi vihaamme teitä ihmisiä
+nolostuttava syy, jolle ei ole mitään hyväksyttävää syytä, mutta silti se on kiistämätön!
+Ihminen! Olet NIIIN ruma, NIIIN kauhean näköinen että emme voi KOSKAAN löytää rauhaa lajinne kanssa!
+Aina kun näemme teikäläisiä, me vain haluamme potkia teitä!.. Astua päällenne!.. Murskata teidät!...
+...höyrystää teidän rumat naamanne koko universumista!
+Tiedämme, että se on kohtuutonta! Tiedämme, että teillä ei ollut mahdollisuutta päättää miltä näytätte!
+Tiedämme että se on julma kohtalo että Luoja teki teidät näyttämään ällöttävältä eritteeltä!
+mutta ME EMME VAIN KESTÄ SITÄ!
+Miksi juuri nyt, sietämättömän viheliäisyyden takia!
+Minun on pakko valita groteskeista vaihtoehdoista: Jatkaa keskustelua ja oksentaa hallitsematto- masti
+tai lopettaa kommunikointi ja hyökätä aluksesi kimppuun...
+
+#(whats_up_hostile)
+VUX. Etsimme keinoa oppia lisää teistä. Ehkä sitten voimme katsoa silmästä... silmiin.
+
+#(GENERAL_INFO_HOSTILE_1)	vux-048.ogg
+Kuules, oksettava olio. Jos haluat puhua jollekulle lajimme edustajalle
+ilman että teet hänet sairaaksi
+mikset mene juttelemaan Amiraali ZEXille hänen planeetalleen Alfa Cerenkovissa.
+Hän (Äägh!) pitää ihmisistä.
+
+#(GENERAL_INFO_HOSTILE_2)	vux-049.ogg
+Katso noita kellertävänvalkoisa kovia.. juttuja suussasi!
+Miten voit olla purematta irti tuota pehmeää elintä... Iljettävää!
+
+#(GENERAL_INFO_HOSTILE_3)	vux-050.ogg
+Yäk! Älä näytä kieltäsi tuolla tavalla. Se tekee minut sairaaksi.
+
+#(GENERAL_INFO_HOSTILE_4)	vux-051.ogg
+Unohda se, ihminen. Emme voi ajatella selkeästi kun meidän täytyy katsoa teitä.
+Jos olet yksinäinen, mene Alpha Cerenkoviin ja puhu sen perverssin, Amiraali ZEXin, kanssa.
+
+#(cant_we_be_friends_1)
+Miksemme voi olla ystäviä? Minä pidän teistä.
+
+#(NEVER_UGLY_HUMANS_1)	vux-052.ogg
+Kuuntelin. Kuulin. Tiedän että olet kuten minä.
+Mutta ongelma on, että HALVEKSIN sinua!
+Josta johtuu se että hyökkään juuri nyt, jos ihmettelit.
+
+#(cant_we_be_friends_2)
+Yhteistyöstämme olisi paljon hyötyä! Yrittäkää edes.
+
+#(NEVER_UGLY_HUMANS_2)	vux-053.ogg
+Hyvä on, minä yritän pitää sinusta.
+Minä todella yritän.
+EI! Tämä ei koskaan tule toimimaan.
+Joka kerta kun mietin ystävällistä hymyilevää naamaasi
+(Äägh!) Haluan pilkkoa sen.
+Minulla on parempi idea. Taidan vain tappaa sinut.
+
+#(cant_we_be_friends_3)
+Eikö kukaan ole koskaan kertonut teille, että "Kirjaa ei voi arvostella kantensa perusteella"?
+
+#(NEVER_UGLY_HUMANS_3)	vux-054.ogg
+Tahdotko tietää kuinka ruma olet meille VUXeille? Minäpä kerron.
+Te ihmiset olette NIIN rumia, että saan lapseni käyttäytymään vain pitämällä kuvaanne selkäni takana
+ja kertomalla lapsille että jos he eivät käyttäydy hyvin, näytän sen heille!
+Olen niin huono isä (nyyh!).. Sinut täytyy tuhota... Lasten puolesta!
+
+#(cant_we_be_friends_4)
+Olette pelkkä kiihkoilijalauma. Luulin teitä paremmiksi.
+
+#(NEVER_UGLY_HUMANS_4)	vux-055.ogg
+Tämä ON nolostuttavaa. Me ylpeilemme olevamme johdonmukaisia!
+Mutta olet niin iljettävä että minusta tuntuu että minun on PAKKO tappaa sinut!
+Kuten juuri nyt!
+
+#(bye_hostile_space)
+No, TÄMÄPÄ on ollut hyödytöntä. Hyvästi.
+
+#(GOODBYE_AND_DIE_HOSTILE_SPACE_1)	vux-056.ogg
+Ihminen, ottaen huomioon alaisuutemme Ur-Quaneille
+ja yleisen iljettävän ulkomuotonne, olemme päättäneet ampua teidät palasiksi.
+
+#(GOODBYE_AND_DIE_HOSTILE_SPACE_2)	vux-057.ogg
+Odota! Minulla on vielä yksi asia sanottavana
+Kuole!
+
+#(GOODBYE_AND_DIE_HOSTILE_SPACE_3)	vux-058.ogg
+Kokonaisuuden kannalta on parasta että lopetan ällöttävän olemassaolosi.
+
+#(GOODBYE_AND_DIE_HOSTILE_SPACE_4)	vux-059.ogg
+Meillä ei ole vaihtoehtoja. Olette liian kauheita. Me tuhoamme teidät.
+
+#(OUT_TAKES) vux-060.ogg
+Voi ei! Se on taas yksi noista yli-inhottavista ihmisistä!
+Äkkiä, piilota silmäsi!
+AAGH! Katsokaa tuota pehmeää punaista juttua sen suussa...
+...kuinka se värisee ja vääntelehtii kuin märkä verimato...
+...ja leikkii noilla valkoisilla nysillä jotka työntyvät sen kalloluusta!
+Luulen, että oksennan.
+

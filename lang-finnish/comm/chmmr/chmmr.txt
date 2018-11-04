@@ -1,0 +1,363 @@
+#(WHY_YOU_HERE_1)	chmmr-000.ogg
+me olemme chenjesut... me olemme mmrnmhrmit
+emme ymmärrä miten olet läpäissyt orjakilven tai miksi
+mutta tehdessäsi niin olet häirinnyt prosessia
+selitä tämä tunkeilu.
+
+#(WHY_YOU_HERE_2)	chmmr-001.ogg
+taas kerran häiritset prosessia... miksi?
+
+#(WHY_YOU_HERE_3)	chmmr-002.ogg
+läsnäolosi on tuskallista meille... mitä tahdot?
+
+#(WHY_YOU_HERE_4)	chmmr-003.ogg
+läsnäolosi on tuskallista meille... mitä tahdot?
+
+#(find_out_whats_up)
+Tulimme katsomaan, miten voitte.
+
+#(HYBRID_PROCESS)	chmmr-004.ogg
+vaikka aluksesi malli on tuntematon meille
+ymmärrämme nyt että olet ihminen ja jaamme täten teille
+syymme siihen, miksi hyväksyimme olomme ur-quanien orjina
+vuonna 2135 meidän suuri liittomme paloi tietoisuuden vaskoolissa
+vaikka meidän aseistetut laivastomme pitivätkin hierarkian hirvittävää armadaa monta vuotta kaukana
+lopussa ur-quanit päästivät niin vastustamattoman voiman yllemme
+tiesimme, että meidät hävitettäisiin jos emme alistuisi
+tämä pysäyttämätön voima, tämä ainutlaatuinen ase oli jättimäinen avaruusalus
+pysäyttämätön taisteluasema jonka muinaiset edelläkävijät rakensivat aikoinaan
+sinun kulkuneuvosi jakaa muutamia yhtäläisyyksiä ur-quanien taisteluaseman kanssa
+jota he kutsuvat nimellä `sa-matra', joka tarkoittaa `suurta palkintoa'
+sa-matra oli monta kertaa suurempi kuin sinun aluksesi, ja sillä oli aseita ja puolustusmekanismeja
+jotka tekivät siitä haavoittumattoman kaikille teknologioillemme
+se pysyy mysteerinä, miksi ur-quanit taistelivat kanssamme niin kauan aikaa käyttämättä sa-matraa
+mutta kun he lopulta toivat aluksen taisteluun
+sa-matra kärvensi hienoimmat hautomo-aluksemme kymmenen kertaa kauempaa kuin omien alustemme aseet kantoivat
+meillä ei ollut muita vaihtoehtoja kuin alistuminen tai tuhoutuminen
+ennen kuin ur-quanit saapuivat hyväksymään antautumisemme, lähetimme viimeisen viestin kansallenne
+viesti, jossa ehdotettiin että lajisi tekisi kuten me mmrnmhrmit ja chenjesut aioimme tehdä
+hyväksyisimme ur-quanien vaatimukset ja tulisimme orjiksi
+kunnes keksisimme keinon tuhota tai neutralisoida sa-matra.
+
+#(need_help)
+Kamppailemme Ur-Quaneja vastaan. Ettekö voi auttaa meitä?
+
+#(CANT_HELP)	chmmr-005.ogg
+emme voi auttaa nyt... olemme prosessin keskivaiheessa.
+minä selitän
+sen jälkeen kun chenjesut ja mmrnmhrmit hävisivät ur-quaneille
+me päätimme, että meidät vangittaisiin yhden orjakilven alle
+heti kun ur-quanit poistuivat, aloitimme prosessin
+me aloitimme kahden lajimme, kahden kulttuurimme yhdistymisen
+yksi kristallinen, toinen täysin mekaaninen
+tämä prosessi, ainoastaan aurinkomme säteilyn ajama
+tulee aikanaan tuottamaan uuden hybridirodun
+ja kun prosessi on valmis, me murramme ur-quanien orjakilven
+ja nousemme kotelostamme kuin siivellinen hyönteinen kotelostaam
+sitten olemme valmiita ja kykeneväisiä huolehtimaan ur-quaneista, heidän taisteluorjistaan
+sekä kammoksutusta sa-matrasta.
+
+#(why_no_help)
+Mutta miksette voi auttaa meitä nyt?!
+
+#(LONG_TIME)	chmmr-006.ogg
+chenjesujen ja mmrnmhrmien lajien keinotekoisen yhdistymisen valmistuminen
+vie noin kolmekymmentäviisi teidän maan vuottanne
+tämä pitkä aika on välttämätön koska meidän yhdistymismekanismimme
+on riippuvainen vain ja ainoastaan auringostamme.
+
+#(what_if_more_energy)
+Mitä jos me keksimme jonkun keinon hankkia teille lisää energiaa? Nopeuttaisiko se asioita?
+
+#(DANGER_TO_US)	chmmr-007.ogg
+se mitä kerrot meille on teoreettisesti mahdollista
+mutta se on myös suuri vaara meille
+prosessin täytyy sujua niinkuin se on suunniteltu... tai se saattaa kaatua katastrofaalisesti
+me tuhoutuisimme.
+
+#(need_advice)
+Me todella tarvitsemme teiltä apua.
+
+#(WHAT_ADVICE)	chmmr-008.ogg
+viisautemme on saatavilla... ilmaise mitä tarvitset.
+
+#(how_defeat_urquan)
+Kuinka luulette että voisimme voittaa Ur-Quanit?
+
+#(DEFEAT_LIKE_SO)	chmmr-009.ogg
+sinun täytyy löytää keino tuhota sa-matra
+tehdäksesi tämän sinulla täytyy olla tarpeeksi voimakas ase kokonaisen planeetan murskaamiseen
+eikä siinä vielä kaikki
+sinulla täytyy myös olla keino hämätä ur-quaneita
+jotta saisit tilaisuuden käyttää asetta.
+
+#(what_about_tpet)
+Näytän omistavan dnyarrin. Mitä tuumitte siitä?
+
+#(SCARY_BUT_USEFUL)	chmmr-010.ogg
+tunnemme dnyarrit ainoastaan legendasta
+missä ne kuvailtiin julmuuden ja pahuuden ruumiillistumina
+jos on koskaan ollut paholaista, kapteeni, se oli dnyarri
+kuitenkin, tämä olento jonka omistat on yksi tätä muinaista lajia
+sen henkiset voimat saattavat olla hyödyllisiä ur-quanien hämmentämiseen.
+
+#(what_about_bomb)
+Minulla on tämmöinen valtava pommikapine, jonka sain utwigeiksi kutsutulta rodulta. Onko se oikeasti ase?
+
+#(ABOUT_BOMB)	chmmr-011.ogg
+laite josta puhut on valtava antimateriapommi... jos olisit käynnistänyt sen
+ase olisi hävittänyt aluksesi ja kaiken muun viidensadan kilometrin säteellä
+tämän aseen tuhovoima on niin suuri, että se käy kaikista tärkeimpään tehtävääsi minkä ikinä saat
+sa-matran, ur-quanien lähes tuhoutumattoman taisteluaseman neutralisointi.
+
+#(what_about_sun_device)
+Minä öö... lainasin erään laitteen Myconeilta. Tiedättekö mikä se on?
+
+#(ABOUT_SUN_DEVICE)	chmmr-012.ogg
+emme tunnista laitetta
+mutta se näyttää olevan edelläkävijöiden laite joka voi säteillä suuria määriä energiaa.
+
+#(what_about_samatra)
+Mitä muuta voitte kertoa Sa-Matrasta?
+
+#(ABOUT_SAMATRA)	chmmr-013.ogg
+olemme nähneet sen vain kerran, kun se murskasi voimakkaimman laivastomme
+se oli muutama kertaa isompi kuin sinun aluksesi
+sen rosoisesta rungosta pullisteli outoja aseita
+mutta vaarallisin piirre sa-matrassa olivat sen hävittämisrenkaat...
+tällä aseella he pystyivät höyrystämään aluksia kokonaisen aurinkokunnan laidalta
+tai leikkaamaan leveitä tuhon viiltoja planeetan yli sekunneissa.
+
+#(enough_advice)
+Kiitos! Tämä riittikin tällä kertaa.
+
+#(OK_ENOUGH_ADVICE)	chmmr-014.ogg
+vaikka läsnäolosi täällä onkin tuskallinen tunkeutuminen
+me jaamme neuvoja aina kun pyydät niitä, kapteeni.
+
+#(bye_shielded)
+Näkemiin Chenjesut. Näkemiin Mmrnmhrmit.
+
+#(GOODBYE_SHIELDED)	chmmr-015.ogg
+näkemiin nykyinen ja tuleva liittolainen, ihminen... kun prosessi on valmis ja me nousemme kotelostamme
+tulen kertomaan lapsenlapsillesi tämän päivän keskustelustamme.
+
+#(WE_ARE_FREE)	chmmr-016.ogg
+ME OLEMME VAPAITA!
+OLET TÄYTTÄNYT SYNTEESIMEKANISMIMME SÄTEILEVÄLLÄ ENERGIALLA.
+MINKÄ OLETETTIIN VIEVÄN VUOSIKYMMENIÄ TAPAHTUIKIN SEKUNNEISSA.
+PROSESSI EI OLE VALMIS, MUTTA SILTI OLEMME NOUSSEET.
+ME OLEMME CHMMRIT.
+
+#(WHO_ARE_YOU)	chmmr-017.ogg
+KEITÄ OLETTE?
+
+#(i_am_captain0)
+Olen kapteeni 
+#(i_am_captain1)
+ ja komennan alustani 
+#(i_am_captain2)
+.
+
+#(i_am_savior)
+Olen se tyyppi joka yrittää pelastaa galaksia.
+
+#(i_am_silly)
+Kukako olen? Minä? Öö... piru! Unohdin justiinsa.
+
+#(WHY_HAVE_YOU_FREED_US)	chmmr-018.ogg
+MIKSI OLET HÄIRINNYT PROSESSIA?!!!
+
+#(serious_1)
+Me kamppailemme vapauttaaksemme kaikki rodut Ur-Quaneilta. Tarvitsemme apuanne.
+
+#(serious_2)
+Olette Allianssin vapauden palauttamisen avain.
+
+#(silly)
+Halusin nähdä miltä te näytätte ilman sitä oranssia sotkua.
+
+#(WILL_HELP_ANALYZE_LOGS)	chmmr-019.ogg
+TARPEESI TÄYTYY OLLA SUURI, KOSKA OLET RISKEERANNUT NIIN PALJON
+AINOASTAAN TUODAKSESI MEIDÄT SUOJAN LÄPI.
+EMME OLLEET VALMIITA... MUTTA SE ON JO HISTORIAA.
+MIKÄ ON TEHTY ON TEHTY.
+AIKOMUKSESI ON PYSÄYTTÄÄ UR-QUANIT... HYVÄ ON.
+OLEMME VALMIIT AUTTAMAAN SINUA KAIKIN KEINOIN MITÄ VOIMME.
+MEIDÄN TÄYTYY ENSIMMÄISEKSI KERTOA, ETTÄ ENNEN KUIN MEIDÄN LAITETTIIN ORJAKILVEN ALLE
+YMMÄRSIMME ETTÄ AINOA TODELLINEN KEINO UR-QUANIEN VOITTAMISEEN
+OLISI TUHOTA HEIDÄN EDELLÄKÄVIJÄ- TAISTELUASEMANSA... SA-MATRA.
+TÄMÄ ALUS ON VASTUUSSA HIERARKIAN VOITOSTA.
+KUN SE TUOTIIN MEIDÄN MAAILMOJAMME VASTAAN, EMME VOINEET VASTUSTAA SITÄ.
+TÄMÄN TÄYTYY OLLA ENSISIJAINEN TEHTÄVÄSI. TÄMÄ ON SINUN VÄISTÄMÄTÖN PÄÄMÄÄRÄSI.
+TIEDÄMME, MIKÄ ON VÄLTTÄMÄTÖNTÄ TÄMÄN SAAVUTTAMISEEN
+MUTTA ENSIN MEIDÄN TÄYTYY TIETÄÄ MITÄ OLET JO OPPINUT
+JOTEN ME SKANNAAMME ALUKSESI TIETOPANKIT JA LOKIT.
+KAS NÄIN.
+PROSESSI ON VALMIS. NYT VOIMME KESKUSTELLA SIITÄ, MITÄ SINUN TÄYTYY TEHDÄ.
+
+#(YOU_KNOW_SAMATRA)	chmmr-020.ogg
+SINULLA ON JO TARPEELLISET TIEDOT SEN PÄÄTTELEMISEEN, ETTÄ SA-MATRA
+LÖYTYY DELTA CRATERIKSEN AURINKOKUNNASTA.
+
+#(DONT_KNOW_ABOUT_SAMATRA)	chmmr-021.ogg
+SINUN TÄYTYY LÖYTÄÄ UR-QUANIEN SA-MATRA -ALUS.
+JOS ET LÖYDÄ SITÄ ITSE, NIIN KYSY NOILTA MUILTA, JOTKA OVAT LÄHELLÄ UR-QUANEJA.
+EHKÄ HE TIETÄVÄT.
+
+#(NEED_DISTRACTION)	chmmr-022.ogg
+SA-MATRA ON VARMASTI RASKAASTI VARTIOITU.
+PÄÄSTÄKSESI TARPEEKSI LÄHELLE SA-MATRAA
+SINUN TÄYTYY LUODA JOKIN HARHAUTUS.
+
+#(HAVE_TALKING_PET)	chmmr-023.ogg
+OLEMME HAVAINNEET DNYARRIN LÄSNÄOLON ALUKSESSASI.
+VAIKKA OLIO ONKIN TÄYSIN PAHA, JA USKOMATTOMAN VAARALLINEN
+TAALOJEN LAITE JONKA SINÄ OMISTAT ON TOIMIVASTI KUMONNUT OLENNON VOIMAT SINUUN.
+SE TULEE KUITENKIN TEKEMÄÄN TODELLA ERINOMAISTA TYÖTÄ UR-QUANIEN HÄMÄÄMISESSÄ TARPEEKSI KAUAN
+JOTTA VOISIT LÄHESTYÄ SA-MATRAA JA TUHOTA SEN.
+
+#(NEED_WEAPON)	chmmr-024.ogg
+VOITTAAKSESI UR-QUANIT SINUN TÄYTYY TUHOTA SA-MATRA -TAISTELUASEMA.
+AINOA KEINO, MINKÄ ME VOIMME VISIOIDA TÄMÄN TOTEUTTAMISEEN ON SUUREN RÄJÄHTEEN LAUKAISU
+TAISTELUASEMAN LÄHELLÄ, AIVAN LÄHIETÄISYYDELLÄ.
+USKOMME, ETTÄ AINOA ASE, JOKA VOI TUOTTAA RIITTÄVÄN TUHOVOIMAN
+OLISI MATERIA-ANTIMATERIAPOMMI, MUTTA EMME OSAA RAKENTAA ITSE SELLAISTA.
+
+#(HAVE_BOMB)	chmmr-025.ogg
+SINULLA ON ANTIMATERIAPOMMI, SE ON HYVÄ.
+MUTTA JOS OLISIT AKTIVOINUT SEN, LAITE OLISI HÄVITTÄNYT LAIVASI
+JA KAIKEN MUUN VIIDENSADAN KILOMETRIN SÄTEELTÄ.
+SILTIKIN MEIDÄN TÄYTYY PARANTAA LAITETTA, LISÄTÄKSEMME SEN VOIMAA OMALLA KRISTALLITEKNOLOGIALLAMME.
+TÄMÄN ASEEN TUHOPOTENTIAALI TEKEE SIITÄ SILLOIN SOPIVAN
+KAIKISTA TÄRKEIMMÄLLE TEHTÄVÄLLE MINKÄ IKINÄ OTAT VASTAAN
+SA-MATRAN, UR-QUANIEN LÄHES VOITTAMATTOMAN TAISTELUASEMAN NEUTRALISOINTI.
+
+#(RETURN_WHEN_READY)	chmmr-026.ogg
+PALAA KUN OLET KERÄNNYT KAIKKI NE ASIAT, JOISTA KERROIMME SINULLE.
+
+#(YOU_ARE_READY)	chmmr-027.ogg
+OLET VALMIS...
+
+#(further_assistance)
+Voitteko tarjota enää yhtään lisäapua?
+
+#(NO_FURTHER_ASSISTANCE)	chmmr-028.ogg
+EMME VOI AUTTAA SINUA ENNEN KUIN OLET KERÄNNYT KAIKKI TARPEELLISET ASIAT.
+
+#(tech_help)
+Teillä näyttää olevan parempaa teknologiaa. Jakaisitteko sitä meille?
+
+#(USE_OUR_SHIPS_BEFORE)	chmmr-029.ogg
+ME ANNAMME TEILLE SUUNNITELMAT UUTEEN TAISTELUALUSLUOKKAAN... AVATARIIN
+JA TARPEEKSI CHMMREITÄ KOMENTAMAAN JOKAISTA ALUSTA JONKA RAKENNAT.
+AVATAR- TAISTELUALUKSET OVAT PALJON TEHOKKAAMPIA KUIN HAUTOMO- TAI X-MUOTO -ALUKSEMME.
+OSAAVISSA KÄSISSÄ NÄMÄ ALUKSET VOIVAT TUHOTA MINKÄ TAHANSA ALUKSEN AVARUUDESSA.
+
+#(where_weapon)
+Mistä löydän tämän superaseen josta kerroitte?
+
+#(PRECURSOR_WEAPON)	chmmr-030.ogg
+OLEMME KUULLEEN HUHUJA MOISESTA LAITTEESTA, EDELLÄKÄVIJÖIDEN PLANETAARINEN MUOKKAUSLAITE.
+SE LÖYTYY JOSTAKIN KAUKAA YTIMEEN PÄIN
+YSTÄVÄLLISEN RODUN OMISTUKSESSA.
+EMME VOI ANTAA ENÄÄ YHTÄÄN LISÄINFORMAATIOTA.
+
+#(where_distraction)
+Mikä voisi hämätä Ur-Quaneja?
+
+#(PSYCHIC_WEAPONRY)	chmmr-031.ogg
+TUTKIMUKSISSAMME OLEMME OPPINEET, ETTÄ UR-QUANIT OVAT ERITYISEN ALTTIITA PSYYKKISELLE MANIPULAATIOLLE.
+SINUN PARAS STRATEGIASI OLISI LÖYTÄÄ TÄMÄNTYYPPINEN ASE.
+OLE TIETOINEN, ETTÄ SUURIN OSA PSYYKKISISTÄ ASEISTA EI OLE MEKAANISIA RAKENNELMIA.
+NE OVAT YLEENSÄ ÄLYKKÄITÄ ELÄMÄNMUOTOJA, USEIN VIHAMIELISIÄ.
+
+#(what_now)
+No, mitä nyt sitten tapahtuu?
+
+#(WE_WILL_IMPROVE_BOMB)	chmmr-032.ogg
+OLET TÄYSIN VALMIS KOITOKSEEN.
+SINULLA ON HYVÄT MAHDOLLISUUDET PYSTYÄ TUHOAMAAN SA-MATRA
+JA PYSÄYTTÄMÄÄN SEKÄ UR-QUANIT JA KOHR-AHIT.
+
+#(MODIFY_VESSEL)	chmmr-033.ogg
+LIITÄMME NYT EDELLÄKÄVIJÖIDEN ASEEN JA OMAT KRISTALLITEHOSTEEMME ALUKSEESI.
+KUN OHJAAMME OSAN ALUKSESI FUUSIOVOIMASTA OSAN ASEEN LAUKAISUKAMMIO LÄPI
+SEN TUHOVOIMA MONINKERTAISTUU SUURELLA KERTOIMELLA.
+
+#(wont_hurt_my_ship)
+Me siis ammumme tämän aseen Sa-Matraan, eikö vain? Tämä ei satuta alustani, eihän?
+
+#(WILL_DESTROY_IT)	chmmr-034.ogg
+ALUKSESI TULEE TUHOUTUMAAN TÄYDELLISESTI.
+
+#(bummer_about_my_ship)
+Kas. Huh, tämäpä on paha asia. Oletan, ettemme voi tehdä mitään tämän muuttamiseksi, vai voimmeko?
+
+#(DEAD_SILENCE)	chmmr-035.ogg
+EMME.  
+
+#(other_assistance)
+Voitteko antaa meille vielä apua?
+
+#(USE_OUR_SHIPS_AFTER)	chmmr-036.ogg
+KOSKA MEIDÄN MUUTOKSEMME TULEVAT HEIKENTÄMÄÄN LIPPULAIVAASI SUURESTI
+TARVITSET LISÄÄ TAISTELUALUKSIA SUOJAKSESI
+JOTTA VOISIT LÄHESTYÄ SA-MATRAA TARPEEKSI RÄJÄYTTÄÄKSESI ASEEN.
+ANNAMME TEILLE SUUNNITELMAT UUSIIN AVATAR-LUOKAN TAISTELUALUKSIIN.
+OSAAVISSA KÄSISSÄ NÄMÄ ALUKSET OVAT TASAVERTAISIA SEKÄ UR-QUANIEN ETTÄ KOHR-AHIEN ALUKSIEN KANSSA.
+
+#(proceed)
+Hyvä on. Aloittakaa muutokset.
+
+#(TAKE_2_WEEKS)	chmmr-037.ogg
+ALUKSESI MUUTOKSIEN SAAMINEN VALMIIKSI VIE NOIN KAKSI VIIKKOA.
+JOTTA SINÄ JA IHMISKUMPPANISI VOISIVAT TEHDÄ VÄLTTÄMÄTTÖMÄT VALMISTELUT AVARUUSASEMALLANNE
+SIIRRÄMME SINUT JA MIEHISTÖSI TAKAISIN MAAHAN VÄLITTÖMÄSTI.
+HYVÄÄ ONNEA, KAPTEENI.
+
+#(HELLO_AFTER_BOMB_1)	chmmr-038.ogg
+TERVEHDIMME SINUA, IHMISKAPTEENI. MITÄ TARVITSET MEILTÄ?
+
+#(HELLO_AFTER_BOMB_2)	chmmr-039.ogg
+TERVETULOA TAKAISIN, IHMINEN. MIKSI OLET PALANNUT?
+
+#(whats_up_after_bomb)
+Oletteko saaneet tietää mitään uutta sen jälkeen, kun olin täällä viimeksi?
+
+#(GENERAL_INFO_AFTER_BOMB_1)	chmmr-040.ogg
+KYLLÄ. OLEMME TEHNEET KAKSI JOHTOPÄÄTÖSTÄ
+YKSI: SA-MATRAN SIJAINTIPAIKKA ON ERISTETTY CRATERIKSEN TÄHDISTÖN TÄHTIIN.
+ETSI ASEMAA TÄLTÄ ALUEELTA.
+KAKSI: KOSKA UR-QUANIT MENETTIVÄT NIIN MONTA ALUSTA, KUN SHOFIXTIT RÄJÄYTTIVÄT TÄHTENSÄ
+KOHR-AHIEN JOUKOT OVAT RÄIKEÄSTI SUUREMMAT KUIN UR-QUANIEN.
+JOS SOTA EI OLE OHI UR-QUANIEN JA KOHR-AHIEN VÄLILLÄ, SE TULEE OLEMAAN PIAN
+JA KOHR-AHIT OVAT VOITTAVA. KUN TÄMÄ TAPAHTUU, KOHR-AHIT KULKEVAT AVARUUDEN LÄPI
+TUHOTEN KAIKKI ÄLYKKÄÄT LAJIT YKSITELLEN, KUNNES MITÄÄN EI OLE ENÄÄ JÄLJELLÄ.
+ET SAA ANTAA SEN HÄIRITÄ! SA-MATRA ON HEIDÄN JOHTOASEMANSA AVAIN!
+TUHOA HEIDÄN PYHITETTY TROFEENSA, JA LIITTOUTUNEINA ME VOIMME LYÖDÄ HEIDÄN LAIVASTONSA.
+
+#(GENERAL_INFO_AFTER_BOMB_2)	chmmr-041.ogg
+OLEMME KERTONEET SINULLE KAIKEN MITÄ TIEDÄMME.
+MENE CRATERIKSEN JÄRJESTELMÄÄN. LÖYDÄ SA-MATRA. KÄYTÄ DNYARRIN VOIMIA.
+TUHOA SA-MATRA!
+
+#(what_do_after_bomb)
+Eli mitä minä teen NYT?
+
+#(DO_AFTER_BOMB)	chmmr-042.ogg
+LÖYDÄ SA-MATRA. MENE SINNE SUURIMMALLA NOPEUDELLA!
+KÄYTÄ DNYARRIN VOIMIA, JA KUN UR-QUANIT OVAT KAAOKSESSA, TUHOA SA-MATRA!
+
+#(bye_after_bomb)
+Palaan kun tämä kaikki on ohi, toivoakseni.
+
+#(GOODBYE_AFTER_BOMB)	chmmr-043.ogg
+OLET VALMIS. ROHKEUS JA ONNI PUOLELLASI TULET VOITTAMAAN.
+
+#(bye)
+Näkemiin. Tulemme takaisin kun meillä on kaikki mitä tarvitsemme.
+
+#(GOODBYE)	chmmr-044.ogg
+ME ODOTAMME PALUUTASI.
+

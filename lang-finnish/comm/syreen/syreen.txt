@@ -1,0 +1,679 @@
+#(HELLO_BEFORE_AMBUSH_1)	syreen-000.ogg
+Huomio, tunnistamaton avaruusalus!
+Olkaa varoitetut! Tämä orjamaailma ja sen asukkaat kuuluvat Ur-Quaneille.
+Olen orjaplaneetta Gaian avaruusaseman komentaja Talana.
+Aluksenne ei vastaa standardeihin Hierarkian tunnistussarjoihin.
+Teidät on täten luokiteltu Itsenäisiksi ja... MITÄ?!
+Näyttääkö monitorini oikein?!
+Komentaako tuota alusta ihminen?
+Keitä te oikein olette?
+
+#(HELLO_BEFORE_AMBUSH_2)	syreen-001.ogg
+Hei taas, miellyttävä Ihminen.
+Tapaamisesi uudestaan lämmittää minua.
+
+#(HELLO_BEFORE_AMBUSH_3)	syreen-002.ogg
+Tervetuloa takaisin, Maakalainen.
+Mitä tahdot meiltä?
+
+#(HELLO_BEFORE_AMBUSH_4)	syreen-003.ogg
+Niin, Kapteeni?
+
+#(we_are_vice_squad)
+Me olemme Siveyspoliisi. Perustelkaa tuo asu... Välittömästi!
+
+#(OK_VICE)	syreen-004.ogg
+Häh? MISTÄ sinä oikein puhut?
+Tämä on syreen-komentajan virkapuku.
+Tämän avaruusaseman ilma pidetään jatkuvasti 22 celsius-asteessa.
+Mihin meidän pitäisi pukeutua täällä... anorakkeihin?
+
+#(we_are_the_one_for_you_baby)
+Minä olen se oikea sinulle, beibi!
+
+#(MAYBE_CAPTAIN)	syreen-005.ogg
+Ah, aivan... olin melkein unohtanut ihmisten sosiaalisen viehätyksen hienostuneisuuden.
+Tavat eivät ole ikinä olleet maakalaisten vahvuuksia, vai mitä?
+Lajinne kiistämätön vetovoima löytyy... muualta.
+
+#(we_are_vindicator0)
+Olen kapteeni 
+
+#(we_are_vindicator1)
+ lippulaivasta 
+
+#(we_are_vindicator2)
+.
+
+#(WELCOME_VINDICATOR0)	syreen-006.ogg
+Terve, Kapteeni 
+
+#(WELCOME_VINDICATOR1)
+ avaruusaluksesta 
+
+#(WELCOME_VINDICATOR2)
+.
+
+#(we_are_impressed)
+Me olemme... olemme.. suuresti vaikuttuneita!
+
+#(SO_AM_I_CAPTAIN)	syreen-007.ogg
+Niin olen minäkin, Kapteeni. Niin olen minäkin.
+Maakalaiset ovat niin... niin... maailmallisia!
+
+#(HOW_CAN_YOU_BE_HERE)	syreen-008.ogg
+Mutta et ole vastannut kysymykseeni kunnolla.
+Miksi te olette täällä? Mistä te olette?
+Onko Maan orjakilpi kumottu?
+Onko Ur-Quanit lopultakin voitettu?
+Yksinkertaisesti sanoen, Kapteeni... mitä te tahdotte meiltä?
+
+#(we_here_to_help)
+Olemme tulleet tänne vapauttaaksemme teidät Ur-Quanien orjuudesta!
+
+#(NO_NEED_HELP)	syreen-009.ogg
+Kuules, ystäväiseni, arvostan tarjoustasi, mutta me emme tahdo teidän apuanne.
+Miksikö? Kerronpa sinulle miksi
+koska emme aio tehdä mitään Ur-Quanien vastustamiseksi. Sen vuoksi.
+Emme ehkä pidä orjuudesta, mutta se hemmetin paljon parempi näkymä kuin vaihtoehtomme.
+Alapuolellamme meillä on kaunis maailma... se ei ehkä ole Syra, mutta ainakin se on kotimme.
+Se on paljon enemmän kuin meillä ikinä oli ennen... ennen kuin Ur-Quaneista tuli isäntiämme.
+
+#(we_need_help)
+Totta puhuen, tarvitsemme apuanne Ur-Quanien tuhoamiseksi.
+
+#(CANT_GIVE_HELP)	syreen-010.ogg
+Kuule, Kapteeni... pidän sinusta... vaikka oletkin vastenmielinen ihminen... pidän sinusta.
+Toisena aikana meistä olisi saattanut tulla hyviä ystäviä... ehkä enemmänkin
+mutta se on fantasiaa, ja minun työni on huolehtia todellisuudesta.
+Emme aio tehdä mitään, joka vaarantaisi sen, mikä meillä on täällä.
+Olemme tulleet liian kauas... menettäneet liian paljon, ottaaksemme ikinä sitä riskiä, että menettäisimme Gaian, uuden kotimme.
+Älä tuomitse minua, Kapteeni... et tiedä, mitä olemme käyneet lävitse.
+
+#(i_need_you)
+Hei, beibi... sinä olet se mitä tarvitsen!
+
+#(OK_NEED)	syreen-011.ogg
+Kuule. Ihminen. Paina tämä mieleesi.
+Toisissa olosuhteissa saattaisin olla kiinnostunut venkoilustasi, olet tavallaan söpö
+mutta tilanteemme täällä on vakava, eikä meillä ole aikaa pelleilemiseen.
+Henkemme ovat vaakalaudalla, ja niin ovat teidänkin. Jos Ur-Quanit huomaavat teidän olleen täällä
+en tiedä mitä he tekevät meille... ja vielä vähemmän teille!
+Nyt, rupea vakavaksi... minä pyydän.
+
+#(i_need_touch_o_vision)
+Se, mitä tarvitsen juuri tällä hetkellä, on Kosketusnäyttö.
+
+#(TOUCH_O_VISION)	syreen-012.ogg
+Kuule. Ihminen. Paina tämä mieleesi.
+Toisissa olosuhteissa saattaisin olla kiinnostunut venkoilustasi, olet tavallaan söpö
+mutta tilanteemme täällä on vakava, eikä meillä ole aikaa pelleilemiseen.
+Henkemme ovat vaakalaudalla, ja niin ovat teidänkin. Jos Ur-Quanit huomaavat teidän olleen täällä
+en tiedä mitä he tekevät meille... ja vielä vähemmän teille!
+Nyt, rupea vakavaksi... minä pyydän.
+
+#(know_about_deep_children)
+Talana, oletko ikinä kuullut `Syvistä Lapsista?'
+
+#(WHAT_ABOUT_DEEP_CHILDREN)	syreen-013.ogg
+Kyllä, luulisin niin. Eivätkö ne ole jotenkin osa myconien uskontoa?
+Meillä on sodanaikaisia nauhoituksia myconien Hyperaaltolähetyksistä... aika outoja juttuja.
+Myconit ikään kuin vain.. hourivat, eikä heidän puheessaan koskaan ollut järkeä.
+Ne puhuivat paljon `Syvän Lapsista' ja `Valon Keihäistä'
+Mutta emme ikinä pystyneet ymmärtämään mistä ne puhuivat.
+
+#(mycons_involved)
+Mitä jos sanoisin sinulle, että myconien Syvät Lapset pirstovat planeettojen pintoja... kuten teidän Syranne?
+
+#(WHAT_PROOF)	syreen-014.ogg
+Mitä?! Mitä oikein sanoit?!
+Ihminen, sinun on parempi olla pilailematta. Syra ei ole mikään aihe Maan huumorille.
+No niin, mitä tarkoitat, pirstovat planeettojen pintoja? Kuinka?
+Niin KYLLÄ tapahtui Syralle, mutta oletimme sen olevan luonnonmullistuma... meteori.
+Onko sinulla todisteita siitä, että se oli jotain muuta... nämä Syvät Lapset?
+
+#(have_no_proof)
+Minulla ei ole todisteita VIELÄ, mutta olen varma, että myconit tuhosivat maailmanne.
+
+#(NEED_PROOF)	syreen-015.ogg
+Kapteeni, jos se mitä sanot on totta, se kääntäisi maailmani ylösalaisin.
+Teillä ei ole siihen verrattavaa surua, mitä jokainen syreen tuntee jokaisena elämämme päivänä
+kun muistamme mitä olemme menettäneet... Syran... Eedenimme.
+Pelkkä ajatuskin, että myconit, tai mikä tahansa muukalaislaji, on voinut olla valtuussa Syran tuhosta
+täyttää minut PALAVALLA RAIVOLLA!... ja sitten tahdon päästää raivon ulos ja ISKEÄ katsojaa!
+Jos se olisi totta, kukaan meistä ei lepäisi ennen kuin olisimme kostaneet sen tekijöille.
+Keksisimme jonkin keinon lähteä tältä avaruusasemalta, paikallistaa aluksemme, ja jahdata niitä pahoja hirviöitä!
+Kapteeni, jos ikinä saat todisteita siitä, mitä sanot, sinun TÄYTYY tiedottaa meitä välittömästi.
+Mutta ennen sitä... älä mainitse tätä aihetta uudestaan. Se on liian tuskallinen.
+
+#(have_proof)
+Talana, olen tuonut todisteen siitä, että myconien Syvät Lapset tuhosivat maailmanne Syran.
+
+#(SEE_PROOF)	syreen-016.ogg
+Anna minun nähdä tämä todiste, Kapteeni!
+
+#(look_at_egg_sacks)
+Katso näitä sienimäisiä munapusseja. Löysimme ne läheltä repeämää maankuoressa pirstoutuneesta maailmasta.
+
+#(HORRIBLE_TRUTH)	syreen-017.ogg
+Suuret jumalat! Nämä sirpaleet.. ne ovat IDENTTISIÄ niiden pirstaleiden kanssa, jotka löysimme läheltä Syran repeämiä!
+Emme ikinä arvanneet että sirpaleet saattaisivat olla orgaanisia!
+Että jokin selviäisi paluusta!... mikään orgaaninen ei säilyisi!... ellei
+ELLEI sitä rakennettu geneettisesti tätä tarkoitusta varten!
+JA VAIN MYCONEILLA ON SELLAINEN KYKY!!
+MYCONIT SAAVAT MAKSAA KALLIISTI RIKOKSISTAAN!!!
+Emme aio vain istua täällä tyhjän panttina samalla kun mycon-pirut voivat kuljeksia pitkin galaksia ja tehdä pahuuksiaan.
+Tahdoit yhteistyötämme Ur-Quaneja vastaan taistelemisessa. Sen saat... 
+olettaen, että autat meitä ensin saamaan kostomme myconien rotua vastaan... autat meitä tuhoamaan ne!
+
+#(what_doing_here)
+Niin, Komentaja Talana, mitä te oikein teette täällä?
+
+#(OUR_NEW_WORLD)	syreen-018.ogg
+Kun Ur-Quanit valloittivat meidät yli kaksikymmentä vuotta sitten
+olin vasta nuori tyttö, joka asui Elinpiirissä Kolmekymmentäyksi.
+Vanhempi sisareni, Diani, oli avaruusalusupseeri Avaruuspartiossa
+hän oli osa Raynetin viimeistä puolustuslinjaa... hän ei selvinnyt takaisin.
+Kun Ur-Quanit saivat meidät kiinni ulkoavaruudesta, me kaikki luulimme kuolevamme
+mutta sitten, sen sijaan että olisivat tappaneet meidät, Ur-Quanit tarjosivat meille valinnon
+saatoimme joko liittyä heidän taisteluorjiensa riveihin tai joutua orjakilven alle kotimaailmaamme.
+Kuten Maan ihmiset, mekin valitsimme rauhan. Meistä tuli kesanto-orjia.
+Kun Ur-Quanit käskivät meitä palaamaan kotimaailmaamme, selitimme että meillä ei ollut sellaista
+Ur-Quanien Isäntä Yhdeksän selitti, että he olivat kohdanneet tämän tilanteen ennenkin
+ja jos me toimittaisimme heille listan vaatimuksistamme
+he käyttäisivät laajoja astronomisia tietopankkejaan löytääkseen meille planeetan!
+Siispä me kerroimme heille Syrasta... sen taivaan väristä... runsaista moninaisista elämänmuodoista
+maaperän ja merien hedelmällisyydestä.
+Vähempää kuin tuntia myöhemmin saimme lyhytsanaisen viestin Isäntä Yhdeksältä
+meidän tuli edetä näihin koordinaatteihin ja lähteä aluksista. Se olisi uusi kotimme.
+En tiedä kuinka tai miksi, mutta uusi maailmamme, Gaia, oli kaikkea mitä olimme kertoneet, ja enemmän.
+Olimme etsineet kotiplaneettaa seitsemänkymmenenviiden vuoden ajan
+ja loppujen lopuksi vihollisemme olivat ne, joilta saimme sellaisen.
+Kasvoin pienellä saarella, joka oli erillään päämantereesta, ja kuten koko kansani
+me elimme jokaisen päivämme orjakilven punaisen, sairaan hehkun alla.
+Kun Ur-Quanit seitsemän vuotta sitten saapuivat kohentamaan ja uudelleenmiehittämään tätä avaruusasemaa
+minut valittiin uudeksi johtajaksi.
+
+#(what_about_war)
+Niin, mitä teille tapahtui sodan lopussa?
+
+#(ABOUT_WAR)	syreen-019.ogg
+Kun tapasimme kansasi ensimmäisen, olimme vaellelleet pitkin tähtiä melkein seitsemänkymmentäviisi vuotta
+aina sitten kotimaailmamme kuoleman... Syran.
+Liityimme Allianssiinne, ja käytän sanaa "liityimme" väljästi, koska meillä ei ollut muuta vaihtoehtoa.
+VUXit hyökkäilivät hitaiden Elinpiirikolonniemme kimppuun, eikä meillä ollut mitään muuta paikkaa minne mennä.
+Taistelimme eloonjäämisestä, Kapteeni. Emme mistään muusta.
+Kun kansasi Maassa oli voitettu, Allianssi yksinkertaisesti vain hajosi.
+Yehatit ja Shofixtit perääntyivät kotitähdilleen eivätkä halunneet meidän seuraavan.
+Arilout, ne karmivat pikku otukset, vain lähtivät käpälämäkeen -- katosivat
+jättäen meidät yksin, ilman mitään paikkaa minne mennä, suoraan Ur-Quanien Armadan reitille.
+Mitä meidän olisi pitänyt tehdä? Kaksi kolmasosaa Elinpiirilaivastostamme oli aseistamattomia!
+Monet eivät edes ole ohjauskelpoisia.
+Meidät olisi hävitetty jos olisimme vastustaneet, ja me tiesimme sen.
+Kun Ur-Quanit ympäröivät meidät ja alkoivat antaa käskyjä, jotka kaikki loppuivat `Tai Kuolkaa!'
+otimme ne vakavasti. Me tottelimme.
+Vaihdossa he antoivat meille Gaian, alhaalla olevan planeetan.
+Se on kaunis maailma, Kapteeni. Kunpa voisin näyttää sen sinulle.
+Älä siis ymmärrä minua väärin. Rakastamme vapauttamme yhtä paljon kuin kaikki muutkin
+mutta meillä on täällä hyvä elämä, emmekä halua menettää sitä.
+
+#(help_us)
+Jos rakastatte vapautta ja vihaatte Ur-Quaneja, miksette auta meitä?
+
+#(WONT_HELP)	syreen-020.ogg
+Kuten olen jo sanonut, Kapteeni, haluaisimme auttaa
+mutta emme halua ottaa sitä riskiä, että menettäisimme Gaian.
+Ellet pysty keksimään paljon pakottavampaa syytä, että saisit meidät tulemaan mukaan
+te olette omillanne.
+
+#(what_about_history)
+Kertoisitko minulle vähän kansastanne ja kulttuuristanne?
+
+#(BEFORE_WAR)	syreen-021.ogg
+Lajimme ovat miltei identtisiä, miltei turhankin lähellä toisiaan ollakseen pelkkää yhteensattumaa.
+Kehomme ovat hyvin samankaltaisia, Kapteeni.
+Ha! ha! Paitsi... tietyt osat...
+Myös kulttuurillinen kehityksemme on enimmäkseen yhdensuuntaista.
+Kuten te maakalaisetkin, me kehitimme alkukantaisista heimoista yhteiskunnan
+jonka päätarkoitus oli suojella itseämme maailmassamme esiintyneiltä suurilta matelijoilta.
+Suurin ero meidän kahden kulttuuriryhmämme välillä... eroaminen kehityksemme teillä
+tapahtui siinä vaiheessa, joka olisi ollut teidän esihistoriaanne, sanotaanko 5000 EKr.
+Teidän maailmassanne maanviljelysyhteisöt joutuivat alkeellisempien ja aggressiivisempien vaeltelevien paimentolaiskansojen valtaamiksi.
+Tämä johti tietyn laatuiseen seksuaaliseen ja poliittiseen valtajärjestelmään
+joka kyllästi miltei kaikki teidän Maan kulttuurinne aina 21. vuosisadan alkuun asti.
+Syrassa ainoat alkukantaiset vaeltevat heimot olivat eristyneet vuoristoisille alueille.
+Heidän karjaeläimensä, ymat, eivät parjänneet hyvin maanvieljelysjokialueilla ja tasangoilla
+niinollen nämä kaksi kulttuuria olivat eristäytyneet hyvin pitkään
+kunnes maanviljelijöiden tekninen edistyneisyys esti kaikki isot konfliktit.
+
+#(what_about_homeworld)
+Minkälainen Syra oli?
+
+#(ABOUT_HOMEWORLD)	syreen-022.ogg
+Se oli meidän paratiisimme, Kapteeni, meidän Eedenimme.
+Maa on ainoa maailma, jonka elämän monimuotoisuuden ja elämän rikkauden tiedämme pääsevän edes lähelle Syraa.
+Jälleen kerran, kuten niin monissa muissakin asioissa lajeissamme, maailmamme olivat hyvin samankaltaisia
+ainakin ennen kuin te aloitte peittää maailmaanne betoniin ja muoviin
+Syran painovoima oli hieman heikompi kuin Maan, ja sen päivä oli viisikymmentä prosenttia pitempi.
+Vuorokausikiertomme on näin ollen hieman erilainen kuin teidän.
+Kulutamme kaksikymmentä tuntia hereillä, jota seuraa kymmenen tunnin uni... tai ainakin... vaaka-asento.
+
+#(what_happened)
+Mitä Syralle tapahtui?
+
+#(DONT_KNOW_HOW)	syreen-023.ogg
+Tämä aihe on hyvin vaikea meille, Kapteeni
+mutta yritän kertoa noista surullisista päivistä.
+Kuten teidän aurinkokuntallanne, omallammekin oli suuri määrä komeettoja ja asteroideja.
+Suurten meteorien törmäykset, vaikkakin harvinaisia, eivät olleet mahdottomia planeetallamme.
+Niinpä ei ollut täydellinen shokki kun asteroidi lävisti ilmakehämme ja osui pintaan.
+Se, mikä oli outoa, oli se, että toisin kuin useimmat muut meteorit, tämä ei murskautunut törmäyksessä.
+Se läpäisi maankuoren ja meni todellakin aina vaippaan asti
+synnyttäen `supertulivuoren'.
+Törmäyksen aiheuttamat maanjäristykset olivat ankaria.
+Kalderasta pursunut laavaa sai aikaa merkittäviä vaurioita läheisessä maastossa
+mutta muutaman viikon sisällä se viilentynyt ja muodostanut kiinteän kivisidoksen haavan päälle.
+Muutaman viikon sisällä olimme puhdistaneet sotkun, kaldera viilentyi mukavasti
+ja asiat olivat aika lailla palanneet normaaleiksi.
+Sitten, hieman yli vuosi törmäyksen jälkeen, helvetti pääsi valloilleen Syran pinnalla.
+Kaikkialle muodostui valtavia kalderoita... ei vain törmäyspaikan ympärille, vaan kaikkialle!
+Katastrofin mittakaavaa on mahdotonta kuvitella
+Kokonaiset kaupungit vyöryivät sulaneen laavan meriin
+kilometrin laajuiset maa-alueet hajosivat hetkessä tomuksi kataklysmisissä räjähdyksissä
+ja myrkkykaasun ja superkuuman höyryn pilvet, jotka loivat kuolemanpilven syran ympärille.
+
+#(what_about_outfit)
+Kuules nyt, eikö tuo asu, veitsi mukaan lukien, ole vähän absurdi?
+
+#(HOPE_YOU_LIKE_IT)	syreen-024.ogg
+Ehkä jollain toisella kerralla, Kapteeni, voin näyttää sinulle virkapukuni piilotetun toiminnallisuuden
+veitsi mukaan lukien!
+
+#(where_mates)
+Mitä tapahtui lajinne miehille?
+
+#(MATES_KILLED)	syreen-025.ogg
+Kun Syra tuhoutui, ainoat, jotka selvisivät, olivat kiertoradalla
+ja useimmat heistä olivat vastaperustetun, enimmäkseen naisista koostuneen Avaruuspartiomme jäseniä.
+Aluksistaan, kiertorata-asemistaan ja kuusiirtokunnistaan he katsoivat kun Syra kuoli.
+Kolme päivää sen jälkeen kun mullistus oli alkanut, Syran pintalämpötila oli noussut melkein 75 astetta
+veden kiehumislämpötilan yläpuolelle.
+Tuli selväksi, että Syra, paratiisimme, Eedenimme, oli poissa.
+Selviytyjät kuluttivat vuosia kiertoradalla. He tekivät muutamia retkiä pinnalle
+ja löysivät oikeasti kourallisen selviytyjiä, mutta heidän päätoimintansa olivat lähtövalmistelut.
+Avaruuspartio asensi tilapäisiä ajoyksiköitä kaikkeen, mikä piti ilmaa
+kiertoratatehtaisiin, tutkimusasemiin, jopa hotelleihin. Kun laivasto oli valmis, he jättivät kiertoradan taakseen katsomatta.
+Lajimme lopullinen väkiluku oli vähemmän kuin kymmenen tuhatta, joista vain viisisataa oli miehiä
+mutta he olivat kansamme parhaimpia ja nokkelimpia.
+Seuraavien seitsemänkymmenenviiden vuoden ajan kansamme vaelteli aliavaruusnopeuksilla pitkin tähtiä
+etsien uutta kotia.
+
+#(get_lonely)
+Ettekö te ikinä tunne oloanne... yksinäisiksi? Hmmm?
+
+#(MAKE_OUT_ALL_RIGHT)	syreen-026.ogg
+Ha! ha! ha! Älä meistä huolehti, Kapteeni!
+Kyllä me pärjäämme pelkkien naisten kesken.
+
+#(bye)
+Näkemiin, Komentaja Talana. Minä palaan.
+
+#(GOODBYE)	syreen-027.ogg
+Siihen saakka, Maakalainen.
+
+#(MUST_ACT)	
+Kapteeni. Myconien hirviömäisen murhan salaisuus on muuttanut monen kansani jäsenen asenteet.
+Emme aio vain istua täällä tyhjän panttina samalla kun mycon-pirut voivat kuljeksia pitkin galaksia ja tehdä pahuuksiaan.
+Tahdoit yhteistyötämme Ur-Quaneja vastaan taistelemisessa. Sen saat... olettaen että
+autat meitä ensin saamaan kostomme myconien rotua vastaan... autat meitä tuhoamaan ne!
+
+#(whats_next_step)
+Okei. No mitä te sitten haluatte meidän tekevän?
+
+#(OPEN_VAULT)	syreen-028.ogg
+Ensimmäinen askeleemme on saada vähän liikkuvuutta.
+Meillä on asemalla joitakin hienoja avaruusalusupseereita, ja he kaikki ovat innokkaita taistelemaan myconeja vastaan
+mutta ilman Lävistäjä-aluksiamme olemme täysin tehottomia.
+Siispä ensimmäisen askeleemme TÄYTYY olla Avaruuspartiolaivastomme takaisin hankkiminen.
+Tiedämme, etteivät Ur-Quanit tuhonneet niitä... he eivät ikinä tuhlaa mitään
+mutta uskomme, että he ovat sulkeneet ne jonkinlaiseen syvään holviin muukalaisplaneetan pinnalle.
+
+#(where_is_it)
+Tiedättekö missä aluksenne ovat?
+
+#(DONT_KNOW_WHERE)	syreen-029.ogg
+Ei, se on sinun työtäsi.
+Mutta meillä on ehkä joitain vihjeitä auttamaan sinua lyötämään ne.
+Avaruusalusupseerit, jotka ohjasivat Lävistäjät holviin tekivät sen täydessä sensoripimennossa.
+Ainoa asia, jota he saattoivat käyttää navigointiin, oli heitä ympäröivän Taistelulaivojen laivaston läsnäolo.
+Kun he saavuivat määränpäähänsä ja laskivat aluksensa valtavaan holviin
+heidät siirrettiin Taistelulaivoihin ja he näkivät ulkomaailman vain silmänräpäykseltä.
+Heidän mukaansa aurinko oli joko punainen tai oranssi. Heidän matka-aikastaan tehtyjen laskelmien mukaan
+olisivat voineet matkata enintään 200 standardin hyperavaruusyksikön päähän.
+
+#(been_there)
+Olen jo ollut siellä. Holvi on Epsilon Camelopardalis 1:n kuussa, mutta en pystynyt avaamaan sitä.
+
+#(GREAT)	syreen-030.ogg
+Ihmeellistä! Työhän on sitten jo melkein tehty!
+
+#(GIVE_SHUTTLE)	syreen-031.ogg
+Kapteeni! Olemme koonneet pienen ryhmän kyvykkäimpiä upseereitamme.
+lähetämme heidät alukseenne omassa pienessä sukkulassaan.
+Meistä tuntuu että tehokkuuden nimissä on parasta pitää upseerimme erossa miehistöstänne
+ainakin siihen saakka että tehtävä on ohi.
+Heti kun saavutte holville, meidän väkemme ottaa ohjat, keksii tavan Holvien avaamiseksi
+ja tuo Lävistäjämme tänne.
+
+#(im_on_my_way)
+Olkoon sitten niin, Komentaja Talana. Lähdenpä tästä.
+
+#(doing_this_for_you)
+Muistathan vain, teen tämän sinun vuoksesi, Kullannuppu!
+
+#(if_i_die)
+Jos kuolen... muista vain että minä... minä... todella pidän sinusta!
+
+#(GOOD_LUCK)	syreen-032.ogg
+Hyvää onnea, urhea Maakalainen. Kun olet suorittanut tehtäväsi
+ehkä me voimme sitten... päästä tuntemaan toisemme paremmin.
+
+#(OK_FOUND_VAULT)	syreen-033.ogg
+Hyvä, nyt voimme edetä suunnitelmissamme KOSTAA myconeille!
+Meille näyttämiesi Syvän Lapsen sirpaleista tekemämme analyysin
+ja Sodan aikana nauhoitettujen mycon-lähetysten tarkastelun pohjalta
+olemme saaneet selville millaista maailmaa myconit haluavat kammottavia Syviä Lapsiaan varten.
+Ne tarvitsevat Maan tapaista planeettaa... tai meidän Syramme... sellaista, jossa on paljon vettä ja happea
+ja jossa on sula, aktiivinen vaippa.
+Suunnitelmamme on houkutella myconit sellaiselle planeetalle ja hyökätä sitten kun ne sitä vähiten odottavat.
+Tiedämme juuri sellaisesta planeetasta.
+Kun Ur-Quanit analysoivat valtavia planetaarisen datan tietopankkejaan löytääkseen uuden kodin kansalleni
+yksi lähimmistä ehdokkaista, heti seuraavana Gaian jälkeen, oli sininen maailma joka kiersi Organonia lähiradalla.
+Kapteeni, tarvitsemme palveluksiasi jälleen. Sinun pitää tehdä näin.
+Sinun tulee mennä myconien luo ja kertoa niille tästä maailmasta.
+Ne huomaavat maailman olevan sovelias, ja kun ne menevät Organoniin
+me olemme jo siellä... odottamassa niitä.
+Sitten me tuhoamme ne.
+
+#(what_now)
+Oletko varma, että myconit lankeavat tähän? Miksi he uskoisivat minua?
+
+#(HERES_THE_PLAN)	syreen-034.ogg
+Kaikesta pahuudestaan huolimatta, Kapteeni, myconit ovat naiivi rotu.
+Niillä on suuria vaikeuksia ymmärtää petturuutta.
+Jos kerrot niille sen, mitä ne tahtovat kuulla, ne uskovat sinua.
+
+#(whats_my_reward)
+Eli! Entäs jos kuolen tehdessäni tätä vaarallista juttua? Entäs sitten... me?
+
+#(HERES_REWARD)	syreen-035.ogg
+Pelkäänpä, että meidän MOLEMPIEN tehtävät tulevat olemaan vaarallisia, Kapteeni.
+Emme ehkä näe toisiamme enää koskaan.
+Mutta tällä hetkellä, ainakin, on tämä...
+
+#(bye_after_vault)
+Jään kaipaamaan sinua, Talana.
+
+#(GOODBYE_AFTER_VAULT)	syreen-036.ogg
+Älä huolehdi, ihmiseni. Tulemme olemaan taas yhdessä... jonain päivänä.
+
+#(HELLO_AFTER_AMBUSH_1)	syreen-037.ogg
+MENESTYS, Kapteeni! Myconien laivasto on kaaoksessa!
+OIKEUS ON MEIDÄN!
+Olemme kostaneet katalille myconeille!
+Ne lankesivat ansaamme niin täydellisesti!
+Kun ne lähestyivät Organon 1:stä, piileskelimme sen kuun takana.
+kun ne lähestyivät, niiden alukset hajosivat taistelumuodostelmasta
+niiden valmistautuessa kammottavaan istutusseremoniaansa.
+Odotimme kunnes ne olivat hajaantuneet täysin planeetan ympärille ja hyökkäsimme sitten!
+Myconien standarditaktiikka olisi ollut paeta kiertoradalta käyttämällä gravitaatioruoskamanööveriä
+mutta Palkolaivat kieltäytyivät hylkäämästä hitaasti liikkuvia Syvien Lasten itiöpalkoja.
+Ne pysyivät gravitaatiokaivossa, ja ME PILKOIMME NE SUIKALEIKSI!
+Niiden täytyi menettää tusina alusta oman typeryytensä takia... lentämällä omiin Plasmoideihinsa!
+Ja loput?... no, me huolehdimme useimmista niistä... omalla erityisellä tavallamme.
+ja, Kapteeni, nyt kun olemme saaneet kostomme myconeja vastaan
+annamme teille avaruusalusupseereitamme ja Lävistäjän suunnitelmat niin että voitte lisätä meidän aluksiamme
+laivastoonne.
+
+#(HELLO_AFTER_AMBUSH_2)	syreen-038.ogg
+Hei, urhea maakalainen. Paluusi on tervetullut.
+Kansani, syreenit, tulevat olemaan sinulle iäti velkaa.
+Itse asiassa monet upseerini haluavat kiittää sinua... henkilökohtaisesti... tekemistäsi palveluksista.
+Ehdotan että otat viikon vapaata joskus lähitulevaisuudessa
+niin että voit saada kunnolliset sankarin tervetuliaiset tällä avaruusasemalla.
+
+#(HELLO_AFTER_AMBUSH_3)	syreen-039.ogg
+Oi, Kapteeni! Kehoni vapisee yhä voiton huumasta!
+Niin monen vuoden ajan olemme uneksineet pääsevämme ohi rakastetun kotimaailmamme kuolemasta
+ja nyt se on lopultakin tapahtunut!
+Emme enää elä menneisyydessä... ole kiinni muistoissa siitä, mikä OLISI voinut olla.
+Nyt meistä jokainen suunnittelee tulevaisuutta... kirkasta huomista kohti!
+Ja tiedätkö mitä, Kapteeni?
+Minulla on suunnitelmia... Suunnitelmia, joiden kuuleminen kiinnostaisi sinua kovasti
+mutta säästän ne myöhemmäksi... kun voimme tavata... yksityisesti.
+
+#(HELLO_AFTER_AMBUSH_4)	syreen-040.ogg
+Ah! Kaunis Kapteenini Maasta!
+Mitä voin tehdä hyväksesi... kerro minulle.
+
+#(what_now_after_ambush)
+Onko mitään muuta mitä voin tehdä sinulle - öh! - tarkoitan, sinun HYVÄKSESI.
+
+#(DO_THIS_AFTER_AMBUSH)	syreen-041.ogg
+Kapteeni, seuraava askel on orjakilven laskeminen planeetaltamme.
+Mielestäni ainoat, jotka voisivat tehdä sen, ovat chenjesut
+ja tietääkseni he ovat oman kilpensä alla.
+Oikeastaan... minä vain välttelen todellista ongelmaa, Kapteeni.
+Työjärjestyksessäsi on oikeastaan vain yksi kohta... Tuhoa Ur-Quanien Hierarkia!
+Kuinkako teet sen? En ole varma
+mutta tiedän, että et voi hyökätä heitä vastaan suoraan, et edes tuolla hämmästyttävällä aluksellasi.
+Sinun tulee löytää heidän heikko kohtansa ja iskeä sitten siihen kaikin voimin.
+
+#(what_about_you)
+Mitä sinulle nyt sitten tapahtuu?
+
+#(ABOUT_ME)	syreen-042.ogg
+Luulen, että tulen olemaan aika kiireinen muutaman seuraavan kuukauden ajan
+valvoen Lävistäjä-aluksiemme laivaston korjauksia
+ja valmistellen jonkinlaista puolustusjärjestelmää tätä avaruusasemaa varten.
+Jos ja kun Ur-Quanit palaavat tänne, haluamme että meillä on valmiina pikku yllätys heille.
+
+#(whats_up_after_ambush)
+Niin, onko mitään uutta, Talana?
+
+#(GENERAL_INFO_AFTER_AMBUSH_1)	syreen-043.ogg
+Ei juurikaan, Kapteeni. Sinä tunnut olevan suurin jännityksen aihe täälläpäin.
+Olen saanut anomuksia suunnilleen jokaiselta upseeriltani komennossani
+että heidät siirrettäisiin Maan avaruusasemallenne palvelemaan alaisuudessasi.
+Jos en johtaisi tätä Avaruusasemaa, olisin ensimmäisenä jonossa.
+
+#(GENERAL_INFO_AFTER_AMBUSH_2)	syreen-044.ogg
+Olemme siepanneet keskittymää Hierarkian lähetyksiä
+mutta emme pysty kääntämään niiden sisältöä.
+Ne kaikki vaikuttavat olevan peräisin Horologiin tähdistön suunnasta.
+
+#(GENERAL_INFO_AFTER_AMBUSH_3)	syreen-045.ogg
+Ei mitään uutta ilmoitettavaa, Kapteeni.
+
+#(GENERAL_INFO_AFTER_AMBUSH_4)	syreen-046.ogg
+Ei mitään uutta ilmoitettavaa, Kapteeni.
+
+#(bye_after_ambush)
+Näkemiin, Talana.
+
+#(GOODBYE_AFTER_AMBUSH)	syreen-047.ogg
+Näkemiin, ihmiseni.
+
+#(FOUND_VAULT_YET_1)	syreen-048.ogg
+Oletko vielä löytänyt alusholvia?
+
+#(FOUND_VAULT_YET_2)	syreen-049.ogg
+Onko ollut menestystä alustemme löytämisessä, Kapteeni?
+
+#(vault_hint)
+ööh... ei. Onko teillä mitään hajua missä se on, edes arvausta?
+
+#(OK_HINT)	syreen-050.ogg
+Ainoastaan että holvi on punaisen tai ehkä oranssin tähden luona, eikä liian kaukana sijainnistamme.
+
+#(found_vault)
+Kyllä! Me löysimme sen Epsilon Camelopardalis 1:n kuusta.
+
+#(bye_before_vault)
+Näkemiin, Talana. Lähden etsimään holvia!
+
+#(GOODBYE_BEFORE_VAULT)	syreen-051.ogg
+Hyvää onnea, Kapteeni.
+
+#(what_do_i_get_for_this)
+Niin mitä minä hyödyn tästä, eh? Hmm? Eeh?
+
+#(GRATITUDE)	syreen-052.ogg
+Saat enemmän kiitollisuutta kuin millä tiedät mitä tekisit, Kapteeni.
+
+#(not_sure)
+Ööh... En ole ihan varma. Tämä kuulostaa vaaralliselta.
+
+#(PLEASE)	syreen-053.ogg
+Kapteeni, minä pyydän, tarvitsemme apuasi!
+
+#(READY_FOR_AMBUSH)	syreen-054.ogg
+Odotamme täällä myconeja.
+
+#(repeat_plan)
+Toistaisitko suunnitelman vielä kerran?
+
+#(OK_REPEAT_PLAN)	syreen-055.ogg
+Ok, tässä on suunnitelma, uudestaan.
+Sinun täytyy mennä myconien luo ja kertoa heille maailmasta Organonin tähtijärjestelmässä.
+Kertoa heille että olet löytänyt täydellisen maailman heidän kammottavia Syviä Lapsiaan varten.
+Piileskelemme siellä ja odotamme että he lankeavat väijytykseen.
+Sitten me tuhoamme heidät.
+
+#(bye_before_ambush)
+Hyvää onnea, Talana.
+
+#(GOODBYE_BEFORE_AMBUSH)	syreen-056.ogg
+Samaa sinulle, ihmiseni.
+
+#(what_about_us)
+Luulenpa, että se mitä tarkoitan on... Entä me, Talana?
+
+#(ABOUT_US)	syreen-057.ogg
+Pelkään, että velvollisuutemme pitävät meitä erossa, Kapteeni.
+Mutta tällä hetkellä, ainakin, on tämä...
+
+#(MORE_COMFORTABLE)	syreen-058.ogg
+Tämä on parempi... nyt
+anna minun päästää sinut eroon tästä
+kyllä... eikö olekin paljon mukavampaa?
+
+#(in_the_spirit)
+Ymmärrän! No, lajienvälisen viestinnän hengessä, salli minun sanoa vain että COWABUNGA!
+
+#(OK_SPIRIT)	syreen-059.ogg
+Oooh! Sano se sana uudelleen!
+Se saa minut kiihottumaan niin!
+Se saa minut tahtomaan, että teen jotain mukavaa sinulle
+kuten näin...
+ja näin...
+ja etenkin näin!
+
+#(what_in_mind)
+Hei... mitä sinulla on oikein mielessä?
+
+#(SOMETHING_LIKE_THIS)	syreen-060.ogg
+No, alkajaisiksi, ajattelin että tekisimme jotain tällaista
+jos lajisi vain on tarpeeksi notkeaa
+ja sitten ajattelin, että voisimme jatkaa jollakin, joka olisi vähän enemmän... Mmmm... tällaista.
+ja kunhan olet toipunut, ajattelin, että tämä saattaisi olla hauskaa!
+ja jos olet vielä tajuissasi, ajattelin että voisimme yrittää tätä
+vaikka en olekaan ikinä tehnyt sitä ennen!
+
+#(hands_off)
+Hei! Näpit irti, neitiseni! En ole SELLAINEN Kapteeni.
+
+#(OK_WONT_USE_HANDS)	syreen-061.ogg
+Oi, Kapteeni... En ikinä kuvittelisikaan tekeväni mitään epämiellyttävää sinulle
+pikemminkin päinvastaista, itse asiassa.
+Mutta jos tahdot minun pitävän näppini irti... Voin käyttää toisia... juttuja...
+kuten tätä täällä...
+ja tätä täällä...
+ja tätä tässä näin.
+
+#(why_lights_off)
+Ahh... miksi valot ovat pois päältä?
+
+#(LIGHTS_OFF_BECAUSE)	syreen-062.ogg
+Koska, rakkaani, jos valot olisivat päällä, en voisi tehdä tätä...
+tai tätä...
+tai tätä...
+tai, ööh, tätä.
+
+#(evil_monster)
+Et kai aio muuttua nyt joksikin oudoksi muukalaishirviöksi ja purra päätäni irti, ethän?
+
+#(NOT_EVIL_MONSTER)	syreen-063.ogg
+Ha!-ha!-ha! Muukalaishirviö? Minäkö?
+MINÄKÖ?! MUTTA KAAPTEENI! MIIKSI SANOOT NOOOIN!!!
+REEAARRGGGG!!!!
+...kunhan pilailin!
+
+#(disease)
+Tosi hauskaa. Kuule, olisi mukavampaa jos me vain laittaisimme valot takaisin päälle.
+
+#(JUST_RELAX)	syreen-064.ogg
+Rentoudu vain, hupsu ihmiskapteenini. Anna minun huolehtia kaikesta.
+
+#(what_happens_if_i_touch_this)
+Hmmm... mitä tapahtuu jos teen näin?
+
+#(THIS_HAPPENS)	syreen-065.ogg
+...mmm
+MMMm!...
+Ohh!...
+...MMMMMmmmmmm!!!...
+vastaako tuo kysymykseesi?
+
+#(are_you_sure_this_is_ok)
+Oletko varma että tämä on okei? Minua hermostuttaa.
+
+#(YES_SURE)	syreen-066.ogg
+Älä huolehdi, rakas ihmiseni
+meillä on kaikki aika maailmassa
+ja oveni lukitukseen voi luottaa.
+
+#(boy_they_never_taught)
+Voi pojat, voi pojat! Tällaisia juttuja ei minulle opetettu ikinä Unzervaltissa!
+
+#(THEN_LET_ME_TEACH)	syreen-067.ogg
+Siispä anna minun opettaa se, mikä sinun tulee tietää
+aloitamme syreenien perusanatomian perusteilla...
+
+#(not_much_more_to_say)
+Hmm, ööh... jaa, no, luulenpa ettei minulla ole juuri muuta sanottavaa, vai mitä?
+
+#(THEN_STOP_TALKING)	syreen-068.ogg
+Lakkaa sitten tuhlaamasta huuliasi sanoihin, hupsu typerys
+ja tule tänne!...
+
+#(LATER)	syreen-069.ogg
+(...muutamia tunteja myöhemmin...)
+
+#(SEX_GOODBYE)	syreen-070.ogg
+Näkemiin, Kapteeni, kultaseni... meillä kummallakin on työmme tehtävänä
+nyt sinun täytyy mennä!
+Mutta tulet jäämään aina mieleeni ja sydämeeni
+ja syvällä sisimmässäni, tiedän että jonain päivänä, kun kaikki tämä hulluus on päättynyt
+olemme yhdessä tällä tavalla... jälleen.
+
+#(OUT_TAKES) syreen-071.ogg
+Jos ihmettelit että miten minulla sujuu... älä huolehdi! Minulla menee hyvin!
+Itse asiassa puhuin juuri suunnittelijoille ja he ovat vakuuttaneet minulle...
+...että jatko-osa tulee kertomaan minusta! Eikö olekin mahtavaa!
+He sanoivat haluavansa siirtyä pois soturimytologiasta...
+...ja laajentavansa parantajajakson puolelle.
+Tämä saattaa olla suuri mahdollisuuteni!
+Ainoa asia, josta en ole varma, on uusi puku, jota he haluavat minun käyttävän.
+He sanoivat, että se olisi TODELLA paljastava.
+

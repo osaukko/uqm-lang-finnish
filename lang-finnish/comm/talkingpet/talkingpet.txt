@@ -1,0 +1,628 @@
+#(HELLO_AT_UMGAH)	talkingpet-000.ogg
+Mitä haluat?
+
+#(what_are_you)
+Luulin että tämä on Umgahien kotiplaneetta. Kuka sinä olet?
+
+#(JUST_TALKING_PET)	talkingpet-001.ogg
+Olen rauhanomainen, ystävällinen muukalaiselämänmuoto. Ur-Quanit kutsuvat meitä `puhuviksi lemmikeiksi'.
+Viime aikoihin asti olin palveluksessa Taistelualus-avaruusaluksessa kääntäjänä.
+Sitten, kun alus oli kärsinyt ankaria vaurioita taistelussa, törmäsimme Alfa Pavonikseen.
+Ihmeellisesti selvisin, ja eräs ariloulaleelaiden tiedustelualus pelasti minut.
+Arilout eivät voineet parantaa minun vakavimpia vammojani, joten he veivät minut umgahien luo
+jotka omaavat paremmat bioinsinööritaidot.
+
+#(talking_pets_dumb)
+Mutta luulin että Puhuvat Lemmikit eivät ole tietoisia? Vaikutat aika fiksulta.
+
+#(OH_NO_YOU_DONT)	talkingpet-002.ogg
+Ah... eli tiedät siis siitä, vai mitä?
+Voi voi, tämä tarkoittaa että minun täytyy tappaa sinut nyt.
+En voi sallia sinun paljastaa minun muutostani
+Ur-Quanit saattavat huomata, ja sitten minun kostosuunnitelmani nenee pilalle.
+Noh, yritin säästää henkesi, Kapteeni, mutta olit vain liian utelias
+eli nyt
+-<ETSI KUOLEMAA VIHOLLISESI KÄSISSÄ!>-
+
+#(what_do_to_umgah)
+Missä umgahit ovat? Mitä olet tehnyt niille?
+
+#(DID_NOTHING)	talkingpet-003.ogg
+Sinä kuvittelet asioita. Umgahit voivat hyvin, ovat vain kiireisiä, erittäin kiireisiä.
+Siksi minä vastaan Lähettimeen tänään.
+
+#(umgah_zombies)
+Minua et huijaa! Olet muuttanut ne zombie-kupliksiksi!... tai joksikin.
+
+#(WORKS_LIKE_THIS)	talkingpet-004.ogg
+Argh! Mikset poistunut vielä kun sinulla oli mahdollisuus?
+Nyt minun täytyy tappaa sinut jollakin tosi luihulla keinolla
+jotta kukaan ei keksi että olin kuolemasi enkeli.
+-<KATOA VÄÄRÄÄN KAUPUNGINOSAAN!>-
+
+#(we_are_vindicator0)
+Olen aluksen 
+#(we_are_vindicator1)
+ Kapteeni. Tulemme rauhassa puhumaan umgahien johtajien kanssa Ur-Quanien Hierarkian kumoamisesta.
+
+#(GOOD_FOR_YOU)	talkingpet-005.ogg
+Hyvä idea! Saanen sanoa, että tuen ideaasi 100-prosenttisesti!
+Mutta epäonneksesi umgahit ovat liian kiireisiä vastatakseen Lähettimeen juuri nyt.
+eli... öö... palaa myöhemmin... paljon myöhemmin.
+
+#(must_explain_presence)
+Outo olento. Selitä läsnäolosi täällä välittömästi.
+
+#(EXPLAIN_NOTHING_MONKEY_BOY)	talkingpet-006.ogg
+YARRGH! En selitä MITÄÄN, apinapoika!
+Typerä uteliaisuutesi on sinetöinyt tuomiosi!
+Olisit voinut lähteä hyvissä mielin. Olisit voinut poistua tältä planeetalta elossa
+mutta EI!
+Pelkään että olet tunkenut jäykän, ulkonevan tuntevan elimesi liian moneen pimeään aukkoon, Kapteeni,
+ja nyt saat maksaa siitä!
+-<KÄY TAPPAMASSA ITSESI!>-
+
+#(bye_at_umgah)
+Katsos, öö... kuka sitten oletkaan. Taidanpas lähteä nyt.
+
+#(GOODBYE_AT_UMGAH)	talkingpet-007.ogg
+Kunpa se olisikin niin yksinkertaista.
+Luulin että olisin ehkä voinut antaa sinun elää
+mutta nyt pelkään, että tiedät liikaa.
+Kostosuunnitelmani on aivan liian tärkeä
+tullakseen sinunlaisen yksinkertaisen, häiritsevän tomppelin pilaamaksi.
+-<MENE TAPPAMAAN ITSESI TAISTELUSSA!>-
+
+#(HYPNOTIZE_AGAIN_1)	talkingpet-008.ogg
+Argh! Mikset ole kuollut? Onpa masentavaa.
+Minulla on lääke tähän tilanteeseen
+<LÖYDÄ JOKU, JOKA TAPPAA SINUT!>
+
+#(HYPNOTIZE_AGAIN_2)	talkingpet-009.ogg
+Häiritset suunnitelmiani kostosta Ur-Quaneille.
+Tästä rikkomuksesta on rangaistuksena kuolema, erityisesti sinun!
+-<MENE KAUAS POIS JA TAISTELE!>-
+
+#(HYPNOTIZE_AGAIN_3)	talkingpet-010.ogg
+Miksi palaat kokoajan!? Eipä se mitään, älä vastaa.
+-<POISTU JA LÖYDÄ JOKU JOKA TAPPAA SINUT!>-
+
+#(HYPNOTIZE_AGAIN_4)	talkingpet-011.ogg
+Taas olet palannut!
+Olet yhtä typerä kuin kestäväkin.
+Ehkäpä tällä kertaa onnistut omassa kuolemassasi.
+-<KÄY TAPPAMASSA ITSESI!>-
+
+#(HYPNO_TAIL)
+ 
+
+#(CANT_COMPEL)	talkingpet-012.ogg
+Aieee!  En voi pakottaa sinua!?
+Mielesi on suljettu minulle -- kuinka näin voi olla?!
+Minut on pakotettu paljon alkukantaisempiin keinoihin
+Umgahkomentaja, kutsu kymmenen taistelualusta ja hyökkää tämän tunkeilijan kimppuun välittömästi!
+
+#(LETS_MAKE_A_DEAL)	talkingpet-013.ogg
+Hei siellä, ystävällinen avaruusalus-Kapteeni!
+Et ikinä usko tätä, mutta jotenkin, vammat jotka sain kun Taistelulaiva törmäsi
+käynnistivät jonkinlaisen, oo... luonteenmuutoksen
+Minusta tuli ilkeä ja pahansuopa! Julma ja häijy! Oikukkaan epämiellyttävä!
+Olet kai huomannut, että sain jonkinlaisia väliaikaisia psyykkisiä voimia
+mutta haluan sinun tietävän että... OLEN PARANTUNUT!
+Kapteeni, en tiedä kuinka, mutta kun taistelit noita umgah-aluksia vastaan
+palanen sisäkattoa putosi päälleni ja se oli melkoinen tärsky!
+Aijai-auts.. sattuu vieläkin!
+Kun heräsin, universumi ei ollutkaan enää niin synkkä ja vihamielinen paikka kun äsken kuvittelin sen olevan.
+Sen sijaan olin hämmästynyt, kyllä, jopa ällistynyt sen kaiken kauneudesta ja täydellisyydestä!
+Havaitsin myös, että menetin kokonaan nuo ilkeät henkiset voimat
+ja voin katsoa kohti UUTTA ELÄMÄÄ, joka on täynnä iloa, perhosia, ja hyvää tahtoa kaikille!
+Tehtäväsi on ohi, Kapteeni! Olet pelastanut minut! Voit nyt turvallisesti poistaa psyykkisen suojauslaitteesi, ja poistua.
+KIITOS! KIITOS! KIITOS! KIITOS! KIITOS! KIIT
+Miksi katsot minua noin, Kapteeni?
+Et usko minua? Kyseenalaistat sanani?
+Selvä, selvä... minä sitten valehtelin.
+Isokin juttu! Entäs sitten.
+Huoh, olet oikea PIINA, tiesitkös?
+MITÄ SINÄ HALUAT MINULTA, HENKENI!?
+Ai haluat? Jaa.
+No, vaihtoehtona, annas kun teen tämän ehdotuksen
+jos et tapa minua, autan sinua tekemään mitä vain toivot.
+Hyvä diili, Kapteeni? Hmmm?
+
+#(what_kind_of_deal)
+Minkälainen diili, Puhuva Lemmikki? Anna lisätietoja.
+
+#(HELP_DEFEAT_URQUAN)	talkingpet-014.ogg
+Ymmärrän jo, että haluat syrjäyttää Ur-Quanit
+Bravo! Hyvä idea! Eteenpäin!
+Minäkin toivon näkeväni Ur-Quanit lyötyinä -- nöyryytettyinä ja tuhottuina
+ja yksin minä omaan tämän ainutlaatuisen kyvyn joka auttaa sinua saavuttamaan päämääräsi
+voin käyttää psyykkisiä voimiani hämätäkseni Ur-Quaneita väliaikaisesti... sekaannuttaa ne muutamaksi sekunniksi.
+Oletettavasti käytät tätä hetkeä iskeäksesi kuolettavan iskun Ur-Quaneihin.
+Moinen suunnitelma ei voi epäonnistua, Kapteeni. Sinun täytyy nähdä se.
+
+#(ok_lets_do_it)
+Selvä, hyväksyn. Mutta yksikin temppu niin tulet imemään tyhjiötä.
+
+#(COMING_ABOARD)	talkingpet-015.ogg
+Ei temppuja, Kapteeni. Ei temppuja.
+Pelkään että olet julmasti erehtynyt suhteeni, ihminen. Olen SINUN puolellasi nyt.
+Yhdessä me olemme mahtava tiimi, Kapteeni.
+Tämä päivä, tämä HETKI jääköön ikuisesti galaksimme historiaan.
+Tulen aluksellesi nyt. Teen pesän aluksesi ruuman paineistettuun osaan.
+Kun haluat puhua minulle, olen siellä.
+
+#(how_trust)
+Yritit tappaa minut! Sanasi ovat valetta! Kuinka voisin luottaa sinuun?
+
+#(TRUST)	talkingpet-016.ogg
+Kapteeni, Kapteeni... rauhoitu. Ole järkevä. Kuuntele minua.
+En ole muuta kuin yksi olio, tuskin suurempi kuin yksi teidän koiristanne. Vuh vuh!
+Ainoa aseeni -- heikot psyykkiset kykyni -- ovat kumoutuneet suojaavan laitteesi takia.
+Olen vaaraton.
+Mutta kenties voisin olla vähäiseksi avuksi sinulle.
+Harkitse toiveikasta yritystäni hyvittää kaikki ongelmat jotka olen aiheuttanut sinulle menneisyydessä.
+Menneisyydessä, Kapteeni... ja nyt meidän täytyy katsoa tulevaisuuteen! Voittoamme pahoista Ur-Quaneista!
+Olen salainen aseesi näitä tyranneja vastaan, Kapteeni. Älä jätä minua tänne.
+
+#(boneless_dweeb)
+Tiedän mikä olet, paha olento. Olet valehteleva, luuton surkimus!
+
+#(YOUR_BONELESS_DWEEB)	talkingpet-017.ogg
+Kyllä, Kapteeni. Minä olen valehteleva, luuton, konnamainen surkimus
+mutta olen SINUN valehteleva, luuton, konnamainen surkimuksesi!
+
+#(what_are_you_really)
+Puhuva Lemmikki. Mikä sinä olet... oikeasti?
+
+#(POOR_DNYARRI)	talkingpet-018.ogg
+Kerron tarinani mielelläni, Kapteeni. Mielelläni!
+Olin todella Puhuva Lemmikki eräässä Ur-Quanien Taistelualuksessa.
+Ne vuodet olevat kuin unohdettua unta minulle, koska en ollut tietoinen.
+Olin typerä elukka -- katalien Ur-Quanien ajattelematon orja!
+Sitten oli suuri taistelu... alukseen osui ja se vahingoittui ankarasti.
+Orjia juoksemassa käytävillä! Komentoja ja vastakomentoja!
+Sitten oli ilmakehän kiljunta rungon ulkopuolella.
+Oli suuri valon ja ukkosen räjähdys! Olen aika varma, että osuimme planeetan pinnalle.
+Sitten seuraava asia minkä muistan oli erään olennon kasvot, jota te kutsutte Arilouksi.
+Olin suuressa tuskassa, mutta se oli kiltti. Olento teki minulle kaiken mitä se pystyi
+soveltaen omia lääkkeitään minun muukalaismuotooni. Minut kuljetettiin pois planeetalta.
+Muistan kaikkialle tunkeutuneen vihreän valon -- sitten olimme Arilouden kotiplaneetalla.
+Anna taas anteeksi, Kapteeni, jos en osaa sanoa yhtään tarkemmin, sillä en vielä ollut älykäs sillä hetkellä.
+Oletettavasti vammani olivat liian pahat Arilouille korjattavaksi
+tai ehkä reagoin väärällä tavalla heidän lääkkeisiinsä
+koska muistan, että minut vietiin takaisin alukselle. 
+Sitten hämärtyi, seuraava muistini oli Umgahien avaruusaluksella
+Märkä liha sykki ympärilläni, umgahit nauroivat kun he työskentelivät parissani.
+Se oli aika hermostuttavaa.
+Yhtäkkiä, kuin pommin räjähdys, ajatus -- OIKEA ajatus tulvi aivoissani!
+En tiedä kuinka tai miksi, mutta Umgahit havaitsivat, että aivojani voitaisiin helposti muokata, parannella antamaan minulle aito äly!
+Mutta he eivät käsittäneet, että se toi myös muistojen tulvan.
+Lajini muistot menneisyydestä! Ennen kun Ur-Quanit karstroivat meidän ajattelevat mielemme
+ja muuttivat kansani karkeiksi pedoiksi.
+Olen ainoa älykäs Dnyarri jäljellä tässä galaksissa, Kapteeni.
+Ehkäpä ymmärrät nyt kostonhimoni?
+
+#(hard_to_believe)
+Uskomaton tarina, jos on totta. Anteeksi nyt vain jos olen hiukan epäuskoinen, mutta olet todistetusti valehtelija.
+
+#(ITS_TRUE)	talkingpet-019.ogg
+Se on kaikki totta, Kapteeni! Joka sana!
+Nyt kuuntele!... ja kerron, miksi Ur-Quanit tekivät tämän meille.
+Yli kaksikymmentätuhatta vuotta sitten, Kapteeni, eräs Ur-Quanien orjakaappari
+laskeutui maailmani pinnalle, ja alkoi kaapata kansaani -- tappaen ne jotka eivät alistuneet!
+Kuinkako tiedän tämän, kysyt? Nämä muistot ovat syöpyneet syvälle geneettiseen kokoonpanooni, niitä ei voi unohtaa.
+Kuinka me taistelimmekaan Ur-Quaneja vastaan! Siitä huolimatta heillä oli taisteluorjien Hierarkia
+tosin silloin he kutsuivat itseään absurdilla nimellä Tietoisten Yhteisö!
+Hah! He eivät olleet mitään muuta kuin murhamiehiä, eritoten hirveät Taalot.
+Nuo pahat kivimäiset olennot olivat kaikista pahimmat!
+Hyvikseen he saattoivat ottaa yhden lapsemme... ja sitten... kieriä sen yli!...  uudestaan ja uudestaan.
+Sota Ur-Quaneita ja Yhteisöä vastaan kesti vuosikymmeniä... miljoonia kansastamme kuoli
+mutta totuuden ja oikeuden voimat olivat puolellamme, olimme voittava.
+Sitten Taalot tekivät kohtalokkaan keksinnön... kilpi meidän ainoaa asettamme vastaan,  heikkoja psyykkisiä voimiamme.
+Sen kilven kanssa he olivat pysäyttämättömiä... me hävisimme.
+Mutta Ur-Quanit eivät tyytyneet pelkkään häviöömme, orjuuteemme
+he halusivat LISÄÄ! He halusivat rangaista meitä meidän julkeudestamme taistella heitä vastaan
+joten he suunittelivat kaikista sairaimman, julmimman ja perversseimmän rangaistuksen mitä ikinä voi kuvitella!...
+he tunkeutuivat meidän geneettiseen kokoonpanoomme
+ja hakkeroivat tarpeeksi mieliämme lobotomisoidakseen meidät kaikki ikuisuudeksi.
+Ja sitten meistä tehtiin heidän lähimmät palvelijansa... heidän `Puhuvat Lemmikinsä'.
+Tämä oli rangaistuksemme.
+
+#(bullshit)
+Ja paskanmarjat! SINUN lajisi oli orjamestareita, senkin valehteleva, paha olento!!
+
+#(WORTH_A_TRY)	talkingpet-020.ogg
+Pahus! Olet epämiellyttävän hyvin opetettu olento, Kapteeni!
+*Huokaus* Noh, ainakin yritin.
+
+#(kill_you)
+Hirveä, aivokas sammakkohirviö. Sinun täytyy kuolla!
+
+#(PLEASE_DONT)	talkingpet-021.ogg
+Ei! Älä!
+Olen lajini ainoa toivo! Et voi tehdä tätä!
+
+#(must_kill)
+Et saa minua kääntämään päätäni. Lausu rukouksesi.
+
+#(DONT_KILL)	talkingpet-022.ogg
+Hmmm! Kuinka mielenkiintoista! Äskeisen pikku uhkauksen aikana huomasin jotain MAHTAVAA!
+ET OLE ASENTANUT TAALOJEN LAITETTA OIKEIN!
+Ha-ha-ha! Tolvana! Olisit voinut ampua minua.
+Nyt, pelkäänpä pahoin, että sinun täytyy hyväksyä ehdotukseni.
+Tulen mukaasi aluksellesi. Yhdessä suoritamme MINUN kostoni
+ja kenties sattumalta toteutamme myös sinun suunnitelmasi.
+
+#(want_kill_1)
+Täytyy... vastustaa! Ei... saa... antaa... sen... voittaa! Ei... saa...
+
+#(want_kill_2)
+Minulla - ei - ole - syytä - tappaa - sinua. Tervetuloa - aluksellemme.
+
+#(want_kill_3)
+Tappaa? Tappaa? Mitä tämä `tappaminen' on? Mehän rakastamme sinua!
+
+#(GLAD_YOU_WONT_KILL)	talkingpet-023.ogg
+Erinomaista, Kapteeni. Olen niin iloinen että olet nähnyt valon.
+Kerään harvat tavarani, ja tulen aluksellesi välittömästi.
+Kun haluat puhua minulle, olen aluksesi ruumassa.
+Siinä kaikki, Kapteeni. Ainakin toistaiseksi.
+
+#(whats_up_onboard)
+Miten menee, Dnyarri? Oletko okei siellä ruumassa?
+
+#(GENERAL_INFO_ONBOARD_1)	talkingpet-024.ogg
+On kylmää ja tyhjää. Lämpöpeitolle olisi käyttöä.
+Koska täällä on uskomattoman tylsää
+käytän tätä tilaisuutta saadakseni hieman unta.
+
+#(GENERAL_INFO_ONBOARD_2)	talkingpet-025.ogg
+Aika lailla samanlaista kuin viimeksi kysyessäsi
+olen kuitenkin keksinyt keinon huvittaa itseäni.
+Kuuntelen miehistösi mentaalisia energioita -- se on aika hauskaa!
+Esimerkiksi, tiesitkö että sekä aliluutnantit Holiday että Watchuki ovat ihastuneet sinuun?
+Se on totta!
+
+#(GENERAL_INFO_ONBOARD_3)	talkingpet-026.ogg
+Otaksun että kerroit miehistöllesi tästä pienestä kuuntelustani, etkös vain?
+Nyt, aina kun yritän salakuunnella, niin he näyttävät huomaavan läsnäoloni
+ja alkavat visualisoida karmeaa kuolemaani monella vastenmielisellä, mutta luovalla tavalla.
+Sinun sitten piti mennä ja pilata hupini, vai niin?
+
+#(GENERAL_INFO_ONBOARD_4)	talkingpet-027.ogg
+Elin juuri uudelleen esi-isieni voimakkaimpia geneettisiä muistoja, ettäs tiedät
+ja löysin jotain sellaista, minkä uskoisin kiinnostavan sinua.
+Näyttää siltä, että rotuni, Dnyarrit, kerran löysivät Edelläkävijöiden aluksen, samanlaisen kuin omasi.
+No itseasiassa, se ei ollut AIVAN samanlainen.
+Se oli taistelualus -- suurempi, paljon suurempi,  ja siihen oli ladattu tonneittain maailmoja murskaavia lisäyksiä.
+Todellakin, se sai tämän aluksen näyttämään pelkältä hinaajalta... todelliselta surkimukselta.
+Joka tapauksessa, kun Ur-Quanit niin julmasti hyökkäsivät kimppuumme, he käyttivät tätä alusta
+ja voin vain otaksua että se on vieläkin heidän omistuksessaan.
+Ehkä sinun pitäisi hankkia lisätietoja tuosta aluksesta, Kapteeni.
+
+#(GENERAL_INFO_ONBOARD_5)	talkingpet-028.ogg
+Alan pikkuhiljaa tulla hulluksi, Kapteeni.
+En tiedä olitko tietoinen tästä
+mutta täällä soi musiikki, PYSÄHTYMÄTTÄ!
+Oletan että se oli jonkun insinöörin nerokas idea
+kuinka saada yksinkertaiset lastaavat ja purkavat työläiset onnelliksiksi.
+Arvaanpa, että se insinööri ei ennakoinut, että joku JOPA ELÄISI TÄÄLLÄ!
+Olen kuullut nuo samat kappaleet JO AINAKIN NELJÄSATAA KERTAA!
+Tarkoitan, teidän Mozartinne ja Iggy Popinne ovat hyviä muukalaismölyntekijöiksi
+mutta minä PYYDÄN!... VAIHTAKAA MUSIIKKIA ENNENKUIN TULEN HULLUKSI!
+
+#(GENERAL_INFO_ONBOARD_6)	talkingpet-029.ogg
+Kiitoksia, Kapteeni, musiikin vaihtamisesta.
+Nyt, jos sallinette, valittaisin ruoasta.
+Se on ruokottoman epämiellyttävää ja mautonta. Ansaitsen parempaa.
+Oma mieltymykseni on lihakimpaleita hyvin maustettuina, joiden mukana tulee tuoreita kasveja.
+Kiitos, ei enää noita makeita, taikinamaisia sylintereitä foliopaketeissa.
+Avaruusruokaa... plääh!
+
+#(GENERAL_INFO_ONBOARD_7)	talkingpet-030.ogg
+Olen kyllästynyt.
+Voisitko lähettää minulle pari miehistösi jäsentä joiden kanssa leikkiä
+mieluiten yksi uros ja yksi naaras,vaikka en olekaan nirso.
+Ei!? Sinulla ei ole huumorintajua, Kapteeni.
+Olet varmasti ollut tylsä lapsi.
+
+#(GENERAL_INFO_ONBOARD_8)	talkingpet-031.ogg
+Minä laulan. Minä tanssin. On villiä ja hauskaa.
+Elämäni täällä on pelkkää loputonta juhlaa, Kapteeni. Eikö se olekin ilmeistä?
+
+#(HELLO_AS_DEVICE_1)	talkingpet-032.ogg
+Kapteeni. Taalojen Laite tällä aluksella aiheuttaa minulle päänsärkyä, poistakaa se, kiitos.
+NYT, Kapteeni! On typerää vastustaa!...
+Hmmm... se on yhäkin tehokkaampi kuin luulin, pystyt vieläkin olemaan tottelematta.
+No, jaa. Mitä voin tehdä hyväksesi, Kapteeni?
+
+#(HELLO_AS_DEVICE_2)	talkingpet-033.ogg
+Päivää, Kapteeni.
+Täällä alhaalla aluksesi ruumassa ei ole kovin mukavaa.
+Lähettäkää tänne muutama tyyny.
+Mitä nyt haluat?
+
+#(HELLO_AS_DEVICE_3)	talkingpet-034.ogg
+Olin unessa, keräsin voimia välienselvittelyymme Ur-Quanien kanssa.
+Tämä keskeytys lähetti minut päiväkausia taaksepäin. Mitä asiaa?
+
+#(HELLO_AS_DEVICE_4)	talkingpet-035.ogg
+Päivää... päivää... vää.. ää...
+Kaikuu... kaikuu... kuu... uu...
+Minä... minä... nä... Olen... olen... en... Mestari... mestari... stari... Höh?... höh?... öh?...
+Kas! Kapteeni! En huomannut että olit ruudulla.
+Minä vain viihdytin itseäni täällä kylmässä, autiossa säiliössä.
+Kuinka voin palvella?
+
+#(HELLO_AS_DEVICE_5)	talkingpet-036.ogg
+krooh-pyyh...... krooh-pyyh...... krooh-pyyh...... krooh-pyyh...... krooh-pyyh......
+krooh-höh?! Jaa... se olitkin sinä. Minä nukuin. Mitä haluat?
+
+#(HELLO_AS_DEVICE_6)	talkingpet-037.ogg
+Oletko kenties yksinäinen, Kapteeni?
+Oletko tällä aluksella kaikkien muiden väärinkäsittämä?
+Siksikö sinä KUTSUT MINUA JATKUVASTI KUN LEPÄÄN!?
+
+#(HELLO_AS_DEVICE_7)	talkingpet-038.ogg
+Kapteeni, en ole erityisen sosiaalinen olento.
+Alan kyllästyä tuohon valitukseesi, mutta kun olet jo kerran herättänyt minut
+Mitä tahdot?
+
+#(HELLO_AS_DEVICE_8)	talkingpet-039.ogg
+Tämän on parempi olla tärkeää.
+
+#(CYBORG_PEP_TALK)	talkingpet-040.ogg
+Teit sen, Kapteeni! Sa-Matra on suojaamaton.
+Nyt kaikki mitä sinun täytyy tehdä on ohjata aluksesi Sa-Matran viereen ja käynnistää pommilaskenta.
+Siltä varalta että ihmettelet, minä en ole tulossa mukaasi, Kapteeni. Pysyn täällä.
+Miksikö, kysyt?
+KOSKA MINUT ON LUKITTU TÄNNE -- SIKSI!
+APUA!!!
+
+#(HUMAN_PEP_TALK)	talkingpet-041.ogg
+Selvä, ihminen, olet päässyt Sa-Matran vartijoiden läpi
+ja nyt hyökkäät itse aluksen kimppuun, joten kuuntele tarkkaan.
+Sa-Matraa suojaa tiheä kuori yhdistettyjä asteroideja, joita vahvistaa heikko salpauskenttä.
+Et puske ikinä siitä läpi.
+Ainoa reitti asteroidikilven läpi on vahvan voimakentän peittämä.
+Yksi kosketus siihen suojaan, ja olet historiaa, Kapteeni.
+Tuhotaksesi Sa-Matran, sinun täytyy tuhota asteroidikuoreen valetut suojageneraattorit.
+Niitä on kahdeksan ja sinun täytyy tuhota ne kaikki ennen kuin voimakenttä katoaa.
+Kun kenttä on poissa, tuo lippulaivasi paikalle, mene asteroidikuoren sisälle
+ja sitten painat sitä suurta punaista nappia ohjauspaneelissa
+joka käynnistää laukaisujakson.
+Pakokapselisi lähtee automaattisesti. Toivo vain, että olet tarpeeksi kaukana kun alus räjähtää.
+Ok, ihminen, tässä se on! Viimeinen taisto, lopullinen hetkesi ennen voittoa!
+Äläkä MISSÄÄN nimessä kuse hommia.
+Siltä varalta että ihmettelet, minä en ole tulossa mukaasi, Kapteeni. Pysyn täällä.
+Miksikö, kysyt?
+KOSKA MINUT ON LUKITTU TÄNNE -- SIKSI!
+APUA!!!
+
+#(I_SENSE_MY_SLAVES)	talkingpet-042.ogg
+Aistin muinaisten orjieni läsnäolon.
+On aika, Kapteeni.
+
+#(HAVENT_GOT_EVERYTHING)	talkingpet-043.ogg
+Et ole vielä valmis kohtaamaan Ur-Quaneja lopullisessa välienselvittelyssä, Kapteeni
+
+#(NEED_BOMB)	talkingpet-044.ogg
+Edelleenkin, tarvitset aseen, joka on tarpeeksi tehokas Sa-Matran tuhoamiseen
+
+#(SOUP_UP_BOMB)	talkingpet-045.ogg
+Utwigien pommin tehoa täytyy lisätä
+
+#(SOUP_UP_FLEET)	talkingpet-046.ogg
+Sinun täytyy vahvistaa laivastoasi
+
+#(SOUP_UP_FLAGSHIP)	talkingpet-047.ogg
+Lippulaivasi tarvitsee lisää parannuksia
+
+#(COMEBACK_WHEN_READY)	talkingpet-048.ogg
+Tämä täytyy tehdä ennen kuin olet valmis hyökkäämään.
+Meidän täytyy lähteä nyt, ja palata kun olet täysin valmis.
+
+#(what_now)
+Mitä nyt, Dnyarri?
+
+#(DO_THIS)	talkingpet-049.ogg
+No hui hai! En tiedä. Mitäs jos vain istutuisimme tässä ja juttelisimme
+JA EIKÄ VÄLITETÄ NOISTA TUHANSISTA TAISTELULAIVOISTA JOTKA PIEKSEVÄT MEIDÄT MUUTAMASSA SEKUNNISSA!
+
+#(compel_urquan)
+Käytä voimiasi! Hämmennä Ur-Quanit!
+
+#(HERE_WE_GO)	talkingpet-050.ogg
+Selvä. Nyt, mitä ikinä teetkään, kun olen aloittanut
+ÄLÄ POISTU TÄHTIJÄRJESTELMÄSTÄ!
+Meillä on vain yksi yritys tähän, tehdään se hyvin!
+Aloitanpa...
+
+#(im_scared)
+Minua pelottaa, Dnyarri. Mitä jos tämä ei toimikaan?
+
+#(STUPID_FOP)	talkingpet-051.ogg
+'Minua pelottaa, Dnyarri. Mitä jos tämä ei toimikaan?'
+Lajini on odottanut kaksikymmentä vuosituhatta tätä hetkeä
+JOTEN LOPETA VOLLOTTAMINEN!
+Ruvetaan hommiin.
+
+#(compel_that_ship)
+Dnyarri. Tuolla lähellä on alus, joka ärsyttää minua. Pakota se itsetuhoon.
+
+#(SAVING_MY_POWER)	talkingpet-052.ogg
+Säästän niukkoja voimiani meidän lopulliseen välienselvittelyymme Ur-Quanien kanssa.
+Anteeksi, Kapteeni. Sinun täytyy hoidella se itse.
+
+#(any_suggestions)
+Mitä ehdottaisit minun tekevän nyt, Dnyarri?
+
+#(SUGGESTION_1)	talkingpet-053.ogg
+Ensimmäinen asia minkä varmistaisin on se, että minulla on voimakas alus ja laivasto.
+
+#(SUGGESTION_2)	talkingpet-054.ogg
+Kunnes olisin tarpeeksi kova selvitäkseni vihamielisessä avaruudessa
+kuluttaisin jonkin verran aikaa tutkimusmatkailuun, yrittäisin tehdä liittolaisia ja kerätä tietoa.
+
+#(SUGGESTION_3)	talkingpet-055.ogg
+Kun olisin hiukan tutkimusmatkaillut, yrittäisin keksiä mitä Ur-Quanit aikovat.
+Ota selville keitä vastaan he taistelevat, ja miksi.
+
+#(SUGGESTION_4)	talkingpet-056.ogg
+Kun minulla olisi hiukan yleistä tietoa Ur-Quaneista
+yrittäisin löytää heidän heikon kohtansa. Jokaisella rodulla on sellainen.
+
+#(SUGGESTION_5)	talkingpet-057.ogg
+Kun tietäisin Ur-Quanien kriittisen heikkouden
+yrittäisin löytää keinon kuinka hyödyntää tätä vikaa.
+Oppisin kaiken mikä on välttämätöntä tälle tehtävälle, sitten keräisin nämä materiaalit tai palvelut.
+
+#(SUGGESTION_6)	talkingpet-058.ogg
+Kun olisin lopulta valmis lopulliseen välienselvittelyyn Ur-Quanien kanssa
+käyttäisin itseäni, Puhuvaa Lemmikkiä, hämätäkseni Ur-Quanit yhdeksi hetkeksi
+täten sallien minun, siis oikeasti sinun
+tehdä kuolettavan iskun Ur-Quaneja vastaan.
+
+#(SUGGESTION_7)	talkingpet-059.ogg
+Noh, minä lopettaisin minulta kyselyn ja ryhtyisin töihin.
+
+#(SUGGESTION_8)	talkingpet-060.ogg
+Noh, minä lopettaisin minulta kyselyn ja ryhtyisin työhön.
+
+#(about_your_race)
+Mitä voit kertoa minulle lajistasi, Dnyarreista?
+
+#(WHAT_ABOUT_RACE)	talkingpet-061.ogg
+Mielestäni moinen kysymys on tunkeileva ja epäkohtelias
+mutta se kuuluu käytökseesi.
+Mitä haluat tietää?
+
+#(you_lied)
+Olen saanut tietää, että valehtelit minulle, Dnyarri. Se oli sinun lajisi, joka teki Ur-Quaneista orjia!
+
+#(SO_WHAT)	talkingpet-062.ogg
+Valehtelin siis hitusen! Isokin juttu.
+Ajattelin, että jos kertoisin totuuden, et olisi ottanut minua aluksellesi.
+Lisäksi, se en ollut minä joka teki ne asiat, ne olivat muinaisia esi-isäni.
+Olivatko kaikki SINUN esi-isäsi mukavia ja kilttejä, Kapteeni?
+En uskonutkaan niin.
+
+#(bye_onboard)
+Selvä, Dnyarri, voit mennä takaisin nukkumaan nyt.
+
+#(GOODBYE_ONBOARD)	talkingpet-063.ogg
+Näkemiin, ihminen.
+
+#(what_about_physiology)
+Mitä voit kertoa minulle lajisi biologiasta?
+
+#(NO_TALK_ABOUT_SELF)	talkingpet-064.ogg
+Tarkoitat ylivertaisia aivojani, mentaalista taitoani?
+En halua puhua siitä.
+
+#(what_about_powers)
+No annas tulla, olemme ystäviä! Kerro minulle psyykkisten voimiesi ulottuvuuksista!
+
+#(NOT_POWERS_BUT_FLOWERS)	talkingpet-065.ogg
+Kapteeni, en usko että halusit kysyä voimistani.
+-<ETKÖ AIKONUTKIN KYSYÄ KUKISTA?>-
+
+#(yes_flowers)
+Kyllä - Dnyarri - minä - haluan - tietää - kukista.
+
+#(GOOD_HUMAN)	talkingpet-066.ogg
+Kukat ovat kauniita, ja haisevat hyvälle.
+Nyt ole hyvä ihminen ja
+-<JÄTÄ MINUT RAUHAAN!>-
+
+#(wish_to_go_now)
+Haluan - mennä - nyt.
+
+#(EXCELLENT_IDEA)	talkingpet-067.ogg
+Erinomainen idea, Kapteeni. Sinulla on varmasti todella paljon työtä tehtävänä.
+Näkemiin.
+
+#(what_about_your_history)
+Mitä voit kertoa minulle kansasi historiasta?
+
+#(ABOUT_HISTORY)	talkingpet-068.ogg
+Yli kaksikymmentä tuhatta vuotta sitten, minun lajini oli iloinen ja huoleton
+eläen tyytyväistä elämää maailmamme, Glilandyn, pinnalla.
+Kulutimme aikaamme keräten ruokaa, luoden taidetta, ja pakottaen toisia tekemään vastenmieliset askareet.
+Sitten Tietoisten Yhteisön alus laskeutui, ja asiat muuttuivat melko hankaliksi.
+
+#(sentient_milieu)
+Tiedän niin vähänn Tietoisten Yhteisöstä. Voisitko täsmentää sitä?
+
+#(ABOUT_SENTIENT_MILIEU)	talkingpet-069.ogg
+Tietoisten Yhteisö oli verenhimoinen Imperiumi, joka hallitsi suurta osaa galaksista tuhansia vuosia.
+Jos olet kuullut, että Yhteisö oli tietoisten lajien yhteistyöhaluinen liitto
+se  on VALETTA, pelkkää valetta!
+Ur-Quanit olivat vain osa Yhteisöä, mutta heidän pimeät ja pahat sydämensä
+uuttivat koko yhdistyksen synkkyyteen.
+
+#(what_about_war)
+Kerro minulle lajisi ja Tietoisten Yhteisön välisestä sodasta.
+
+#(ABOUT_WAR)	talkingpet-070.ogg
+No, sen jälkeen, kun olimme olleet kontaktissa Yhteisöön jonkun aikaa
+he päättivät tappaa koko lajini!
+No, kuulostaakö tämä järkevältä, ystävälliseltä joukolta muukalaisia, Hmm? Häh? Kuulostaako, Kapteeni?
+Ei! Ei todellakaan!
+Sota oli pian ohi, ja lajini hävisi.
+Tappamisen sijaan Ur-Quanit muuttivat geneettistä koodisarjaamme
+jotta kaikki lapsemme syntyisivät tiedottomina, typerinä eläiminä.
+Viimeiset kaksikymmentä vuosituhatta me Dnyarrit olemme palvelleet Ur-Quaneja
+alentavimmalla tavalla jonka ne saattoivat kuvitella
+toimien mielettöminä kääntäjinä, jotka kommunikoivat vähempiarvoisten rotujen kanssa.
+
+#(enough_info)
+Olen kuullut tarpeeksi.
+
+#(OK_ENOUGH_INFO)	talkingpet-071.ogg
+Hyvä, minua alkoi jo nukuttaa.
+
+#(UMGAH_ALL_GONE)	talkingpet-072.ogg
+Niin suuret suunnitelmat, niin hienot unelmat... nyt, kaikki tomuna maassa.
+Päivää, Kapteeni. Anteeksi valitus, mutta olen hieman masentunut tänään.
+Kuten näet, mustat tuhoajat -- Kohr-Ahit- kulkivat ohi jonkin aikaa sitten tappaen kaiken elollisen
+ja nyt minun umgahini, kostoni työkalut, ovat kaikki melko kuolleita.
+Jos olet hämmentynyt siitä, kuka minä oikein olen ja mitä teen täällä, niin minä selitän.
+Minua on kutsuttu `puhuvaksi lemmikiksi'
+Monien vuosien ajan, jotka palvelin käännöskoneena Ur-Quaneille eräässä heidän Taistelulaivassaan.
+Sinä aikana minulla oli vähemmän älyä kuin Maan sialla, mutta se tuli pian muuttumaan.
+Taistelulaiva joutui Kohr-Ahien hyökkäyksen kohteeksi ja vaurioitui vakavasti.
+Teimme hätälaskeutumisen eräälle planeetalle, joka kiertää Alpha Pavonista. Olin ainoa selviytyjä.
+Taistelulaivan tutkimisen mahdollisuudet riittivät tuomaan arilout planeetan pinnalle, missä he löysivät minut.
+He yrittivät hoitaa minut takaisin terveeksi, mutta he eivät voineet korjata kaikkia haavojani.
+He siis kääntyivät naapuriensa, umgahien, puoleen avun toivossa.
+Umgahit huomasivat, että minulla olisi potentiaalia älykkyydelle, ja alkoivat muuttaa aivojani.
+Kun tulin järkiini viimeiseen leikkauksen jälkeen, ajatuksien ja muistojen tulva täytti mieleni.
+Tiesin kuka olin!
+Olin Dnyarri -- rauhallisen muukalaisrodun jäsen, joiden älykkyyden Ur-Quanit olivat kauan sitten `sammuttaneet'
+julman biogeneettisen manipulaation avulla.
+Vakuutin Umgahit auttamaan minua suorittamaan mahtavan koston Ur-Quaneja vastaan
+ja olisimme jo muutaman kuukauden päästä käynnistäneet iskumme
+kun, no, Kohr-Ahit kulkivat ohi ja sivumennen teurastivat koko umgahien lajin. Pahus soikoon.
+Mutta SINÄ olet täällä, Kapteeni!
+Minulla on ehdotus: minun tappamiseni sijaan, liityn sinuun laivallasi.
+Voin olla korvaamaton apu sinulle, kun tulee aika viimeiseen välienselvittelyyn Ur-Quanien kanssa.
+Näen että olet sanaton ehdotuksestani. Olen siellä aivan pian.
+
+#(HELLO_AFTER_COMPEL_URQUAN)	talkingpet-073.ogg
+MITÄ SINÄ TEET, IDIOOTTI!!
+ÄLÄ PUHU MINULLE!
+HYÖKKÄÄ SA-MATRAN KIMPPUUN!!
+
+#(OUT_TAKES) talkingpet-074.ogg
+Kas! Luulit kaiketi, että olisin kuollut... ETKÖS LUULLUTKIN!?
+No, minä en ole! Pääsin aluksesta karkuun viime sekunnilla...
+...ja nyt minä aion TODELLA saada ongelmia aikaan!
+Itse asiassa siinä onkin se, mistä jatko-osa tulee kertomaan!
+Joo, sepä se! Minä ja minun jännittävät seikkailuni...
+...kun minä valloitan galaksin OMAKSI suurimmaksi kunniakseni!
+Siinä tulee olemaan toimintaa! Siinä tulee olemaan draamaa!
+Siinä tulee olemaan villejä muukalaisseksikohtauksia!
+Siitä tulee mahtava!
+

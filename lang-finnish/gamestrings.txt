@@ -1,0 +1,2374 @@
+#(Vega)
+Vega
+
+
+#(Antliae)
+Antliae
+
+
+#(Apodis)
+Apodis
+
+
+#(Aquarii)
+Aquarii
+
+
+#(Aquilae)
+Aquilae
+
+
+#(Arae)
+Arae
+
+
+#(Arietis)
+Arietis
+
+
+#(Aurigae)
+Aurigae
+
+
+#(Trianguli)
+Trianguli
+
+
+#(Caeli)
+Caeli
+
+
+#(Camelopardalis)
+Camelopardalis
+
+
+#(Cancri)
+Cancri
+
+
+#(Brahe)
+Brahe
+
+
+#(Kepler)
+Kepler
+
+
+#(Copernicus)
+Copernicus
+
+
+#(Capricorni)
+Capricorni
+
+
+#(Carinae)
+Carinae
+
+
+#(Cassiopeiae)
+Cassiopeiae
+
+
+#(Tucanae)
+Tucanae
+
+
+#(Cephei)
+Cephei
+
+
+#(Ceti)
+Ceti
+
+
+#(Crateris)
+Crateris
+
+
+#(Circini)
+Circini
+
+
+#(Columbae)
+Columbae
+
+
+#(Chandrasekhar)
+Chandrasekhar
+
+
+#(Sagittae)
+Sagittae
+
+
+#(Cygnus)
+Cygnus
+
+
+#(Corvi)
+Corvi
+
+
+#(Chamaeleonis)
+Chamaeleonis
+
+
+#(Equulei)
+Equulei
+
+
+#(Delphini)
+Delphini
+
+
+#(Doradus)
+Doradus
+
+
+#(Monocerotis)
+Monocerotis
+
+
+#(Crucis)
+Crucis
+
+
+#(Eridani)
+Eridani
+
+
+#(Fornacis)
+Fornacis
+
+
+#(Geminorum)
+Geminorum
+
+
+#(Altair)
+Altair
+
+
+#(Antares)
+Antares
+
+
+#(Horologii)
+Horologii
+
+
+#(Hydrae)
+Hydrae
+
+
+#(Andromedae)
+Andromedae
+
+
+#(Groombridge)
+Groombridge
+
+
+#(Lacertae)
+Lacertae
+
+
+#(Leonis)
+Leonis
+
+
+#(Hyades)
+Hyades
+
+
+#(Leporis)
+Leporis
+
+
+#(Librae)
+Librae
+
+
+#(Lipi)
+Lipi
+
+
+#(Lyncis)
+Lyncis
+
+
+#(Fomalhaut)
+Fomalhaut
+
+
+#(Menkar)
+Menkar
+
+
+#(Microscopii)
+Microscopii
+
+
+#(Draconis)
+Draconis
+
+
+#(Orionis)
+Orionis
+
+
+#(Normae)
+Normae
+
+
+#(Octantis)
+Octantis
+
+
+#(Ophiuchi)
+Ophiuchi
+
+
+#(Muscae)
+Muscae
+
+
+#(Pavonis)
+Pavonis
+
+
+#(Pegasi)
+Pegasi
+
+
+#(Persei)
+Persei
+
+
+#(Phoenicis)
+Phoenicis
+
+
+#(Pictoris)
+Pictoris
+
+
+#(Piscium)
+Piscium
+
+
+#(Hyginus)
+Hyginus
+
+
+#(Puppis)
+Puppis
+
+
+#(Pyxidis)
+Pyxidis
+
+
+#(Reticuli)
+Reticuli
+
+
+#(Arianni)
+Arianni
+
+
+#(Sagittarii)
+Sagittarii
+
+
+#(Scorpii)
+Scorpii
+
+
+#(Sculptoris)
+Sculptoris
+
+
+#(Scuti)
+Scuti
+
+
+#(Serpentis)
+Serpentis
+
+
+#(Sextantis)
+Sextantis
+
+
+#(Tauri)
+Tauri
+
+
+#(Telescopii)
+Telescopii
+
+
+#(Bootis)
+Bootis
+
+
+#(Olber)
+Olber
+
+
+#(Centauri)
+Centauri
+
+
+#(Ptolemae)
+Ptolemae
+
+
+#(Gorno)
+Gorno
+
+
+#(Velorum)
+Velorum
+
+
+#(Virginis)
+Virginis
+
+
+#(Volantis)
+Volantis
+
+
+#(Vulpeculae)
+Vulpeculae
+
+
+#(Lalande)
+Lalande
+
+
+#(Luyten)
+Luyten
+
+
+#(Indi)
+Indi
+
+
+#(Lacaille)
+Lacaille
+
+
+#(Giclas)
+Giclas
+
+
+#(Krueger)
+Krueger
+
+
+#(Lyrae)
+Lyrae
+
+
+#(Wolf)
+Wolf
+
+
+#(Saurus)
+Saurus
+
+
+#(Raynet)
+Raynet
+
+
+#(Zeeman)
+Zeeman
+
+
+#(Vela)
+Vela
+
+
+#(Mira)
+Mira
+
+
+#(Cerenkov)
+Cerenkov
+
+
+#(Mersenne)
+Mersenne
+
+
+#(Maksutov)
+Maksutov
+
+
+#(Klystron)
+Klystron
+
+
+#(Metis)
+Metis
+
+
+#(Mensae)
+Mensae
+
+
+#(Illuminati)
+Illuminati
+
+
+#(Vitalis)
+Vitalis
+
+
+#(Herculis)
+Herculis
+
+
+#(Gruis)
+Gruis
+
+
+#(Squidi)
+Squidi
+
+
+#(Almagest)
+Almagest
+
+
+#(Alcor)
+Alcor
+
+
+#(Algol)
+Algol
+
+
+#(Betelgeuse)
+Betelgeuse
+
+
+#(Aldebaran)
+Aldebaran
+
+
+#(Achernar)
+Achernar
+
+
+#(Procyon)
+Procyon
+
+
+#(Rigel)
+Rigel
+
+
+#(Bellatrix)
+Bellatrix
+
+
+#(Mizar)
+Mizar
+
+
+#(Hyperion)
+Hyperion
+
+
+#(Regulus)
+Regulus
+
+
+#(Organon)
+Organon
+
+
+#(Pollux)
+Pollux
+
+
+#(Capella)
+Capella
+
+
+#(Deneb)
+Deneb
+
+
+#(Canopus)
+Canopus
+
+
+#(Sirius)
+Sirius
+
+
+#(Sol)
+Sol
+
+
+#(Arcturus)
+Arcturus
+
+
+#(Lentilis)
+Lentilis
+
+
+#(UNKNOWN)
+TUNTEMATON
+
+
+#(devices)
+laitteet
+
+
+#(Quasi Portal)
+Kvasi- portaali
+
+
+#(Talking Pet)
+Puhuva Lemmikki
+
+
+#(Utwig Bomb)
+Utwig- pommi
+
+
+#(Sun Device)
+Aurinko- laite
+
+
+#(Rosy Sphere)
+Ruusu- kuula
+
+
+#(Aqua Helix)
+Akva- kierukka
+
+
+#(Clear Spindle)
+Kirkas Kehrä
+
+
+#(Broken Ultron)
+Särkynyt Ultron
+
+
+#(Broken Ultron)
+Särkynyt Ultron
+
+
+#(Broken Ultron)
+Särkynyt Ultron
+
+
+#(Perfect Ultron)
+Täysi Ultron
+
+
+#(Shofixti Maidens)
+Shofixti- neidot
+
+
+#(Umgah Caster)
+Umgah- lähetin
+
+
+#(Burvix Caster)
+Burvix- lähetin
+
+
+#(1 DataPlate)
+1 DataLevy
+
+
+#(2 DataPlate)
+2 DataLevyä
+
+
+#(3 DataPlate)
+3 DataLevyä
+
+
+#(Taalo Shield)
+Taalo- kilpi
+
+
+#(Egg Case)
+Munan Kuori
+
+
+#(Egg Case)
+Munan Kuori
+
+
+#(Egg Case)
+Munan Kuori
+
+
+#(Syreen Shuttle)
+Syreen- sukkula
+
+
+#(VUX Beast)
+VUXien Hirviö
+
+
+#(Destruct Code)
+Tuhokoodi
+
+
+#(Warp Pod)
+Vääristys moottori
+
+
+#(Wimbli's Trident)
+Wimblin Atrain
+
+
+#(Glowing Rod)
+Hehkuva Sauva
+
+
+#(Moon Base)
+Kuutuki- kohta
+
+
+#(cargo)
+rahti
+
+
+#(Free)
+Vapaa
+
+
+#(Common)
+Yleinen
+
+
+#(Corrosive)
+Syövyttävä
+
+
+#(Base Metal)
+Perusmetalli
+
+
+#(Noble Gas)
+Jalokaasu
+
+
+#(Rare Earth)
+Harvinainen
+
+
+#(Precious)
+Arvokas
+
+
+#(Radioactive)
+Radioakt.
+
+
+#(Exotic)
+Eksoottinen
+
+
+#(Hydrogen)
+Vetyä
+
+
+#(Helium)
+Heliumia
+
+
+#(Lithium)
+Litiumia
+
+
+#(Beryllium)
+Berylliumia
+
+
+#(Boron)
+Booria
+
+
+#(Carbon)
+Hiiltä
+
+
+#(Nitrogen)
+Typpeä
+
+
+#(Oxygen)
+Happea
+
+
+#(Fluorine)
+Fluoria
+
+
+#(Neon)
+Neonia
+
+
+#(Sodium)
+Natriumia
+
+
+#(Magnesium)
+Magnesiumia
+
+
+#(Aluminum)
+Alumiinia
+
+
+#(Silicon)
+Piitä
+
+
+#(Phosphorus)
+Fosforia
+
+
+#(Sulfur)
+Rikkiä
+
+
+#(Chlorine)
+Klooria
+
+
+#(Argon)
+Argonia
+
+
+#(Potassium)
+Kaliumia
+
+
+#(Calcium)
+Kalsiumia
+
+
+#(Scandium)
+Skandiumia
+
+
+#(Titanium)
+Titaania
+
+
+#(Vanadium)
+Vanadiinia
+
+
+#(Chromium)
+Kromia
+
+
+#(Manganese)
+Mangaania
+
+
+#(Iron)
+Rautaa
+
+
+#(Cobalt)
+Kobolttia
+
+
+#(Nickel)
+Nikkeliä
+
+
+#(Copper)
+Kuparia
+
+
+#(Zinc)
+Sinkkiä
+
+
+#(Gallium)
+Galliumia
+
+
+#(Germanium)
+Germaniumia
+
+
+#(Arsenic)
+Arsenikkia
+
+
+#(Selenium)
+Seleeniä
+
+
+#(Bromine)
+Bromia
+
+
+#(Krypton)
+Kryptonia
+
+
+#(Rubidium)
+Rubidiumia
+
+
+#(Strontium)
+Strontiumia
+
+
+#(Yttrium)
+Yttriumia
+
+
+#(Zirconium)
+Zirkoniumia
+
+
+#(Niobium)
+Niobiumia
+
+
+#(Molybdenum)
+Molybdeeniä
+
+
+#(Technetium)
+Teknetiumia
+
+
+#(Ruthenium)
+Ruteniumia
+
+
+#(Rhodium)
+Rodiumia
+
+
+#(Palladium)
+Palladiumia
+
+
+#(Silver)
+Hopeaa
+
+
+#(Cadmium)
+Kadmiumia
+
+
+#(Indium)
+Indiumia
+
+
+#(Tin)
+Tinaa
+
+
+#(Antimony)
+Antimonia
+
+
+#(Tellurium)
+Telluuria
+
+
+#(Iodine)
+Jodia
+
+
+#(Xenon)
+Ksenonia
+
+
+#(Cesium)
+Cesiumia
+
+
+#(Barium)
+Bariumia
+
+
+#(Lanthanum)
+Lantaania
+
+
+#(Cerium)
+Ceriumia
+
+
+#(Praseo- dymium)
+Praseo- dyymiä
+
+
+#(Neodymium)
+Neodyymiä
+
+
+#(Promethium)
+Prometiumia
+
+
+#(Samarium)
+Samariumia
+
+
+#(Europium)
+Eurobiumia
+
+
+#(Gadolinium)
+Gadoliniumia
+
+
+#(Terbium)
+Terbiumia
+
+
+#(Dyprosium)
+Dysposiumia
+
+
+#(Holmium)
+Holmiumia
+
+
+#(Erbium)
+Erbiumia
+
+
+#(Thulium)
+Tuliumia
+
+
+#(Ytterbium)
+Ytterbiumia
+
+
+#(Lutetium)
+Luteniumia
+
+
+#(Hafnium)
+Hafniumia
+
+
+#(Tantalum)
+Tantaalia
+
+
+#(Tungsten)
+Volframia
+
+
+#(Rhenium)
+Reniumia
+
+
+#(Osmium)
+Osmiumia
+
+
+#(Iridium)
+Iridiumia
+
+
+#(Platinum)
+Platinaa
+
+
+#(Gold)
+Kultaa
+
+
+#(Mercury)
+Elohopeaa
+
+
+#(Thallium)
+Talliumia
+
+
+#(Lead)
+Lyijyä
+
+
+#(Bismuth)
+Vismuttia
+
+
+#(Polonium)
+Poloniumia
+
+
+#(Astatine)
+Astatiinia
+
+
+#(Radon)
+Radonia
+
+
+#(Francium)
+Frankiumia
+
+
+#(Radium)
+Radiumia
+
+
+#(Actinium)
+Aktiniumia
+
+
+#(Thorium)
+Toriumia
+
+
+#(Protactinium)
+Protaktiniumia
+
+
+#(Uranium)
+Uraania
+
+
+#(Neptunium)
+Neptuniumia
+
+
+#(Plutonium)
+Plutoniumia
+
+
+#(Ozone)
+Otsonia
+
+
+#(Free Radicals)
+Vapaita Radikaaleja
+
+
+#(Carbon Dioxide)
+Hiili- dioksidia
+
+
+#(Carbon Monoxide)
+Hiili- monoksidia
+
+
+#(Ammonia)
+Ammoniakkia
+
+
+#(Methane)
+Metaania
+
+
+#(Sulfuric Acid)
+Rikkihappoa
+
+
+#(Hydrochloric Acid)
+Hydrokloori- happoa
+
+
+#(Hydrocyanic Acid)
+Hydrosyaani- happoa
+
+
+#(Formic Acid)
+Formista Happoa
+
+
+#(Phosphoric Acid)
+Fosfori- happoa
+
+
+#(Formaldehyde)
+Formaldehydiä
+
+
+#(Cyano- acetylene)
+Syano- asetyleeniä
+
+
+#(Methanol)
+Metanolia
+
+
+#(Ethanol)
+Etanolia
+
+
+#(Silicon Monoxide)
+Piimonoksidia
+
+
+#(Titanium Oxide)
+Titaani- oksidia
+
+
+#(Zirconium Oxide)
+Zirconium- oksidia
+
+
+#(Water)
+Vettä
+
+
+#(Silicon Compounds)
+Piiyhdisteitä
+
+
+#(Metal Oxides)
+Metalli- oksideita
+
+
+#(Quantum Black Holes)
+Mustia kvanttiaukkoja
+
+
+#(Neutronium)
+Neutroniumia
+
+
+#(Magnetic Monopoles)
+Magneettisia Monopoleja
+
+
+#(Degenerate Matter)
+Degeneroitunutta Materiaa
+
+
+#(Super Fluids)
+Super- nesteitä
+
+
+#(Aguuti Nodules)
+Aguutinoduuleja
+
+
+#(Iron Compounds)
+Rautayhdisteitä
+
+
+#(Aluminum Compounds)
+Alumiini- yhdisteitä
+
+
+#(Nitrous Oxide)
+Nitro-oksidia
+
+
+#(Radioactives)
+Radioaktiiveja
+
+
+#(Hydro- carbons)
+Hiilivetyjä
+
+
+#(Carbon Compounds)
+Hiili- yhdisteitä
+
+
+#(Antimatter)
+Antimateriaa
+
+
+#(Charon Dust)
+Charonin Pölyä
+
+
+#(Reisburg Helices)
+Reisburgin Kierukoita
+
+
+#(Tzo Crystals)
+Tzo-kristalleja
+
+
+#(Calcium Compounds)
+Kalsium- yhdisteitä
+
+
+#(Nitric Acid)
+Typpihappoa
+
+
+#(MINERAL SCAN)
+MINERAALISKANNAUS
+
+
+#(ENERGY SCAN)
+ENERGIAN SKANNAUS
+
+
+#(BIOLOGICAL SCAN)
+BIOLOGINEN SKANNAUS
+
+
+#((MORE))
+(LISAA)
+
+
+#(Oolite)
+Ooliitti
+
+
+#(Yttric)
+Yttrinen
+
+
+#(Quasi-Degenerate)
+Kvasi-Degeneroitunut
+
+
+#(Lanthanide)
+Lantanoidinen
+
+
+#(Treasure)
+Aarre
+
+
+#(Urea)
+Urea
+
+
+#(Metal)
+Metalli
+
+
+#(Radioactive)
+Radioaktiivinen
+
+
+#(Opalescent)
+Opaalinhohtoinen
+
+
+#(Cyanic)
+Syaaninen
+
+
+#(Acid)
+Happo
+
+
+#(Alkali)
+Alkali
+
+
+#(Halide)
+Halide
+
+
+#(Green)
+Vihreä
+
+
+#(Copper)
+Kupari
+
+
+#(Carbide)
+Karbidi
+
+
+#(Ultramarine)
+Ultramariini
+
+
+#(Noble)
+Jalo
+
+
+#(Azure)
+Taivaansininen
+
+
+#(Chondrite)
+Kondriitti
+
+
+#(Purple)
+Purppura
+
+
+#(Super-Dense)
+Supertiheä
+
+
+#(Pellucid)
+Läpikuultava
+
+
+#(Dust)
+Pöly
+
+
+#(Crimson)
+Verenpunainen
+
+
+#(Cimmerian)
+Synkeä
+
+
+#(Infrared)
+Infrapunainen
+
+
+#(Selenic)
+Seleeninen
+
+
+#(Auric)
+Kullanhohtoinen
+
+
+#(Fluorescent)
+Loistava
+
+
+#(Ultraviolet)
+Ultravioletti
+
+
+#(Plutonic)
+Plutoninen
+
+
+#(Rainbow)
+Sateenkaari
+
+
+#(Shattered)
+Murskaantunut
+
+
+#(Sapphire)
+Safiiri
+
+
+#(Organic)
+Orgaaninen
+
+
+#(Xenolithic)
+Ksenoliittinen
+
+
+#(Redux)
+Palautunut
+
+
+#(Primordial)
+Alkukantainen
+
+
+#(Emerald)
+Smaragdi
+
+
+#(Chlorine)
+Kloori
+
+
+#(Magnetic)
+Magneettinen
+
+
+#(Water)
+Vesi
+
+
+#(Telluric)
+Telluurinen
+
+
+#(Hydrocarbon)
+Hiilivety
+
+
+#(Iodine)
+Jodi
+
+
+#(Vinylogous)
+Vinylogous
+
+
+#(Ruby)
+Rubiini
+
+
+#(Magma)
+Magma
+
+
+#(Maroon)
+Kastanjanruskea
+
+
+#(World)
+Maailma
+
+
+#(Gas Giant)
+Kaasujättiläinen
+
+
+#(Alpha)
+Alfa
+
+
+#(Beta)
+Beta
+
+
+#(Gamma)
+Gamma
+
+
+#(Delta)
+Delta
+
+
+#(Epsilon)
+Epsilon
+
+
+#(Zeta)
+Zeta
+
+
+#(Eta)
+Eta
+
+
+#(Theta)
+Theta
+
+
+#(Iota)
+Iota
+
+
+#(Kappa)
+Kappa
+
+
+#(Lambda)
+Lambda
+
+
+#(Mu)
+Mu
+
+
+#(Nu)
+Nu
+
+
+#(Xi)
+Xi
+
+
+#(Mercury)
+Merkurius
+
+
+#(Venus)
+Venus
+
+
+#(Earth)
+Maa
+
+
+#(Mars)
+Mars
+
+
+#(Jupiter)
+Jupiter
+
+
+#(Saturn)
+Saturnus
+
+
+#(Uranus)
+Uranus
+
+
+#(Neptune)
+Neptunus
+
+
+#(Pluto)
+Pluto
+
+
+#(Luna)
+Kuu
+
+
+#(Io)
+Io
+
+
+#(Europa)
+Europa
+
+
+#(Ganymede)
+Ganymedes
+
+
+#(Callisto)
+Kallisto
+
+
+#(Titan)
+Titan
+
+
+#(Triton)
+Triton
+
+
+#(Planet I)
+Planeetta 1
+
+
+#(Planet II)
+Planeetta 2
+
+
+#(Planet III)
+Planeetta 3
+
+
+#(Planet IV)
+Planeetta 4
+
+
+#(Planet V)
+Planeetta 5
+
+
+#(Planet VI)
+Planeetta 6
+
+
+#(Planet VII)
+Planeetta 7
+
+
+#(Planet VIII)
+Planeetta 8
+
+
+#(Planet IX)
+Planeetta 9
+
+
+#(Planet X)
+Planeetta 10
+
+
+#(Planet XI)
+Planeetta 11
+
+
+#(Planet XII)
+Planeetta 12
+
+
+#(Planet XIII)
+Planeetta 13
+
+
+#(Planet XIV)
+Planeetta 14
+
+
+#(Planet XV)
+Planeetta 15
+
+
+#(Planet XVI)
+Planeetta 16
+
+
+#(Sa-Matra)
+Sa-Matra
+
+#(JAN)
+TAM
+
+
+#(FEB)
+HEL
+
+
+#(MAR)
+MAA
+
+
+#(APR)
+HUH
+
+
+#(MAY)
+TOU
+
+
+#(JUN)
+KES
+
+
+#(JUL)
+HEI
+
+
+#(AUG)
+ELO
+
+
+#(SEP)
+SYY
+
+
+#(OCT)
+LOK
+
+
+#(NOV)
+MAR
+
+
+#(DEC)
+JOU
+
+
+#((In response to your statement))
+(Vastauksena lausuntoosi)
+
+
+#(MORE)
+LISÄÄ
+
+
+#(Starbase)
+Asema
+
+
+#(Starbase Commander)
+Aseman Komentaja
+
+
+#(Outfit Starship)
+Varusta Alusta
+
+
+#(Shipyard)
+Telakka
+
+
+#(Depart StarBase)
+Lähde Asemalta
+
+
+#(ENCOUNTER IN)
+KOHTAAMINEN
+
+
+#(Deep Space)
+Syväavaruus
+
+
+#(ENCOUNTER AT)
+KOHTAAMINEN
+
+
+#(BATTLE GROUP)
+TAISTELURYHMÄ
+
+
+#(Enemy Ships)
+Vihollisalukset
+
+
+#(Destroyed)
+Tuhottu
+
+
+#(Debris)
+Romua
+
+
+#(Scavenged)
+Kerätty
+
+
+#(HyperSpace)
+Hyperavaruus
+
+
+#(QuasiSpace)
+Kvasiavaruus
+
+
+#(OUT OF FUEL)
+POLTTOAINE LOPPU
+
+
+#(AUTO-PILOT)
+AUTOPILOTTI
+
+
+#(Fuel:)
+Polttoaine:
+
+
+#(Fuel Use:)
+Tarvitaan:
+
+
+#(Enter name)
+Syötä nimi
+
+
+#(FLAGSHIP)
+LIPPULAIVA
+
+
+#(Vindicator)
+Vindicator
+
+
+#(Zelnick)
+Zelnick
+
+
+#(Empty)
+Tyhjä
+
+
+#(Slot)
+Paikka
+
+
+#(Team)
+Joukkueen
+
+
+#(Name)
+Nimi
+
+
+#(Balanced Team 1)
+Balanced Team 1
+
+
+#(Balanced Team 2)
+Balanced Team 2
+
+
+#(200 points)
+200 points
+
+
+#(Behemoth Zenith)
+Behemoth Zenith
+
+
+#(The Peeled Eyes)
+The Peeled Eyes
+
+
+#(Saving . . .)
+Tallennetaan . . .
+
+
+#(Loading . . .)
+Ladataan . . .
+
+
+#(Unable to save game!)
+Tallentaminen ei onnistu!
+
+
+#(Empty Slot)
+Tyhjä paikka
+
+
+#(Saved Game - Date:)
+Tallennettu peli - PVM:
+
+
+#(Sound)
+Ääni
+
+
+#(Music)
+Musiikki
+
+
+#(Cyborg)
+Kyborgi
+
+
+#(OFF)
+OFF
+
+
+#(ON)
+ON
+
+
+#(Really Quit)
+Lopetatko?
+
+
+#(Yes)
+Kyllä
+
+
+#(No)
+Ei
+
+
+#(Cr)
+Kr
+
+
+#(RU)
+RP
+
+
+#(UNLIMITED)
+RAJATON
+
+
+#(FUEL)
+P-AINE
+
+
+#(CREW)
+VÄKI
+
+
+#(CAPTAIN)
+KAPTEENI
+
+
+#(nose:)
+etu:
+
+
+#(spread:)
+hajo:
+
+
+#(side:)
+sivu:
+
+
+#(tail:)
+taka:
+
+
+#(maximum velocity:)
+maksiminopeus:
+
+
+#(turning rate:)
+Kääntymisvauhti:
+
+
+#(combat energy:)
+taisteluenergia:
+
+
+#(maximum fuel:)
+maksimipolttoaine:
+
+
+#(gun)
+ioni
+
+
+#(blaster)
+fuusio
+
+
+#(cannon)
+inferno
+
+
+#(n/a)
+n/a
+
+
+#(none)
+ei ole
+
+
+#(Orbit: )
+Kiertorata: 
+
+
+#( a.u.)
+ a.u.
+
+
+#(Atmo: )
+Atmo: 
+
+
+#(Super Thick)
+Superpaksu
+
+
+#(Vacuum)
+Tyhjiö
+
+
+#( atm)
+ atm
+
+
+#(Temp: )
+Lämpötila: 
+
+
+#(Weather: )
+Sää: 
+
+
+#(None)
+Ei ole
+
+
+#(Class)
+Aste
+
+
+#(Tectonics: )
+Epävakaus: 
+
+
+#(Mass: )
+Massa: 
+
+
+#( e.s.)
+ e.s.
+
+
+#(Radius: )
+Säde: 
+
+
+#(Gravity: )
+Painovoima: 
+
+
+#( g.)
+ g.
+
+
+#(Day: )
+Päivä: 
+
+
+#( days)
+ päivää
+
+
+#(Tilt: )
+Kulma: 
+
+
+#(scan)
+skannaa
+
+
+#(starmap)
+kartta
+
+
+#(devices)
+laitteet
+
+
+#(cargo)
+lasti
+
+
+#(roster)
+miehistö
+
+
+#(game)
+peli   
+
+
+#(navigate)
+navigoi
+
+
+#(mineral)
+mineraalit
+
+
+#(energy)
+energia
+
+
+#(biological)
+biologinen
+
+
+#(exit menu)
+poistu
+
+
+#(autoscan)
+autoskan.
+
+
+#(dispatch)
+laskeudu
+
+
+#(save game)
+tallenna
+
+
+#(load game)
+lataa
+
+
+#(quit game)
+lopeta
+
+
+#(settings)
+asetukset
+
+
+#(exit menu)
+poistu
+
+
+#(converse)
+puhu
+
+
+#(attack!)
+hyökkää!
+
+
+#(game)
+peli
+
+
+#(fuel)
+p-aine
+
+
+#(module)
+moduuli
+
+
+#(game)
+peli
+
+
+#(exit menu)
+poistu
+
+
+#(crew)
+miehistö
+
+
+#(game)
+peli
+
+
+#(exit menu)
+poistu
+
+
+#(sound)
+ääni
+
+
+#(music)
+musiikki
+
+
+#(cyborg)
+kyborgi
+
+
+#(captain)
+kapteeni
+
+
+#(flagship)
+lippulaiva
+
+
+#(exit menu)
+poistu
+
+
+#()
+
+
+
+#()
+
+
+
+#()
+
+
+
+#()
+
+
+
+#()
+
+
+
+#(scan)
+skannaa
+
+
+#(starmap)
+kartta
+
+
+#(manifest)
+listat
+
+
+#(game)
+peli
+
+
+#(navigate)
+navigoi
+
+
+#(cargo)
+lasti
+
+
+#(devices)
+laitteet
+
+
+#(roster)
+miehistö
+
+
+#(exit menu)
+poistu
+
+
+#(mineral)
+mineraalit
+
+
+#(energy)
+energia
+
+
+#(biological)
+biologinen
+
+
+#(autoscan)
+autoskan.
+
+
+#(dispatch)
+laskeudu
+
+
+#(exit menu)
+poistu
+
+
+#(mouse_err)
+UQM ei tue hiirtä. Käytä sen sijaan
+näppäimistöä tai joystickia.
+
+Palaa painamalla ENTERIÄ tai VÄLILYÖNTIÄ.
+
+#(Unconnected. Press LEFT to connect.)
+Ei yhteyttä. Paina VASEMMALLE yhdistääksesi.
+
+
+#(Awaiting incoming connection...)
+Odotetaan yhteyttä
+
+#(Attempting outgoing connection...)
+Muodostetaan yhteyttä
+
+#(Connected. Change the control method to disconnect.)
+Yhdistetty. Vaihda ohjausmenetelmä katkaistaksesi yhteyden.
+
+
+#(Confirmation cancelled. Press FIRE to reconfirm.)
+Vahvistus peruutettu. Vahvista painamalla TULITUS.
+
+
+#(Connection for bottom player not established.)
+Alemman pelaajan yhteyttä ei ole muodostettu.
+
+
+#(Connection for top player not established.)
+Ylemmän pelaajan yhteyttä ei ole muodostettu.
+
+
+#(Waiting for remote confirmation.)
+Odotetaan etäpään vahvistusta.
+
+
+#(Bottom player is connected.)
+Alempi pelaaja yhdistetty.
+
+
+#(Top player is connected.)
+Ylempi pelaaja yhdistetty.
+
+
+#(Bottom player: connection failed.)
+Alempi pelaaja: Yhteys epäonnistui.
+
+
+#(Top player: connection failed.)
+Ylempi pelaaja: Yhteys epäonnistui.
+
+
+#(Bottom player: connection closed.)
+Alempi pelaaja: Yhteys katkaistu.
+
+
+#(Top player: connection closed.)
+Ylempi pelaaja: Yhteys katkaistu.
+
+
+#(Connection for bottom player not ready.)
+Alemman pelaajan yhteys ei ole valmis.
+
+
+#(Connection for top player not ready.)
+Ylemmän pelaajan yhteys ei ole valmis.
+
+
+#(Bottom player changed something -- need to reconfirm.)
+Alemman pelaajan muutokset pitää uudelleen vahvistaa.
+
+
+#(Top player changed something -- need to reconfirm.)
+Ylemmän pelaajan muutokset pitää uudelleen vahvistaa.
+
+
+#(Press SPACE to cancel)
+Paina VÄLILYÖNTIÄ peruuttaaksesi
+
+
+#(Connect to remote host)
+Muodosta etäyhteys
+
+
+#(Wait for incoming connection)
+Odota yhteyttä
+
+
+#(Cancel)
+Peruuta
+
+
+#(Host)
+Isäntä
+
+
+#(Port)
+Portti
+
+
+#(Net Delay)
+Verkkoviive
+
+
+#(Disconnect for an unspecified reason.)
+Yhteys katkesi tuntemattomasta syystä.
+
+
+#(Connection aborted due to version mismatch.)
+Yhteys peruttu versio erojen takia.
+
+
+#(Connection aborted due to an internal protocol error.)
+Yhteys peruttu protokolla virheiden takia.
+
+
+#(Connection aborted because the remote side sent a fake signature.)
+Yhteys peruttu koska toinen pää lähetti väärän allekirjoituksen. 
+
+
+#(Game aborted for an unspecified reason.)
+Peli peruttu tuntemattomasta syystä.
+
+
+#(Game aborted due to loss of synchronisation.)
+Peli peruttu tahdistuksen katoamisen takia.
+
+
+#(Game aborted by the remote player.)
+Etäpää perui pelin.
+
+
+#(Only one side at a time can be network controlled.)
+Vain toinen puoli voi kerrallaan olla verkko-ohjattu.
+
+
+#(Netplay with a computer-controlled side is currently not possible.)
+Verkkopeli tietokoneohjattua pelaajaa vastaan ei ole mahdollista.
+

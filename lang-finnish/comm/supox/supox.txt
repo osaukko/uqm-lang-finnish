@@ -1,0 +1,406 @@
+#(NEUTRAL_SPACE_HELLO_1)	supox-000.ogg
+Tervehdys, Hiiliolento, olkoot juuresi aina hyvin kastellut.
+
+#(NEUTRAL_SPACE_HELLO_2)	supox-001.ogg
+Terve, Matkalainen. Saavuttakoon valo aina lehtesi.
+
+#(NEUTRAL_HOMEWORLD_HELLO_1)	supox-002.ogg
+Tervehdys, Hiiliolento, olkoot juuresi aina hyvin kastellut.
+
+#(NEUTRAL_HOMEWORLD_HELLO_2)	supox-003.ogg
+Terve Matkalainen.. Saavuttakoon valo aina lehtesi.
+
+#(HOSTILE_SPACE_HELLO_1)	supox-004.ogg
+Te olette siis Ne, lämpimän vihreän auringonvalon pysäyttäjät
+veden myrkyttäjät
+inhottavat kukkivan pensaikon repijät.
+Poistukaa, ennenkuin vihamme murtaa rauhallisen luontomme.
+
+#(HOSTILE_SPACE_HELLO_2)	supox-005.ogg
+Senkin kaksiheteiset, pahantahtoiset kasvissyöjät!
+Teidän olemuksenne pimentää taivaamme.
+Olkoon mädäntyvät ruumiinne tulevien sukupolvien ravintona.
+Emme välitä teistä, kuten emme välitä kelmeän kotitähtenne kalpeasta, mauttomasta valostakaan.
+
+#(ALLIED_HOMEWORLD_HELLO_1)	supox-006.ogg
+Terve, Toveri, ja Voi Hyvin. Me uskomme siemenentesi leviävän laajalle.
+
+#(ALLIED_HOMEWORLD_HELLO_2)	supox-007.ogg
+Olkaa Tervetulleita, Ystävälliset Liittolaiset. Toivottavasti Hyvä Vihreä Auringonvalo lämmittää teitä.
+
+#(ALLIED_HOMEWORLD_HELLO_3)	supox-008.ogg
+Tervehdys ja Kunnianosoitus. Virratkoon lannoite juurillenne.
+
+#(ALLIED_HOMEWORLD_HELLO_4)	supox-009.ogg
+Heipä hei, Hyvä Väki. Tulkoon kukkanne aina hedelmötyiksi.
+
+#(i_am0)
+Olen Kapteeni 
+
+#(i_am1)
+ Maasta. Me tulemme rauhassa.
+
+#(WE_ARE_SUPOX)	supox-010.ogg
+Olen Kapteeni Ala-la'la. Me tulemme rauhassa.
+
+#(my_ship0)	 
+Aluksemme on nimeltään 
+
+#(my_ship1)
+.
+
+#(OUR_SHIP)	supox-011.ogg
+Alustamme kutsutaan Hennoksi Versoksi.
+
+#(from_alliance0)
+Me olemme 
+
+#(from_alliance1)
+ Maasta.
+
+#(FROM_SUPOX)	supox-012.ogg
+Me olemme supoxien Utricularia Maasta.
+
+#(are_you_copying)
+Te olette Maasta??? Hei! Sinähän kopioit kaiken mitä sanon?
+
+#(YEAH_SORRY)	supox-013.ogg
+Oh, olemme pahoillamme sekaannuksesta, kotimaailmaamme kutsutaan myös Maaksi
+tai pikemminkin Vlikiksi, joka tarkoittaa `Täydellisen Hyvää ja Ravitseva Multaa'.
+Maa on melkein sama, eikös vain?
+
+#(why_copy)
+Miksi matkitte puhettamme ja tapojamme?
+
+#(SYMBIOTS)	supox-014.ogg
+Me opimme ja me yhdistymme. Me olemme symbiootteja.
+Ensimmäinen askeleemme ystäviä hankkiessamme on aina matkia heitä.
+Tämä on meidän tapamme.
+
+#(tell_us_of_your_species)
+Symbiootteja, kiinnostavaa! Voisitko kertoa lisää.
+
+#(OUR_SPECIES)	supox-015.ogg
+Lajimme kehittyi ihanalla planeetalla, joka kiertää ihmeellistä vihertävää tähteä, Juurta.
+Aina suurten viidakoiden latvustoista taivaansinisten merien rannoille
+Lajimme on kukoistanut ja kasvanut hyvin.
+Evoluutiomme alkuvaiheilla sopeuduimme olemaan symbioosissa muun, kestävämmän elämän kanssa, sekä flooran ja faunan
+jotka tukivat meitä ravinnolla ja me tuimme niitä lisääntymisavustuksella.
+
+#(plants_arent_intelligent)
+Hei, kasvit eivät voi olla älykkäitä! Parhaat tiedemiehemme ja scifi-kirjailijamme ovat todistaneet sen!
+
+#(PROVES_WERE_SPECIAL)	supox-016.ogg
+Kyllä. Meidänkin kansamme on todistanut tämän. Outoa, eikös?
+Monet meikäläisistä pitävät tätä ristiriitaisuutta todisteena jumalaisesta alkuperästämme.
+
+#(anyone_around_here)
+Tämä on siis naapurustoanne, huh? Muita lajeja lähettyvillä?
+
+#(UTWIG_NEARBY)	supox-017.ogg
+Jaamme tämän avaruuden osan utwigien, Naamioiden Pitäjien kanssa.
+Meillä on vahva kulttuurillinen yhteys utwigien kanssa.
+He ovat olleet se perusta, jonka ympärille olemme kasvattaneet tähtienvälisen sivilisaatiomme.
+Emme ole vain liittolaisia, vaan myös ystäviä.
+Voit mennä tapaamaan heitä. Pieni säpinä tekisi heille hyvää.
+Ymmärräthän, he ovat nyt vähän masentuneita ja surullisia.
+Normaalisti he ovat mitä iloisimpia ja hauskoimpia.
+
+#(what_relation_to_utwig)
+Ovatko utwigit ystäviänne?
+
+#(UTWIG_ALLIES)	supox-018.ogg
+Toki, meillä on vahva kulttuurillinen yhteys utwigien kanssa.
+He ovat olleet se perusta, jonka ympärille olemme kasvattaneet tähtienvälisen sivilisaatiomme.
+Emme ole vain liittolaisia, olemme myös ystäviä.
+Voit mennä tapaamaan heitä. Pieni säpinä tekisi heille hyvää.
+Tiedätkös, he ovat vähän masentuneita ja surullisia nyt.
+Normaalisti he ovat mitä iloisimpia ja hauskoimpia.
+
+#(whats_wrong_with_utwig)
+Voi että, mitä utwigeille on tapahtunut?
+
+#(BROKE_ULTRON)	supox-019.ogg
+He hajottivat Ultroninsa.
+
+#(whats_ultron)
+Ultron? Mikä on Ultron?
+
+#(TAKE_ULTRON)	supox-020.ogg
+Druuget, julma, kalvakka kauppiaslaji, joka myi sen laitteen utwigeille
+sanoivat sitä `Ultroniksi' ja kertoivat, että se voi antaa utwigeille supervoimat.
+Ikävä kyllä, utwigit uskoivat druugeihin ja hankkivat Ultronin.
+Joka tapauksessa, laite TEKI utwigit hyvin iloisiksi.
+Tietenkään me emme kertoneet heille mitä me TODELLA ajattelimme Ultronista
+että he olivat matalamielisia typeryksiä ostaessaan palan jätettä planeetan lunnailla.
+Odotimme pitkään huijauksen paljastumista, ja niin näytimme oman tyhmyytemme.
+Sitten, yhtenä surullisena päivänä muutama vuosi sitten, utwigien Proktori pudotti Ultronin
+kesken energisen ja juhlallisen rituaalin.
+Nyt Utwigit ovat surullisia ja masentuneita.
+Heistä tuntuu, etteivät he voi koskaan saavuttaa suuruutta, koska he menettivät Ultronin voiman.
+He jopa antoivat hajonneen laitteen meille, sanoen etteivät kestä nähdä sitä enää.
+Olemme huolestuneita utwigeista. He ovat niin masentuneita, että he saattavat käyttää Äärimmäistä Asettaan.
+Tässä! Ota sinä Ultron, ehkä sinä voit tehdä sillä jotain.
+
+#(what_do_i_do_now)
+Eh, äh, kiitos, luulisin. Mitä voin tehdä sillä?
+
+#(FIX_IT)	supox-021.ogg
+Ajattelimme, että jos saamme Ultronin toimimaan uudestaan, se voisi innostaa heitä.
+Joten olemme yrittäneet keksiä kuinka korjata sen pirun kapineen
+tai ainakin saada osan vilkkuvista osista toimimaan taas.
+Päinvastoin kuin muut druugejen huijaukset, Ultron ON jonkinlainen artifakti
+ja me emme voi valmistaa tarvittavia korjausosia.
+Toivottavasti matkoillasi voit löytää tarpeellisia osia Ultronin korjaamiseen.
+Sitten voit antaa sen Utwigeille ja ehkä he eivät olisi sitten niin masentuneita.
+
+#(thanks_now_we_eat_you)
+No kiitos. Te muistutatte minusta parsakaalia, ja olen kevyessä juustokastikkeessa olevan parsakaalin ystävä.
+
+#(HIDEOUS_MONSTERS)	supox-022.ogg
+Arrgh, senkin inhottavat hirviöt, kasvissyöjät, lehtien polttajat, juurien repijät.
+Poistukaa, tai revimme teidät juurinenne!
+
+#(got_fixed_ultron)
+Tällä kertaa olemme varmasti korjanneet Ultronin täysin.
+
+#(GOOD_GIVE_TO_UTWIG)	supox-023.ogg
+Oi Ihmeellistä, Oi Lumoavaa Vihreän Auringon Valoa!
+Pyydän, vie se välittömästi Utwigeille, he ilahtuvat!
+
+#(look_i_repaired_lots)
+Toivomme korjanneemme Ultronin täysin.
+
+#(ALMOST_THERE)	supox-024.ogg
+Kyllä! Kyllä!
+mutta ei... se ole vieläkään yhtä kirkas kuin se kerran oli.
+Yhden lisäkorjauksen pitäisi riittää!
+
+#(look_i_slightly_repaired)
+Olemme korjanneet Ultronin.
+
+#(GREAT_DO_MORE)	supox-025.ogg
+Loistavaa! Loistavaa!
+Voi hyvänen
+Tosi on, että olet korjannut Ultronia... jokseenkin
+mutta se siinä tilassa joka niin ihastutti utwigeja.
+Ponnistelusi ovat päteviä, vain epätäydellisiä.
+
+#(where_get_repairs)
+Mistä mahtaisimme löytää materiaaleja `Ultronin' korjaamiseen?
+
+#(ANCIENT_RHYME)	supox-026.ogg
+Saattaisi olla hyvä aloittaa Druugeista
+koska he ovat ne, jotka myivät sen Utwigeille alun alkaenkin.
+
+#(bye_neutral)
+Me poistumme nyt! Nähdään myöhemmin, Supox-ystävät.
+
+#(GOODBYE_NEUTRAL)	supox-027.ogg
+Satakoon Auringonvalo ja Vesi aina päällesi.
+
+#(ABOUT_BATTLE)	supox-028.ogg
+Terve Kapteeni.
+Me taistelimme Kohr-Aheja vastaan; Ystävämme Utwigit aiheuttivat todellista vahinkoa
+muutamille laivueille, mutta me enimmäkseen katselimme avuttomina.
+Ur-Quanit eivät näyttäneen tajuavan, että että autoimme heitä
+ja he hyökkäsivät vähän väliä kimppuumme!
+Olemme ehkä viivyttäneet taistelun lopputulosta, mutta näyttää silti selvältä, että Kohr-Ahit ovat voittajia.
+
+#(HELLO_BEFORE_KOHRAH_SPACE_1)	supox-029.ogg
+Terve, Soturitoverit. Menemme repimään vihollisemme!
+
+#(HELLO_BEFORE_KOHRAH_SPACE_2)	supox-030.ogg
+Tervehdys, Puutarhan Vartijat. Blokkaamme Kohr-Aheilta auringonvalon ja jäädytämme heidän lehtensä!
+
+#(HELLO_DURING_KOHRAH_SPACE_1)	supox-031.ogg
+Ihminen! Läsnäolosi täällä on huojentavaa, mutta sinun olisi parasta poistua tältä alueelta
+taistelumme Kohr-Ahien kanssa on ankaraa, ja sinä voisit tuhoutua.
+
+#(HELLO_DURING_KOHRAH_SPACE_2)	supox-032.ogg
+Tervehdys taas, Kapteeni. Toivomme, että kukoistat.
+Taistelemme urheasti, mutta tapahtumat eivät näytä menevän niinkuin toivoimme.
+
+#(HELLO_AFTER_KOHRAH_SPACE_1)	supox-033.ogg
+Ah, ihmisystävämme... olemme niin väsyneitä... taistelu niin vaikea...
+
+#(HELLO_AFTER_KOHRAH_SPACE_2)	supox-034.ogg
+Terve taas, faunatoveri. Olemme lopussa, ja meidän täytyy kasvattaa uusi kaarna.
+
+#(whats_up_after_space)
+Kerro minulle taistelusta Kohr-Ahien kanssa.
+
+#(GENERAL_INFO_AFTER_SPACE_1)	supox-035.ogg
+Kohtasimme Kohr-Ahit Utwigien kanssa.
+Mustien alusten tuhoava voima oli odotettua suurempi
+Onnistuimme silti lopulta kehittämään utwigien kanssa taktiikoita
+jotka tehosivat heitä vastaan. Tuhosimme tusinoittain heidän taistelualuksiaan!
+Silti menetimme monia terä-veljiä pyöriville terille ja tuliselle kehälle.
+
+#(GENERAL_INFO_AFTER_SPACE_2)	supox-036.ogg
+Utwigien komennon mukaan linjamme oli keskittää aseemme vain Kohr-Aheihin.
+Näin ollen pystyimme vähentämään mustan laivaston voimaa ja tasoittamaan voimatasapainoa
+Ur-Quanien ja Kohr-Ahien välillä. Suunnitelma toimi hyvin, erästä pientä tekijää lukuunottamatta.
+Vihreät alukset... Ur-Quanit eivät huomanneet ponnistelujamme heidän puolestaan
+ja ampuivat aluksiamme kaiken aikaa.
+
+#(what_now_after_space)
+Mitä meidän pitäisi mielestäsi tehdä nyt?
+
+#(DO_THIS_AFTER_SPACE)	supox-037.ogg
+Me olemme vain yksinkertaisia kasveja, pelkkiä taimia sellaisten asioiden tietämisessä
+Jos etsit viisautta, käy utwigien Proktorien luona.
+
+#(bye_after_space)
+Näkemiin, supoxit. Kiitos kaikesta.
+
+#(GOODBYE_AFTER_SPACE)	supox-038.ogg
+Voikaa hyvin.
+
+#(whats_up_before_space)
+Niin, mitäs te teette?
+
+#(GENERAL_INFO_BEFORE_SPACE_1)	supox-039.ogg
+Utwigit pyysivät meitä valmistautumaan taisteluun, joten me valmistaudumme!
+Kohteemme on Antares, jossa kohtaamme Kohr-Ahit taistelussa!
+
+#(GENERAL_INFO_BEFORE_SPACE_2)	supox-040.ogg
+Olemme matkalla eeppiseen yhteenottoon Kohr-Ahien!
+
+#(what_now_before_space)
+Joten mitä voimme nyt tehdä?
+
+#(DO_THIS_BEFORE_SPACE)	supox-041.ogg
+Meidän täytyy jättää tämä utwigeille, jotka tietävät tällaisista asioista enemmän.
+Yksi asia kuitenkin... he erikoisesti valistivat meitä kertomaan sinulle
+että ET saa hankkiutua mukaan tähän taisteluun.
+Kohtalosi, he väittävät, kulkee  pitkin hienovaraisempaa mutta tärkeämpää reittiä.
+
+#(bye_before_space)
+Tapaamisiin, kasvikamut.
+
+#(GOODBYE_BEFORE_SPACE)	supox-042.ogg
+Toivota meille onnea, ihminen.
+
+#(how_went_war)
+Mitä tapahtui Antareksessa? Selostakaa kamppailu.
+
+#(how_goes_war)
+Kuinka menee taistelu Kohr-Ahien kanssa?
+
+#(BATTLE_HAPPENS_1)	supox-043.ogg
+Pelottavaa, ihminen, pelottavaa! Emme ole vielä löytäneet mitään taktiikkaa
+joka olisi tehokas Kohr-Ahien Ryöstäjä-aluksia vastaan.
+Tummat alukset ampuvat pyöriviä metallikiekkoja... meitä niitetään kuin
+En halua edes sanoa sitä... jos olemme tarpeeksi onnekkaita päästäksemme tarpeeksi lähelle
+aukot sen kehän ympärillä avautuvat ja suihkuttavat kahmailoittain liekehtivä plasmaa.
+Eikä siinä kaikki, että nämä liekit leikkaavat aluksiamme viikateen lailla
+heillä on myös tehokas suojaus pisara-aseitamme vastaan.
+
+#(BATTLE_HAPPENS_2)	supox-044.ogg
+Menestyksemme on parempi, ihminen, ylistäkää valoa!
+Olemme oppineet että meidän täytyy taistella yhdessä utwigien kanssa
+antamalla heidän imeä Kohr-Ahien tulivoima kilpiinsä
+samalla kun me olemme opportunistin roolissa, iskien vain kun Kohr-Ah on suojaton
+ja sitten paeten, päästäen utwigit aloittamaan kierroksen alusta.
+
+#(FLEET_ON_WAY)	supox-045.ogg
+Nytkin, kun puhumme, utwigien ja supoxien laivastot suuntaavat Horologia kohti
+missä he toivovat tekevänsä suuren iskun Kohr-Ahien joukkoja vastaan.
+
+#(learn_new_info)
+Ovatko taistelujoukkonne oppineet mitään mitä minun kannattaisi tietää?
+
+#(NO_NEW_INFO)	supox-046.ogg
+Ei, eivät tähän mennessä. Vaikka avaruusalue, jolla he taistelevat, on uusi meille
+aluksemme eivät tee minkäänlaista tutkimusta
+Kohr-Ahien voiman vähentäminen on heidän ensisijainen kohteensa.
+
+#(SAMATRA)	supox-047.ogg
+Kesken taistelun, yksi aluksistame vastaanotti signaalin
+Ur-Quanien alukselta Kohr-Ahille.
+Viestin sisältö oli yksinkertainen, `Sa-Matra'.
+Välittömästi napattuamme lähetyksen, Kohr-Ahin alus erkani taistelusta
+hyppäsi HyperAvaruuteen ja lähti Crateriksen tähtijärjestelmän suuntaan.
+
+#(what_now_homeworld)
+Joten mitä nyt voimme tehdä?
+
+#(HOPE_KILL_EACH_OTHER)	supox-048.ogg
+Voimme vain toivoa että Kohr-Ahien ja Ur-Quanien vastakkaiset voimat
+ovat tarpeeksi tasaväkisiä, niin että ne kutistavat toisensa merkityksettömiksi.
+
+#(UP_TO_YOU)	supox-049.ogg
+Toivomme että Ur-Quanit ja Kohr-Ahit tuhoaisivat toisensa on ollut turha.
+Voitettuaan Kohr-Ahit jatkavat synkkää tuhon risteilyään.
+Sinä ja sinun väkesi olette nyt ainoa toivomme.
+Sinun täytyy löytää keino pysäyttää Kohr-Ahit.
+
+#(can_you_help)
+Kaksi lehteä imee vettä samasta juuresta.
+
+#(HOW_HELP)	supox-050.ogg
+Mitä viisautta! Tarkoituksesi virtaavat syvällä, mietimme niiden merkitystä.
+Ah, aivan! Sinä toivot meidän antavan apua... kuten taistelualuksiamme!
+
+#(DONT_NEED)	supox-051.ogg
+Sinulla näyttää silti olevan tarpeitasi vastaava laivasto.
+Säästämme muutamat jäljellä olevat aluksemme viimeiseen puolustukseen Kohr-Aheja vastaan.
+
+#(HAVE_4_SHIPS)	supox-052.ogg
+Sanoissasi on totuus. Lähetämme palollisen aluksiamme liittymään laivastoosi.
+
+#(give_info)
+Onko mitään tietoa, joka on yksin teidän hallussanne?
+
+#(GOOD_HINTS)	supox-053.ogg
+Tieto on utwigien aluetta. Me supoxit olemme pelkkiä toimeenpanijoita.
+Tosiasiassa me olemme kuitenkin oppineet jutun tai pari, joita muut eivät tiedä
+enimmäkseen siksi, että emme ajatelleet että kukaan välittäisi vähääkään, mutta koska kysyt, kuuntele.
+Emme ole matkanneet kauas omalta avaruuden alueeltamme, mutta olemme tutkineet tämän alueen läpikotaisesti.
+Kaikista löytämistämme outouksista, Nalnarin tulipalloista aina Malin palvelijoihin
+totisin mysteeri oli maailma, jonka löysimme oranssilta tähdeltä, Beta Leporikselta.
+Yleisenä sääntönä, me emme mielellämme oleile alueilla, joissa on niin pitkä aallonpituus
+sillä siitä valosta puuttuu makua, mutta olimme kartoitustehtävällä. Näin löysimme planeetan.
+Aluksi ajattelimme, että skannerimme olivat rikki, kun ne näyttivät iloisenkirjavan maailman.
+Sitten paikansimme häiriön lähteen... planeetta itse!
+Jotenkin planeetta generoi epätavallisen säteilykentän, joka sotkee herkät piiristöt.
+Vaikka olikin tulisen kuumaa, yritimme laskeutua. Ennen kuin ankara kuummus pakotti meidät pois pinnalta
+osoitimme prosessoitujen radioaktiivien valtavan määrän läsnäolon.
+Outoa, eikös vain?
+
+#(how_is_ultron)
+Niin, mitäs utwigit pitävät Ultronistaan?
+
+#(ULTRON_IS_GREAT)	supox-054.ogg
+he ovat ekstaasin tuolla puolen, selvästi hurmahengen alueella tai ehkä jopa pysyvässä ilmestystilassa.
+Jos tahdot tietää heidän ilonsa todellisen syvyyden, puhu itse heille.
+
+#(bye_allied_homeworld)
+Näkemiin, Lehdelliset.
+
+#(GOODBYE_ALLIED_HOMEWORLD)	supox-055.ogg
+Farewell Friendly Folk.
+
+#(name_1)
+Vapaiden Tähtien Allianssi
+
+#(name_2)
+Muukalaisvaltioiden Sopimus
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatio
+
+#(name_40)
+Imperiumi
+#(name_41)
+ 
+
+#(OUT_TAKES)	supox-056.ogg
+Huh! Olen kiitollinen, että se kaikki on ohi.
+Se oli kovaa, soittaa toista banaania utwigeille.
+Nyt olen nälkäinen, mutta olen sairas ja väsynyt auringonvaloon, valoon, valoon!
+Tahdon jotain TODELLISTA ruokaa!!!
+Kuten hampurilaista tai pihviä... tai paremminkin...
+...miten olisi koira!
+

@@ -1,0 +1,1006 @@
+#(GIVE_SPINDLE)	pkunk-000.ogg
+ODOTA!... henkiääni kaikuu sieluni sisällä
+se kertoo minulle että minun pitäisi antaa sinulle jotakin
+jotakin joka auttaa sinua jalossa tehtävässäsi!
+Mitä, henki? Mitä meidän täytyy antaa tälle nuorelle ihmiselle?
+Mineraaliresursseja?... ei. 
+Tärkeitä salaisuuksia?... ei.
+Avaruusaluksia?... ei. 
+Mitä se sitten ON, henki, antaa kuulua!
+Mitä?!... se kapistus? Oletko varma? Okei.
+Ole hyvä, Kapteeni. Ota tämä Kirkas Kehrä.
+Se on muinainen ja voimallinen laite, jonka rakensivat Edelläkävijät satoja tuhansia vuosia sitten.
+Mitäkö se tekee, kysyt?
+Minulla ei ole hämärintäkään aavistusta. 
+
+#(name_1)
+Uusi Vapaiden Tähtien Allianssi
+
+#(name_2)
+Muukalaisvaltioiden Sopimus
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatio
+
+#(name_40)
+Imperiumi 
+#(name_41)
+ 
+
+#(NEUTRAL_SPACE_HELLO_1)	pkunk-001.ogg
+Tervetuloa kotitähdillemme. Olemme pkunkeja. Pkunkeja me olemme.
+Syvimpien totuuksien etsijöitä, mielenkiintoisten ja merkittävien kysymyksien kysyjiä.
+Nytkin tulee mieliimme kutsumatta mahtavan erinomainen kysymys.
+'Kuka olet ja mitä tahdot?'
+
+#(NEUTRAL_SPACE_HELLO_3)	pkunk-002.ogg
+Tervehdys ja erilaisia soveliaita onnitteluja !  Olemme pkunkit.
+Valosta kuoriutujia, suunnattoman kosmisen ykseyden spirituaalisia sieluolentoja
+purjehtijoita kohtalon joella, mystisten ulottuvuuksien opiskelijoita
+autuaan rakkauden hankkijoita, loistavien astraalitasolta tulevien valoenergioiden lintumaisia ilmentymiä.
+Entäs itse?
+
+#(NEUTRAL_SPACE_HELLO_2)	pkunk-003.ogg
+Älä ole peloissasi. Olemme voimallisia olentoja, aivan
+mutta emme voisi satuttaa sinua sen enempää kuin voisimme liiskata avutonta Poot-matoa.
+Rakastamme Poot-matoa.  Olemme yhtä Poot-madon kanssa.  Olemme yhtä sinun kanssasi.
+Tajuat kai tietenkin että tämä tarkoittaa että olet yhtä Poot-madon kanssa. Iloitse!!
+Olla yhtä Poot-madon kanssa on olla elossa, ja miksi et olisi elossa?
+Eikö eläminen olekin sitä varten?
+
+#(NEUTRAL_SPACE_HELLO_4)	pkunk-004.ogg
+Aistin, että olet epäluuloinen.
+Tunnet, ettet ole vielä valmis astumaan laupeutemme täyteyteen. 
+Sanon sinulle, Päästä irti!!
+Matkusta rakkauden planeetallemme tähdelle, jota kutsut Gamma Kruegeriksi
+ja jaa sielusi kirkkaus kanssamme.
+Huojenna itsesi peloista, tule taas lapseksi
+vapauta itsesi ilon kyynelille!
+Mene. Mene nyt, nuorukainen. Mene nopeasti!
+
+#(FRIENDLY_SPACE_HELLO_1)	pkunk-005.ogg
+Whoopdy Dee ja Trolly Bazoo!  Mikä hyvä päivä minulla onkaan.
+Ensin pesäkumppanini yllättää minut varhaispalalla erikoislihavilla ja -maukkailla toukilla
+ja sitten minua onnitellaan on hienon seremoniapihtien näyttelyni johdosta.
+Ja kaiken huipuksi kohtaan ihmisystävän, kaikkien pkunkien rakastaman.
+Voisivatko asiat enää mennä paremmin?
+
+#(FRIENDLY_SPACE_HELLO_2)	pkunk-006.ogg
+Tähdet ovat suopeassa asennossa, useat tärkeät kuut
+ovat oikeissa taloissa, ja meitä ympäröivät psyykkiset energiat ovat
+tasapainossa. kaikki on hyvin, ja maailmankaikkeus on rauhassa.  No, oikeastaan 2/3
+sivilisaatiostamme on tuhoutunut ilwrathien toimesta, mutta muuten
+kaikki on hyvin.  On hyvä nähdä sinut taas.
+
+#(FRIENDLY_SPACE_HELLO_3)	pkunk-007.ogg
+Ihminen!  Ajattelinkin juuri sinua! Ah, mutta huomaankin ettet ole
+yllättynyt, ja miksi sinun pitäisi ollakaan? Hämmästyttävät psyykkiset sattumat ovat
+jokapäiväisiä meille pkunkeille.  Sinun näkemisesi täyttää minut rakkaudella.
+Ehkäpä voimme keskustella yhdessä, tai vain olla yhdessä muutaman erikoisen
+hetken ajan.
+
+#(FRIENDLY_SPACE_HELLO_4)	pkunk-008.ogg
+Poikanen, olet siis palannut spirituaaliseen valmennukseesi. Haluat
+olla niin kuin me pkunkit olemme.  Ihailtava, joskin jokseenkin naiivi päämäärä.
+Rakastavana vanhempana minun tulee tietenkin työntää sinut pois pesästä.  Jos
+yrität tarttua reunaan kiinni, minun tulee tallata sormillesi ja potkia
+sinut reunan yli.  Ah, mutta en voi.  Näen nuo surulliset ihmisen silmät,
+ja minun täytyy luovuttaa.  Rakkauteni pulppuaa esiin.
+
+#(FRIENDLY_SPACE_HELLO_5)	pkunk-009.ogg
+Ah, Kapteeni-ihminen! Toivoinkin, että palaisit. Minulla on mahtavia uutisia!
+Olitko tietoinen että yhdessä edellisistä elämistäsi olit herttua Franz Ferdinand?
+Se on totta! Ja ennen sitä olit egyptiläinen jumalfaarao Atum-ta kuudes?
+Tämä on hämmästystyttävää, Kapteeni, aivan fantastista. Kuvittele, olet ollut niin monta tärkeää henkilöä!
+No, totta puhuakseni, tapauksesi ei ole aivan niin epätavallinen.
+Sattuu vain olemaan niin että melkein kaikkien entiset elämät olivat kuuluisia, rikkaita tai kiinnostavia henkilöitä.
+Vaikuttaa siltä, että jos on turnipsiviljelijä, myyntimies, tai jotakin sellaista tylsää
+ei synny uudestaan. Kun kuolee, tavallaan vain ... lakkaa olemasta.
+Eikö maailmankaikkeus olekin sekopäinen paikka?
+
+#(FRIENDLY_SPACE_HELLO_6)	pkunk-010.ogg
+Ah. Tulet siis jälleen avaruusalueellemme.
+Kaikki ovat tervetulleita pesäämme. Olemme pkunkeja, emme voi olla rakastamatta kaikkia.
+Jaa ilomme. Jaa rakkautemme. Emmekö olekin pkunkeja?
+Aivan, sanoin että olemme ja niin olemmekin.  Ha ha!!
+Minun täytyy nauraa ja laulaa sen pelkälle ilolle!
+Tämä on meidän tapamme.
+
+#(FRIENDLY_SPACE_HELLO_7)	pkunk-011.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_SPACE_HELLO_8)	pkunk-012.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(NEUTRAL_HOMEWORLD_HELLO_1)	pkunk-013.ogg
+Lupaavat merkit ja onnekkaat enteet ovat kertoneet tulostasi etukäteen.
+Tervetuloa, muukalaisvieras, lempeiden ja leikkisten pkunkien kotiin
+Kosmisen Valon Lasten
+Ilon Menninkäisten
+Hengellisen Totuuden Etsijöiden...
+... ja muita samantapaisia jänniä juttuja.
+
+#(NEUTRAL_HOMEWORLD_HELLO_2)	pkunk-014.ogg
+Oi riemua ja kohtalaisia määriä hengellistyyppistä ekstaasia!
+Herkkä ystävämme ja läheinen sieluntoverimme on palannut kotimaailmaamme,
+tuoden mukanaan mitä kauneimman auransa ja säteilevän hymynsä.
+Kuinka voit, Kapteeni?
+
+#(NEUTRAL_HOMEWORLD_HELLO_3)	pkunk-015.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(NEUTRAL_HOMEWORLD_HELLO_4)	pkunk-016.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_1)	pkunk-017.ogg
+Kapteeni. Olemme tietenkin odottaneet sinua. Itse asiassa olet täällä koska
+tahdoimme sinun olevan täällä. Kanavoimalla psyykkiset energiamme läpi
+ulottuvuuksien välisen virran taivuttajan pystyimme vaikuttamaan sinun kaltaisesi
+sieluhiukkasen matalan taajuuden virtaan ja ohjaamaan sen kulkusuuntaa.
+Ainoa ongelma on se, ettemme pysty muistamaan miksi toimme sinut tänne.
+
+#(FRIENDLY_HOMEWORLD_HELLO_2)	pkunk-018.ogg
+Tervetuloa takaisin, Kapteeni, nöyrälle planeetallemme. On hyvä jälleen sulauttaa
+chakramme hengellisen olemuksesi kokonaisuuteen. Puhumme tietenkin
+kuvaannollisesti. Kuinka voimme olla parhaiten avuksesi?
+
+#(FRIENDLY_HOMEWORLD_HELLO_3)	pkunk-019.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_4)	pkunk-020.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_5)	pkunk-021.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_6)	pkunk-022.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_7)	pkunk-023.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(FRIENDLY_HOMEWORLD_HELLO_8)	pkunk-024.ogg
+Hei, ihminen! Uutiset paluustasi saavat meidät lämpimiksi ja pörröisiksi.
+Mitä viisautta etsit tänään?
+
+#(whats_up_neutral)
+Olemme totuuden etsijöitä. Valaiskaa meitä!
+
+#(GENERAL_INFO_NEUTRAL_1)	pkunk-025.ogg
+Koska olet tarkkanäköinen yksilö, olet huomannut että me muistutamme fysiologisesti yehateja.
+Tämä suhde ei ole yhteensattuma, koska Luomisen Harmonisessa Valtakunnassa ei OLE yhteensattumia.
+Tarkemmin sanoen, olemme yehat-lajin verso
+ -- rauhanomainen, empaattinen verso! --
+joka kasvoi erilleen yehatien lajista sen avaruusajan alkuvaiheilla.
+Ymmärrät kai, me luomme Rauhan... Tyyneyden... ja Harmonian
+kun taas yehatit ovat petolintuja
+jotka elävät jatkuvassa kauhun tasapainossa muiden kaltaistensa olentojen kanssa.
+
+#(GENERAL_INFO_NEUTRAL_2)	pkunk-026.ogg
+Maan Kapteeni. Olisi hyvä neuvo olla varovainen tällä alueella matkustaessa.
+Meidän täytyy varoittaa sinua hengellisesti turmeltuneen ja väkivaltaisen lajin läsnäolosta... ilwratheista.
+Ah! Huomaan että tunnetkin jo heidät.
+Ilwrathit saapuivat melkein kahdeksan vuotta sitten, seuraten voimakasta hyperaaltolähetystä
+joka oletettavasti on Dogarilta ja Kazonilta, Kuoleman ja Tuskan mustilta jumalilta.
+Siitä lähtien he ovat taukoamattomasti hyökänneet alustemme ja planeettojemme kimppuun.
+
+#(GENERAL_INFO_NEUTRAL_3)	pkunk-027.ogg
+Monen pitkän vuoden ajan me olemme tutkineet maailmankaikkeuden arvoituksia
+kristallisen energian voimia
+taantumista edellisiin elämiin
+totuutta viljaympyröiden takana
+ja niin tehdessämme olemme kokeneet Muodonmuutoksen!
+
+#(GENERAL_INFO_NEUTRAL_4)	pkunk-028.ogg
+Saatat ihmetellä nimeämme... pkunk.
+'Pkunk' tarkoittaa 'rauhaa' kielellämme, ja olemme omistautuneet tälle riemukkaalle käsitteelle.
+
+#(good_reason_1)
+Kääntykää takaisin! Mystisin laitteemme, ööh... Ouija-lauta, antoi ehdottoman EIn kun kysyimme siltä matkastanne.
+
+#(WE_GO_HOME_1)	pkunk-029.ogg
+Hmm... tämä on pahaenteinen merkki.
+Meidän täytyy keskustella henkioppaittemme kanssa ennen kuin jatkamme.
+Ikävä kyllä, jotta voisimme tehdä sen kunnollisesti, meidän pitää palata kotiin.
+Kiitos huolenpidostasi.
+
+#(good_reason_2)
+Ettekö tiedä että nyt on, ööh... Turvonneen Kuun Vuosi?  Huono aika matkustamiseen!
+
+#(WE_GO_HOME_2)	pkunk-030.ogg
+ONKO?!
+Olemme iloisia että varoitit meitä!
+Ei ole aikaa hukattavana! Nähdään kotitähtijärjestelmillämme.
+Terve!
+
+#(bad_reason_1)
+Matkanne on hedelmätön. Yehatit ampuvat teidät pois tähtikartalta.
+
+#(NO_GO_HOME_1)	pkunk-031.ogg
+Ei, olemme varmoja että yehat-sisaruksemme ovat hengellisesti valmistautuneita jälleenyhdistymiseemme.
+Jatkamme matkaamme.
+
+#(bad_reason_2)
+Olette jättäneet kotitähtijärjestelmänne vartioimatta! Entäs jos ne vallataan?
+
+#(NO_GO_HOME_2)	pkunk-032.ogg
+Pelkkää materiaalista omaisuutta, Kapteeni.
+Me pkunkit, jotka olemme nousseet yhdeksännellekymmenennelle- yhdeksännelle psyykkiselle tasolle ja vähän ylikin
+olemme kaukana sen yläpuolella että kahlitsisimme hengelliset tarpeemme karkealla materialla.
+
+#(SENSE_KOHRAH_VICTORY)	pkunk-033.ogg
+Kapteeni, ennen kuin jatkamme, minun täytyy puhua. Monet väestäni eivät ole
+nukkuneet hyvin muutamana viime yönä. Itse asiassa en itsekään nukkunut hyvin viime
+yönä. No, oikeastana nukuin hyvin ensimmäisen jakson yöstä, ja sitten minulla oli
+hieman ongelmia vähän myöhemmin, ehkä siinä puolessävälissä, kunnes nousin ylös ja
+söin jotain. Kuitenkin, se, ettemme nuku johtuu
+unesta. Aivan, unesta. Olemme nähneet että tämän avaruuden kolkan keskellä,
+lähellä tähtiä, jotka muodostavat kupin muodon, ja ovat tähdistössä, jonka
+nimi alkaa C:llä ja loppuu S-kirjaimeen, jonka kirjaimet uudelleen järjestettynä
+muodostavat sanan Asteric, taistelee kaksi suurta armadaa. Yksi mustien aluksien ja toinen vihreiden.
+Unemme kertoo meille, että jos mustat alukset voittavat tämän taistelun, ne
+tuhoavat kaiken elämän tällä alueella. Kapteeni, ne ovat nyt voitolla. Jos on mitään
+mitä voit tehdä niiden pysäyttämiseksi, sinun täytyy tehdä se... pyydän! Okei, siinä onkin kaikki
+minkä halusin sanoa.
+
+#(SPIRITUAL_PROBLEMS_1)	pkunk-034.ogg
+Toivotamme teidät tervetulleiksi avaruuteemme, te perverssisti harhautuneet pahantahtoiset henget.
+Ehkä lajinne ei vain ymmärrä niin hienostunutta käsitettä
+kuin sisäisen lapsen yhdistymistä universaalin rakkauden virran kanssa.
+Kuinka surullista.
+Ehkäpä jos sanomme sen termeillä joita ymmärrätte
+Tappaminen paha, paha.
+Onko näin parempi?
+
+#(SPIRITUAL_PROBLEMS_2)	pkunk-035.ogg
+Tervehdys, aggressiiviset olennot.
+Ojennamme siivenkärkemme sinulle perusteettoman myötätunnon eleenä.
+Avaa sydämesi ja tule yhdeksi onnellisen itsesi kanssa.
+Anna meidän auttaa sinua. Anna meidän parantaa sinut. Anna meidän rakastaa sinua.
+Älä pelkää rakkautta. Pelkäätkö rakkautta?
+Pelkäätkö itseäsi? Rakastamme sinua... ystävä.
+
+#(SPIRITUAL_PROBLEMS_3)	pkunk-036.ogg
+Whoopdy Dee ja Trolly Bazoo!
+Näin minä sanon kun olen hyvällä tuulella.
+Oletko sinä hyvällä tuulella tänään?
+Salli minun antaa sinulle neuvo.
+Sen sijaan että tulisit kireäksi ja tulittaisit aseilla muiden aluksia
+sanot vain, `Whoopdy Dee ja Trolly Bazoo!'
+Olosi tulee paljon paremmaksi ja olet paljon suositumpi.
+
+#(SPIRITUAL_PROBLEMS_4)	pkunk-037.ogg
+Olet sitä mitä me pkunkit kutsumme `hengellisesti äänioikeudensa menettäneeksi'.
+En ole varma miksi kutsumme sinua sellaiseksi, koska et minusta vaikuta äänioikeudettomalta 
+ainoastaan uskomattoman väkivaltaiselta.
+Oli miten oli, empaattiset aistini kertovat minulle, että sinulla on vielä toivoa
+jos vain myöntäisit tunteellisen raakuutesi.
+
+#(HATE_YOU_FOREVER_1)	pkunk-038.ogg
+Odota! Älä sano mitään, kuvottava mustien ja epäluonnollisten värähtelyjen olento
+jotta et häiritsisi mieleni rauhallista ja rakastavaa tilaa.
+Ah... mutta on liian myöhäistä. Minun tulee tuhota sinut pikaisesti
+niin että voin palata myötätuntoisen autuuden tilaani.
+
+#(HATE_YOU_FOREVER_2)	pkunk-039.ogg
+Kosminen Häiriö! Kosminen Häiriö!!
+Se nousee jostain lähellä olevasta - jokin olento, jolla on epäterveelliset tavat ja vastenmielinen luonne.
+Odota! PLAM PRIKKYn transsi saa minut valtaansa ja kirkastaa näkyni.
+Avaan silmäni ja käännän päätäni...AIVAN. Se on edessäni. Vaistoamani olento.
+Nyt olen uupunut ja minun täytyy levätä.
+Aliluutnantti, tuhotkaa tämän olennon alus välittömästi.
+Olen sitten huoneessani toipumassa.
+
+#(HATE_YOU_FOREVER_3)	pkunk-040.ogg
+Kyllä. Kyllä. Tämä on aivan kuin ennustettiinkin.
+Avaatte nyt tulen rauhanomaista ja täysin harmitonta alustamme vastaan
+ampuen ohi 2,7 metriyksikkönne verran.
+Sitten me valitettavasti mutta tehokkaasti tuhoamme teidät ja jatkamme matkaamme.
+Ah, mutta ennakkotietämyksemme ehkä varoittaa teitä.
+Aivan. Joskus se hämmästyttää jopa meitä pkunkeja.
+
+#(HATE_YOU_FOREVER_4)	pkunk-041.ogg
+Se olet siis sinä!
+Jälleen kerran negatiivinen energiasi uhkaa musertaa hennot aistini.
+Hoipertelen.
+Olen miltei kyvytön painamaan nappia aktivoidakseni alukseni aseistukset.
+Oi tuskaa, oi piinaa!
+Kaiken hyvän ja ihanan tähden minun täytyy ylettyä nappiin
+täytyy ylettyä siihen!...
+
+#(MIGRATING_SPACE_1)	pkunk-042.ogg
+Olemme päättäneet että Yehat-sisaruksemme ovat rakkautemme ja hyvien neuvojemme tarpeessa.
+Olemme odottaneet aivan liian pitkään kotiinpaluuta ja sen haavan parantamista, joka on pitänyt rotumme erossa näiden vuosisatojen ajan.
+Kun saavumme Serpentiksen tähdistöön, tervehdimme Yehat-veljiämme kiintymyksen lämpimillä syleilyillä
+jotka olen varma heidän palauttavan mielellään.
+
+#(MIGRATING_SPACE_2)	pkunk-043.ogg
+Jälleen kerran olemme lähteneet kotiin -- rakastavien, mutta harhaanjohdettujen veljiemme ja sisartemme kotiin.
+Pyydän, älä yritä pysäyttää meitä tällä kertaa.  Olemme vakaita päätöksessämme.
+
+#(MIGRATING_SPACE_3)	pkunk-044.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(MIGRATING_SPACE_4)	pkunk-045.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(MIGRATING_SPACE_5)	pkunk-046.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(MIGRATING_SPACE_6)	pkunk-047.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(MIGRATING_SPACE_7)	pkunk-048.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(MIGRATING_SPACE_8)	pkunk-049.ogg
+Olemme päättäneet lähteä kotiin parantaaksemme virheellisesti toimivan lajirakenteemme.
+Ymmärrämme että tarkoitat hyvää, mutta tällä kertaa et enää saa meitä luovuttamaan.
+
+#(die_idiot_fools)
+Minulla ei ole kärsivällisyyttä tähän absurdiin idiotismiin. Valmistautukaa taisteluun!
+
+#(VERY_WELL)	pkunk-050.ogg
+Valitset siis pimeän tien.
+Olen suruissani, ja silti tunnen tiettyä hilpeyttä, sillä tuhoutumisesi myötä
+maailmankaikkeus on parempi paikka, ja se olen minä joka aiheuttaa muutoksen.
+
+#(why_insults)
+Kerrohan minulle yksi juttu.  Miksi lähetätte solvauksia taistelun aikana?
+
+#(RELEASE_TENSION)	pkunk-051.ogg
+Toisin kuin tietyt muut lajit, me pkunkit olemme synnynnäisesti rauhanomaista ja rakastavaa väkeä.
+Emme ryhdy helposti taisteluun.
+Ollaksemme lainkaan tehokkaita joudumme välttämättä piiskaamaan itsemme emotionaaliseen vimmaan.
+
+#(what_about_you_angry)
+Vaadin lajianne koskevia tietoja. Suostukaa heti tai tuhoutukaa.
+
+#(ABOUT_US_ANGRY)	pkunk-052.ogg
+Tietoja lajistamme? Kuinka mukavaa, että kysytte.
+No, aivan ensiksi, lajimme ei kulje ympäriinsä vaatimassa tietoja muilta lajeilta.
+Tiedätkö miksi? Koska se ei ole mukavaa.
+Itse asiassa, luulen ettei ole liioittelua sanoa että se on todella HYVINKIN röyhkeää.
+
+#(what_about_you)
+Yhtäkkiä huomaan olevani hyvin utelias lajianne kohtaan.
+
+#(should_be_friends)
+Olet oikeassa. Ehkä meidän pitäisi sittenkin olla ystäviä. Antakaa menneet tekoni anteeksi.
+
+#(YES_FRIENDS)	pkunk-053.ogg
+Antaa anteeksi? Me pkunkit tuskin olemme siinä asemassa, että voimme antaa anteeksi. Me itse olemme pelkkiä
+hengellisiä matkaajia tiellä täydellisyyteen. Myönnettäköön, että lähestymme
+tien loppua, kun taas te taas olette vielä lähtemässä sisääntulotieltä  -- mutta me kaikki olemme
+matkaajia yhdessä.
+
+#(try_to_be_nicer)
+No, minulla on aika paha olo siitä että tapoin teitä heppuja ja siihen malliin. Yritän olla ampumatta enää yhtään alustanne.
+
+#(CANT_ASK_FOR_MORE)	pkunk-054.ogg
+Se on kaikki minkä kukaan voi tehdä... yrittää. Vapautamme sinut menneistä vääristä teoistasi.
+Äläkä kiitä meitä, minä pyydän. Olemme suoneet sinulle säälimme ja auttaneet sinua muuttamaan
+sisimpääsi, koska olemme tehneet sen valinnon, että parannamme itsemme ja me olemme sinä ja sinä
+olet me, näin ollen autamme vain niitä, jotka parantavat itsensä, ja täten
+auttavat muita. Ymmärräthän?
+
+#(VISIT_OUR_HOMEWORLD)	pkunk-055.ogg
+Jos haluat apuamme, sinun pitäisi puhua viisaiden kanssa
+kotimaailmassamme. Sen koordinaatit ovat 52.2, 52.5.
+
+#(CAN_BE_FRIENDS)	pkunk-056.ogg
+Nyt kun olemme puhdistaneet ilman ja voimme luottaa toisiimme täydellisesti, mepä
+kerromme sinulle missä kotiplaneettamme sijaitsee. Se on on ensimmäinen planeetta Gamma
+Kruegerin järjestelmässä, joka sijaitsee kohdassa 52.2 : 52.5 standardilla hyperavaruuskartalla. Ah,
+nyt tuntuu paljon paremmalta, vai mitä, ystävä?
+
+#(bye_angry)
+Hei! Onkos täällä ketään? Olette älyllinen laji, ettekö olekin? Oi, unohtakaa se. Minä lähden.
+
+#(GOODBYE_ANGRY)	pkunk-057.ogg
+Väkivaltainen houkka! Kaikkoa!
+Sulkani ovat pöyhistyneet! Pois!
+
+#(we_conquer)
+Pysähtykää! Rikolliset Muukalaislinnut. Teidät valloitetaan nyt. Alistukaa!
+
+#(WHY_CONQUER)	pkunk-058.ogg
+Ah. Aivan. Jaa. Ainakin olet rehellinen.
+Ööh, suo anteeksi, jos saisin olla niin rohkea, mutta miksi te tahdotte valloittaa meidät?
+
+#(conquer_because_1)
+Valloitan tuodakseni kunniaa ihmisrodulle!
+
+#(NOT_CONQUER_1)	pkunk-059.ogg
+Etkö sanonutkin, että ihmisille?
+Me pkunkit olemme kauan rakastaneet ihmisiä.
+Hehän on ovat suosikki, ööh... höyhenettömiä ystäviämme!
+
+#(conquer_because_2)
+Tämä on valiteltavaa, mutta resurssejanne tarvitaan sodan Ur-Quaneja vastaan sotimiseen
+
+#(NOT_CONQUER_2)	pkunk-060.ogg
+Se kuulostaa hyvältä syyltä
+mutta rauhanomaisen lajin kimppuun hyökkääminen ei ehkä ole paras tapa aloittaa uutta, valistunutta järjestystä.
+
+#(must_conquer)
+Riittää! Sanakin vielä ja yksinkertaisesti avaan tulen. Olen tullut tänne valloittamaan teidät ja teidät myös valloitetaan.
+
+#(BAD_IDEA)	pkunk-061.ogg
+Olet valinnut epäviisaasti, Kapteeni.
+
+#(no_conquest)
+Voi hemmetti. Unohdetaan se. En voisi satuttaa teitä kavereita.
+
+#(GOOD_IDEA)	pkunk-062.ogg
+Kun katsoin sinua ensi kerran, Kapteeni, tiesin että olet edistynyt sielu.
+Käännyin ensimmäisen upseerini, Chruppin, puoleen ja sanoin
+`Chrupp, katsopa tämän olennon auraa! Se on loistelias!'
+`nuo pehmeät siniset... nuo hennot vihreät...  nuo chartreusen ja okran epätavalliset sävyt!'
+`Tämän ihmisen täytyy olla Totuuden ja Valon puolella, Chrupp, hänen täytyy!'
+Ja sitten Chrupp sanoi, `Ihan kaiken varalta, aion nostaa suojat ja lämmittää tykit.'
+En usko, että Chrupp pitää sinusta, Kapteeni.
+
+#(we_are_vindicator0)
+Ehkäpä meidän pitäisi esitellä itsemme. Olen Kapteeni 
+#(we_are_vindicator1)
+ ja komennan alusta 
+
+#(we_are_vindicator2)
+.
+
+#(WHY_YOU_HERE)	pkunk-063.ogg
+Aivan, aivan.  Tiedämme tuon kaiken.
+Meitä ei turhaan tunneta läpi galaksisen sektorin voimallisina meedioina!
+Tiedämme tietenkin jo vastauksen tähän seuraavaankin kysymykseen, mutta nautimme keskustelemisesta.
+Miksi olet tullut tänne?
+
+#(we_here_to_help)
+Olemme tulleet kotimaailmaanne tarjotaksemme teille tukea ja avustusta. Tämä alus ja sen miehistö ovat palveluksessanne.
+
+#(NEED_HELP)	pkunk-064.ogg
+Muodostan psyykkisen linkin kanssasi.
+Vaistoan, että viittaat selkkaukseemme ilwrathien kanssa.
+Vaistoan, että tarjoudut uskaltautumaan yksinäsi syvälle ilwrathien avaruuteen
+ja taistelemaan heidän suunnattomia joukkojaan vastaan
+ja näen, ettet edes anna ajatustakaan sille vaaralle, jossa olisit.
+Olet tosiaankin jalo, ja hyväksyn avuntarjouksesi, mutta ainoastaan hengessä.
+Karmaisevan kuolemasi karminen taakka olisi liian suuri.
+Sanon silti, että kiitos, Kapteeni.
+
+#(we_need_help)
+Olen tullut pyytämään apuanne taistelussa Ur-Quaneja vastaan.
+
+#(GIVE_HELP)	pkunk-065.ogg
+Taistelu. Aina taistelu.  Me pkunkit olemme Yin ja sinä olet Yang.
+Luullakseni ongelma on siinä, että Ur-Quanit ovat vähän enemmän Yang kuin sinä itse.
+No, olkoon miten oli, koemme sympatiaa huoliasi kohtaan.
+Emme aina ole olleet niitä mystisiä, vetäytyviä ja silti välittäviä, valaistuneita olentoja joita olemme nyt.
+Tarpeen tullessa pystymme kyllä yhä potkimaan takamusta!
+
+#(exploring_universe)
+Olemme viisivuotisella tehtävällä, etsiäksemme uutta elämää ja uusia sivilisaatioita mennen urheasti sinne, minne..... no, käsität kyllä. Me vähän kuin tutkimusmatkailemme.
+
+#(SENSE_DEEPER_CONFLICT)	pkunk-066.ogg
+Vaistoan syvemmän syyn, syvemmän ristiriidan.
+Selkkauksen, jolla on valtavat mittasuhteet, syvemmän syyn mittasuhteet.
+Syvempi asia, joka ei ole kauhean syvä.
+Ristiriitainen syvempi asia.......ööh, en olen varma, mitä vaistoan.
+Oletko varma ettei sinulla ole jotain, jonka tahdot sanoa minulle?
+
+#(fun_cruise)
+Oh ....ööh, ei syytä.  Me vain ajattelimme, että veisimme tämän kaunokaisen pikku risteilylle ja katsoisimme mihin päätyisimme.
+
+#(REPRESS)	pkunk-067.ogg
+Telepaattiset aistimeni kertovat minulle, että torjut jotakin.
+Torjuminen, torjuminen, torjuminen.  Mitä se on?  Kerro pois.
+Mitä se on?  Näen hymyn.
+Sinä hymyilet.  Kerro Pkunkylle salaisuus. 
+Kamoon, kertooko ilkeä muukalainen Pkunky-linnulle ison salaisuuden?
+
+#(why_ilwrath_fight)
+Tämä on vain minun vaikutelmani, mutta he tuntuvat aika vihamielisiltä. Miksihän?
+
+#(ILWRATH_FIGHT_BECAUSE)	pkunk-068.ogg
+Olemme kaivautuneet mitä syvällisimmin ilwrathien mustaan ja rasvaiseen sydämeen.
+Ja mitä luulet, että löysimme sieltä?
+No, löysimme turtuneen, katalan, pahantahtoisen, inhottavan ja ilkeän hengen.
+Aivan, ei siis mitään yllätyksiä.
+Se mikä kuitenkin yllätti meidät, oli se, jonka näimme kun taannuimme heidän edellisiin elämiinsä!
+Selvisi, että edellisissä elämissään kaikki ilwrathit olivat puhtaan valon ja autuaan rakkauden hohtavia olentoja.
+He olivat saavuttaneet hengellisen evoluution huipun, eivätkä pystyneet enää menemään pitemmälle.
+He olivat täydellisiä.
+Ja sitten, he jotenkin tulivat vielä pikkuriikkisen paremmiksi
+ja WHAM, he olivatkin yllättäen totaalisen pahoja.
+Pitäisihän se tietää, tule liian täydelliseksi ja kierrät ympäri suoraan pahuuteen.
+Tämän takia me pkunkit pyrimme olemaan täydellisiä
+mutta teemme aina vähän pahoja ja ärsyttäviä juttuja ettei meistä tulisi ilwrathien tapaisia.
+
+#(when_fight_start)
+Milloin he alkoivat hyökätä kimppuunne?
+
+#(FIGHT_START_WHEN)	pkunk-069.ogg
+Milloinko? Se on helppoa.
+Se oli täsmälleen 27 tuhatta Plarty Fumin talon seitsemännen planeetan kierrosta
+ENNEN Bis Bisin suotuisan tähtikuvion ensimmäistä yhdistymistä
+Shamla Soolin taivaankappaleen kanssa, joka oikeastaan oli vain osittainen yhdistyminen.
+Luulen, että sanoisit 8 vuotta sitten.
+
+#(how_goes_fight)
+Kuinka teillä menee taistelussanne niitä vastaan?
+
+#(FIGHT_GOES)	pkunk-070.ogg
+Olemme laskeneet, että nykyisellä hankautumistahdillamme
+olemme olemassa vain hengellisellä tasolla suunnilleen vuoden kuluttua.
+Fyysisellä olevaisuudella on tietysti tietysti oma karkea vetovoimansa
+materiaalistyyppinen viehätyksensä, jos tahdot niin.
+Tulemme olemaan jokseenkin pettyneitä joutuessamme jättämään sen.
+
+#(how_goes_war)
+Minulla näyttää olevan vähän ongelmia Ur-Quanien Hierarkian lyömisessä.
+Onko teillä mitään hyödyllisiä neuvoja minulle?
+
+#(WAR_GOES_1)	pkunk-071.ogg
+No, ei tarkalleen ottaen neuvoja, mutta voin tarjota sinulle paljon moraalista tukea.
+Voin myös kertoa sinulle toisesta unesta.  Aivan, ehkä kerronkin sinulle
+unestani. Tässä unessa oli pieni olento dream, heiveröinen
+ja heikko. Sen yläpuolella kohosi paljon suurempi olento, musta ja
+enteilevä. Suuri olento valmistautui ottamaan pienen olennon
+kuolaavaan kitaansa, kun pieni olento katsoi ylös ja sanoi,
+`Pysähdy! Miksi teet tämän!  Se mitä teet on väärin!'
+Se sai suuren olennon pysähtymään sillä aikaa kun se mietti kysymystä.
+Sitten heräsin, enkä ole varma joutuiko pikku olento syödyksi vai ei.
+Tarkemmin ajatellen, se ei ollut kovin ihmeellinen uni.
+Olisin pitänyt paljon enemmän Awkky Birdyn unesta.
+Oli miten oli, ajattelin vain kertoa sinulle siitä.
+
+#(WAR_GOES_2)	pkunk-072.ogg
+Voin sanoa sinulle vain, että mieti pientä gobbetkiveä.
+Kivi oksentuu ulos syyläwumpetin kurkusta pudotakseen liikkuvaan virtaan.
+Nielaiseeko kala kiven? Ehkäpä, mutta se ei ole opetus.
+Onko kivi pyöreä? Kyllä!
+Onko siinä pieniä, inhottavia kyhmyjä täynnä limaista, tahmeaa nestettä?
+Vain toisinaan!
+Mikäkö on opetus?  Opetushan on selvä! ystävysty toisten lajien kanssa.
+Edes ilkeä charg-hirviö ei pysty voittamaan ibidien laumaa
+ilman 7 tai 8 kurttukoiran apua.
+Luullakseni ymmärrät, mitä ajan takaa.
+
+#(WAR_GOES_3)	pkunk-073.ogg
+Vältä disinkarnoiduksi tulemista ennen kuin sielusi on riittävän valmistautunut muodonmuutokseen.
+
+#(WAR_GOES_4)	pkunk-074.ogg
+Etsi trumblekärryn tietä.
+Raskaasti kuormattuna se keinuu ja heiluu, mutta kaatuuko se?
+Vain silloin tällöin. Ymmärräthän?
+Toinen neuvo myös, Kapteeni.
+Maailmallisempia huolia varten, etsi yksisilmäisten olentojen apua.
+Heitä voi löytää superjättiläis- tähtijärjestelmistä.
+
+#(how_stop_fight)
+Onko mitään tapaa ilwrathien pysäyttämiseen?
+
+#(STOP_FIGHT_LIKE_SO)	pkunk-075.ogg
+Hmmm. Kiintoisa kysymys.  Vastaus on..KYLLÄ!
+Jos jokin hyvänsuopa ja rakastava, ja silti uskomattoman tuhoisa ja voimakas mahti
+repisi samanaikaisesti kaikki heidän raajansa irti ja tiputtaisi heidän mädät munapussinsa höyryäviin sulan metallin altaisiin
+sillä olisi haluttu tulos, selkkauksen loppuminen.
+Äh...mutta lasken leikkiä. En tietenkään kanna kaunaa ilwratheja kohtaan
+kuinka voisinkaan, kun olen täynnä pelkkää rakkautta.
+
+#(enough_ilwrath)
+Puhutaan jostakin muusta.
+
+#(OK_ENOUGH_ILWRATH)	pkunk-076.ogg
+Aivan, olet oikeassa. Miksi rypeä niissä katalissa ilwratheisssa
+kun voisimme puhua kukista, sateenkaarista, keijuista ja kristallitaikuudesta.
+Tiesitkö, esimerkiksi, että tällä hetkellä pääsi päällä istuu näkymätön keijukaishenki
+ja irvistelee minulle hupaisesti?  Ah, Universumin salaisuudet.
+Yrität ymmärtää niitä, mutta pystytkö?
+Et, ne ovat mysteereitä!
+
+#(what_about_history)
+Mitä voitte kertoa meille pkunkien historiasta?
+
+#(ABOUT_HISTORY)	pkunk-077.ogg
+Ah. Älykäs kysymys. Mutta mistä alkaisin?
+Varmasti tiedätkin, että me pkunkit olimme kerran yhtä ja samaa lajia kuin yehatit.
+Kyllä, se on totta. Olimme kerran brutaaleja petolintuja, tietämättömiä kristallitaikuudesta
+tai psyykkisten olentojen 7 ulottuvuudesta.
+Vasta kun Weeny Wikki Beeki Birdi istui Jäämaisen Lämpötilan mystisella munalla
+ja teki Alkuperäisen Kirkaisun
+`Rup-Rup-Rup-BGAK!'
+alkoi muodonmuutoksemme. Tämä kirkaisu
+`Rup-Rup-Rup-BGAK!'
+laukaisi Harmoniset Värähtelyt, jotka johtivat meitä tulemaan niiksi valaistuneiksi siivekkäiksi joita olemme.
+
+#(what_about_yehat)
+Entä yehatit? Ovatko he teidän ystäviänne?
+
+#(ABOUT_YEHAT)	pkunk-078.ogg
+Se riippuu siitä, kuinka määritellään ystävä.
+Rakastamme yehat-veljiämme, kun taas he avaavat tulen aluksiamme vastaan nähdessään niitä.
+Onneksi psyykkiset kykymme sallivat meidän vaistota syvää, kestävää rakkautta
+ja, aivan, jopa ujoutta yehat-veljissämme ja -siskoissamme.
+Kuinka meidän on täytynytkään loukata heitä jättäessämme heidät niin kauan sitten.
+Kohta on, kuitenkin, rakastavan jälleennäkemisen aika
+kun kohtalomme täyttyy ja olemme taas yhdistyneet yhdeksi kansaksi.
+
+#(what_about_culture)
+Mitä kiinnostavia asioita voitte kertoa kulttuuristanne?
+
+#(ABOUT_CULTURE)	pkunk-079.ogg
+Näin äkkinäisesti raakkuen, luulisin sanovani
+että kulttuurimme voitaisiin määritellä lopullisena yhdistymisenä
+tai Ykseytenä, jos niin tahdot
+jonka yliulottuvuuksiset yhteneväischakraiset olentoenergiat
+tekevät muodostaakseen yhteenkuuluvaisen minuuden
+joka sekä on ja ei ole nyt-olemuksen kulminaatio.
+
+#(elaborate_culture)
+Viittaatteko Nyt-Olemukseen Kosmisen Kokonaisuuden jatkeena, vai Ykseyden kokonaisuutena?
+
+#(OK_ELABORATE_CULTURE)	pkunk-080.ogg
+Erinomainen kysymys. Vastaus on itsessään kysymys, joka sisältää etsimäsi selityksen.
+Ja enemmänkin!
+Salli minun vain sanoa, että paljastus sisältää Pyramidivoiman mysteerit
+joka on pelkkä suuremman ja yleisemmän Suipon Voiman osajoukko.
+UFO:t ja FO:t ovat merkityksellisiä, mutta niiden roolia ei tulisi liioitella.
+Olen pahoillani, mutta en voi selittää tuota tarkemmin.
+
+#(what_about_future)
+Onko totta, että voitte todella nähdä tulevaisuuteen?
+
+#(ABOUT_FUTURE)	pkunk-081.ogg
+Kyllä, se on... ööh... odota... saan näyn!
+Hohtava valo -- halkeama munassa!
+Kieppuva pyörre... tunneli. Näen aikaisemmat elämäni! Sinun aikaisemmat elämäsi!
+Lisää hohtavaa valoa! Ah, siinä se nyt on, tulevaisuus!
+Se tulee selkeämpänä. Aivan. Näen kyyneliä. Ilon kyyneliä!
+Ne tulevat Yehat-veljiltämme ja -sisariltamme
+jotka toivottavat meidät tervetulleiksi takaisin pesään, siivet levitettyinä, nokat täynnä toukkia!
+Kohta me palaamme. Kohta.
+
+#(enough_about_you)
+Olisi ihanaa kuulla lisää kulttuuristanne, mutta... nuo... ööh... Oho, onpas kello jo paljon. Terve!
+
+#(OK_ENOUGH_ABOUT_US)	pkunk-082.ogg
+Aivan, olet oikeassa. Minun pitäisi olla varovainen, etten muserra sinua psyykkisillä voimillani
+Ehkäpä voisimme puhua jostain vähemmän ylivoimaisesta, vaikkakin vähemmän kiinnostavasta.
+
+#(ABOUT_US)	pkunk-083.ogg
+Ei ollenkaan, mehän olemme sittenkin kiehtova laji. Vaatimattomuus tietenkin estää
+minua puhumasta pitkällisesti, vaikka, ehkä jos kysyisit minulta tarkempia
+kysymyksiä, soveliaisuus saattaisi säilyä paremmin.
+
+#(where_fleet_1)
+Missä kaikki aluksenne ovat?
+
+#(where_fleet_2)
+Laivastonne on lähtenyt taas, miksi?
+
+#(where_fleet_3)
+Ettehän sano minulle, että laivastonne on jälleen lähtenyt yehatien luo!
+
+#(MIGRATING_HOMEWORLD_1)	pkunk-084.ogg
+On tullut aika, Kapteeni, uuteen yhdistymiseemme yehatien kanssa.
+Meidän täytyy jatkaa.
+
+#(MIGRATING_HOMEWORLD_2)	pkunk-085.ogg
+Olemme tarkistaneet kaikki chakramme ja tarkkailleet aurojamme.
+Olemme valmistautuneet meidän pkunkien ja yehat-sisaruksiemme suureen sulautumiseen.
+Iloitse kanssamme, Kapteeni!
+
+#(MIGRATING_HOMEWORLD_3)	pkunk-086.ogg
+Kahdesti aikaisemmin meidät on suostuteltu luopumaan esi-isiemme pesään palaamisesta
+liittymästä kauan sitten kadotettujen yehat-veljiimme ja -sisariimme.
+Tällä kertaa emme epäonnistu.
+
+#(RETURNING_FROM_YEHAT_1)	pkunk-087.ogg
+Olemme kysyneet neuvoa sisäisiltä untuvikoiltamme, ja meidän pitää kiirehtiä kotiin.
+Näkemiin, jokseenkin valaistunut nisäkäs.
+
+#(RETURNING_FROM_YEHAT_2)	pkunk-088.ogg
+Meidän täytyy kiirehtiä, Kapteeni!
+Pesälle!  Pesälle!
+
+#(am_worried_1)
+Suoraan sanoen, pkunk, uskon että yehatit tulevat käristämään rauhanomaiset ristiretkeläisenne. Pyydän, kutsukaa heidät takaisin!
+
+#(am_worried_2)
+Ööh..., miksi ette odota ensi vuoteen?
+
+#(am_worried_3)
+Kuule. Kun aluksenne pääsevät yehatien luo, heidät teurastetaan. Käske heidät takaisin.
+
+#(DONT_WORRY_1)	pkunk-089.ogg
+Huolenpitosi hyvinvointiamme kohtaan koskettaa meitä... saa meidät rakastamaan sinua entistäkin enemmän.
+Tule tänne, Kapteeni. Halaa meitä.
+No niin. Tuntuuko paremmalta?
+Etkö nyt näe, että me olemme oikeassa ja sinä väärässä?
+Älä huolehdi. Kaikki käy hyvin.
+
+#(DONT_WORRY_2)	pkunk-090.ogg
+Kapteeni... nuori, epäkypsä, naiivi Kapteeni. Me tiedämme mitä teemme.
+Luota meihin.
+
+#(DONT_WORRY_3)	pkunk-091.ogg
+Ehkäpä olet oikeassa. Ehkä tämä koko juttu on typerä erehdys.
+Tiedän mitä minun pitäisi tehdä! Minun pitäisi kutsua kaikki aluksemme tänne heti ja...
+Odota! Mikä se oli? Mikä lensi juuri ikkunani ohi?
+Sehän oli sneegellintu! Mitä sneegellintu tekisi niin kaukana parvestaan tähän aikaan vuodesta?
+En ole ikinä nähnyt mitään tällaista... sen täytyy olla... ENNE!
+Aivan! Enne! Etkö näe, Kapteeni?!
+Me olemme se sneegel! Meidät on erotettu parvestamme, yehat-perheestämme!
+Oi ilon päivää! Oi, onnellinen BGAK! Tiemme on kaiverrettu pyhään kiveen!
+Meitä ei voi estää. Hyvästi, Kapteeni, hyvästi!
+
+#(form_alliance)
+Olemme ystävällisiä olentoja, jotka tahtovat perustaa ystävälliset suhteet lajinne kanssa.
+
+#(GO_TO_HOMEWORLD)	pkunk-092.ogg
+Vaikka meillä pkunkeilla ei ole arvoasteita, ei nokkimisjärjestystä, ei mielivaltaista valtajärjestelmää
+me myönnämme, että jotkut sielut tässä maailmankaikkeudessa ovat eläneet monia elämiä
+kun taas jotkut ovat pelkkiä hengellisiä vasta-alkajia.
+Minä, Kapteeni, olen elänyt kolmekymmentäkaksi elämää
+numero, joka kalpenee verrattaessa niihin viisaisiin ja muinaisiin sieluihin, jotka ohjaavat rotuamme.
+Sinun täytyy puhua heidän kanssaan, Kapteeni. He auttavat sinua ymmärtämään itseäsi
+ja näin tehdessään, ymmärtämään muita... jotka vuorostaan joko ymmärtävät muita asioita tai sitten eivät.
+Etsi noita viisaita lintuja kotimaailmastamme, Gamma Krueger I:stä. Heillä on kaikki vastaukset.
+
+#(can_you_help)
+Olemme vihkiytyneet taistelemaan Ur-Quanien Hierarkiaa vastaan. Voitteko auttaa meitä?
+
+#(GO_TO_HOMEWORLD_AGAIN)	pkunk-093.ogg
+Tapaa viisaat kotimaailmassamme, Kapteeni.
+Mene Gamma Kruegeriin saadaksesi vastauksesi.
+
+#(hostile_greeting)
+Hei! Linnunaivot! Onkos teillä hedelmälenkkejä? Har-har-har!
+
+#(DONT_BE_HOSTILE)	pkunk-094.ogg
+Ah, loukkaus... toisinaan tarpeellinen ja rakentava jännityksen purkautuminen.
+Ehkä nyt sinusta tuntuu paremmalta, ja voimme huolehtia todellisista ongelmistasi.
+
+#(obey)
+teidän täytyy totella käskyjäni. Täyttäkää jokainen päähänpistoni!
+
+#(NO_OBEY)	pkunk-095.ogg
+Vaikka oletkin aivan liian karkea ja typerä tajutaksesi tätä, Kapteeni
+me TÄYTÄMME jokaisen päähänpistosi ja mielihalusi.
+Sinä vain et tiedä, mitä todella tahdot. Me tiedämme.
+Jopa nytkin sielusi koskettaa omaani ja tulen tietoiseksi siitä, että syvällä sisimmässäsi
+haluat meidän rankaisevan sinua röyhkeydestäsi ja sodanhaluisuudestasi.
+
+#(neutral_bye_space)
+Velvollisuus kutsuu. Minun täytyy mennä nyt.
+
+#(NEUTRAL_GOODBYE_SPACE)	pkunk-096.ogg
+Kyllä, kaikin mokomin, jos velvollisuus kutsuu. Olen varma että näemme toisemme vielä.
+Ehkä sitten kun tähdet ovat yhtyneet soveliaaseen muodostumaan. Aivan, sisäinen
+ääneni kertoo minulle että se on oikein. Kun tähdet yhtyvät, Kapteeni...
+
+#(SHIP_GIFT)	pkunk-097.ogg
+Koska olette ystäviämme
+hyviä ystäviämme!
+tahdomme antaa teille lahjan... muutamia pkunkien Raivotar-aluksia, täydellä miehistöllä.
+Jos palaatte vuoden kuluttua, pystymme ehkä antamaan teille lisää.
+
+#(NO_ROOM)	pkunk-098.ogg
+Ikävä kyllä sinulla ei ole riittävästi tilaa laivastossasi kaikille aluksille, jotka haluaisimme antaa sinulle.
+No jaa. Meidän täytyy tehdä se, mihin pystymme.
+
+#(friendly_bye_space)
+Adios Pkunkos.
+
+#(FRIENDLY_GOODBYE_SPACE)	pkunk-099.ogg
+Näkemiin, Kapteeni. Kun kristallikuulat pyörähtävät uudestaan harmoniseen sopuun
+näemme jälleen.
+
+#(bye_friendly)
+Terve, heput. Nähdään myöhemmin.
+
+#(GOODBYE_FRIENDLY)	pkunk-100.ogg
+Näkemiin, ystävällinen ihminen. Palaa pian.
+
+#(ALMOST_ALLIANCE)	pkunk-101.ogg
+Yhdistykäämme ja muodostakaamme liitto!!
+Hankimme teille kaiken miehistön, alukset ja resurssit joita haluatte.
+Annamme teille.....odota!
+Vaistoan, että tämä karkea materiaalinen tarjous loukkaa sinua.
+Aivan, olen noloissani. Mikä tahansa sotaa lietsova laji voisi tarjota tuon... me olemme pkunkeja!... Tähtituulen Lapsia!
+Annamme sinulle sen, mitä muut eivät voisi! Lahjoista suurimman!
+Annamme sinulle rakkautemme.
+Ah, olet sanaton.  Älä puhu nyt.  Tunnen meitä yhdistävän energian.
+Erotkaamme hiljaisuuden vallitessa. Näkemiin...
+
+#(INIT_NO_ROOM)	pkunk-102.ogg
+mutta odota!  ennen kuin menemme, antaisimme sinulle pienen osoituksen rakkaudestamme
+4 vähäpätöistä alustamme, täydellä miehistöllä
+mutta voi, sinulla ei ole riittävästi tilaa laivastossasi kaikille aluksille, jotka haluamme antaa sinulle.
+No, jaa. Sellaisia ovat elämän oikut...
+
+#(INIT_SHIP_GIFT)	pkunk-103.ogg
+mutta odota!  ennen kuin menemme, pienenä osoituksena rakkaudestamme
+ei-materiaalisena lahjana, muista se, annamme sinulle 4 vähäpätöistä alustamme, täydellä miehistöllä.
+Hyvää onnea!
+
+#(suit_yourself)
+Suit yourself.
+
+#(GOODBYE_MIGRATION)	pkunk-104.ogg
+Ja nyt palaamme kultaiselle tielle. Yehat-sukulaisemme odottavat.
+
+#(what_about_ilwrath)
+Ette kai pistä pahaksenne jos kysyisin teiltä muutamia juttuja ilwratheista?
+
+#(ABOUT_ILWRATH)	pkunk-105.ogg
+Miksi pistäisimme? Emme kanna niille hämähäkkimäisille olennoille kaunaa.
+Ilman pimeyttä ei ole valoa. Ilman kuolemaa ei ole syntymää
+ja kiitos ilwrathien, on paljon syntymää.
+
+#(whats_up_space)
+Mitäs uutta?
+
+#(SHIPS_AT_HOME)	pkunk-106.ogg
+Jos olisi sellainen asia kuin yhteensattuma, sanoisin
+`Mikä sattuma, että kysyit!'
+Kaikkihan kuitenkin tapahtuu syystä. Selvästikin kysyt, koska on tarkoitus että kysyt.
+Aivan kuin minun on tarkoitus kertoa sinulle, että kotimaailmassamme
+sinua odottaa muutama upea pkunk-alus. Käytä niitä terveenä ja rakkaudella.
+
+#(GENERAL_INFO_SPACE_1)	pkunk-107.ogg
+Ahh, hämäriä enteitä ja mysteerisiä merkkejä. Sotkuisia kohtalon verkkoja
+jotka ovat kietoutuneet sallimuksen oksiin, sattuman oikullisten tuulten puhaltamana.
+Uutisia, uutisia.... ööh, oikeastaan jotain uutisia onkin!
+Tietoomme on sattunut tulemaan, että Dogar ja Kazon
+ne ilwrathien kaksi jumalaa, saattavat oikeasti olla huijausta.
+Emme tiedä, kuka olisi voinut tehdä tämän huijauksen
+mutta vaikuttaa siltä, joku on käyttänyt näitä kuviteltuja jumalia
+lähettääkseen ilwrathit kimppuumme.
+
+#(GENERAL_INFO_SPACE_2)	pkunk-108.ogg
+No, olemme nyt aika varmoja, että Dogar ja Kazon ovat huijausta.
+sen lisäksi, ettemme ole ikinä nähneet heitä 4:nnellä astraalitasolla, jolla useimmat jumalat tykkäävät hengailla
+me myös äskettäin menimme ja kuuntelimme tarkasti nauhoitusta yhdestä heidän lähetyksestään
+joka lähetettiin ilwratheille hyperaaltokanavalla 44.
+Pystyimme havaitsemaan hihitystä viestin lopussa.
+Joku tekee jossain jonkinlaista pilaa ilwratheja kohtaan. Vai olemmeko me pilan kohteena?
+Emme ole aivan varmoja, mutta ottaen lukuun kaikki nämä höyrystetyt planeetat ja täydellinen verilöyly
+saattaa mennä aikaa, ennen kuin pystymme arvostamaan sitä huumoria täysin.
+
+#(GENERAL_INFO_SPACE_3)	pkunk-109.ogg
+Uutisia? Tässäpä uutisia. Tiesitkö, että se ihana kirkas kehrä, jonka annoimme sinulle you
+on oikeasti osa suurempaa laitetta, jossa on kaksi muuta osaa?
+Tämä muukalaisartifaktin toiminta ja alkuperä on meille tuntematon
+mutta me ajattelimme, että siitä hurmaavasta pikku kehrästa itsestään sai aika kätevän paperipainon
+puhumattaan hyvästä keskustelun käynnistäjästä. Niin kirkas ja niin kaunis.
+Toivottavasti pidät siitä.
+
+#(GENERAL_INFO_SPACE_4)	pkunk-110.ogg
+Luulen, että olemme maininneetkin, että sillä kirkkaan kehrän vekottimella
+on kaksi muuta osaa, jotka sopivat sen kanssa yhteen.
+Jokunen päivä sitten eräs meedioistamme, ollessaan Plam Prikkun Transsissa
+huusi yhden noista omalaatuisista muukalaisvehkeistä sijaintipaikan.
+Olet ehkä kiinnostunut. Juuri ennen kuin hän pyörtyi, hän sanoi
+`Ruusunvärinen Kuula, Pallo Punainen
+johon tarttuvat Perseissä olevan iljettävän rodun ahnaat kädet. Kuula odottaa~
+Pikkuruisella äänellä se kutsuu kahta toveriaan.
+`Missä olette, missä olette, Kirkkaan Kehrän vekotin ja se toinen kapistus?'
+
+#(GENERAL_INFO_SPACE_5)	pkunk-111.ogg
+Palatakseni siihen kirkaskehrä-juttuun, meillä on uusi telepaattinen paljastus siihen liittyen.
+Tällä kertaa eräs vanha ja kunnianarvoisa pkunk nimeltään Awkky Birdy näki unen, jonka hän sai henkioppaaltaan Boscolta.
+Unessa Awkky Birdyä ympäröi nuorten pkunk-naaraiden meri
+jotka eivät halua mitään enemmän kuin paritella hänen kanssaan Autuaan Yompinin intohimoisessa seremoniassa.
+Awkky Birdy on lannistunut. Hän epäröi, ja naaraat syöksyvät häntä kohti ja parveilevat hänen ylitsensä.
+Ööh... Kirkas Kehrä, aivan, olen tulossa siihen.
+Juuri kun hän on pyörtymäisillään, Awkky Birdy näkee Kirkkaan Kehrän, punaisen pallon, ja sinisen kiertyneen kapistuksen
+jotka kaikki pyörivät toistensa ympäri hänen päänsä yllä.
+Ekstaasinpuuskassa hän huutaa sanan, `DRACONIS!!!!'
+ja sitten valot himmenevät, ja hymy kasvoillaan Awkky Birdy nukkuu.
+Melkoinen uni, vai?
+
+#(GENERAL_INFO_SPACE_6)	pkunk-112.ogg
+Aivan. Meillä on hyviä uutisia! No, toisin sanoen, meillä ei ole uutisia.
+Mutta se on hyvä uutinen.
+Hmmmmm. Tuo on sinun ilmeesi, ihmiskapteeni. Me pkunkit emme teeskentele ymmärtävämme sitä.
+
+#(GENERAL_INFO_SPACE_7)	pkunk-113.ogg
+Pelkäänpä, että hyvä uutisten puutteemme on yhä sama.
+
+#(GENERAL_INFO_SPACE_8)	pkunk-114.ogg
+Pelkäänpä, että hyvä uutisten puutteemme on yhä sama.
+
+#(tell_my_fortune)
+Olen aina halunnut kuulla ennustuksia. Et kai pistä pahaksesi?
+
+#(FORTUNE_IS_1)	pkunk-115.ogg
+En lainkaan. Olet minulle avoin kirja.
+Ahhh, kuinka omalaatuista elämäsi onkaan. Niin virkistävää.
+Oli miten oli, näen tulevaisuudessasi, että hypit pitkin galaksia
+läpi ulottuusoviaukkojen, jotka ovat hallinnassasi.
+Tämän kyvyn saat mysteeriseltä, ja kuitenkin vaistoan että rakastettavalta muukalaislajilta
+joita kutsutaan ArilouLaleelayksi, LalilouArilayksi, tai LuupiluuIloksi, tai jotain sinne päin.
+Vaistoan myös, että saat 14 lasta ja kuolet nuorella iällä.
+
+#(FORTUNE_IS_2)	pkunk-116.ogg
+Salli minun kutsua valon henkiä.
+Valon Henget! Hallooo!
+Henget!! Ah, kyllä, tunnen heidän lähestyvän. Valon Heengeeet
+mitä on varalla tälle oudolle, mutta ei loppujen lopuksi epämiellyttävälle muukalaisolennolle?....
+Henget puhuvat nyt lävitseni - tuijotan oudolla kiihkeydellä
+Ohhhhmmmm....
+Olet suuressa taaisteluuussaa
+Sinut melkein tuhoootaaaan
+mutta koska ystävystyit tietyn lintumaisen lajin kanssa
+he tulevat avuksesi viime minuuuutillaa.
+Ah, transsi on ohi.
+
+#(FORTUNE_IS_3)	pkunk-117.ogg
+Katson kaikkea, joka on oleva.
+Seuraan sitä pikkuista säiettä, joka olet sinä, Kapteeni.
+Näen hehkuvia kiviä, jotka nukkuvat. Ne ovat ärsyyntyneitä.
+Joku tekee suuren valon räjähdyksen. Ne heräävät!
+Ne ovat voimakkaita. Ne kohtaavat sen, joka häiritsi niitä.
+Kapteeni, sillä on sinun naamasi.
+
+#(FORTUNE_IS_4)	pkunk-118.ogg
+Läpi usvan näen kauniita humanoidinaisia
+jotka on ajettu pois kodistaan.
+Näen jalan liikkuvan edestakaisin. Näen heidän kotiplaneettansa.
+Se on sairas, polttavan taudin tartuttama.
+Näen sinun ojentavan humanoidinaaraalle palan sientä, jonka hän hakee.
+Hän on vihainen... mutta ei sinulle, Kapteeni. Hymyilet kauniille naiselle.
+Hän hymyilee takaisin. Näen sinun ja naisen ... oh... ööh
+En tiennytkään, että ihmiset voivat tehdä noin!
+Näky päättyy siihen.
+
+#(FORTUNE_IS_5)	pkunk-119.ogg
+Pelkäänpä etteivät henget ole olleet erityisen yhteistyöhaluisia viime päivinä.
+Itse asiassa, viimeisin onnistunut kontaktimme rajan taakse
+oli kun serkkuni Braky kanavoi vihaisen 5000-vuotiaan soturin nimeltään Rumdumdaddy.
+hän selitti, että henget olivat olleet niin kiireisiä manauksiin vastaamisessa
+niitten pikku Ouija-juttujen työntelemisessä ja toimimisessa oppaina Astraalimatkaajille
+ettei heillä ole ollut hetkeäkään aikaa itselleen.
+Brakyn äänen kautta Rumdumdaddy valitti, että meidän kaikkien pitäisi olla kunnioittavampia kuolleita kohtaan
+ja lopettaa jatkuva heidän häiritsemisensä ja vain jättää heidät rauhaan.
+Siitä lähtien emme ole pystyneet saamaan vingahdustakaan irti henkimaailmasta.
+
+#(FORTUNE_IS_6)	pkunk-120.ogg
+Anteeksi, emme voi tehdä sitä. Henget kieltäytyvät yhä vastaamasta kutsuihimme
+Luulen että he ovat lakossa tai jotain.
+
+#(FORTUNE_IS_7)	pkunk-121.ogg
+Saimme lopultakin kontaktin `toiselle puolelle'
+ja olen pahoillani sanoessani, että heidän kanssaan neuvottelemamme ehdot
+eivät oikein salli tulevaisuuteesi katsomista.
+Pahoittelemme.
+
+#(FORTUNE_IS_8)	pkunk-122.ogg
+Olemme käyttäneet loppuun kykymme ennustaa tulevaisuuttasi, Kapteeni. Pahoittelemme.
+
+#(OUT_TAKES)	pkunk-124.ogg
+Ah, lopullinen eroaminen valaistuksen suosikkietsijämme kanssa... kuinka surullista.
+Mutta odota! Tämän ei tarvitse olla loppu!
+Olemme perustaneet kanavan sinulle suoraan Harmonisen Tietoisuuden avaruuksista!  
+Voit käyttää tätä kanavaa kysyäksesi meiltä kysymyksiä menneistä elämistäsi tai tulevaisuuden kohtalostasi!
+Soita vain 1-900-PKUNKRA...
+...aivan, 1-900-PKUNKRA, 24 tuntia päivässä!
+Vain kaksi kilisevää per minuutti.
+(alle 18-vuotiailla lapsilla pitää olla vanhempien lupa ennen soittamista.)
+

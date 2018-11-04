@@ -1,0 +1,218 @@
+#(REBEL_HELLO_1)	yehatrebels-000.ogg
+Ole tervetullut, ihmisystävämme ja liittolaisemme!
+Vallankumous on alkanut ja klaanit parveilevat asiamme puolelle!
+
+#(REBEL_HELLO_2)	yehatrebels-001.ogg
+Tervehdys, ystävä Maasta!
+Vallankumouksemme johtaja, Cheep-Guava, on johtanut meidät moniin suuriin voittoihin.
+Olemme puhdistaneet viisi tähtijärjestelmää rojalistipettureista!
+
+#(REBEL_HELLO_3)	yehatrebels-002.ogg
+KRÄÄK! Tervehdys sinulle, Kapteeni!
+Toivomme että taistelusi ovat olleet ankaria ja vihollisesi ovat päätyneet tuhoonsa.
+No niin, mitä me voimme tehdä hyväksesi?
+
+#(REBEL_HELLO_4)	yehatrebels-003.ogg
+Terve, Kapteeni. Mitä tarvitset meiltä tänä päivänä?
+
+#(how_goes_revolution)
+Kuinkas vallankumous sujuu?
+
+#(REBEL_REVOLUTION_1)	yehatrebels-004.ogg
+Olemme puhdistaneet viisi tähtijärjestelmää rojalistipettureista
+ja jopa Veep-Kreepien Klaani on liittymässä meihin väärää Kuningatarta vastaan!
+
+#(REBEL_REVOLUTION_2)	yehatrebels-005.ogg
+Tämä on surullista, tämä taistelu joka on asettanut Klaanin Klaania vastaan, aluksen alusta vastaan.
+Olen itse lähettänyt kolme Rojalistien Tuhoajaa urheine miehistöineen Suureen Tuntemattomaan!
+Mitä tuhlausta.
+Rukoilemme. että tämä kamppailu päättyy nopeasti.
+
+#(REBEL_REVOLUTION_3)	yehatrebels-006.ogg
+Vaikka olemmekin kärsineet vakavia menetyksiä -- menettäneet urheita ja uskollisia kumppaneita
+vihollinen -- väärä Kuningatar ja hänen ystävänsä, ovat kärsineet paljon pahempaa.
+
+#(REBEL_REVOLUTION_4)	yehatrebels-007.ogg
+Voittomme on näköpiirissä, aivan seuraavan taistelun jälkeen
+tai ehkä sitä seuraavan.
+
+#(any_ships)
+Onko teillä yhtään ylimääräistä alusta liittymään laivastoomme?
+
+#(NO_ROOM)	yehatrebels-008.ogg
+Kysymyksesi on teoreettinen, vai mitä, sillä teillä ei ole tilaa aluksillemme laivastossamme.
+
+#(HAVE_ALL_SHIPS)	yehatrebels-009.ogg
+Olemme kunnioitettuja saadessamme auttaa sinua, Kapteeni!
+Liitämme neljä Tuhoajaa laivastoonne välittömästi.
+
+#(HAVE_FEW_SHIPS)	yehatrebels-010.ogg
+Olemme onnellisia saadessamme auttaa sinua, Kapteeni.
+Luovutamme käyttöönne riittävästi Tuhoajiamme laivastonne täyttämiseen.
+Taistele hyvin heidän kanssaan, Kapteeni. He ovat parhaimpiamme ja nokkelimpiamme.
+
+#(NO_SHIPS_YET)	yehatrebels-011.ogg
+Voi, meillä ei ole aluksia sinulle annettavaksi tällä hetkellä.
+Kuitenkin, jos palaat myöhemmällä ajalla, meillä ehkä jotain sinulle.
+
+#(give_info_rebels)
+Jakaisitteko vähän tietoja kanssamme?
+
+#(WHAT_INFO)	yehatrebels-012.ogg
+Tietenkin! Mitä tietoutta haet?
+
+#(what_about_royalty)
+Voitko kertoa minulle Kuninkaallista Perheestänne?
+
+#(ABOUT_ROYALTY)	yehatrebels-013.ogg
+VÄÄRÄT Kuninkaalliset, pitäisi sinun sanoa, Kapteeni!
+Ymmärtääksesi suhdettamme Veep-Neepien Kuningattariin, tulee sinun tietää vähän historiastamme.
+Muinaisina aikoina me yehatit olimme tuskin enempää kuin joukko sotivia Klaaneja.
+Se historia on verinen, Kapteeni... kauhistuttava. Olimme silloin barbaareja... murhaajia joka iikka.
+Moni sotaherra nousi kotimaailmamme kukkuloilta ja metsistä yhdistääkseen Klaanit
+tullakseen kaikkien Yehat-klaanien Kuninkaaksi. Joka ikinen epäonnistui.
+Se ei ollut uros, joka lopulta voitti suuren palkinnon, Caer Zeep-Reepin Korkean Orren!
+Ei, Kapteeni, se oli naaras!... suuri Kuningatar... Veep-Neepien Dynastian ensimmäinen.
+Vastineeksi Klaanien uskollisuudesta hän antoi yksinkertaisen, mukaansatempaavan lupauksen.
+Hän vakuutti, että yhdistäytyneinä hänen siipensä alle Klaanit eivät IKINÄ kärsisi tappiota!
+Ja hän piti lupauksensa. Lopultakin vallitsi maailmassamme rauha.
+Hänen sukulinjansa piti tämän lupauksen yli kaksikymmentä vuosisataa
+rauhoittaen pöyhistyneitä sulkia, jakaen oikeutta, estäen kiihotusta
+mutta sitten tuli nykyinen Kuningatar... todellinen harppu!
+Hänen valtansa alla Tähtilaivojen Klaanien valta siirrettiin
+lipeville Kotimaailman keikareille... tositaistelua koskaan näkemättömille `sotaherroille'.
+Me, Yehat-imperiumin nokka ja kynsi, olimme voimattomia vaikuttamaan hänen päätöksiinsä.
+Kun Kuningatar näytti todelliset värinsä ja liittoutui pahojen Ur-Quan-matojen kanssa
+tajusimme, että hän tekisi mitä tahansa, MITÄ TAHANSA!...
+...ylläpitääkseen sitä illusioota, että pitää esiäitinsä lupauksen
+vaikka se tarkoittaisikin vaihdossa kunniamme tuhoamista, kaiken sen, mitä olemme.
+Nyt me, todelliset Yehat-klaanit, aiomme vetää väärän Kuningattaren alas Korkealta Orrelta.
+Ehkä jonain päivänä löydämme Kuningattaren, joka tuo Klaanit jälleen kerran yhteen.
+Tai, kuten pelkään, emme ikinä onnistu korvaamaan Veep-Neepien Kuningattaria
+ja taistelemme Klaani Klaania vastaan kunnes vain verisiä sulkia on jäljellä.
+
+#(what_about_war)
+Kerro minulle Sodan lopusta.
+
+#(ABOUT_WAR)	yehatrebels-014.ogg
+Kuvailen näitä tapahtumia, Kapteeni.
+Ne muodostavat tarinan, Kapteeni, täynnään surua... ja sankarillisuutta!... ja petturuutta.
+Sen jälkeen kun chenjesut, mmrnhrm:t ja sinun lajisi oli voitettu
+Valmistimme puolustuksen shofixtien kotitähdellä, Delta Gornossa.
+Shofixtien, ottolapsiemme, vieressä me odotimme Ur-Quanien armadan rynnäkköä.
+Odotimme innolla ja kiihkeällä odotuksella taistelua!
+Mutta sitten saimme Kuningattareltamme viestin, jota ei saattanut käsittää... perääntykää.
+Emme voineet uskoa sitä! Taktisia vetäytymisiä, kyllä... mutta vetää koko laivasto takaisin?
+Erehtymisen varaa ei ollut... käskyt oli kuultu virheettömästi.
+Me tottelimme.
+Voi, Kapteeni! Shofixtien silmät! Heidän kirkkaat ja urhoolliset silmiänsä!... liikkuessamme pois.
+Ilman meitä... heillä ei ollut toivoakaan muodostaa taktista kiilaa.
+He hidastivat Hierarkian laivastoa hädin tuskin lainkaan.
+Kun Ur-Quanit tulivat, shofixtit taistelivat kuin kuolemattomat sankarit!...
+...sinkoillen Taistelulaivojen muodostelmiin ja niistä pois
+ja sitten äkkiä PALAEN!... kuin kuolevat tähdet.
+Mutta... vain muutaman tunnin kuluttua... shofixtien laivasto oli mennyttä
+ja Taistelulaivat liikkuivat kohti kotimaailmaa.
+
+#(what_about_urquan)
+Kuinka Shofixtit voitettiin?
+
+#(ABOUT_URQUAN)	yehatrebels-015.ogg
+Jättäessämme shofixtit lähestyvän Ur-Quan -armadan armoille
+tarkkailimme tilannetta pitkän matkan sensoriemme steriileiltä ruuduilta.
+Yht'äkkiä ruudut leimusivat ja menivät mustiksi ...palaneina! Juoksimme ikkunoille
+juuri ajoissa nähdäksemme shofixtien auringon palavan uskomattomalla valolla
+monta kirkkausluokkaa sen tavallisen kirkkauden yläpuolella!
+Miljoona fuusiotulen kielekettä levisi tähtijärjestelmän läpi
+tuhoten sisäplaneetat ja polttaen KAIKKI Ur-Quanien alukset tuhkaksi!
+Sillä hetkellä Hierarkian sotalaivasto kutistui miltei kolmekymmentä prosenttia.
+Myöhemmin muistimme, että ei kovin montaa vuotta ennen Ur-Quanien ilmestymistä
+shofixtit olivat kertoneet meille löytäneensä `jotakin'.
+Poikasen ensilennon ylpeydellä he paljastivat löytönsä
+se oli suunnilleen pintakuljetusaluksen kokoinen, mutta lieriömäinen ja täysin musta.
+Pitkin sen pintaa kulki miljoona muukalais- kirjoituksella raapustettua merkkiä.
+Viesti oli selkeä... VAARA! ÄLÄ KOSKE!
+Luotimme siihen, että shofixtit uskoisivat varoitusta, ja jätimme laitteen heidän haltuunsa.
+Lopussa, kun Ur-Quanit lähestyivät heidän planeettaansa
+shofixtien on täytynyt tajuta etteivät he voineet voittaa
+mutta he voisivat ainakin varmistaa sen, että molemmat puolet häviäisivät.
+Heidän on täytynyt räjäyttää laite aurinkonsa ulkokerroksessa.
+Sen, että osa auringon pintakerroksista äkillisesti poistettiin
+on täytynyt mahdollistaa auringon sisäosissa olleen paineistetun plasman purkautumisen
+kuin pienikokoisena supernovana.
+
+#(what_about_vux)
+Tiedättekö mitään VUXeista?
+
+#(ABOUT_VUX)	yehatrebels-016.ogg
+Niistä irvokkaista hirviöistä? Ne ovat väsynyt, kiihkomielinen rotu, kelvotonta saalista
+yhdellä poikkeuksella... Kenraali ZEX.
+Hän komensi koko VUXien laivastoa Suuren Sodan aikana
+ja jopa meidän korkeiden taistelutaito- standardiemme mukaan hän on nero.
+Linnoitusneliön ja Dynaamisen Kolmion nerokkaat taktiikat ovat hänen luomuksiaan.
+Ilman ZEXiä Allianssimme laivastot olisivat lyöneet VUXit maahan viikoissa
+mutta ZEX löysi aina tavan kääntää omat heikkoutensa edukseen.
+Sodan jälkeen saimme tietää että Priimas ja VUXien Korkea Neuvosto olivat
+päättäneet siirtää ZEXin sivuun ja lähettää hänet `ylelliselle eläkkeelle' Alfa Cerenkov I:een.
+Olemme kuulleet, että hän käyttää aikansa harrastuksensa parissa, vaikka emme tiedäkään enempää.
+
+#(what_about_clue)
+kuinka voimme voittaa Ur-Quanit? 
+
+#(ABOUT_CLUE)	yehatrebels-017.ogg
+Jos olisin sinä, urhea ihminen, varmaankin etsisin Ur-Quanien voiman keskipistettä
+ja tekisin mikä vain olisi tarpeellista sen tuhoamiseksi.
+Meillä saattaa olla vihje siihen, mikä tämä heikko kohta on.
+Kun olimme Hierarkian taisteluorjina
+opimme, että Ur-Quanien hallussa oli jonkinlainen superase
+`Sa-Matra', valtava taistelulaiva, jonka tulivoima riitti kokonaisen tähtilaivaston tuhoamiseen.
+Jostain syystä Ur-Quanit olivat vastahakoisia käyttämään alusta.
+Vasta kun heidän armadansa pysäytettiin ytimenpuoleisella rintamalla
+he toivat Sa-Matran voiman lopulta Allianssia vastaan.
+Kapteeni, tässä on neuvoni... voit tuhota Taistelulaivoja kyllästymiseen asti
+mutta et ikinä tule voittamaan Ur-Quanien Hierarkiaa ennen heidän Sa-Matransa eliminoimista.
+
+#(enough_info)
+Siinä olikin toistaiseksi tarpeeksi tietoja.
+
+#(OK_ENOUGH_INFO)	yehatrebels-018.ogg
+Jos sinulla on tarvetta tietää lisää, kysy vain.
+
+#(bye_rebel)
+Näkemiin, urheat kapinalliset. Viva la Revolution!
+
+#(GOODBYE_REBEL)	yehatrebels-019.ogg
+Näkemiin, ihmistoveri. Taistele hyvin!
+
+#(YEHAT_CAVALRY)	yehatrebels-020.ogg
+Tervehdys, ihmisystävä! Tiedämme, että aiot hyökätä Sa-Matraa vastaan
+et et varmaankaan pidä keskeytyksistä, mutta meillä on tärkeitä uutisia!...
+Kapina on VOITTANUT! Olemme VOITOKKAITA!
+Olemme vetäneet Veep-Neepien Kuningattaren ja hänen ystävänsä alas Korkealta Orrelta!
+Ja mikä parasta... olemme löytäneet uuden Kuningattaren!...
+...Kuningattaren, joka yhdistää Klaanit ennennäkemättömään rauhaan ja harmoniaan!
+Et ikinä arvaa, kuka se on, Kapteeni!
+PKUNK! Kyllä! Se on TOTTA!
+He selvisivät sulautumisesta kulttuuriimme
+ja esittävät meille itseistämme oivalluksia, joista emme ikinä edes uneksineet!
+Me vain LUULIMME olevamme onnellisia petolintuja! Huijasimme itse itseämme!
+Uuden Kuningattaremme nimi on Braky Girdy Ensimmäinen!... ja hänen ensimmäinen käskynsä
+oli kiitää tänne ja tuoda sinulle nämä alukset...Yehatien Tuhoajat ja Pkunkien Raivottaret.
+Nyt, Kapteeni, yhdessä me voimme hyökätä Sa-Matraa vastaan!
+
+#(what_about_pkunk_rebel)
+Olemme kohdanneet lajinne verson, Pkunkit. Kertokaa meille heistä.
+
+#(PKUNK_ABSORBED_REBEL)	yehatrebels-021.ogg
+Pkunkit on sulautettu.
+Niitä ei enää ole. Näin pitäisikin olla.
+Asia on nyt ratkaistu, ihminen. Älä enää tuo sitä esiin.
+
+#(HATE_PKUNK_REBEL)	yehatrebels-022.ogg
+Ne pelkurit elävät?!! Tämä on uskomatonta!!
+On SURULLINEN, SURULLINEN päivä, että kuulen tämän sinulta, ihminen.
+P... pku... KRÄK!! En saata edes sanoa niiden iljettävää nimeä!
+Pku... PKUN-KIT! ovat suurin häpeä minkä lajimme on ikinä kärsinyt!
+Älä kutsu näitä kurjia olentoja lajimme versoksi!
+Parempi olisi sinun kutsua niitä ROSKAKSI! tai JÄTÖKSIKSI! 
+Tai paremminkin olla puhumatta niistä lainkaan!

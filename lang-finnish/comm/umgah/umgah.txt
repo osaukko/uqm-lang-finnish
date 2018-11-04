@@ -1,0 +1,421 @@
+#(HWLD_PRE_ZOMBIE_HELLO_1)	umgah-000.ogg
+Mutta PÄIVÄÄ, ihmismaanasukki! Hah! Hah! Hah!
+Täytyy sanoa, läsnäolosi täällä on melkoinen ylläri meille!
+Emme ikinä aavistaneet, että näkisimme enää ketään teistä ikinä
+sen jälkeen, kun Ur-Quan -isännät laittoivat lajisi orjakilven alle!
+
+#(HWLD_PRE_ZOMBIE_HELLO_2)	umgah-001.ogg
+Hei kaikki katsokaa! Ihmismaanasukki tuli takaisin!
+Hah! Hah! Hah! Mitäs jos tappaisimme hänet tällä kertaa?
+Hah! Hah! Hah!
+
+#(HWLD_PRE_ZOMBIE_HELLO_3)	umgah-002.ogg
+Taas takaisin? Hah! Hah! Hah! Lisää hupia! Lisää hupia!
+
+#(HWLD_PRE_ZOMBIE_HELLO_4)	umgah-003.ogg
+Katsos ihmismaanasukki! Vielä lisää hupia?
+
+#(SPACE_PRE_ZOMBIE_HELLO_1)	umgah-004.ogg
+Mitä, vatsani paisuu! Sehän ihmismaanasukki!
+Hah! Hah! Hah! Nähtiin ihmismaanasukkeja viimeksi... viimeksi...
+Mutta kappas vain! EI KOSKAAN olla nähty ihmismaanasukkeja!
+Mikä yhteensattuma!
+
+#(SPACE_PRE_ZOMBIE_HELLO_2)	umgah-005.ogg
+Heipä hei, ihminen! Kuinka nestepussit tänään?
+Mitä? Ei OLE nestepusseja?
+Hah! Hah! Hah! Miksi sitten kutsut pariasi?!! Hah! Hah! Hah!...
+ei EDES paria?
+VIELÄ HAUSKEMPAA! Hah! Hah! Hah!
+
+#(SPACE_PRE_ZOMBIE_HELLO_3)	umgah-006.ogg
+Hei ihmismaanasukki! Mitäs sä täällä teet tänään?
+Mitä? Ei oikein kuulu? Puhu kovempaa!
+Hei! Missä vika?
+Ihmismaanasukki tekee pilaa minusta?
+TÄMÄ JONKINLAINEN TYPERÄ IHMISMAANASUKKIEN TEMPPU? SILLÄ JOS ON
+Hah! Hah! Hah!... säikäytin, vai mitä?
+
+#(SPACE_PRE_ZOMBIE_HELLO_4)	umgah-007.ogg
+Moi! Ihmismaanasukki! Miten menee?!
+
+#(UNKNOWN_ZOMBIE_HELLO_1)	umgah-008.ogg
+PÄIVÄÄ. IHMINEN. MAANASUKKI.
+HAH.  HAH.  HAH.  
+
+#(UNKNOWN_ZOMBIE_HELLO_2)	umgah-009.ogg
+ILOISIA. TERVEISIÄ. JA. TERVETULOA. MAANASUKKI. IHMINEN.
+HAH.  HAH.  HAH.
+
+#(UNKNOWN_ZOMBIE_HELLO_3)	umgah-010.ogg
+MIKÄ. NIIN. HAUSKAA. IHMIS. MAANASUKKI. KASVOSI. HASSU. JUTTU.
+HAH.  HAH.  HAH.
+
+#(UNKNOWN_ZOMBIE_HELLO_4)	umgah-011.ogg
+ME. HAUSKOJA. UMGAHEJA. NIIN. HAUSKOJA.
+HAH.  HAH.  HAH.
+
+#(DESTROY_INTERFERER_1)	umgah-012.ogg
+IHMINEN. SEKAANTUU. SUUNNITELMAAN.
+TAPPAKAA. SE.
+
+#(DESTROY_INTERFERER_2)	umgah-013.ogg
+PYSÄYTTÄKÄÄ. IHMINEN. TUHOTKAA. ALUS.
+
+#(DESTROY_INTERFERER_3)	umgah-014.ogg
+VIIVEITÄ. SUUNNITELMASSA. EI. SIEDETÄ.
+HÄVITTÄKÄÄ. IHMINEN.
+
+#(DESTROY_INTERFERER_4)	umgah-015.ogg
+TUHOTKAA. IHMINEN. VÄLITTÖMÄSTI.
+
+#(REVEALED_ZOMBIE_HELLO_1)	umgah-016.ogg
+IHMINEN. TIETÄÄ. LIIKAA. SE. EI. SAA. PAETA.
+
+#(REVEALED_ZOMBIE_HELLO_2)	umgah-017.ogg
+IHMIS. MAANASUKKI. LOPETTAKAA. LIIKE. JA. DE-ENERGISOIKAA. ALUS. JOTTA. VOIMME. ANTAA. LAHJAN.
+
+#(REVEALED_ZOMBIE_HELLO_3)	umgah-018.ogg
+LOPETTAKAA. VIHOLLISUUDET. OLEMME. MUUTTANEET. MIELEMME. PIDÄMME. TEISTÄ. TULKAA. LÄHEMMÄS.
+
+#(REVEALED_ZOMBIE_HELLO_4)	umgah-019.ogg
+VASTUSTUS. ON. TURHAA. IHMIS. MAANASUKKI.
+
+#(HOSTILE_HELLO_1)	umgah-020.ogg
+Hei ihmismaanasukkipelastaja!
+Vaikka me arvostetaankin tekojasi puolestamme
+me todella vihataan `Ikuisesti Kiitollinen'-juttua, joten päätettiin tappaa sinut.
+Hah! Hah! Hah! Me aika hulluja kupliksia, eihän?!
+
+#(HOSTILE_HELLO_2)	umgah-021.ogg
+No puhkokaa koteloni! Se ihmismaanasukki jälleen!
+Se nyt ei vain opi, eihän? Annetaan sille isän kädestä!... hetkipieni! Ei OLE käsiä!
+AARGHH! KÄTENI!! KUKA ON VARASTANUT KÄTENI!!! AAAARGGHHH!! KÄSIVARAS!!!
+Hah! Hah! Hah!... Ei ole KOSKAAN ollut käsiä! Hah! Hah! Hah!
+
+#(HOSTILE_HELLO_3)	umgah-022.ogg
+Kuules, me kaikki päätimme että tämä sinun kohtelusi
+ja se tarkoittaa, että hyökätään kimppuusi kokoajan ilman armoa
+ja, no, me päätettiin se ihan epäreilua.
+TOSIAAN, kaikki tämä mitä olet tehnyt kansallemme!
+Eli päätimme tehdä sinusta meidän kunniaKUNINKAAN! Onnittelut!
+Trööönnkk!!
+Mikä tämä ääni, upseeri Flubbo? Se oli? Sinä varma? Kuninkaantappotorvi?
+Hah! Hah! Hah! Mikä ikävä yhteensattuma, hehe, Kapteeni Kunkku?
+
+#(HOSTILE_HELLO_4)	umgah-023.ogg
+Ha-ha! Ihmismaanasukki on palannut noutamaan palkkionsa!
+Ai mitäkö palkkiota? No tätä palkkiota, tietenkin!
+
+#(REWARD_AT_HOMEWORLD_1)	umgah-024.ogg
+Hurraa! Hurraa! Se on ihmismaanasukki! Pelastajamme!
+Kiirettä, ihmismaanasukki, KIIRE! Palkkiosi odottaa kotiplaneetallamme!
+Jos olet unohtanut, niin se Beta Orioniksessa!
+Kiire, ihmismaanasukki, KIIRE!
+
+#(REWARD_AT_HOMEWORLD_2)	umgah-025.ogg
+Hopi, hopi! Sinun täytyy pitää kiirettä, ihmismaanasukki!
+Pikaisemmin menet kotimaailmaamme Beta Orionikseen
+nopeammin saat palkkiosi!
+
+#(POST_ZOMBIE_HWLD_HELLO)	umgah-026.ogg
+TERVE! TERVE! Ihmismaanasukki! SUURI SANKARI ON PALANNUT!
+Oi, nesteeni tärisevät kun vain katson häntä monitorissa!
+Mikä hymy! Mitkä säihkyvät silmät! Mikä ihana luurakenne!
+Hän se joka pelasti meidät pahan Puhuvan Lemmikin henkiseltä pakotukselta!
+YLISTÄMME SINUA! YLISTÄMME SINUA!
+Oi Suuri Sankari! Me kiitollinen laji! Puhu meille! Kuinka me palkita sinä?
+
+#(owe_me_big_time)
+Just! Oikein! Te äijät olette PALJON velkaa.
+
+#(our_largesse)
+Herraskuplikset, rauhoittukaa. Teimme sen ainoastaan hyvää hyvyyttämme. Palkkiot ovat turhia.
+
+#(GIVE_LIFEDATA)	umgah-027.ogg
+Meidän täytyy palkita rohkeutesi!
+Puhuvan Lemmikin tappaminen oli uroteko, jota kukaan meidän lajistamme ei olisi voinut tehdä!
+Sinä mahtava! Sinä sankari!
+TERVE! TERVE! TERVE!
+Meidän TÄYTYY palkita sinut!... mutta mitä annettavaa meillä on?
+Protoplasmaa?... ei, ei, ei helposti arvostettavissa.
+Kestäviä estereitä?... ei, liian yleistä.
+KEKSINPÄ! KEKSINPÄ! GENEETTINEN MUUTOS! KYLLÄ! SE TÄYDELLINEN LAHJA!
+Kuules ihmismaanasukki! Me lisäämme muutaman uuden silmän! Pari lonkeroa!
+Muita elimiä aivan minkä kokoisia tai muotoisia kuin haluat!!
+Mitä?! Et halua lisää elimiä? Sinä varma?... Kuinka outoa... kuinka surullista.
+Tämä oli paras lahja. Meillä Umgaheilla ei ole kuin biologista taitoa ja tietoa.
+Höh? Mitä sanot?
+Haluat Biologista Tietoa?! Vain pelkkää raakaa Biologista tietoa?
+Mitä tekee sillä?
+No, selvä, sinä Sankari. Mitä haluat, myös saat.
+
+#(THANKS)	umgah-028.ogg
+TERVE! TERVE! TERVE!
+Sinä oikeassa! Me velkaa sinulle! Meidän täytyy palkita sinut!... mutta mitä annettavaa meillä?
+Protoplasmaa?... ei, ei, ei yleensä osata arvostaa.
+Kestäviä estereitä?... ei, liian yleistä.
+KEKSINPÄ! KEKSINPÄ! GENEETTINEN MUUTOS! KYLLÄ! SE TÄYDELLINEN LAHJA!
+Kuules ihmismaanasukki! Me lisäämme muutaman uuden silmän! Pari lonkeroa!
+Muita elimiä aivan minkä kokoisia tai muotoisia kuin haluat!!
+Mitä?! Et halua lisää elimiä? Sinä varma?... Kuinka outoa... kuinka surullista.
+Tämä oli paras lahja. Meillä umgaheilla ei ole kuin biologista taitoa ja tietoa.
+Höh? Mitä sanot?
+Haluat Biologista Tietoa?! Vain pelkkää raakaa Biologista tietoa?
+Mitä tekisit sillä?
+No, selvä, sinä Sankari. Mitä haluat, myös saat.
+
+#(what_do_with_tpet)
+Eli miten tämä Puhuva Lemmikki sai lajinne hallintaansa?
+
+#(TRICK_URQUAN)	umgah-029.ogg
+No ariloulaleelayt, jotka tavallaan naapureitamme, antoivat meille Puhuvan Lemmikin
+toivoen, että voisimme parantaa sen vakavimmat vammat, ja sen me teimme.
+Kun työskentelimme sen kimpussa, me teimme rutiininomaisen aivorakenteen skannauksen
+ja huomasimme, että olennolla oli erittäin hienostunut hermoreittien rakenne
+jopa monimutkaisempi kuin omamme!
+Lisäanalyysit näyttivät, että pienillä geneettisillä manipulaatioilla
+Puhuva Lemmikki älykkyys suuresti lisääntyisi, kenties jopa tietoisuuteen!
+Vähänpä tiesimme mitä hirviötä teimme.
+Vain pari tuntia sen jälkeen, kun rokotimme muokkausohjelmalla varustetut nanobotit, olento heräsi.
+Melkein välittömästi otti Sairaalan hallintaansa... sitten kaupungin... sitten koko planeetta.
+Yritimme vastustaa, mutta olento, jopa lääkittynä, heikennetyssä tilassa, liian vahva.
+Siitä lähtien me vain mielettömiä orjia jotka elivät vain palvellakseen Puhuvaa Lemmikkiä ja `Suurta Suunnitelmaa'.
+Mikä `Suuri Suunnitelma'?
+Emme ikinä olleet kovin varmoja `Suuresta Suunnitelmasta', paitsi että siihen liittyi kostaminen
+ja tarkoitan PALJON kostamista...
+Ur-Quan-isännille.
+
+#(any_jokes)
+Miksi Ur-Quanit? Mitä sillä oli niitä vastaan?
+
+#(SURE)	umgah-030.ogg
+Me emme tiedä, mutta mitä ikinä olikaan, sen täytyi olla todella pahaa
+koska Puhuva Lemmikki raivona... TODELLA raivona! Kuinka raivona, kysyt?
+Planeettojen räjäyttely ja lasten syönti raivona! Siinä kuinka raivona.
+Saimme käsityksen, Ur-Quanit tekivät jotain todella kauheaa Puhuvalle Lemmikille tai jopa koko lajille.
+Mitä ikinä olikaan, se pahempaa kuin orjuus
+ehkä pahempaa kuin jopa kuolema.
+
+#(what_before_tpet)
+Eli mitä minun täytyisi tehdä Puhuvalla Lemmikillä?
+
+#(TRKD_SPATHI_AND_ILWRATH)	umgah-031.ogg
+Tarkoitat, Puhuvan Lemmikin RUUMIILLA, eikö vain, Kapteeni?!
+TAPOITHAN sen, etkö vain?!
+
+#(where_caster)
+Öö... joo! Aivan. Todella kuollut. Eli mitä minun täytyisi tehdä sen ruumiilla?
+
+#(SPATHI_TOOK_THEM)	umgah-032.ogg
+Hmmm... yleisesti ottaen, ruumiit eivät kovin hauskoja.
+Kun me silloin aloimme leikkiä sen aivoilla
+aikomuksemme tehdä siitä tarpeeksi fiksu jotta olisi ottanut meiltä käskyjä
+ja sitten toistaa ne aivan kuin ne olisivat laillisia Ur-Quanien komentoja.
+Hah! Hah! Hah! Me aioimme tehdä pienen kepposen näin!
+Me aioimme käyttää Puhuvaa Lemmikkiä käskeäksemme spatheja hyökkäämään VUXien kimppuun!
+Hah! Hah! Hah! Se olisi mahtavaa! TSAP! TSAP! KABOOM!!! Hah! Hah! Hah!...
+...jopa paljon hauskempaa kuin vanha Dogar ja Kazon -rutiini minkä teimme ilwratheille muutama vuosi sitten.
+ennen kuin ne ilonpilaajaspathit varastivat supersiistin Hyperaaltolähettimen.
+
+#(so_what_for_now)
+No, nyt kun minä olen teidän Suuri Sankariäijänne, kertokaa minulle kaikki salaisuutenne.
+
+#(DO_THIS_NOW)	umgah-033.ogg
+Salaisuudet, heh? Haluat salaisuuksia? MEIDÄN SALAISUUKSIA!? TEIT KOHTALOKKAAN VIRHEEN, IHMINEN!!
+... Hah! Hah! Hah! Hyvä vitsi, hehe? Säikäytin!
+Selvä! Kerromme salaisuutemme. Katsotaanpas... mitkä OVAT salaisuuksia?
+Ai niin!... muistanpas! Se juttu myconeista!
+Tiedäthän, myconit ainoa toinen rotu jonka me tiedämme
+joilla on samanlaisia bioteknisiä taitoja kuin Umgaheilla.
+Mutta hämmästyttävä juttu se että he tekevät kaiken kehoillaan, ei tarvitse työkaluja.
+He vain AJATTELEVAT geneettistä muutosta, ja se tapahtuu!
+Meistä hankala ymmärtää, joten kun kukaan ei katsonut, kolautimme yhtä päähän
+toimme sen kotiin tänne kotiplaneetalle ja leikkelimme sen tarkempia tutkimuksia varten.
+Ne äijät ei MINKÄÄN luonnollisen evoluution tuloksia
+Ne rakennelmia!... jonkinlaisia monitoimisia biologisia työkaluja.
+Me emme tiedä ketkä tekivät ne ja miksi
+mutta he PALJON edistyneempia kuin mistä me koskaan kuulleet.
+Emme saaneet paljoa selville ennen kuin kudosnäytteet aika inhottavia
+joten luulemme että se kaikki yksi iso salaisuus.
+Niin... tekisitkö meille palveluksen? Älä kerro kenellekkään myconin kolauttamisesta.
+Se tavallaan Ur-Quanien lakeja vastaan, ja ei haluta saada myconeista vihamiehiä.
+
+#(bye_post_zombie)
+No, teidän Suuren Sankarinne täytyy lähteä nyt, mutta takaan, että tulen takaisin.
+
+#(FUNNY_IDEA)	umgah-034.ogg
+Tiedät kai, Suuri Sankari... minulla tämä hassu tunne.
+Haluatko tietää, mikä tunne on? Hyvä, kerronpa.
+Tunteeni on se, että tämä Suuri Sankari -juttu... no, tylsää... ei lainkaan hauskaa.
+Voi sanoa ELÄKÖÖN! ELÄKÖÖN! ELÄKÖÖN! vain jonkin aikaa ennen kuin se alkaa menettää viehätystä
+joten... toimeenpannaan pieni muutos meidän suhteessa.
+Tarkemmin sanoen, tylsän ja laimean Suuren Sankarin sijaan
+sinä nyt lumoava ja jännittävä... Suuri Vihollinen!
+Me annamme sinulle meidän Kuhnuri-aluksiamme tehdäksemme vielä mielenkiintoisemmaksi!
+Kyllä! Tämä tulee olemaan PALJON hauskempaa!
+No niin... annas kun näytän.
+
+#(whats_up_pre_zombie)
+Umgahit! Paljastakaa salaisuutenne!
+
+#(GENERAL_INFO_PRE_ZOMBIE)	umgah-035.ogg
+Selvä, kun kerran noin kauniisti pyydät, kerromme sinulle asian tai kaksi.
+Esimerkiksi, tiesitkö, että jopa nyt olemme tekemässä leikkausta Puhuvalle Lemmikille?
+Arilout löysivät sen yksinäisenä ja kuolevana Ur-Quanien Taistelulaivan haaskessa Alfa Pavoniksessa.
+He eivät voineet parantaa sitä, joten he toivat sen meille.
+Havaittiin, että tällä eläimellä potentiaalia suureen älykkyyteen
+edellyttäen, että teemme pari pikkuruista geneettistä muutosta.
+
+#(evil_blobbies_give_up)
+Pahat kuplikset. Teidän täytyy alistua musertavan voimamme edessä!
+
+#(NOT_EVIL_BLOBBIES)	umgah-036.ogg
+Hah! Hah! Hah! HYVÄ VITSI!!
+Käytetään sitä pian johonkuhun toiseen.
+
+#(evil_blobbies_must_die)
+Ei! Minä olin tosissani. Te OLETTE pahoja kupliksia. Teidän TÄYTYY kuolla.
+
+#(OH_NO_WE_WONT)	umgah-037.ogg
+Hah! Hah! Hah! Vielä hauskempi!
+
+#(can_we_be_friends)
+Katsokaas. Tiedän että meillä on ollut riitoja menneisyydessä, mutta emmekö me voisi olla ystäviä?
+
+#(SURE_FRIENDS)	umgah-038.ogg
+Varmasti! Varmasti! Ystäviä varmasti!
+Kuka välittää tylsistä ja vanhoista Ur-Quaneista ja heidän orjalaeista? Hah! Hah! Hah!
+Tässä me tulemme sanomaan hei uusille ystävillemme!
+
+#(want_to_defeat_urquan)
+Tässä on meidän uskontunnustuksemme: Vapautus Ur-Quaneista! Mitä sanot?
+
+#(FINE_BY_US)	umgah-039.ogg
+Hah! Hah! Hah! Vapaus on hyvä juttu!
+On paljon helpompaa tehdä vitsejä ilman vanhoja ja tylsiä Ur-Quanien orjalakeja!
+Me haluamme tehdä tosihyvän jutun noille typerille tosikoille Draconiksessa pitkästä aikaa
+mutta sen jälkeen, kun he myös taisteluorjia, meidän ei annettu tehdä edes pikkuisia kolttosia heille
+kuten, sanoisin... pudottamalla planetoidin heidän mereen.
+Suuria aaltoja! Suuria aaltoja! Hah! Hah! Hah!
+
+#(bye_pre_zombie)
+No, umgahit. Tämä on ollut kiehtovaa, mutta minun täytyy mennä.
+
+#(GOODBYE_PRE_ZOMBIE)	umgah-040.ogg
+Hah! Hah! Hah! Hei odotas, ihmismaanasukki! Tässä kohta!
+
+#(threat)
+Pahat kuplikset, teidän raukkamainen luonteenne on paljastettu! Alistukaa!
+
+#(NO_THREAT)	umgah-041.ogg
+JOS. YMMÄRRÄT. TODELLINEN. LUONNE. TÄYTYY. TUHOTA.
+
+#(whats_up_zombies)
+Niin, umgahit, mitä olette tehneet näinä viime kahtenakymmenenä vuonna?
+
+#(GENERAL_INFO_ZOMBIE)	umgah-042.ogg
+MITÄÄN. EI. TAPAHTUNUT. VIIME. KAKSIKYMMENTÄ. VUOTTA. TOSI. TYLSÄÄ.
+
+#(how_goes_tpet)
+Kuinka teillä menee Puhuvan Lemmikin kanssa?
+
+#(WHAT_TPET)	umgah-043.ogg
+MIKÄ. PUHUVA. LEMMIKKI. EI. YMMÄRRÄ. SELVENNÄ.
+
+#(you_told_us)
+Kerroitte meille, että muuntelette Puhuvaa Lemmikkiä, ettekös?
+
+#(SADLY_IT_DIED)	umgah-044.ogg
+SURULLISTA. SE. KUOLI.
+EI. ENÄÄ. PUHUTA. SIITÄ.
+
+#(dont_believe)
+Kuulkaas, minä en nyt vain usko teitä. Mitä te oikein piilottelette?
+
+#(THEN_DIE)	umgah-045.ogg
+IHMISELLÄ. ON. KIELLETTYÄ. TIETOA.
+HÄIRIÖITÄ. SUUNNITELMASSA. EI. SIEDETÄ.
+IHMINEN. TÄYTYY. TUHOTA.
+
+#(bye_unknown)
+Jos yritän poistua, niin hyökkäättekö kimppuuni?
+
+#(GOODBYE_UNKNOWN)	umgah-046.ogg
+EMME. POISTU.
+
+#(evil_blobbies)
+Olette pahoja kupliksia, sanon näin! Kavahtakaa!
+
+#(YES_VERY_EVIL)	umgah-047.ogg
+KYLLÄ. ME. OLEMME. TODELLA. PAHOJA.
+SINUN. PARAS. SUUNNITELMASI. OLISI. LÄHTEÄ. JA. ÄLÄ. IKINÄ. PALAA.
+
+#(give_up_or_die)
+Antautukaa TÄSSÄ ja NYT tai höyrystän teidät!
+
+#(NOT_GIVE_UP)	umgah-048.ogg
+IHMISEN. HÄIRINTÄ. SAAVUTTAA. SIETÄMÄTTÖMÄN. TASON.
+SUUNNITELMAA. EI. SAA. VIIVYTTÄÄ.
+ELIMINOIKAA. IHMINEN.
+
+#(we_vindicator0)
+Olen Kapteeni 
+
+#(we_vindicator1)
+, ja komennan alusta 
+
+#(we_vindicator2)
+. Mikä on vastauksenne?
+
+#(GOOD_FOR_YOU_1)	umgah-049.ogg
+ME. VASTAAMME. SOVELIAALLA. PELOLLA JA KUNNIOITUKSELLA.
+NYT. MENKÄÄ. POIS.
+
+#(come_in_peace)
+Meidän viestimme on Rauha Kaikille Lajeille!... kupliksille myös.
+
+#(GOOD_FOR_YOU_2)	umgah-050.ogg
+KYLLÄ. RAUHA. HYVÄ. ME. MYÖS. HALUAMME. RAUHAA.
+ILMAISKAA. RAUHAA. NYT. POISTUMALLA. MEIDÄN. AVARUUDESTAMME. VÄLITTÖMÄSTI. 
+
+#(know_any_jokes)
+Umgahien huumori on tunnettua läpi avaruuden, joten... tiedättekö yhtään hyviä vitsejä?!
+
+#(JOKE_1)	umgah-051.ogg
+VITSI. KYLLÄ. VITSI. TÄSSÄ. ON. VITSI.
+KUN. ON. ORJA. JA. EI. ORJA.
+VASTAUS.
+KUN. HÄN. ON ORJA. MESTARI.
+HAH.  HAH.  HAH.
+
+#(better_joke)
+Öh... tuo ei ollut kovin hauska. Ettekö pysty parempaan?
+
+#(JOKE_2)	umgah-052.ogg
+PAREMPI. VITSI. KYLLÄ. PAREMPI. VITSI. TÄSSÄ. SE. ON.
+MITÄ. SAAT. KUN. YHDISTÄT. DEUTERIUM. KUULAN. TERAWATTI. LASERIN.
+JA. PRIMITIIVISEN. MAAN. JOHTAJAN. AASIAN. TASANGOILTA.
+VASTAUS.
+KAANI. FUUSIO.
+HAH.  HAH.  HAH.
+
+#(not_very_funny)
+Argh! Tuokaan ei ollut kovin hyvä vitsi. Minusta te tyypit ette ole kovin hauskoja.
+
+#(YES_WE_ARE)	umgah-053.ogg
+UMGAHIT. OVAT. HAUSKOJA. ME. OLEMME. UMGAHEJA. ME. OLEMME. HAUSKOJA.
+EI. OLE. MUUTA. VAIHTOEHTOA.
+
+#(what_about_tpet)
+Kuinkas teillä menee sen Puhuvan Lemmikin kanssa?
+
+#(arilou_told_us)
+Arilout kertoivat meille, että he antoivat sen teille... he antoivat, eivätkös?
+
+#(bye_zombie)
+Näkemiin, umgahit. Toivoisin voivani sanoa, että hauskaa oli.
+
+#(GOODBYE_ZOMBIE)	umgah-054.ogg
+HYVÄSTI. IHMINEN. ÄLÄ. PALAA. IKINÄ.
+

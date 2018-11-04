@@ -1,0 +1,912 @@
+#(HOSTILE_SPACE_HELLO_1)	thraddash-000.ogg
+Jaaha, mikäs tämä on? SNRRK! Tuntematon muukalaislaji?
+Kuinka ihmeellistä! Joku uusi, jota vastaan taistella!
+Me, Kulttuuri Yhdeksäntoista thraddashit -- kuuluisia Ur-Quanien Taisteluorjia
+tunnemme mainiosti hyvän taistelun arvon.
+Joko voitat ja osoitat paremmuutesi...
+SNRRK! tai häviät ja sinut kukistetaan.
+Jos kukistettu on onnekas, se saattaa selvitä saadakseen tärkeän opetuksen häviöstään.
+Tämä on thraddashien tie! Me taistelemme ja opimme ja tulemme paremmiksi!
+Kaikki muut kulttuurijärjestelmät ovat huonompia. Tämä on todistettu fakta.
+Mitä sanottavaa sinulla on, ennen kuin aloitamme taistelun?
+
+#(HOSTILE_SPACE_HELLO_2)	thraddash-001.ogg
+SNRRK! Mitkä naurut! Olet vähiten taistelukelpoinen olento, jonka olen ikinä nähnyt komentavan avaruusalusta.
+Me olemme Kulttuuri Yhdeksäntoista, Ur-Quanien taisteluorjat.
+Ethän vain pakene. Haluamme olla lajinne uusia roolimalleja!
+Ikävä kyllä, tehdäksemme tämän, saatamme joutua ampumaan sinut atomiaineksiksesi.
+
+#(HOSTILE_SPACE_HELLO_3)	thraddash-002.ogg
+Huomio, heikot, rumat ihmiset tuon rypevän roskalotjan kannella, SNRRK!
+Ellette ole vielä surkeampia kuin uskomme, ja sitä on vaikea kuvitella
+tiedätte jo keitä olemme -- Kulttuuri Yhdeksäntoista thraddasheja.
+Me olemme Ur-Quanien alkuperäiset taisteluorjat, heidän eliittijoukkojensa kerma
+ohjaajianne elämän karuissa realiteeteissa.
+SNRRK! Nyt on seuraavan oppituntinne aika.
+
+#(HOSTILE_SPACE_HELLO_4)	thraddash-003.ogg
+Alempiarvoiset Muukalaiset. Olette jälleen kerran tunkeutuneet thraddashien alueelle.
+Tämä on vartioitu avaruusalue. Läsnäoloanne täällä pidetään Sotatoimena!
+Kuinka ihmeellistä!
+
+#(HOSTILE_HOMEWORLD_HELLO_1)	thraddash-004.ogg
+HA! Katsokaas typerää, heikkoa muukalaista, joka on ilmestynyt tänne kotimaailmaamme!
+Mitä oikein haluat, olento? Ystävyyttämme? Alistumistamme?!
+HARG! HARG! HARG!
+Typerä, hölmö rääpäle! Meillä, thraddashien Imperiumin Yhdeksännellätoista Kulttuurilla
+on täällä valtava laivasto aluksia, joilla läksyttää sinua!
+Hyökkäämme sinua vastaan mielellämme -- itse asiassa meitä vaaditaan tekemään niin
+koska olemme Ur-Quanien orjia, ja sinä olet selvästikin itsenäinen.
+Mutta tiedä tämä! SNRRK! Kuuntele tarkkaan!
+Vaikka onkin totta, että pidämme lukua aluksista, jotka tuhoat
+pidämme kotimaailmaamme hyökkäämistä NIIN käsittämättömän typeränä
+että kaikki voitot, jotka täällä saatat saada puhtaalla onnenkantamoisella
+niitä EI TULLA LISÄÄMÄÄN henkilökohtaiseen voittotiliisi!
+No niin, mitä tahdot meiltä ennen kuin hyökkäämme?
+
+#(HOSTILE_HOMEWORLD_HELLO_2)	thraddash-005.ogg
+Huomio, pelkurimainen muukalaisihmisolento!
+Pakenit opetusistunnoltamme, SNRRK! Mutta tällä kertaa asiat ovat toisin.
+Me, Kulttuuri Yhdeksäntoista Ur-Quan-orjat,
+olemme aloittaneet pitkän linjan asevarustelun, joka takaa että me voitamme!
+Jos tahdotte vain laskea tappoja, hakeutukaa avaruudessa olevien alustemme luo.
+Noh, haluatteko puhua, vai aletaanko ampua heti?
+
+#(HOSTILE_HOMEWORLD_HELLO_3)	thraddash-006.ogg
+Minä olen Korgk, Kulttuuri Yhdeksäntoista taisteluorjien esimies.
+Sinua ehkä kiinnostaa tietää, että mallin ZK-53 tietokoneemme
+on arvioinyt sinulla olevan häviävän pieni 1,6% mahdollisuus
+selviytyä taistelusta kotimaailmamme vartiolaivaston kanssa.
+Testaammeko tätä väitettä?
+
+#(HOSTILE_HOMEWORLD_HELLO_4)	thraddash-007.ogg
+Järjettömät Muukalaiset! Ettekö ikinä opi, että on hyödytöntä
+yrittää valloittaa kotimaailmaamme suoralla hyökkäyksellä?
+Se on mahdotonta! SNRRK! Me thraddashit käristämme kinttunne.
+Käristyneitä ruumiitanne tullaan käyttämään ruokamaidemme lannoittamiseen.
+Suuri taistelu, joka johtaa thraddashien loistokkaaseen voittoon, odottaa sinua täällä!
+
+#(whats_up_hostile_1)
+Kulttuurin Yhdeksäntoista thraddashit: vaistoamme vihamielisyyttä täällä. Miksi?
+
+#(whats_up_hostile_2)
+Mikä on tehnyt teidät tällaisiksi? Miksi olette niin brutaaleja?
+
+#(GENERAL_INFO_HOSTILE_1)	thraddash-008.ogg
+Vihamielisyyttä!
+HARG! HARG! HARG!
+Me emme ole `vihamielisiä'. Vihamielisyys on epäoikeutettua aggressiota! SNRRK! 
+Jos tahdot tietää vihamielisyydestä, salli meidän kertoa sinulle Kulttuuri Kahdestatoista!
+Kulttuuri Kaksitoista oli NIIN vihamielinen, että kun he valmistautuivat ensimmäiseen suureen taisteluunsa
+Jugkah, taistelumestari, astui Gnusko taktikon jalalle, aiheuttaen hänelle suurta tuskaa.
+Vihastunut Gnusko kääntyi taistelumestarinsa, Jugkahin, puoleen ja leikkasi hänen ruumiinsa kahtia!
+Tämä harmistutti Jugkahin sotilaita, jotka ottivat tehtäväkseen murhata Gnusko ja hänen eliittijoukkonsa.
+TODELLISET ongelmat alkoivat, kun nyt kuolleen Jugkahin suurkersantit Muuhd ja Pudt
+alkoivat kiistellä siitä, kuinka tappaa Gnusko -- pelkkä ristiinnaulitseminen vaiko hitaampi `Lyijytatuointi' -tekniikka.
+Kiista saatiin ratkaistua, kun Pudt ja hänen joukkonsa teurastivat Muuhdin ja hänen viisisataa sotilastaan.
+No, tämä olisi todennäköisesti mennyt historiankirjoihin suurena oppimisen päivänä Kulttuuri Kahdelletoista
+elleivät Kulttuuri Kahdentoista alkuperäiset viholliset, Yajag ja hänen kaverinsa, olisi ilmestyneet yllättäen
+ja pyyhkineet Kulttuuri Kahdentoista armeijan maankamaralta, aloittaen näin pitkän ja loistokkaan Kulttuuri Kolmentoista.
+SNRRK! TUO on vihamielisyyttä!
+Mitä meihin tulee, me vain haluamme tappaa teidät.
+
+#(GENERAL_INFO_HOSTILE_2)	thraddash-009.ogg
+Brutaaleja!? Te ette tiedä brutaaliuden MERKITYSTÄ, ellette ole kuulleet Kulttuuri Kolmen tarinaa!
+Kuinka brutaali Kulttuuri Kolme OLI, te kysytte?
+Kulttuuri Kolme oli NIIN brutaali, että he silpoivat, kiduttivat, orjuuttivat ja yleensä ottaen brutalisoivat
+ITSEÄÄN!
+Ymmärräthän, Kulttuuri Kaksi oli tehnyt stooisesta kivun vastustamisesta, itsepäisestä rohkeudesta ja sellaisesta hyveen.
+Joten, kun Kulttuuri Kolme tuli kuvioihin, heillä oli ongelma.
+Kuinka he voisivat tehdä vaikutuksen kaikkiin olemalla VIELÄ KOVEMPIA?
+Heidän vastauksensa? He saapuivat taisteluun, seisoivat korkealla kukkulalla, mistä kaikki näkivät heidät
+ja leikkasivat itseltään irti raajan! Sitten he heiluttivat sitä, huutaen ja huitoen sillä vihollisiaan.
+Se toimi! Se pelotti paskat housuun heidän vihollisiltaan! He pakenivat hulluina!
+Siihen aikaan sen, kuka oli todellinen sotasankari, pystyi erottamaan siitä montako kättä tai jalkaa heillä oli jäljellä.
+Sotaparaatitkin olivat erilaisia. Sen sijaan, että vantterat vanhat soturit olisivat kävelleet hitaasti tarkastuskorokkeiden ohi
+heillä oli tapana kieriä, ja vieläpä hyvällä vauhdilla.
+Sinulle, alempiarvoiselle muukalaiselle, tämä voi vaikuttaa karkean typerältä -- sairaan, primitiivisen yhteisön tuotteelta.
+SNRRK! Et voisi olla enempää oikeassa!
+Kulttuuri Kolme oli, kuten hyvin ymmärrät, vasta kolmas thraddashien Kulttuuri
+ja näin ollen kaukana siitä karkaistusta täydellisyydestä, jonka olet tavannut täällä ja nyt.
+
+#(GENERAL_INFO_HOSTILE_3)	thraddash-010.ogg
+EI! Emme enää vastaa typeriin kysymyksiisi!
+Sen sijaan sinä vastaat MEIDÄN kysymyksiimme, kuten
+kuka on vastuussa noista raivotautisista punaisista luotaimista, jotka hyökkäilevät alustemme kimppuun?
+Ovatko nämä laitteet teidän kuoleman robottilähettiläitänne? Hmm?
+Ei! Älä vastaa, näen sen silmistäsi. Olet antanut kaiken ilmi! SNRRK! Nyt tiedän totuuden.
+Ainoa asia, joka hämmentää minua, on MIKSI luotaimet lähestyvät Vegan suunnasta?
+
+#(GENERAL_INFO_HOSTILE_4)	thraddash-011.ogg
+Keskustellaanpa taas luotaimista!
+Löysimme yhden kiertämästä outoa planeettaa Epsilon Draconiksen järjestelmässä.
+Planeetta saa skannerimme epäkuntoon ja tuottamaan villin värikkään kuvan.
+Luotain näytti tutkivan sitä. Onko se totta?
+PUHU, IHMINEN! PALJASTA TOTUUS! TUNNUSTA RIKOKSESI!
+No, jos et suostu yhteistyöhön
+joudumme puristamaan sinusta tiedot ulos tuskallisemmilla tavoilla.
+
+#(what_about_you_1)
+Mitä voitte kertoa meille lajistanne?
+
+#(ABOUT_US_1)	thraddash-012.ogg
+Puhetta! Plääh, puhe on nynnyille, rääpäleille niin kuin Kulttuuri Neljässätoista.
+Kymmenen tuhannen vuoden ajan me thraddashit olemme taistelleet ja kuolleet, oppineet ja tulleet paremmiksi.
+Sitten kuvioihin tuli Kulttuuri Neljätoista, joka väitti, että kaikki tämä -- tämä täydellinen metodi...
+...oli väärin! -- että jokaisella kerralla, kun muutuimme verisesti uudeksi Kulttuuriksi
+rajäytimme itsemme väistämättä ainakin viisisataa vuotta taaksepäin kehityksessä.
+Hmph! Jotkut eivät vain pysty hyväksymään edistyksen hintaa.
+Kulttuuri Neljäntoista rauhanomaisen vinkumisen JÄRJETTÖMYYS tosiaankin paljastui
+kun Kulttuuri Viisitoista valloitti heidät vain kymmenen vuoden hallitusajan jälkeen.
+Ja veikö muutos Kulttuuriin Viisitoista meidät viisisataa vuotta taaksepäin?
+EI! SNRRK!
+Kaksi, ehkä kolmesataa vuotta, enintään.
+Kulttuuri Neljäntoista hallituskauden lyhyt kesto on objektiivinen todiste, että elämäntapana
+rauha on epäonnistunut.
+
+#(what_about_you_2)
+Noin väkivaltaisia, Sarvikuonoheput! Mitä muuta voitte kertoa meille Kulttuuristanne Yhdeksäntoista?
+
+#(ABOUT_US_2)	thraddash-013.ogg
+Mitä!?! SNRRK! LISÄÄ puhetta?
+Olen hämmästynyt, että pääsitte ikinä edes pois kotiplaneettanne kiertoradalta!
+Jäk! Jäk! Jäk! -- Yäääh! Yäääh! Yäääh!
+Huoh... olkoon, me puhumme... hetken ajan.
+Kulttuurimme Yhdeksäntoista on mahtavin, joka on koskaan ollut thraddashien avaruudessa.
+Myönnetään, sanoimme jotain samantapaista Kulttuurista Kahdeksantoista, MUTTA SE ON TOTTA!
+Jouduttuamme varsin pikaisesti Ur-Quanien voittamaksi ja orjuuttamaksi
+tajusimme, että oli muutoksen aika! Uusi Kulttuuri piti perustaa!
+Me siis tietenkin aloitimme lämpöydinohjusten vaihdon päättääksemme kuka johtaisi tätä uutta kulttuuria.
+Me kaikki olimme aika pettyneitä kun Ur-Quanit kiertoradalla kotimaailmamme yllä
+laukoivat aalloittain hävittäjiä, jotka pysäyttivät kaikki ohjuksemme.
+Ur-Quanit selittivät, ettei orjien sallittu ryhtyä tällaisiin tuhoisiin konflikteihin
+joten väkeni, ollen ylempiarvoisia, tuotti supertappavaa myrkkyä vastustajiemme veteen ja ilmaan
+lopettaen näin konfliktin, HARG! HARG! HARG!
+Ur-Quanit eivät olleet erityisen iloisia tästä päätöksestä, ja tappoivat kaikki johtajamme
+joka toisissa olosuhteissa olisi aloittanut suuremman thraddashien välisen sodan
+mutta Ur-Quanit määräsivät uudet johtajat, jotka ilmeisesti valittiin sattumanvaraisesti
+ja selittivät, että tottelemattomuuden jatkuminen johtaisi lajimme tuhoutumiseen.
+Turhauttavaa, eikö?
+
+#(what_about_urquan_1)
+Mainitsit Ur-Quanit. Mikä on teidän suhteenne heihin?
+
+#(ABOUT_URQUAN_1)	thraddash-014.ogg
+Typerä kysymys! Me olemme heidän orjiaan, tolvana! Mitä muutakaan me olisimme?
+Kun Ur-Quanit ilmestyivät avaruuteemme ensimmäisen kerran yli viisikymmentä vuotta sitten
+tullen Ophiuchin tähtien suunnasta
+hyökkäsimme heitä vastaan nautinnolla, suihkien lähemmäs ampuaksemme Mallin 6 Tykeillämme
+ja sitten, teoreettisesti, suhahtaaksemme takaisin valmistautuaksemme uuteen hyökkäykseen.
+SNRRK! Ikävä kyllä, ennen kuin saatoimme suihkia takaisin
+aluksemme olivat joko räjähtäneet palasiksi Ur-Quanien fuusioammusten osuttua niihin
+tai joutuneet Ur-Quanien hävittäjäalusten parvien pilkkomiksi.
+Saatat ihmetellä miksemme käyttäneet jälkipolttimiamme paetaksemme. Vastaus on yksinkertainen.
+Viisikymmentä vuotta sitten aluksiamme ei oltu viritetty käyttämään tätä laitetta!
+Vasta vuonna 2143 Huoltoinsinööri Reeunk keksi jälkipoltinvaikutuksen
+kun hän pisti vahingossa sikarinsa aluksen, jonka kimpussa hän työskenteli, takapolttoaineventtiiliin.
+WHABOOM!!! Alus lähti lentoon kuin farg helvetistä, ja Reeunk käristyi rapeaksi.
+Niin, muistamme Reeunkia suurella lämmöllä. Olemme tietenkin jalostaneet laitetta
+ja nyt kun koko laivastomme on varustettu Reeunkin Jälkipolttimilla
+ehkäpä Ur-Quanit NYT antavat meidän taistella vieressään TODELLISINA taisteluorjina.
+
+#(what_about_urquan_2)
+Miksette taistelleet Allianssia vastaan, ja missä OVAT Ur-Quanit?
+
+#(ABOUT_URQUAN_2)	thraddash-015.ogg
+Me tahdoimme, OI kuinka me tahdoimmekaan!
+Mehän olimme kuitenkin ensimmäisiä taisteluorjia, jotka Ur-Quanit orjuuttivat tässä avaruuden kolkassa
+luulimme olevamme etusijalla!...
+mutta Ur-Quanit arvelivat meidän olevan liian heikkoja selviytymään tulevissa taisteluissa
+joten he jättivät meidät tänne... vartioimaan selustaa.
+Jos vain olisimme olleet UIIII! vahvempia ja vähemmän... SNARF! ongelmallisia.
+Toinen syy miksi Ur-Quanit eivät ottaneet meitä mukaansa
+oli koska meillä oli tapana tapella uusien taisteluorjien kanssa
+kuten Umgah-möykkyjen, tai niiden uskonnollisten idioottien, ilwrathien.
+Minnekö he menivät, kysyt? Tämä on salaisuus, tietenkin! Emme voi kertoa sinulle!
+Jos sanoisimme sinulle, että he taistelevat salaista sotaa mystistä hyökkääjää vastaan
+saattaisit löytää jonkin tavan käyttää tätä tietoa isäntiämme vastaan.
+Siispä unohda se! Ei salaisuuksia!
+
+#(got_idea)
+Hei, minulla on idea! Miksette mene tekemään vaikutusta Ur-Quan-isäntiinne JA esittelemään Jälkipoltinviritystänne hyökkäämällä Ur-Quanien vihollisia vastaan!?
+
+#(GOOD_IDEA)	thraddash-016.ogg
+MITÄ MIELETÖNTÄ TYPERYYTTÄ! HARG! HARG! HARG!
+TUOHAN ON YHTÄ TYHMÄ IDEA KUIN  -- mitä sanoitkaan?
+Hyökätä Ur-quanien vihollisten kimppuun? Auttaa heitä sodassaan?
+Mutta sehän on... sehän on... SEHÄN ON ERINOMAINEN IDEA!
+Olen iloinen, että keksin sen!
+Kokoamme joukkomme ja lähdemme välittömästi!
+Typerä, surkuteltava ihmisrääpälekoira, olet ollut avuksi, joten palkintona
+saat lähteä elossa, ja kun palaamme loistokkaalta kampanjaltamme
+saatamme jopa kunnioittaa sinua kertomalla niistä monista suurista taisteluista, jotka tulemme varmasti voittamaan.
+Ennen sitä, pysy poissa.
+
+#(WE_GO_TO_IMPRESS_URQUAN_1)	thraddash-017.ogg
+Ur-Quanit tulevat olevaan suuresti vaikuttuneita urhoolisuudestamme taistelussa
+kun ammumme heidän vihollisensa avaruudesta!
+Rakennamme hyökkäysraivoa! Pysy poissa tieltämme!
+
+#(WE_GO_TO_IMPRESS_URQUAN_2)	thraddash-018.ogg
+Yksilölliset taitomme, paremmat taistelualuksemme
+ja objektiivisesti oikeat poliittiset näkemyksemme
+tulevat varmasti tekemään suuren vaikutuksen Ur-Quan-isäntiimme!
+Aseisiin! SNRRK! Aseisiin!
+
+#(WE_IMPRESSING_URQUAN_1)	thraddash-019.ogg
+Oi! Ne Aseet!! Nuo puhtaan energian tuhoavat vasamat! SNRRK!
+Pimeät alukset -- Ur-Quanien viholliset, ne kumartavat korkeamman teknologiamme edessä!
+Ne sairaat, armottomat sydäntäjyskyttävän tuhovoiman pyörät
+eivät ole muuta häiriö!
+Oi, kyllä! Olen varma, että osoitamme Ur-Quaneille
+verrattoman Kulttuuri Yhdeksäntoista arvollisuutta!
+
+#(WE_IMPRESSING_URQUAN_2)	thraddash-020.ogg
+Odotamme menestystä!
+Tie on haastava, mutta Turbokaasuttimemme ovat 200 %:ssa ja aseemme ovat valmiina!
+Olemme käyneet mustia aluksia vastaan ja saavuttaneet voiton!
+Ur-Quanit tietävät, että olemme täällä! SNRRK! He näkevät urhoollisuutemme!...
+...ikävä kyllä, he näyttävät myös hyökkäävän kimppuumme.
+Olemme yrittäneet saada kontaktin heihin tavallisilla hyperaaltotaajuusalueilla, mutta hyödyttä.
+Siitä huolimatta, olen yhä varma että teemme heihin SUUREN vaikutuksen!
+
+#(WE_IMPRESSED_URQUAN_1)	thraddash-021.ogg
+Suuret liekkinauhat! SNRRK! Ampumisemme tarkkuus!
+Tapoimme TUHANSIA... no, ainakin SATOJA!
+Se oli ihmeellistä! Se oli houreellista!
+Niillä harvoilla meistä, jotka selviytyivät, on tarinoita kerrottavaksi vuosikausiksi.
+Olimme verrattomia! SNRRK! Ne horjuivat ja vapisivat nähdessään meidän tulevan!
+Ne pelkäsivät meitä niin, että jähmettyivät niille sijoilleen.
+Niin peloissaan ne olivat!
+Ah, mitä taistelua! SNRRK! Vastaavaa emme näe aikoihin!
+
+#(WE_IMPRESSED_URQUAN_2)	thraddash-022.ogg
+Oi Kyllä! Olemme tehneet mahtavan vaikutuksen Ur-Quaneihin!
+Tuhosimme muutamia heidän vihollistensa pelättyjä mustia aluksia
+ja vaurioitimme useita muita vakavasti.
+Menetyksemme? No joo, olihan niitä jokunen.
+Mutta olemme silti yhäkin hyvin vahvoja!
+Älä erehdy sen suhteen!
+
+#(HOSTILE_HELIX_HELLO_1)	thraddash-023.ogg
+VAROITUS! Olet saapunut thraddashien Turvattuun avaruuteen!
+Täällä ei ole mitään arvokasta!
+Mene pois!
+
+#(HOSTILE_HELIX_HELLO_2)	thraddash-024.ogg
+Kaikotkaa, Typerät ja Rumat!
+SNARL!
+Lähtekää, ennen kuin tulemme vartioasemiltamme ja we break from our guard posts and give you a good Thraddashing!
+
+#(submit_1)
+Mahtailunne ei tee minuun vaikutusta. Meillä on vaatimuksia jotka te täytätte, NYT!
+
+#(NO_SUBMIT_1)	thraddash-025.ogg
+Hunh?
+Hnyarg?!
+MITÄ?!
+SNARL! MITÄ SANOIT?!!!
+Typerä, surkea, pienipäinen olento
+ME TUHOAAMME SINUUUT JA KAIKKI ALUKSELLASI!!
+
+#(submit_2)
+Minulla on todella voimakkaita salaisia aseita. Antautukaa tai höyrystän planeettanne.
+
+#(NO_SUBMIT_2)	thraddash-026.ogg
+HARG! HARG! HARG!
+Me pidämme salaisista aseista!
+Annamme sinulle nyt mahdollisuuden antaa ne meille.
+
+#(be_friends_1)
+Emme tahdo teiltä mitään, paitsi ystävyytenne.
+
+#(NO_FRIENDS_1)	thraddash-027.ogg
+Ehkä sitten kun olemme tehneet teistä orjiamme, me voimme kuunnella toivomuksianne.
+Siihen saakka...
+
+#(be_friends_2)
+Te olette vahvoja! Me pidetään vahvoista! Me olla ystäviä, nyt, okei?
+
+#(NO_FRIENDS_2)	thraddash-028.ogg
+Me olemme vahvoja. Te olette heikkoja. Ja HARG! HARG!...
+me VIHAAMME heikkoja.
+Emme tarvitse heikkoja ystäviä! Haluamme vain orjia ja opettajia.
+Koska teillä ei ole mitään opetettavaa meille ja kieltäydytte olemasta orjiamme
+olette sitten vihollisiamme.
+Tällaisen logiikan täytyy olla päivänselvää jopa sinun kaltaisellesi typerälle olennolle.
+
+#(how_impressed_urquan_1)
+Kuinkas vaikutuksen tekeminen Ur-Quaneihin meni?
+
+#(IMPRESSED_LIKE_SO_1)	thraddash-029.ogg
+Se oli loistokasta, todella loistokasta!... suurimmalta osalta.
+Se olisi ollut täysin loistokasta ellei olisi ollut kahta tekijää.
+Tekijä Yksi: menetimme yli puolet taistelulaivastostamme kaksiviikkoisen nujakan aikana.
+Tekijä Kaksi: vain 60 prosenttia menetyksistämme johtui Ur-Quanien vihollisista, mustista aluksista.
+SNRRK! Loput 40 prosenttia voidaan laskea Ur-Quanien itsensä syyksi.
+Voimme olla varmoja, että teimme heihin vaikutuksen ainakin yhdellä saavutuksella
+kiitos Jälkipoltinmodifikaatioiden, olimme heille hieman vaikeampia tapettavia
+kuin silloin kun he valloittivat meidät ensimmäistä kertaa.
+
+#(how_impressed_urquan_2)
+Kuvailisitko Ur-Quanien vihollisten aluksia?
+
+#(IMPRESSED_LIKE_SO_2)	thraddash-030.ogg
+Ne olivat mustia kuin avaruus itse, rungoissaan vain hetkittäinen kiilto niiden kääntyessä tulittamaan.
+Niiden aseet olivat äärimmäinen primitiivisiä, eivät muuta kuin vinhasti kieppuvia tiheän metallin kiekkoja
+ja silti ne läpäisivät puolustusseulamme ja aiheuttivat hirvittävää vauriota
+pelkällä suunnattomalla kineettisellä energiallaan.
+Mustien alusten salainen ase on niiden tulirengas
+joka on HYVIN tehokas lähietäisyydellä.
+Hei! Odotas hetki! Miksi minä oikein vastailen kysymyksiisi?
+Heiveröinen ihminen, aikasi on melkein lopussa. Valmistaudu häviöösi!
+
+#(bye_hostile_1)
+Lähdemme rauhassa.
+
+#(GOODBYE_HOSTILE_1)	thraddash-031.ogg
+Mitä? Lähdet juuri oppitunnin alkamista? Meillä on niin paljon opetettavaa sinulle!
+Salli meidän näyttää sinulle vain yksi juttu, sitä kutsutaan `Yllätyshyökkäykseksi'.
+
+#(bye_hostile_2)
+Luulenpa, että me vain lähdemme nyt.
+
+#(GOODBYE_HOSTILE_2)	thraddash-032.ogg
+Sittenpä minä luulen, että me vain hyökkäämme kimppuunne nyt.
+
+#(why_you_here_hostile)
+Selittäkää läsnäolonne täälle, thraddashit.
+
+#(NONE_OF_YOUR_CONCERN)	thraddash-033.ogg
+Se ei sinulle kuulu, ihminen, SNRRK!
+Nyt jätä tämä maailma, ennen kuin suutumme TOSISSAMME!
+
+#(demand_to_land)
+Mitä te piilottelette täällä? Vaadin saada laskeutua!
+
+#(NO_DEMAND)	thraddash-034.ogg
+Sinähän et vaatimuksia tee, typerä ihmiskapteenikoira!
+Sen sijaan sinä kuolet!
+
+#(what_about_this_world)
+Mikä tässä maailmassa on niin erityistä? Miksi kaikki vartijat?
+
+#(BLUE_HELIX)	thraddash-035.ogg
+Hyvä on, koska meillä on valtava määrä aluksia täällä
+luulen, ettei tämän selittäminen sinulle voi aiheuttaa vahinkoa
+OLETTAEN, ETTÄ HÄIVYT KUN OLEMME KÄYNEET TÄMÄN LÄPI!
+Kuuntele siis tarkkaan.
+Alapuolellamme
+tämän planeetan pinnalla
+Funtin synkällä mantereella
+korkealla vuorella
+muinaisessä pyhäkössä
+leväten erityisessä seremoniakehdossa
+hehkuen maagista sinistä valoaan, on
+EI! Muutin mieltäni! Et saa tietää vastausta.
+Sori.
+
+#(whats_helix_hostile)
+Ääh, plääh. Sano nyt. Tuo oli EPÄREILUA!
+
+#(HELIX_IS_HOSTILE)	thraddash-036.ogg
+Okei, okei. Luulen, että olet oikeassa, se oli vähän julmaa. Minä kerron sinulle.
+Katsotaanpas, missäs olinkaan? Ai, niin
+Funtin synkällä mantereella
+korkealla vuorella
+muinaisessä pyhäkössä
+leväten erityisessä seremoniakehdossa
+hehkuen maagista sinistä valoaan, on
+AKVAKIERUKKA!
+...Kaikista thraddashien pyhäinjäännöksistä palvotuin
+kaikkien Kulttuurien herruuden merkki.
+
+#(i_need_to_land_lie)
+Ööh... jätin jotain tärkeää pinnalle viime viikolla. Voinko mennä pinnalle hakemaan sen?
+
+#(CAUGHT_LIE)	thraddash-037.ogg
+Okei. Siitä vain.
+Hei, ODOTAS HETKINEN!
+Havittelet muinaisinta ja tärkeintä muinaisjäännettämme, VAI MITÄ?
+Aioit varastaa sen, ETKÖ AIKONUTKIN? SNARL!
+Olet luihu ja petollinen, aivan kuin ne katalat Kulttuuri Kuudentoista heput!
+Kärsit saman kohtalon heidän kanssaan -- UNOHDUKSEN!
+
+#(bye_hostile_helix)
+Olemme päättäneet lähteä. Hyvästi.
+
+#(GOODBYE_HOSTILE_HELIX)	thraddash-038.ogg
+Jos kiirehditte, emme tapa teitä. Hyvästi.
+
+#(DIE_THIEF_1)	thraddash-039.ogg
+Sinähän se olet! Varas! Hiiviskelevä pikku ihmisjyrsijä!
+SNRRK! Meidän ei olisi pitänyt jättää Akvakierukan Planeettaa vartiotta!
+Olet osoittanut meille heikkouden itsessämme, ja tästä me kiitämme sinua.
+Mutta tahdomme Kierukan takaisin, ja koska epäilen, ettet anna sitä vapaaehtoisesti
+SNRRK! Niele Liekehtivää Kuolemaa, Senkin Lokaa Imevä Sika!
+
+#(DIE_THIEF_2)	thraddash-040.ogg
+Ohoi, typerä ihminen. Olet röyhkeä ja naurettava!
+Otit ihmeellisen, muinaisen, pyhän Akvakierukkamme, ja kieltäydyt palauttamasta sitä!
+Tämä saa meidät raivoihimme, ÄÄRETTÖMÄN raivostuneiksi!
+Valmistaudu kohtaamaan Tuhosi, Muukalaisvaras!
+
+#(AMAZING_PERFORMANCE)	thraddash-041.ogg
+Ihailtavaa! Ihailtavaa! Emme ole ikinä todistaneet näin verrattomia taistelukykyjä!
+Olet tuhonnut niin monia meistä! Nöyrrymme edessäsi!
+Luulimme sinua rääpäleeksi, pelkuriksi, surkeaksi vetisteleväksi nynnyksi.
+Olimme väärässä, niin väärässä! UIIII!
+Olette osoittaneet olevanne parempia kuin me itse, ja jopa Ur-Quanit!
+Tahdomme oppia teiltä ja näin jalostaa Kulttuuriamme.
+Anna meille viisautesi, mahtava Opettaja! Mikä on menestyksesi salaisuus?
+Odota! Keksin sen! Se on se tapa, jolla vastaat tervehdyskutsuihimme joka kerta kun tapaamme!
+Niin kuin sanotaan, ensivaikutelmat ovat NIIN tärkeitä!
+Pyydän siis, kerro meille! Kerro meille, kuinka meidän tulisi esitellä itsemme.
+
+#(IMPRESSIVE_PERFORMANCE)	thraddash-042.ogg
+Jaa, ihmisillä on sittenkin vähän selkärankaa, mutta ei niin paljon kuin Ur-Quaneilla.
+Ihmisalus on heikko kakkonen verrattuna Ur-Quanien Taistelulaivaan.
+Aseillanne ei ole Ur-Quanien fuusioammusten tappotehoa.
+SNRRK! Ur-Quanit ovat yhä teitä parempia.
+
+#(ADEQUATE_PERFORMANCE)	thraddash-043.ogg
+Ehkä ihmiset osaavat sittenkin taistella, jos raporttimme ovat tarkkoja.
+Testaamme tätä hypoteesi elämän laboratoriossa -- LOISTELIAASSA TAISTELUSSA!
+Heiveröisestä ja puutteellisesta aseistuksestanne ei ole vastusta thraddashien Mallin 6 Plasmatykille
+4 Megawatin energialatauksineen.
+Eikä hitaita, turpeita putkianne voi verrata Salamaturbokiihdytettyihin sota-aluksiimme!
+Meillä ei ole mitään pelättävää!
+
+#(HELLO_POLITE_1)	thraddash-044.ogg
+Hei ja hyvää päivää! Kuinka voitte tänään?
+Me voimme mainiosti, kiitos kysymästä! Voivatko puolisonne ja jälkikasvunne hyvin?
+Voi kuinka ihmeellistä!
+
+#(HELLO_POLITE_2)	thraddash-045.ogg
+Me olemme kohteliaat ja huomaavaiset thraddashit!
+Tervehdimme teitä kaikilla asiaankuuluvilla onnitteluilla.
+
+#(HELLO_POLITE_3)	thraddash-046.ogg
+Mitä oppineimmat tervehdyksemme teille.
+Kuten aina, ryhdymme mitä mieluimmin merkitykselliseen kanssakäymiseen ylevän persoonanne kanssa.
+
+#(HELLO_POLITE_4)	thraddash-047.ogg
+Tervehdys ja ylistys! Uskomme, että teillä on kaikki hyvin
+ja että olonne täällä tulee olemaan miellyttävä ja hyödyllinen.
+
+#(HELLO_RHYME_1)	thraddash-048.ogg
+Me olemme riimittelevät hemmot
+Rimmaa risiini kun on sil' parinaan appelsiini
+Vaikka avaruus on paikka
+tähdet kiertoradoillaan
+eivät saavuta hevosia kavioillaan?
+SNRRK! Tämä on vaikeaa!
+
+#(HELLO_RHYME_2)	thraddash-049.ogg
+Veri on punaista, mustelmat ovat sinisiä
+Kun muukalaiset tulevat tänne, me tehdään niistä !
+HARG! HARG! HARG!
+Hyvä, vai mitä?
+
+#(HELLO_RHYME_3)	thraddash-050.ogg
+Olipa kerran thraddash nimeltään Mak-Ronia
+jonka alus oli täyttä romua
+Hän katosi Apodiksessa
+ja kuoli Draconiksessa
+koska hän söi vain pötyä!
+HARG! HARG! HARG!
+
+#(HELLO_RHYME_4)	thraddash-051.ogg
+Jatkuvasti liikkeessä ovat
+avaruus, tähdet, aika
+SNRRK!
+muoto, ei tarkoitus
+tapaa kuolemassa
+muistetaan.
+
+#(HELLO_PIG_LATIN_1)	thraddash-052.ogg
+Silemme oansaksaa thrahuvat puddashit!!! Snrrk!
+
+#(HELLO_PIG_LATIN_2)	thraddash-053.ogg
+Huistelun taamaa! Rohmotonta arkeutta! Sihumme puansaksaa!
+Me suulemme oria syistä näistä!
+
+#(HELLO_PIG_LATIN_3)	thraddash-054.ogg
+Ihve, terminen! Tarvetuloa tekaisin! Olemme odottaneet inua sinnolla.
+
+#(HELLO_PIG_LATIN_4)	thraddash-055.ogg
+Kusoitamme onnioitustamme orelle suupettajallemme!
+
+#(HELLO_LIKE_YOU_1)	thraddash-056.ogg
+Tämä on Grah, tähtilaivasta Kuumat Sykkivät Moottorit.
+
+#(HELLO_LIKE_YOU_2)	thraddash-057.ogg
+Tervehdys! Olen Kapteeni Chudd ja komennan Kunnian Liekehtiviä Tykkejä!
+
+#(HELLO_LIKE_YOU_3)	thraddash-058.ogg
+Huomio! Tämä on tähtilaiva Musertaja.
+
+#(HELLO_LIKE_YOU_4)	thraddash-059.ogg
+Olen komentaja Dthunk.
+
+#(WELCOME_SPACE0)	thraddash-060.ogg
+Me, 
+#(WELCOME_SPACE1)	thraddash-061.ogg
+ olemme iloisia tavatessamme sinut täällä avaruudessa, oi viisas Opettaja Maasta!
+
+#(WELCOME_HOMEWORLD0)	thraddash-062.ogg
+Läsnäolosi täällä kotimaailmassamme täyttää meidät kaikki 
+#(WELCOME_HOMEWORLD1)	thraddash-063.ogg
+ kunnioituksella. Olemme kunnioitettuja, viisas ihminen.
+
+#(WELCOME_HELIX0)	thraddash-064.ogg
+Hoo-ho-HO! Supervahva ihminen on palannut tälle, kaikkein tärkeimmälle planeetallemme.
+Me, 
+#(WELCOME_HELIX1)	thraddash-065.ogg
+, toivotamme sinut tervetulleeksi.
+
+#(why_you_here_ally)
+Mikä tässä planeetassa on niin erikoista?
+
+#(GUARDING_HELIX_ALLY)	thraddash-066.ogg
+Olemme täällä kiertoradalla vartioimassa kaikkein arvokkainta muinaisjäännöstämme, sitä jota me pidämme rakkaimpana
+sitä joka on ollut kaikkien Kulttuuriemme sydämessä
+(paitsi Kulttuuri Yhdeksän, ja heitä ei oikeastaan lasketa mukaan)
+Vartioimme esinettä, joka ylittää kuolevaiset valtakunnat
+Akvakierukkaa!
+
+#(whats_helix_ally)
+Niin mitä tästä `Akvakierukka' -kapineesta? Tekeekö se mitään temppuja?
+
+#(HELIX_IS_ALLY)	thraddash-067.ogg
+Akvakierukka on arvokkain muinaisjäännöksemme.
+Koko historiallisen muistimme ajan Kierukka on ollut kanssamme.
+se ohjaa, motivoi ja palkitsee. Se on se vääntynyt kapistus joka laukaisi tuhat avaruuslaivaa!
+Se on se pyhäinjäännös, jota kaikki kulttuurimme ovat pitäneet kaikkein... aijuu, minähän sanoinkin sen jo.
+Tiedämme että Akvakierukka on mahtava
+enimmäkseen siksi, että kaikki edelliset yhdeksäntoista kulttuuriamme ovat tienneet sen olevan totta!
+Jos Akvakierukka ei olisi mitään erikoista
+MIKSI me kuluttaisimme niin paljon verta ja kiihkoa pikku kapistuksen vuoksi?
+Se olisi kolossaalista tuhlausta! Mielipuolinen irvikuva!...
+...oikeastaan, tämä on paljolti mitä Kulttuuri Yhdeksän sanoi
+kahden viikon valtakautensa aikana ennen kuin Kulttuuri Kymmenen hävitti heidät.
+Oli miten oli, me pysymme vakaumuksessamme!...
+...me olemme thraddasheja ja kaikki thraddashit tietävät Akvakierukan merkityksellisyyden.
+Näin ollen, Akvakierukka ON suuri! Asia on ratkaistu.
+
+#(may_i_land)
+Tuo kuulostaa tosi siistiltä! Ette kai pistä pahaksenne jos menen alas ja vähän vilkaisen sitä, ettehän?
+
+#(SURE_LAND)	thraddash-068.ogg
+Mutta tottahan toki, mene vain ja laskeudu planeetallemme ja katso kaikista reliikeistämme arvokkainta
+muinaisjäännöstä, jota pidämme kaikkein rakkaimpana, kuten kaikki muutkin Kulttuurimme ovat...
+
+#(whats_up_ally)
+Onko ollut mitään kehitystä josta minun, Suuren opettajan, pitäisi tietää?
+
+#(GENERAL_INFO_ALLY_1)	thraddash-069.ogg
+Kyllä, Opettaja, on ainakin yksi huomionarvoinen tapahtuma.
+Olemme ehkä kerran maininneetkin kohtaamisemme kieppuvien punaisten luotainten kanssa
+niiden, jotka hyökkäävät heltymättömästi samalla kun lausuvat eriskummallisia rauhantarjouksia.
+Alkuun uskoimme niiden tulevan Vega tähtijärjestelmän suunnasta.
+Nyt uskomme päinvastaista.
+Ööh.. ei, Kapteeni, emme tiedä mikä on Vegan vastakohta, emme tarkoittaneet sitä.
+Uskomme nyt, että luotaimet ovat PALAAMASSA Vegaan.
+Emme vielä tiedä niiden tehtävän luontoa.
+
+#(GENERAL_INFO_ALLY_2)	thraddash-070.ogg
+Kyllä, viisas ihminen, salli meidän tarkentaa.
+Kaksi vuotta sitten tarkkailimme kahden aluksen saapumista avaruuteemme.
+Yksi oli selvästi Taistelulaiva, entisten isäntiemme, Ur-Quanien alus.
+Toinen alus oli tumma ja pahaenteinen alus, joka oli aivan yhtä valtava kuin Taistelulaivakin.
+Alukset olivat lukittuneet taisteluun elämästä ja kuolemasta. Ne taistelivat uljaasti!
+Lopulta Ur-Quan tuhosi tumman aluksen, mutta ei ennen kuin oli itsekin saanut kuolettavia haavoja.
+Viimeisen kerran kun näimme aluksen, sen kieppui ohjauskyvyttömänä kohti Alfa Pavonista.
+Emme tiedä sen lopullista kohtaloa.
+
+#(GENERAL_INFO_ALLY_3)	thraddash-071.ogg
+Nyt kun olet uusi roolimallimme, on kai aika päästää kissa ulos pussista ja paljastaa Ur-Quanien salaisuudet.
+Ikävä kyllä me emme vain ikinä saaneet kissaa -- salaisia tietoja siis.
+Haluat ehkä kuitenkin tietää viimeisestä kerrasta, kun näimme Ur-Quanit.
+Se oli vuonna 2140, luulisin. Aivan yllättäen avaruuteemme tuli rynnien laivastollinen Taistelulaivoja
+jotka tankkasivat pikaisesti ja sitten lähtivät, lähettäen talletetun viestin
+joka käski meitä pysymään vanhassa vaikutuspiirissämme, totella orjalakeja, ja odottaa heidän paluutaan.
+Taistelulaivojen laivasti lähti Crateriksen tähdistön suuntaan
+mutta sitä, missä ne nyt ovat, ei tiedetä.
+
+#(GENERAL_INFO_ALLY_4)	thraddash-072.ogg
+Tätä ei oikein lasketa Uutisiksi, Opettaja
+mutta Sota on todella suurenmoista, vai mitä?
+Sulaneiden sotalaivojen vatsaavääntävä näky!
+Tyhjiöön joutuneiden sotilaiden kiehuva veri!
+Voi kun rakastan sitä!...
+...etkö sinäkin?
+
+#(HOW_SHOULD_WE_ACT)	thraddash-073.ogg
+Meidän pitää oppia sinulta niin paljon, kuten
+Kuinka meidän pitäisi toimia uudessa Kulttuurissamme? Mikä on suuntamme, eettinen perustamme?
+
+#(friendly)
+Olkaa mukavia kaikkina aikoina ja kaikissa paikoissa. Kohdelkaa jokaista tapaamaanne muukalaista parhaana ystävänänne.
+
+#(OK_FRIENDLY)	thraddash-074.ogg
+Ystävällisiä? Mukavia? En tavoita viisauttasi.... oi, aivan! Nyt ymmärrän!
+Mukavana oleminen, ystävällisenä oleminen... tämä sallii tunkeilijoiden olla poissa varuiltaan
+ja kun me tapamme heidät, he ovat liian yllättyneitä reagoidakseen!
+Kuinka mahtava suunnitelma, ihminen! Olet totisesti suuri Opettaja!
+
+#(wacky)
+Hellittäkää vähän! Olkaa vähän kuin ... tiedätte kai... Tärähtäneitä! Tässä, kokeilkaas näitä videoita: Monty Python ja Marx-veljekset.
+
+#(OK_WACKY)	thraddash-075.ogg
+Tärähtäneitä!... Tärähtäneitä? En ymmärrä. Tulemme katsomaan nämä videosi.
+Tutkimme niitä oppiaksemme olemaan... tärähtäneitä.
+Sitten, kun olemme tarpeeksi tärähtäneitä, testaamme uutta tärähtäneisyyttämme taistelussa
+löytääksemme, epäilyksettä, sen suuren edun jonka se on meille antanut.
+Kiitos, Suuri Opettaja.
+
+#(just_like_us)
+Kuulkaas, jos todella haluatte mallin Kulttuurillenne, niin olkaa samanlaisia kuin me!
+
+#(OK_JUST_LIKE_YOU)	thraddash-076.ogg
+Ahaa! Nyt ymmärrän. Etenemme varovaisesti
+emmekä ota kohtuuttomia riskejä. Kasvatamme voimiamme hitaasti
+ja hyökkäämme vain kun meillä on musertava ylivoima!
+Menetellessämme toisten lajien kanssa esitämme niille armottomasti kysymyksiä
+yrittäen pusertaa viimeisetkin tiedonmuruset ulos, ja jos ne eivät ole yhteistyöhaluisia
+uhkaamme niitä välittömällä kuolemalla!
+Tulemme olemaan aivan samanlaisia kuin tekin!
+
+#(WORK_TO_DO)	thraddash-077.ogg
+Meillä on paljon tekemistä toteuttaessamme näitä täydellisiä kulttuurillisia muutoksia.
+Alamaisuuksien ja massojen siirtäminen yhdestä kulttuurista toiseen
+on vaikea ja aikaavievä tehtävä.
+Anomme sinua, suuri soturi Maasta, anna meille aikaa tehdä ehdottamasi muutokset.
+Palaa myöhemmin näkemään uljas uusi maailmamme.
+
+#(contemplative)
+Yrittäkää mietiskellä enemmän. Pohtikaa yksittäisen jalokiven useita viisteitä... ja sellaisia juttuja.
+
+#(OK_CONTEMPLATIVE)	thraddash-078.ogg
+Ahaa! Mietiskelyä, aivan! Uusia ajatuksia ja oivalluksia! Uusilla opinhaluisilla tavoillamme
+paljastamme uusia metodeja, keksintöjä ja suunnitelmia
+jotka sallivat meidän valloittaa kokonaisia sivisaatioita helposti!
+Loistavaa, ihminen, loistavaa!
+
+#(how_goes_culture)
+No, kuinkas uusi Kulttuuri sukeutuu?
+
+#(CONTEMP_GOES_1)	thraddash-079.ogg
+Augh! Jollemme olisi varmoja viisaudestasi, suuri Opettaja Maasta
+emme olisi pysyneet `Mietteliäänä' kulttuurina yhtä päivää pitempään
+Asioiden ollessa miten ovat, olemme miettineet strategioitamme, taktiikoitamme, aseitamme, tähtiä
+planeettoja ja jopa omia napojamme
+joka on thraddasheille hyvin epämukavaa ja vaatii ainakin kahta peiliä.
+
+#(CONTEMP_GOES_2)	thraddash-080.ogg
+Niin tiedonhaluisia! Niin hiljaisia! Niin mietteliäitä! SNRRK!
+Meitä ei ole tehty tähän. Alamme revetä nahoistamme!
+
+#(FRIENDLY_GOES_1)	thraddash-081.ogg
+Suoraan sanoen, Suuri Opettaja, ystävällisyys sopii meille thraddasheille kehnosti.
+Meillä thraddasheilla ei esimerkiksi ole tarpeellisia lihaksia `hymyilemiseen', kuten kehotit meitä tekemään
+joten me käytämme nyt pieniä muovisia proteeseja pönkittääksemme huulemme vaadittuun asentoon.
+Hyvin epämukavaa.
+
+#(FRIENDLY_GOES_2)	thraddash-082.ogg
+Vaikka yritämmekin kovasti, emme vain saa tätä ystävällisyysjuttua toimímaan, Opettaja.
+Jopa ideassasi rituaalilahjojen, `Hedelmäkakkujen', vaihtamisesta on ollut ongelmia.
+Vaikuttaa siltä, ettei kukaan oikeasti tahdo syödä Hedelmäkakkuja
+kuitenkin, plussapuolella, Hedelmäkakkujen tiheydestä ja muista fyysisistä ominaisuuksista johtuen
+ne toimivat erinomaisina projektiiliaseina!
+
+#(WACKY_GOES_1)	thraddash-083.ogg
+Olemme tutkineet ja tutkineet meille jättämiäsi videoita, oi Suuri Opettaja
+mutta pelkäämme olevamme kyvyttömiä käsittämään tärähtäneenä olemisen syvintä totuutta ja voimaa.
+Esimerkiksi, viime kuussa, yrittäen olla spontaanisti järjetön
+käännyin alaiseni puoleen ja selitin korkeasävelisellä äänensävyllä
+että videoruutuni päällä istui pingviini.
+Tietämättä mikä pingviini oli, alaiseni pyörähti videoruutuani kohti
+samalla kun hänen hydraulinen asekotelonsa työnsi hänen aseensa käteen.
+BLAM! BLAM! BLAM!
+Pingviini, videoruutu ja suuri osa seinästä tuhoutuivat.
+Kuule, Kapteeni. Ehkä me emme sovellu olemaan tärähtäneitä
+ja NIISK!... se oli ainoa pingviinini.
+
+#(WACKY_GOES_2)	thraddash-084.ogg
+Alamme saada paremman otteen tästä tärähtäneisyys-jutusta.
+Avaintekijä? ...Slapstick!
+Me thraddashit olemme löytäneet muotomme, idiomimme, tapamme olla tärähtäneitä.
+Silmiin tökkiminen ojennetuilla sormilla!
+Lankuilla päähän iskeminen!
+HARG! HARG! HARG! Pidämme tästä ja ymmärrämme sitä täydellisesti, Kapteeni.
+Ja kun lisätään alkuperäiset aineksemme, räjähteet ja kuvotuskaasu
+thraddashien avaruudesta on tullut oikea Munauskaupunki!
+
+#(LIKE_YOU_GOES_1)	thraddash-085.ogg
+Asiat sujuvat hyvin, Kapteeni.
+Olemme keksineet erään uutisen, joka saattaa kiinnostaa sinua.
+Epsilon Draconista kiertää läheisellä kiertoradalla epätavallinen maailma.
+Vaikka se säteileekin energioita, jotka saavat sensorimme sekaisin
+pystymme havaitsemaan monia radioaktiivisia aineita pinnalla.
+Arvelemme, että tämä yksi niin kutsutuista `Edelläkävijöiden Kaatopaikoista'
+joita jotkin Alfa Apodiksesta löydämämme muinaiset tekstinpalaset kuvailevat.
+Teksti jatkuu, sanoen että nämä Kaatopaikat ovat jonkinlaisessa kuviossa
+joskin se, mikä se kuvio olisi, jää mysteeriksi.
+Siinä onkin kaikki toistaiseksi.
+
+#(LIKE_YOU_GOES_2)	thraddash-086.ogg
+Olimme lähettäneet pitkänmatkan tiedusteluryhmän tutkimaan Lynciksen tähdistön tähtiä.
+Delta Lynciksen planeetalla 1 he kohtasivat elämänmuodon, joka oli niin vaarallinen, niin vihamielinen
+että se melkein tappoi koko laskeutumisryhmän.
+Tiedämme, että etsit tietoa elämänmuodoista, Suuri Opettaja
+ja toivomme, että tämä tieto oli hyödyksi.
+
+#(bye_ally)
+Näkemiin, thraddash-oppilaani.
+
+#(GOODBYE_ALLY_1)	thraddash-087.ogg
+Odotamme innokkaasti paluutasi, Suuri Opettaja.
+
+#(GOODBYE_ALLY_2)	thraddash-088.ogg
+Odotamme paluutasi ja lisävalaistumista suurella innolla.
+
+#(GOODBYE_ALLY_3)	thraddash-089.ogg
+Yritä olla tulematta tapetuksi, Opettaja.
+
+#(GOODBYE_ALLY_4)	thraddash-090.ogg
+Näkemiin, Suuri Opettaja.
+
+#(be_polite)
+Yrittäkää olla tervehdyksissänne kohteliaita ja ystävällisiä.
+
+#(OK_POLITE)	thraddash-091.ogg
+Ok, olemme kohteliaita.
+Se saa vierailijat olemaan poissa varuiltaan
+ja sitten hyökkäämme heitä vastaan!
+Kyllä, se on erinomainen suunnitelma!
+
+#(speak_pig_latin)
+Saavuttaaksenne todella Tähtienvälisen Diplomaattisen Protokollan hengen, teidän pitäisi puhua siansaksaa.
+
+#(OK_PIG_LATIN)	thraddash-092.ogg
+Siansaksaa, vai? Eikös ole sitä, missä otetaan aina kaksi peräkkäistä sanaa
+ja vaihdetaan sitten niiden ensimmäiset tavut keskenään?  Hmm.. annas kun yritän
+`Opera Tylentö! Kuomistaudu vallemaan!'
+Hei! Minä pidän tästä! Se antaa älyn ja oppineisuuden vaikutelman
+ilman kaikkea sitä ikävää opiskelua!
+Yksi kysymys vain, Suuri Opettaja. Kuinka sanotaan `älä oio' siansaksaksi?
+
+#(use_rhymes)
+Tiedän sen faktaksi, että esittelyjen riimittelystä voittaa rutkasti pisteitä.
+
+#(OK_RHYMES)	thraddash-093.ogg
+Riimejä? Niin kuin runoilussa? SNRRK!
+Eikös se ole vähän kuin... tiedät kai... ei-kovisten hommaa?
+SNRRK! Mitä oikein sanon! Sinähän tässä olet Suuri Opettaja! Sinä tiedät parhaiten!
+Jos riimittely on välttämätöntä, sitten, Opettaja, me riimittelemme kaiken aikaamme.
+
+#(just_the_way_we_do)
+Kunhan vain tervehditte muita samalla tavalla kuin mekin.
+
+#(OK_WAY_YOU_DO)	thraddash-094.ogg
+Hmmm... okei. Ymmärrän.
+Tarpeen tullen olemme liehakoivia ja pokkuroivia
+ja lopun aikaa me kerskailemme ja uhkailemme!
+Kuinka yksinkertaista!
+
+#(WHAT_NAME_FOR_CULTURE)	thraddash-095.ogg
+Nyt kun ymmärrämme esittelyn nyanssit, Suuri Opettaja
+meillä on vielä tärkeämpi kysymys.
+Se, että tuhositte taisteluvoimamme, on osoittanut meille
+että Kulttuurimme Yhdeksäntoista on omaanne huonompi
+näin ollen me omaksumme teidän metodinne, teidän tekniikkanne
+mutta miksi kutsumme uutta Kulttuuriamme?
+
+#(alliance_name)
+Miten olisi 
+
+#(OK_ALLIANCE_NAME)
+Okei,  
+
+#(NAME_TAIL)
+ 
+
+#(you_decide)
+Minusta on tärkeää, että tämän uuden suunnan mukana te päätätte itse uuden nimenne.
+
+#(OK_CULTURE_20)	thraddash-096.ogg
+Olet viisas, Suuri Opettaja. Aion miettiä tätä kysymystä pitkään ja ankarasti
+RÖHH!
+Sen täytyy heijastaa syvällisiä muutoksia sosiaalisessa järjestyksessämme.
+RÖHH!
+Sen täytyy selvästi selittää sivilisaatiomme luonne!
+RÖHH!
+Kyllä! Keksin sen! Täydellinen nimi on
+Kulttuuri Kaksikymmentä!
+
+#(fat)
+Miten olisi `Lihavat Meluisat Ääliöt'?
+
+#(OK_FAT)	thraddash-097.ogg
+Pidän siitä! Tämä nimi, joka on niin selvässä kontrastissa todelliseen luontoomme
+harhauttaa vihollisemme uskomaan, että olemme harmittomia
+koska varmasti vain typerykset antaisivat kutsua itseään sellaisella nimellä!
+Jälleen kerran, Suuri Opettaja, olet osoittanut meille viisautesi. Me kiitämme sinua.
+Tästä päivästä lähtien, me olemme Lihavat Meluisat Ääliöt!
+
+#(the_slave_empire0)
+Se tulee olemaan Loistava Orjaimperiumi 
+
+#(the_slave_empire1)
+'!
+
+#(OK_SLAVE)	thraddash-098.ogg
+Ulp! No... sinä olet se, jolla on iso avaruusalus
+Olkoon sitten niin.
+
+#(FAT_JERKS)	thraddash-099.ogg
+Lihavat Meluisat Ääliöt
+
+#(CULTURE)	thraddash-100.ogg
+Kulttuuri Kaksikymmentä
+
+#(SLAVE_EMPIRE)	thraddash-101.ogg
+Loistava Orjaimperiumi
+
+#(name_1)
+Uusi Vapaiden Tähtien Allianssi
+
+#(name_2)
+Muukalaisvaltioiden Sopimus 
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatio 
+
+#(name_40)
+Imperiumi 
+#(name_41)
+ 
+
+#(HAVING_FUN_WITH_ILWRATH_1)	thraddash-102.ogg
+Oi! Näiden monien taisteluiden kunniaa!
+Typerät ilwrathit ovat helppo tappoja urheille sotureillemme, SNRRK!
+Tapamme niitä kaksi jokaista omaa kaatuvaamme vastaan!
+No tietenkin, heillä on kaksi kertaa enemmän taistelualuksia kuin meillä
+mutta se ei ole todella merkittävää!
+Teidän viisautenne ja ohjauksenne teki tämän kaiken mahdolliseksi, Suuri Opettaja!
+Kiitos! Kiitos! Kiitos!
+
+#(HAVING_FUN_WITH_ILWRATH_2)	thraddash-103.ogg
+Räjähtäviä avaruusaluksia! Huutava miehistö!
+Suoria osumia, ovelia pakoja!
+Nämä ovat niitä hetkiä, joita varten elämme!
+Nyt meidän täytyy palata suuriin taisteluihin!
+Näkemiin, Suuri Opettaja.
+
+#(GO_AWAY_FIGHTING_ILWRATH_1)	thraddash-104.ogg
+Sehän on se typerä, kömpelö ihminen.
+Luulin meidän tappaneen sinut... hällä väliä. Se ei ole tärkeätä nyt.
+Olemme keskellä suurta ja loisteliasta sotaa.
+Nuo ilwrathin uskonnolliset fanaatikot ovat valinneet hyökkäyksen kimppuumme
+ja loistava puolustuksemme tekee heistä selvää!
+Tietenkin saamme pieniä menetyksiä, mutta se on hyväksyttävää.
+Miksi oikein haaskaan aikaani täällä kanssasi?
+Voisin olla muualla, voittaen kunniaa ja mainetta taistelemalla idioottihämähäkkejä vastaan.
+Lähde, ihminen, kuolemasi ei ole ammusteni hinnan arvoinen.
+
+#(GO_AWAY_FIGHTING_ILWRATH_2)	thraddash-105.ogg
+Lakkaa häiritsemästä meitä, ihminen!
+Etkö näe, että taistelemme täydellisintä sotaa Yhdeksäntoista Kulttuurimme aikana?
+Olemme saattaneet ilwrahit polvien vastineilleen!
+Nyt jäljellä on vain coup de grace -- heidän lopullinen tuhoamisensa!
+Siispä pois tieltäni, muukalaiskoira, ennen kuin ammun sen vapaaksi itse!
+
+#(OUT_TAKES) thraddash-106.ogg
+SNRRK! Olen raivoissani ja valmis TAPPAMAAN!
+Läpi tämän pelin, en ole tehnyt mitään muuta kuin uhonnut ja uhkaillut!
+Minulla ei ole ollut mahdollisuutta näyttää todellisia taitojani näyttelijänä, syvyyttäni ja ulottuvuuttani.
+Kukaan ei tiedä herkkyyttäni... hellää sisintäni.
+SNRRK! Entäs jos minut tyypitetään tästä lähtien raskaaksi?!
+UIIII! Nyt Spielberg ei ehkä KOSKAAN soita minulle!
+

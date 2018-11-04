@@ -1,0 +1,529 @@
+#(TITLE)
+Ur-Quan Masters Asetukset
+
+#(SUBTITLES)
+
+Grafiikka-asetukset
+Ääniasetukset
+3do/PC-asetukset
+Resurssiasetukset
+Kontrolliasetukset
+Edistyneet asetukset
+Muokkaa ohjaimia
+
+#(CHOICES)
+Resoluutio
+Ruutupuskurointi?
+Skaalain
+Scanlines
+Valikkotyyli
+Fonttityyli
+Skannaustyyli
+Vieritystyyli
+Tekstitys
+3DO-Remixit
+Näyttö
+Välianimaatiot
+Näytä FPS
+Taistelu Zoomaus
+Tilaäänet
+Ääniohjain
+Äänenlaatu
+Orjakilpi
+Pelaaja yksi
+Pelaaja kaksi
+Ohjaus
+UQM-Remixit
+
+#(CAT_0_OPTS)
+320x240
+640x480
+800x600
+1024x768
+Mukautettu
+
+#(CAT_0_OPT_0_DESC)
+320x240 resoluutio.
+Saatavana SDL- ja OpenGL-näyttötiloihin.
+
+#(CAT_0_OPT_1_DESC)
+640x480 resoluutio.
+Saatavana SDL- ja OpenGL-näyttötiloihin.
+
+#(CAT_0_OPT_2_DESC)
+800x600 resoluutio.
+Vaatii OpenGL-näytönohjaimen.
+
+#(CAT_0_OPT_3_DESC)
+1024x768 resoluutio.
+Vaatii OpenGL-näytönohjaimen.
+
+#(CAT_0_OPT_4_DESC)
+Mukautettu resoluutio, joka on asetettu
+komentoriviltä. Vaatii OpenGL-näytönohjaimen.
+
+#(CAT_1_OPTS)
+Jos mahdollista
+Ei koskaan
+
+#(CAT_1_OPT_0_DESC)
+Käyttää SDL ruutupuskurointia, kun mahdollista
+ja muulloin OpenGL-tilaa. Ruutupuskurointi on
+saatavilla vain 320x240 ja 640x480 tarkkuuksiin.
+
+#(CAT_1_OPT_1_DESC)
+Käytä aina OpenGL-näytönohjainta.
+OpenGL voi tuottaa minkä resoluution tahansa
+ja on yleensä laitteistokiihdytettyä.
+
+#(CAT_2_OPTS)
+Ei mitään
+Bilinear
+Biadapt
+Biadv
+Triscan
+HQ
+
+#(CAT_2_OPT_0_DESC)
+Ei skaalausta.
+Simuloi alkuperäistä 320x240-näyttöä.
+Nopein, mutta vähiten houkutteleva vaihtoehto.
+
+#(CAT_2_OPT_1_DESC)
+Bilineaarinen skaalaus.
+Yksinkertainen ja nopea suodatus.
+Laitteisto-nopeutettu OpenGL-tilassa.
+
+#(CAT_2_OPT_2_DESC)
+Adaptiivinen bilineaarinen skaalaus.
+Hitaampi, vähemmän epätarkka suodatus.
+
+#(CAT_2_OPT_3_DESC)
+Kehittynyt bilineaarinen skaalaus.
+Käsin painotettu suodatus, joka tuottaa
+pehmeämmät reunat. Raskain suodatusmuoto.
+
+#(CAT_2_OPT_4_DESC)
+Interpoloiva skaalain. Tuottaa teräviä
+reunoja, mutta suuremmalla tarkkuudella.
+Perustuu Scale2x-algoritmiin.
+
+#(CAT_2_OPT_5_DESC)
+Korkealaatuinen, erittäin raskas interpoloiva
+skaalaus. Tuottaa teräviä reunoja, mutta
+suuremmalla tarkkuudella. Perustuu HQ2X-algoritmiin.
+
+#(CAT_3_OPTS)
+Pois
+Käytössä
+
+#(CAT_3_OPT_0_DESC)
+Älä yritä simuloida lomitettua näyttöä.
+
+#(CAT_3_OPT_1_DESC)
+Simuloi lomiteltua näyttöä.
+
+#(CAT_4_OPTS)
+Teksti
+Kuvat
+
+#(CAT_4_OPT_0_DESC)
+Pelin valikot muistuttavat alkuperäistä PC-versiota.
+
+#(CAT_4_OPT_1_DESC)
+Pelin valikot muistuttavat 3do-versiota.
+
+#(CAT_5_OPTS)
+Liukuvärit
+Tasainen
+
+#(CAT_5_OPT_0_DESC)
+Tietyt valikkotekstit ja keskustelut käyttävät
+liukuvärejä, kuten alkuperäisessä PC-versiossa.
+Näyttää kivemmalta.
+
+#(CAT_5_OPT_1_DESC)
+Kaikki tekstit ja valikot käyttävät "tasaista"
+värimallia, kuten 3do-versiossa.
+Helpompi lukea.
+
+#(CAT_6_OPTS)
+Teksti
+Kuvat
+
+#(CAT_6_OPT_0_DESC)
+Näyttää planeetan skannaustiedot tekstinä
+alkuperäisen PC-version mukaisesti.
+
+#(CAT_6_OPT_1_DESC)
+Näyttää planeetan skannaustiedot kuvina,
+kuten 3do-versiossa.
+
+#(CAT_7_OPTS)
+Sivuttain
+Sulavasti
+
+#(CAT_7_OPT_0_DESC)
+Kun keskustelua kelataan eteen tai taakse,
+siirrytään tekstissä yksi näyttö kerrallaan.
+Tämä jäljittelee alkuperäistä PC-versiota.
+
+#(CAT_7_OPT_1_DESC)
+Kun keskustelua kelataan eteen tai taakse,
+siirrytään tekstissä lineaarisella nopeudella.
+Tämä jäljittelee 3do-versiota.
+
+#(CAT_8_OPTS)
+Pois
+Käytössä
+
+#(CAT_8_OPT_0_DESC)
+Älä tekstitä puhetta.
+
+#(CAT_8_OPT_1_DESC)
+Näytä puheiden tekstitykset.
+
+#(CAT_9_OPTS)
+Pois
+Käytössä
+
+#(CAT_9_OPT_0_DESC)
+Käyttää musiikkia alkuperäisestä PC-versiosta.
+Lisäosat voivat vaikuttaa soitettavaan musiikkiin.
+UQM pitää uudelleenkäynnistää muutoksen jälkeen.
+
+#(CAT_9_OPT_1_DESC)
+Käyttää 3do-musiikkia PC-version tilalla.
+Lisäosat voivat vaikuttaa soitettavaan musiikkiin.
+UQM pitää uudelleenkäynnistää muutoksen jälkeen.
+
+#(CAT_10_OPTS)
+Ikkunoitu
+Koko näyttö
+
+#(CAT_10_OPT_0_DESC)
+Näytä peli ikkunassa.
+(jos ikkunointi on käytettävissä)
+
+#(CAT_10_OPT_1_DESC)
+Peli täyttää koko näyttöruudun.
+(jos käytettävissä)
+
+#(CAT_11_OPTS)
+Diat
+Elokuvat
+
+#(CAT_11_OPT_0_DESC)
+Suosi dioja, jos molemmat ovat läsnä.
+Pakottaa PC-intron.
+
+#(CAT_11_OPT_1_DESC)
+Suosi elokuvia, jos molemmat ovat läsnä.
+Käyttää 3do-sisältöä, jos saatavilla.
+
+#(CAT_12_OPTS)
+Ei
+Kyllä
+
+#(CAT_12_OPT_0_DESC)
+Älä näytä FPS-lukemia konsoli-ikkunassa.
+
+#(CAT_12_OPT_1_DESC)
+Näytä FPS-lukemat konsoli-ikkunassa.
+
+#(CAT_13_OPTS)
+Porrastettu
+Sulava
+
+#(CAT_13_OPT_0_DESC)
+Vaihtelee kolmea zoomaustasoa taistelussa.
+Muistuttaa PC-versiota.
+
+#(CAT_13_OPT_1_DESC)
+Skaalaa jatkuvasti taistelunäkymää.
+Muistuttaa 3do-versiota.
+
+#(CAT_14_OPTS)
+Pois
+Käytössä
+
+#(CAT_14_OPT_0_DESC)
+Äänitehosteet ovat keskikanavalla.
+
+#(CAT_14_OPT_1_DESC)
+Käytä tilaääntä, kun mahdollista.
+Tällä hetkellä vain OpenAL on tuettu.
+
+#(CAT_15_OPTS)
+Ei mitään
+MixSDL
+OpenAL
+
+#(CAT_15_OPT_0_DESC)
+Pelaa äänettömästi.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_15_OPT_1_DESC)
+Käytä oletus äänimikseriä.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_15_OPT_2_DESC)
+Käytä Creative Labs OpenAL-ajuria.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_16_OPTS)
+Matala
+Keskitaso
+Korkea
+
+#(CAT_16_OPT_0_DESC)
+Matala äänenlaatu.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_16_OPT_1_DESC)
+Keskitasoinen äänenlaatu.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_16_OPT_2_DESC)
+Korkein äänenlaatu.
+Tämä vaihtoehto ei tule voimaan,
+ennen kuin käynnistät UQM:n uudelleen.
+
+#(CAT_17_OPTS)
+Staattinen
+Sykkivä
+
+#(CAT_17_OPT_0_DESC)
+Orjakilpi pitää staattista hehkua.
+Tämä jäljittelee PC-versiota.
+
+#(CAT_17_OPT_1_DESC)
+Orjakilpi sykkii.
+Tämä jäljittelee 3do-versiota.
+
+#(CAT_18_OPTS)
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+
+#(CAT_18_OPT_0_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_18_OPT_1_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_18_OPT_2_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_18_OPT_3_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_18_OPT_4_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_18_OPT_5_DESC)
+Pelaaja 1 ohjaa pelissä ja alempaa 
+pelaajaa Super Meleessä.
+
+#(CAT_19_OPTS)
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+
+#(CAT_19_OPT_0_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_19_OPT_1_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_19_OPT_2_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_19_OPT_3_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_19_OPT_4_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_19_OPT_5_DESC)
+Pelaaja 2 ohjaa ylempää pelaajaa
+Super Meleessä.
+
+#(CAT_20_OPTS)
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+Paikanpitäjä
+
+#(CAT_20_OPT_0_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_20_OPT_1_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_20_OPT_2_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_20_OPT_3_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_20_OPT_4_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_20_OPT_5_DESC)
+
+
+Valitse muokattava ohjausmalli.
+
+#(CAT_21_OPTS)
+Pois
+Käytössä
+
+#(CAT_21_OPT_0_DESC)
+Älä lataa The Precursors Remixit-pakkausta.
+UQM pitää uudelleenkäynnistää muutoksen jälkeen.
+
+#(CAT_21_OPT_1_DESC)
+Käytä The Precursorsin tekemää modernia ääniraitaa
+PC:n tai 3do-ääniraitojen tilalla.
+UQM pitää uudelleenkäynnistää muutoksen jälkeen.
+
+#(SLIDERS)
+Musiikki
+Äänitehosteet
+Puhe
+
+#(SLIDER_0_DESC)
+Asettaa musiikin äänenvoimakkuuden.
+
+#(SLIDER_1_DESC)
+Asettaa äänitehosteiden äänenvoimakkuuden.
+
+#(SLIDER_2_DESC)
+Asettaa puheen äänenvoimakkuuden.
+
+#(BUTTONS)
+Pois asetuksista
+Takaisin päävalikkoon
+Grafiikka-asetukset
+PC/3do-yhteensopivuusvaihtoehdot
+Ääniasetukset
+Resurssiasetukset
+Määritä ohjaimet
+Edistyneet asetukset
+Muokkaa ohjaimia
+Takaisin ohjausvalintaan
+
+#(BUTTON_0_DESC)
+Palaa päävalikkoon.
+
+#(BUTTON_1_DESC)
+Tallenna muutokset ja palaa päävalikkoon.
+Muutoksia ei oteta käyttöön, ennen kuin
+poistut asetuksista kokonaan.
+
+#(BUTTON_2_DESC)
+Määritä UQM-näytön asetukset.
+Näytönohjaimet, resoluutiot ja suodattimet.
+
+#(BUTTON_3_DESC)
+Määritä UQM:n käyttäytyminen tarkemmin 
+PC:n tai 3do-käyttäytymisen mukaisesti.
+
+#(BUTTON_4_DESC)
+Määritä UQM äänet- ja äänivalinnat.
+
+#(BUTTON_5_DESC)
+Määritä UQM Addon-paketit.
+
+Ei ole vielä valmis.
+
+#(BUTTON_6_DESC)
+Aseta näppäimistön ja ohjaussauvan ohjaimet.
+
+Tällä hetkellä osittain toteutettu.
+
+#(BUTTON_7_DESC)
+Valitse käytössä olevat ohjaimet ja
+muut laitteista riippuvaiset asetukset.
+
+#(BUTTON_8_DESC)
+Muokkaa näppäin ohjausta.
+
+#(BUTTON_9_DESC)
+
+
+Palaa ohjausasetuksiin.
+
+#(LABELS)
+Kesken
+Keyconfig-otsikko
+Editkey-otsikko
+Editkey-dialogi
+
+#(LABEL_0)
+Tätä osaa asetuksista ei
+ole vielä toteutettu.
+
+Odotettavissa seuraavaan versioon.
+
+
+#(LABEL_1)
+Tarkastele tai muokkaa näppäinasetuksia
+valitsemalla alla oleva asetus:
+
+#(LABEL_2)
+Muokkaa painamalla Enteriä, tai poista Delete:llä
+
+#(LABEL_3)
+Paina näppäintä, peliohjaimen nappia
+tai käännä ohjaussauvaa, miten haluat
+määrittää tämän toiminnon.
+
+#(TEXT_ENTRIES)
+Nimi
+
+#(TEXT_ENTRIES_INITIAL)
+Paikanpitäjä
+
+#(CONTROL_ENTRIES)
+Ylös
+Alas
+Vasemmalle
+Oikealle
+Ase
+Spesiaali
+Pako

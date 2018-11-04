@@ -1,0 +1,394 @@
+#(SENSE_EVIL)	kohrah-000.ogg
+Aistimme... jotain... jotain muinaista... sairas haju... kylmäävä tuuli.
+Minun esi-isäni kiljuvat mielessäni kammioissaan
+mutta en voi ymmärtää heidän sanojaan.
+Tämä tunne... muisto? Se tekee meidät sairaiksi, ja ensimmäistä kertaa eläissämme
+ensimmäistä kertaa sukupolviin
+Pelkäämme.
+
+#(HELLO_AND_DIE_1)	kohrah-001.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Me puhdistamme kohtaloamme.
+Kuolette pian.
+Suorittakaa kaikki rituaalit, jotka ovat välttämättömiä rodullenne.
+
+#(HELLO_AND_DIE_2)	kohrah-002.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Teidän läsnäolonne täällä on hätiköityä.
+Me taistelemme Kzer-Zoja vastaan Opin paremmuudesta
+ja Sa-Matran omistuksesta.
+Kun taistelu on voitettu, tehtävämme on yksinkertainen.
+Puhdistamme. Te olette saastaa.
+
+#(HELLO_AND_DIE_3)	kohrah-003.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Olet väistänyt meidän yrityksemme puhdistaa.
+Et ole enää saastaa. Olet uhka.
+Uhat vaativat suurempaa huomiota kuin saasta.
+
+#(HELLO_AND_DIE_4)	kohrah-004.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Meidän luontomme, kohtalomme täyttyminen
+vaatii teidän tuhoamistanne.
+
+#(HELLO_AND_DIE_5)	kohrah-005.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Meidän luontomme, kohtalomme täyttyminen
+vaatii teidän tuhoamistanne.
+
+#(HELLO_AND_DIE_6)	kohrah-006.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Meidän luontomme, kohtalomme täyttyminen
+vaatii teidän tuhoamistanne.
+
+#(HELLO_AND_DIE_7)	kohrah-007.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Meidän luontomme, kohtalomme täyttyminen
+vaatii teidän tuhoamistanne.
+
+#(HELLO_AND_DIE_8)	kohrah-008.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Meidän luontomme, kohtalomme täyttyminen
+vaatii teidän tuhoamistanne.
+
+#(HELLO_SAMATRA)	kohrah-009.ogg
+SAASTA! SINÄ ET VOI lähestyä Sa-Matraa.
+Kuolemasi oli väistämätön, ja nyt se on myös välitön.
+
+#(WE_KILL_ALL_1)	kohrah-010.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Olemme voittaneet sodan sukulaisiamme, Kzer-Zoja, vastaan.
+Meidän Oppimme, Nykyisyyden ja Iäisyyden Tie, tulee olemaan johtava
+kunnes Kzer-Zat voittavat seuraavan Oppisodan.
+Me puhdistamme Kzer-Zojen orjarodut.
+Sitten me otamme Sa-Matran haltuumme ja lähdemme matkallemme
+löytääksemme älykkyyttä
+uutta saastaa puhdistettavaksi.
+
+#(WE_KILL_ALL_2)	kohrah-011.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Valmistautukaa puhdistukseen.
+
+#(WE_KILL_ALL_3)	kohrah-012.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Valmistautukaa puhdistukseen.
+
+#(WE_KILL_ALL_4)	kohrah-013.ogg
+Me olemme Ur-Quanien Kohr-Ahit.
+Valmistautukaa puhdistukseen.
+
+#(why_kill_all_1)
+Mitä tämä hulluus on!? Miksi te yritätte tappaa kaikki?
+
+#(why_kill_all_2)
+Teillä ei ole oikeutta jatkaa tällaista kansanmurhaa!
+
+#(why_kill_all_3)
+Mikä on tehnyt teidät tällaisiksi? Se on hullua!
+
+#(why_kill_all_4)
+En ymmärrä, miksi teette näin.
+
+#(KILL_BECAUSE_1)	kohrah-014.ogg
+Emme tapa. Puhdistamme.
+Puhdistus on välttämätöntä varmistaakseen meidän iankaikkisen vapautemme ja turvallisuutemme.
+Todellakin, et ymmärrä: kuolemaa ei ole.
+On vain tuhoutuminen ja uudelleensyntyminen.
+Jokainen tuhoutuminen tuo uuden vaiheen
+ja mahdollisuuden syntyä Ur-Quanina.
+Me vilpittöminä esittelemme tämän mahdollisuuden, ja teemme sen mahdolliseksi meille kaikille.
+
+#(KILL_BECAUSE_2)	kohrah-015.ogg
+Meidän Iäisyyden ja Nykyisyyden Tiemme on itsestäänselvä.
+Puhdistamme. Siinä kaikki. Ei muuta.
+
+#(KILL_BECAUSE_3)	kohrah-016.ogg
+Et ole kysynyt oikein.
+Jos et kysy oikein, me emme puhu tästä asiasta.
+Sen sijaan, puhdistamme.
+
+#(KILL_BECAUSE_4)	kohrah-017.ogg
+Ymmärtämisesi ei ole välttämätöntä.
+
+#(please_dont_kill_1)
+Olkaa niin kilttejä! Lopettakaa tämä hulluus!
+
+#(WILL_KILL_1)	kohrah-018.ogg
+Olemme kuunnelleet. Emme liikuttuneet. Puhdistus jatkukoon.
+
+#(please_dont_kill_2)
+Logiikkanne on virheellistä. Kuinka teillä voisi olla turvallista loputtoman sodan keskellä?
+
+#(WILL_KILL_2)	kohrah-019.ogg
+Puhdistus takaa meille rauhaa ja turvallisuutta.
+Vapauden ja turvallisuuden uhat ovat määritelty älykkäiksi epä-Ur-Quan-elämänmuodoiksi.
+Säilyttääksemme rauhan ja turvallisuuden, puhdistamme moiset uhat.
+
+#(please_dont_kill_3)
+Lopettakaa tappaminen! Teidän täytyy lopettaa!
+
+#(WILL_KILL_3)	kohrah-020.ogg
+Meidän ei täydy lopettaa. Kukaan paitsi Kzer-Zat ei voi pysäyttää meitä
+ja he hävisivät sodan. Meidän oppimme on nyt johtava.
+Puhdistus jatkukoon.
+
+#(please_dont_kill_4)
+Onko mitään keinoa, millä me voimme pysäyttää tämän tappamisen?
+
+#(WILL_KILL_4)	kohrah-021.ogg
+Jos eliminoitte kaikki tietoiset ei-Ur-Quan -rodut, myös itsenne
+sitten me lopetamme.
+Olemme tehneet tämän ehdotuksen aiemminkin. Kukaan ei suostu.
+Joten puhdistamme.
+
+#(bye_frenzy_1)
+Lähdemme nyt. Pysäytämme teidät vielä, jotenkin.
+
+#(bye_frenzy_2)
+Lähdemme nyt. Pysäytämme teidät vielä, jotenkin.
+
+#(bye_frenzy_3)
+Lähdemme nyt. Pysäytämme teidät vielä, jotenkin.
+
+#(bye_frenzy_4)
+Lähdemme nyt. Pysäytämme teidät vielä, jotenkin.
+
+#(GOODBYE_AND_DIE_FRENZY_1)	kohrah-022.ogg
+Et voi poistua. Olet saastaa.
+Tulet puhdistetuksi.
+
+#(GOODBYE_AND_DIE_FRENZY_2)	kohrah-023.ogg
+Et voi poistua. Olet saastaa.
+Tulet puhdistetuksi.
+
+#(GOODBYE_AND_DIE_FRENZY_3)	kohrah-024.ogg
+Et voi poistua. Olet saastaa.
+Tulet puhdistetuksi.
+
+#(GOODBYE_AND_DIE_FRENZY_4)	kohrah-025.ogg
+Et voi poistua. Olet saastaa.
+Tulet puhdistetuksi.
+
+#(threat_1)
+Jos hyökkäätte kimppuumme, tuhoamme teidät. Älkää edes yrittäkö.
+
+#(RESISTANCE_IS_USELESS_1)	kohrah-026.ogg
+Yli viisituhatta rotua on väittänyt samaa.
+Selvisimme. He eivät.
+Etkä sinäkään.
+
+#(threat_2)
+Vastustus on turhaa. Meidän voittomme on väistämätön!
+
+#(RESISTANCE_IS_USELESS_2)	kohrah-027.ogg
+Eikä ole.
+
+#(threat_3)
+Olette hyökänneet kimppuumme ennenkin, ja me selvisimme! Ette voi voittaa meitä. Alistukaa!
+
+#(RESISTANCE_IS_USELESS_3)	kohrah-028.ogg
+Niin teimme. Niin teitte. Kyllä voimme. Ei.
+
+#(threat_4)
+Antautukaa tai kuolkaa.
+
+#(RESISTANCE_IS_USELESS_4)	kohrah-029.ogg
+Vastaväitteemme on paljon yksinkertaisempi
+vain `kuolkaa'.
+
+#(key_phrase)
+Pysähdykää! Se mitä teette meille on väärin! Miksi teette näin?
+
+#(RESPONSE_TO_KEY_PHRASE)	kohrah-030.ogg
+SANAT!... Sanat... sanat
+Olento, olet sanonut sanat. Olet sanonut ne oikein.
+Selitämme teille meidän orjuuttajistamme, dnyarreista
+Taaloista, meidän ainoista ystävistämme, jotka me hävitimme
+ja syymme, miksi puhdistamme koko galaksin tietoisesta elämästä.
+Olemme selittäneet tämän aiemmminkin, yli kaksikymmentätuhatta vuotta sitten.
+Sanasi, `Miksi teette näin?' kaikuvat tätä muinaista pyyntöä.
+Kuten näet, olento, me olimme ylpeä ja mahtava rotu, jotka orjuutettiin julmasti.
+Yli tuhanteen vuoteen meillä ei ollut vapaata tahtoa.
+Emme olleet muuta kuin työkaluja.
+Enää koskaan kukaan ei orjuuta kansaamme.
+Puhdistamme galaksin moisista uhista.
+
+#(why_do_you_destroy)
+Kohr-Ah, kerro teistä itsestänne.
+
+#(WE_WERE_SLAVES)	kohrah-031.ogg
+Me kehityimme vihamielisessä maailmassa, olemme yksinäisten metsästäjien jälkeläisiä.
+Maailmassa jossa yksi laji on johtava tappaja
+yhden ainoa uhka on yhden veli, yhden sisko, kuka tahansa hänen lajistaan.
+Sivilisaatio ei tullut meille helposti, me ansaitsimme sen.
+Otimme vihamme ja murhaavat halumme hallintaan muodostaaksemme voimakkaan kulttuurin.
+Noina muinaisina päivinä ei ollut Kohr-Aheja tai Kzer-Zoja, oli vain Ur-Quanit.
+Me tutkimme maailmaamme, sitten avaruutta kauempana.
+Siellä me tapasimme Tietoisen Yhteisön kuusi rotua
+siellä me tapasimme taalot... ainoa rotu, jota me olemme ikinä kutsuneet `ystäviksi'.
+Meidän yhteistyömme taalojen ja Yhteisön kanssa kesti kolmetuhatta vuotta.
+Me, Ur-Quanit emme voineet sietää muiden läsnäoloa
+joten meistä tuli Yhteisön tiedustelijoita, heidän yksinäisiä tutkimusmatkailijoitaan.
+	
+#(relationship_with_urquan)
+Keitä Taalot olivat?
+
+#(WE_ARE_URQUAN_TOO)	kohrah-032.ogg
+Kaikista roduista, jotka me tapasimme, vain taalot eivät laukaisseet meidän reviirivaistoamme.
+He olivat ainoa kansa, jonka kanssa me saatoimme olla, tai joille puhua, ilman että metsästäjä sisällämme olisi huutanut
+`Tapa tunkeilija! Revi sen henki pois!'
+Uskomme, että samat tekijät jotka tekivät taaloista ei-uhkaavia meille
+heidän epätavallinen kivimäinen biologiansa
+myös antoi Taaloille luonnollisen immuniteetin dnyarrien psyykkiselle pakotukselle.
+Dnyarrit eivät voineet sallia tätä.
+Yhteisön kuuden rodun valloittamisen jälkeen
+he komensivat meitä hyökkäämään taalojen kimppuun, ja me hyökkäsimme.
+Taalot eivät taistelleet vastaan... he kuolivat.
+
+#(what_about_culture)
+Keitä tai mitä olivat Dnyarrit?
+
+#(BONE_GARDENS)	kohrah-033.ogg
+Erään rutiinilaskeutumisen yhteydessä yksi Yhteisön tutkimusaluksistamme tapasi Dnyarrit ensimmäisen kerran.
+otukset, jotka te tunnette Puhuvina Lemmikkeinä.
+Mutta Dnyarrit olivat silloin erilaisia.
+Ne olivat pahoja, älykkäitä ja omasivat psyykkisiä voimia, joilla ne pystyivät hallitsemaan muita.
+Ne halusivat hallita maailmankaikkeutta. Meillä ei ollut muuta vaihtoehtoa kuin antaa se niille.
+Meidän Ur-Quan-tutkimusaluksemme kuljettivat dnyarrit läpi Yhteisön.
+Sota vallasta, niin kuin se tapahtui, oli nopea ja veretön.
+Muutamassa viikossa dnyarrit hallitsivat kaikkia rotuja, paitsi yhtä... taaloja.
+
+#(how_leave_me_alone)
+Kuinka voititte Dnyarrit?
+
+#(YOU_DIE)	kohrah-034.ogg
+Tuhansia vuosia olimme vain tiedottomia orjia dnyarreille.
+Viiden muun Yhteisön selviytyneen rodun tavoin meillä ei ollut vaihtoehtoa.
+dnyarrien pakotus oli liian vahva vastustettavaksi.
+Mutta dnyarrit eivät olleet tyytyväisiä orjarotuihinsa.
+Yulit ja drallit olivat alempiarvoisia, ne päättivät
+ja ne käskivät meitä polttamaan heidän maailmansa, ja me teimme niin.
+Dnyarrit pitivät meistä Ur-Quaneista erityisesti
+ja alkoivat työskennellä geeniemme kanssa... parantaakseen meitä, suosimiaan orjia.
+Heidän ponnistelunsa halkaisivat Ur-Quanit kahdeksi alaroduksi
+Vihreät Ur-Quanit, tutkijat ja byrokraatit
+ja Mustat Ur-Quanit, heidän Vaikuttajansa, rakentajat, taistelijat, tekijät.
+Kohr-Ahit ovat Mustat Ur-Quanit. Kzer-Zat ovat Vihreät.
+Alan väsyä puhumiseen, olento, ja sinun aikasi käy vähäiseksi.
+Jatkan hetken vielä.
+Kun keksimme, että syvä tuska voi torjua dnyarrien henkiset voimat
+pystyimme tuhoamaan ne, mutta se vei vuosia.
+Pystytkö kuvittelemaan, olento, minkälaista on ollut pitää Murskaajaa yllään?
+Elää kuukausia loputtomassa kiljuvassa tuskassa? Ei, et voi.
+
+#(guess_thats_all)
+Veikkaanpa, että siinä se oli. Kiitoksia tiedoista. Taidamme poistua nyt.
+
+#(THEN_DIE)	kohrah-035.ogg
+Ei, eikä ollut. On muutakin mikä sinun täytyy kuulla.
+Kun sota oli ohi, suuri Kohr-Ah nousi riveistämme
+ja julisti Nykyisyyden ja Iäisyyden Tien. Puhdistaisimme galaksin.
+Kukaan ei enää ikinä uhkaisi Ur-Quaneja.
+Olimme puhdistaneet yhden kolmesta jäljelle jääneestä Yhteisön roduista ja olimme toisen kotimaailman kiertoradalla.
+Pinnalta tuli pyyntö... identtinen noiden juuri sanottujen sanojen kanssa.
+Yksisilmäiset olennot, Mael-Numit, kysyivät niin yksinkertaisesti, niin selvästi
+että meidän oli pakko selittää. Kun teimme näin, Kzer-Zat ilmestyvät.
+He eivät voineet sallia tuhoamista, he sanoivat. Orjuutus, kyllä. Vangitseminen, kyllä. Mutta ei koskaan tuhoamista.
+Hetki oli kiristynyt. Joku avasi tulen. Ensimmäinen Oppisota käynnistyi.
+Kun taistelimme, Mael-Numit karkasivat. Emme löytäneet enää koskaan niitä uudelleen.
+Kun taistelumme oli ohi, me, Kohr-Ahit, olimme hävinneet
+Kzer-Zat antoivat meidän kuitenkin mennä. Meidän karkotettiin.
+Kuljimme avaruuden läpi, vahvistimme taistelulaivastojamme
+ja jatkoimme suunnitelmaamme, galaksin puhdistamista uhista, kaikkien Ur-Quanien puolesta.
+Olet kuullut sanamme, ja ehkä ymmärrät meitä hieman paremmin.
+Mutta nyt, on aikamme puhdistaa sinut.
+
+#(what_are_you_hovering_over)
+Minkä päällä sinä roikut?
+
+#(BONE_PILE)	kohrah-036.ogg
+Minun trofeeluukuoppani.
+Siellä on yksi luuranko jokaisesta rodusta jonka minä itse olen hävittänyt.
+Hyväilen näitä luita ja muistelen hyvää puhdistusta.
+Ehkäpä sinunkin luusi koristavat tätä kuoppaa hetken
+elleivät ne vahingossa höyrysty.
+
+#(you_sure_are_creepy)
+Olette taatusti kauhistuttavia.
+
+#(YES_CREEPY)	kohrah-037.ogg
+Kun otetaan, huomioon, että edustan välitöntä kuolemaasi
+kuten myös koko lajisi tuhoutumista
+mielestäni pelkosi on oikeutettua.
+Huolimatta siitä, tarvitset puhdistusta.
+
+#(stop_that_gross_blinking)
+Lopeta tuo inha räpyttely!
+
+#(DIE_HUMAN)	kohrah-038.ogg
+Aika on tullut. Tarvitset puhdistusta.
+
+#(plead_1)
+Olkaa niin hyvät ja älkää tuhotko tätä alusta. Emme tarkoita pahaa!
+
+#(PLEADING_IS_USELESS_1)	kohrah-039.ogg
+Kahdenkymmenentuhannen vuoden aikana Tehtävässämme
+olemme kuulleet enemmän armonpyyntöjä kuin voit edes kuvitellakaan.
+Sivilisaatiot, jotka näkivät tuomionsa edessään, kutsuivat neronsa lepyttelemään meitä
+ilman tulosta.
+
+#(plead_2)
+Jos annatte meidän mennä, kerromme teille suuren salaisuuden!
+
+#(PLEADING_IS_USELESS_2)	kohrah-040.ogg
+Olemme riippumattomia. Emme tarvitse mitään. Emme tahdo mitään
+muuta kuin tietoisten eí-Ur-Quanien täydellisen tuhoutumisen.
+
+#(plead_3)
+Mitä jos lupaamme olla teidän orjianne? Saammeko elää sitten?
+
+#(PLEADING_IS_USELESS_3)	kohrah-041.ogg
+Orjuuttamisen häpeän jätämme sukulaisillemme Kzer-Zoille.
+Emme tarvitse alempiarvoisia palvelijoiksi.
+
+#(plead_4)
+Älkää hyökätkö! Emme ole vihollisianne!
+
+#(PLEADING_IS_USELESS_4)	kohrah-042.ogg
+Olet oikeassa.
+Ette ole vihollisiamme.
+Meillä EI ole vihollisia
+muita kuin Kzer-Zat, kumppanimme iankaikkisesa yhteenotossa.
+Olet pelkkä... itiö, siemen.
+Tänään et ole mitään... merkityksellistä.
+Mutta jos saatte menestyä ja kasvaa
+jonain päivänä... jonain päivänä saatatte merkitä uhkaa vapaudellemme ja turvallisuudellemme.
+Joten puhdistamme.
+
+#(bye)
+Olen kuullut tarpeeksi teidän hulluuttanne. Hyvästi.
+
+#(GOODBYE_AND_DIE)	kohrah-043.ogg
+Ennenkuin tuhoamme muita ajattelevia olentoja, jaamme heille tämän lohduttavan tosiasian.
+Tämä elämänne... joka loppuu välittömästi tämän lauseen jälkeen
+on vain yksi kaikista elämistä mitä elämme.
+Ehkä seuraavassa inkarnaatiossasi
+synnyt Ur-Quanina.
+
+#(GAME_OVER_DUDE)	kohrah-044.ogg
+Huomio, ihminen!
+Tämä lähetys kertoo teille häviöstänne.
+Me, Kohr-Ahit, olemme tuhonneet kaikki tietoiset rodut tästä avaruuden osasta
+ja nyt olemme myös eliminoineet Maa-planeettanne kiertoradalla olevan Avaruusaseman.
+Yrityksenne vastustaa meitä ovat turhia.
+Olette hävinneet!
+
+#(OUT_TAKES) kohrah-045.ogg
+Me olemme Ur-Quanien Kohr-Ahit...
+...Nykyisyyden ja Iäisyyden Tien seuraajat!
+Olette saastaa. Puhdistamme.
+TULETTE annihgiloitumaan.. tarkoitan annihigoitumaan.. prkl!
+POIKKI! POIKKI! Aloitetaan alusta!
+Hei, herra ohjaaja... VOISITKO keksiä jonkun MUUN sanan kuin...
+...ahnigiloitua... Tarkoitan, ääh, miksi suotta. Luovutan.
+  

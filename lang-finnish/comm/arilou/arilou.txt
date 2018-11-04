@@ -1,0 +1,512 @@
+#(INIT_HELLO)	arilou-000.ogg
+Hei, pikkuiseni. Olen niin tyytyväinen nähdessäni sinut!
+Elämä on kohdellut sinua hyvin.
+Se on ilahduttavaa.
+
+#(confused_by_hello)
+Kuulostat aivan siltä, kuin tuntisit minut. Olemmeko me tavanneet?
+
+#(CONFUSED_RESPONSE)	arilou-001.ogg
+Unohdin. Tietenkään et tunne minua. Olet Unzervaltista, et Maasta.
+Me olemme, kuitenkin, kuinka sanoisin, sukulaisia.
+Siitä on kulunut monta vuotta, kun viimeksi kävin teidän planeetallanne, Maassa.
+Meidät tunnetaan joukossanne monella nimellä... Osa niistä on imartelevia, osa ei.
+Nimi, jota käytämme eniten, oli kelttien lapsien meille antama. Ihmeellinen kulttuuri!
+He kutsuivat meitä nimellä Arilou... Arilou Lalee'lay.
+Äskettäin me olimme osa Vapaiden Tähtien Allianssia teidän kanssanne
+kunnes päätimme palata omaan... ah, miten sanoisitte... todellisuuteemme
+kun tuli selväksi, että kansanne on tarpeeksi turvassa Ur-Quanien orjakilven alla.
+
+#(happy_by_hello)
+Tiedän keitä olette! Olette arilouja!! Olemme pitkään miettineet mitä kansallenne on tapahtunut.
+
+#(HAPPY_RESPONSE)	arilou-002.ogg
+Olet hyvin älykäs!
+Kyllä, minä olen Arilou Lalee'lay ja luulen, että siitä on hyvin pitkä aika, kun olet viimeksi tavannut yhden meistä.
+Luulen, että te ihmiset olette edelleen erittäin lyhytikäisiä. Kuinka surullista.
+No silti. Vastatakseni kysymykseesi, me päätimme keskeyttää toimintamme Vapaiden Tähtien Allianssin kanssa
+kun näytti siltä, että ei olisi enää mitään, mikä voisi uhata meidän Maan asukkaita.
+Olen tyytyväinen että sinä, orjakilven ulkopuolelta, olet selviytynyt. Vaikutat terveeltä.
+
+#(miffed_by_hello)
+Aivan. Ne ovat arilout. Miksi helvetissä häivyitte pois Vapaiden Tähtien Allianssista? Mitä tapahtui?
+
+#(MIFFED_RESPONSE)	arilou-003.ogg
+Olet ärsyyntynyt. Kuinka mielenkiintoista.
+Siitä on niin kauan kun viimeksi olin ihmisten kanssa. En muista millaista se oli.
+Katsotaanpas, kuinka saisin tyynnytettyä sinut parhaiten? Aivan, jos oikein muistan, rehellinen vastaus auttaisi
+Emme itseasiassa 'häipyneet'.
+Päätimme poistua kun ei enää ollut mitään syytä jäädä.
+Te ihmiset näytitte olevan tarpeeksi suojassa Ur-Quanien orjakilven alla.
+Itse asiassa me pidimme ideasta ja toivoimme, että olisimme itse ajatelleet sitä.
+Teidän turvallisuutenne takia, tietenkin.
+
+#(FRIENDLY_SPACE_HELLO_1)	arilou-004.ogg
+Kas... meidän ihmisystävämme. Jutelkaamme jonkin aikaa.
+Siitä on niin monta vuotta, kun viimeksi kävin Maassa
+niin kauan kun viimeksi liidin teidän avoimien peltojenne päällä täysikuun valossa.
+Kerro minulle Maasta. Kerro minulle mitä minä... ah, unohdin taas... kuinka hassua.
+Sinä synnyit Unzervaltin kaukaisessa maailmassa.
+Viime käynnistäni siellä on paljon vähemmän aikaa.
+
+#(FRIENDLY_SPACE_HELLO_2)	arilou-005.ogg
+Hei, älykäs lapseni.  Tapaamme taas uudelleen ja minä olen tyytyväinen.
+Teidän kansanne on niin kaunista... niin pilaamatonta.
+Teidän vaistonne ovat kuin parfyymia... teidän motiivinne kuin välkkyvä kristalli.
+
+#(FRIENDLY_SPACE_HELLO_3)	arilou-006.ogg
+Viime yönä, kun nukuit, minä kosketin kasvojasi ja sinä hymyilit!...
+mutta nyt rypistät kasvojasi. Sääli. Hymyily on terveellisempää.
+
+#(FRIENDLY_SPACE_HELLO_4)	arilou-007.ogg
+Toivoitko sinä tätä tapaamista, vai toivoimmeko me?
+
+#(FRDLY_HOMEWORLD_HELLO_1)	arilou-008.ogg
+Haha! Meidän älykäs holhokkimme on löytänyt kolomme *ajassa*!
+Sinä olet ensimmäinen, rohkea ihminen! Kukaan muu ei ole tehnyt tätä matkaa.
+Tämä on kotimaailmamme, Falayalaralfali, mukavassa suojassa tässä Avaruuden pyörteessä.
+Portaali, josta menit läpi on harvinaisuus, luonnollinen paikka ulottuvuudenväliselle väsymykselle.
+Käytämme tätä ilmiötä nopeuttaaksemme kulkuamme todellisuuksien läpi.
+Ihmettelemme, oletko tavannut umgaheja lähiaikoina?
+Luotimme haavoittuneen Puhuvan Lemmikin heidän hoivaansa
+ja olemme uteliaita sen kunnosta.
+
+#(FRDLY_HOMEWORLD_HELLO_2)	arilou-009.ogg
+Tervetuloa takaisin Falayalaralfaliin, Kapteeni.
+Ehkäpä, ajan täyttyessä, päästäisimme sinut käymään planeettamme pinnalla.
+Siellä on paljon milläänvertaamattomia kauneuksia... Ajatuksen Vuoristopilvet
+Konkreettinen toive... Pimeys. Harmi, et ole vielä... mukautunut.
+Liian aikainen altistus voisi saattaa sinut... tunnottomaksi.
+
+#(FRDLY_HOMEWORLD_HELLO_3)	arilou-010.ogg
+Päivää. Olemme tyytyväisiä nähdessämme sinut taas uudelleen. Onko sinulla vielä yhtään tunnottomuutta?
+Hyvä. Olisi ollut liian aikaista. Aivan liian aikaista.
+
+#(FRDLY_HOMEWORLD_HELLO_4)	arilou-011.ogg
+Niin, Kapteeni. Mitä Falayalaralfalin Arilou Lalee'layt voivat tehdä hyväksesi tänään?
+
+#(whats_up_1)
+Mikä muuten on teidän yhteytenne Maahan ja ihmisiin?
+
+#(whats_up_2)
+Olen edelleen hämmentynyt suhteestamme. Voisitteko täsmentää?
+
+#(GENERAL_INFO_1)	arilou-012.ogg
+Olet utelias. Se on lupaava ominaisuus.
+Kuinka voisimme kuvailla suhdettamme ihmisiin?...
+Älkää epäilkö motiivejamme, Kapteeni. Teidän hyvinvointinne on tärkeää jokaiselle Ariloulle.
+Tiedät varmasti, että päivä sen jälkeen, kun ihmiskunta liittyi Vapaiden Tähtien Allianssiin
+me ilmestyimme esiin ensimmäisen kerran. Tämä ei ollut sattumaa.
+Me halusimme suojella teitä. Kun näimme, että olitte... no, suojassa
+päätimme hoitaa muita asioita lyhyen aikaa.
+Usko minua, Kapteeni, me olemme tunteneet toisemme hyvin pitkään.
+Voisi jopa sanoa, että me tunsimme ensimmäisen ihmisen.
+
+#(GENERAL_INFO_2)	arilou-013.ogg
+Olette piirtäneet kuviamme luolien seiniin, pystyttäneet suuria kiviä ja pyramideja meille.
+Olette kukin ihmetelleet meidän jälkiä viljapelloillanne
+ja kirjoittaneet kirjoja paljon yksityisemmistä tapaamisistamme
+kun annoimme teidän muistaa meidän tutkimuksemme.
+Meidän historiamme on yhteinen, Kapteeni, ja te olette tulleet pitkän matkan.
+Mutta minun täytyy varoa. Ette ole valmiita kaikkeen
+ja minä pelkään, että te ette ymmärrä mikä oli parasta teille.
+
+#(GENERAL_INFO_3)	arilou-014.ogg
+Kuten tiedät, me emme ole koskaan paljastaneet mistä päin galaksia kotiplaneettamme löytäisi.
+Siihen on hyvä syy. Me emme ole teidän avaruudestanne tai teidän *ajastanne*.
+Jotkut teidän kyvykkäimmistä ajattelijoistanne uskovat toisiin ulottuvuuksiin.
+Vaikkakin hankalaa, tämä on sopiva vertaus teidän älyllenne.
+Ehkä tunnetkin orzit. Kuten me, he ovat ulottuvuusmatkaajia
+mutta siihen meidän samankaltaisuutemme loppuukin.
+Älä luota orzeihin, hyvä ihmiskapteenini. He ovat vaarallisia.
+Mutta vastatakseni kysymykseesi... suhteemme...
+Vuorovaikutuksemme teidänlaisten kanssa kutsuminen kokeeksi olisi aivan liian yksinkertaista ja persoonatonta.
+Sanokaamme vain, että me olemme kiinnostuneita teidän... kehityksestänne.
+Olette osa meidän... laajennettua perhettämme, kuten muutkin älylliset muissa ulottuvuuksissa
+omistavat laajennetut perheensä.
+Olemme ylpeitä teistä, kuten tekin olisitte lapsistanne, ja jonain päivänä
+no, olen jo sanonut liian paljon.
+
+#(GENERAL_INFO_4)	arilou-015.ogg
+Tiedät jo enemmän kuin on soveliasta. Itse asiassa, voit edustaa onnetonta ongelmaa.
+Olet ollut tähdissä jo kauan aikaa. Etsitkö ovea, vai oletko vain ohikulkumatkalla?
+Muista, voit mennä siitä luonnollisesti vain niinä kolmena päivänä kun se on auki.
+Kuinkako löytää se? Katso tähtikarttaasi 17. ja 20. päivän välillä. Ailahteleva tähti olkoon oppaanasi.
+
+#(why_you_here)
+Mitä te teette täällä, tässä avaruuden osassa?
+
+#(LEARN_THINGS)	arilou-016.ogg
+Me olemme monessa paikassa, monessa *ajassa*. Tämä paikka on yksi helppo paikka... yksi kymmenestä helposta paikasta.
+Eri aikoina tutkimme erilaisia helppoja paikkoja. Se on tapamme.
+Ah! Voin nähdä silmiesi katseesta, että olen saanut sinut hämmennyksiin. Olen hassu.
+Voisitko olla piittaamatta sanoistani.
+
+#(what_things)
+Mitä varten tutkitte näitä 'helppoja paikkoja'?
+
+#(THESE_THINGS)	arilou-017.ogg
+Aiomme kaapata *Nnngn*, mutta ne sinkoilevat ja loikkivat.
+SINÄ et voi kaapata *Nnngn*... älä edes yritä.
+En usko, että voit edes koskettaa niitä; et ole tarpeeksi kiinteä.
+
+#(why_do_it)
+Selvä, kaappaatte näitä nungi-juttuja. Mitä sitten?
+
+#(DO_IT_BECAUSE)	arilou-018.ogg
+Mutta me päästämme ne menemään, tietenkin! *Nnngn* ei pidä vangittuna olemisesta!
+Kapteeni, nämä asiat mistä me puhumme... ne eivät ole tärkeitä sinulle... ne ovat kuin unia.
+Sanojemme pitäisi koskea teidän maailmankaikkeuttanne... ei meidän.
+
+#(give_me_info_1)
+Taistelemme yhä Ur-Quaneja vastaan. Voitteko auttaa meitä?
+
+#(ARILOU_HINTS_1)	arilou-019.ogg
+Aluksilla ja aseilla... verellä ja luilla.. ei.
+Viimeisessä yhteenotossa... liian monta toveria joutui väkisin... poistumaan.
+Yhteistyömme ei ole pakollista. Sinä olet keskipiste.
+Tieto ylittää kuitenkin todellisuuden rajat, ja tämän me voimme jakaa teidän kanssanne.
+Esimerkiksi: löytääksesi punaisten luotaimien lähtöpaikan
+etsi olentoja, jotka asuttavat maailmaa, jossa ei ole pintaa.
+
+#(give_me_info_2)
+Voitteko antaa meille enemmän informaatiota?
+
+#(ARILOU_HINTS_2)	arilou-020.ogg
+Myconit muuttavat ja uudelleenluovat maailmoja Syvillä Lapsillaan.
+Nämä muutokset vaikuttavat muihin epäonnekkaasti.
+Maailmasi ja sydämesi tulevaisuus yhdistyvät näihin asioihin.
+
+#(ARILOU_HINTS_3)	arilou-021.ogg
+Ur-Quanien ja Kohr-Ahien omatunto tuskan muistosta vihloo heitä.
+He vastaavat näihin sanoihin.
+Pysähtykää! Se mitä teette meille on väärin! Miksi teette näin?
+
+#(ARILOU_HINTS_4)	arilou-022.ogg
+Vihollisesi vihollinen on ystäväsi... ainakin jonkun aikaa.
+
+#(bye_friendly_space)
+Näkemiin, Arilou.
+
+#(GOODBYE_FRIENDLY_SPACE)	arilou-023.ogg
+Näkemiin, lapseni.
+
+#(GOT_PART_YET_1)	arilou-024.ogg
+Tulevaisuudennäkymä helpon taipaleen jakamisesta teidän kanssanne jännittää meitä.
+Jos olet löytänyt Ur-Quanien Vääristysmoottorin, niin tämä mahdollisuus saattaa käydä toteen.
+
+#(GOT_PART_YET_2)	arilou-025.ogg
+Me olemme niin innostuneita, kun saamme antaa teille meidän keinot todellisuuden ylitykseen.
+Oletko saanut vielä Vääristysmoottoria?
+
+#(INIT_ANGRY_HWLD_HELLO)	arilou-026.ogg
+Olet löytänyt maailmamme. Emme ajatelleet tätä
+ja nyt on liian myöhäistä sovittaa ilman vaurioita
+Mutta ehkä tilanne voidaan ratkaista muullakin keinolla.
+Vastaus on seuraavassa lauselmassasi.
+
+#(invaders_from_mars)
+Te olette kuin... valloittajat Marsista! Outoja, pahoja hirviöitä!
+
+#(HAD_OUR_REASONS)	arilou-027.ogg
+Ei. Me emme aio valloittaa vaan soluttautua, Siinä on eroa.
+Teidän tarinanne pahoista olioista... ne ovat vain... sivuvaikutuksia.
+Älä kuuntele niitä.
+
+#(bug_eyed_fruitcakes)
+Ei-ei-ei-ei-ei! Minä pysäytän teidät! Te ötökkäsilmäiset sekopäät olette silponeet viimeisen lehmämme!
+
+#(WE_NEVER_FRIENDS)	arilou-028.ogg
+Me halusimme sydämellistä yhteisymmärrystä teidän kanssanne, Kapteeni
+kun me olisimme voineet ihan yhtä helposti tehdä moisia kokeita sinulle.
+Emme taistele lapsiemme kanssa. Näkemiin.
+
+#(ok_lets_be_friends)
+Katsokaas, olen pahoillani. Olen tehnyt joitain virheitä. Tarvitsemme teitä liittolaisina, emme vihollisina.
+
+#(NO_ALLY_BUT_MUCH_GIVE)	arilou-029.ogg
+Emme ole olleet koskaan teidän vihollisianne, vaikka teidän kansanne onkin luullut niin.
+Mutta emme ole myöskään teidän liittolaisianne. Se vaatisi asteen enemmän osallistumista tässä *ajassa*
+mikä ei ole parhaillaan sallittua.
+Nyt olemme yksinkertaisesti teidän ystäviänne... joilla on paljon annettavaa.
+
+#(why_should_i_trust)
+Miksi luottaisin teihin? Teitte hassuja juttuja sille kauhukirjoittajalle joskus sitten, vai?
+
+#(TRUST_BECAUSE)	arilou-030.ogg
+Me teemme monia asioita, osa hassuja... ainakin meidän perusteidemme mukaan.
+Sinä et VOI ymmärtää osaa siitä mitä teemme, tai miksi.
+Joten olisi parasta jos vain pitäisit meitä...  vekkuleina.
+
+#(what_about_interference)
+Mikä antaa kansallenne oikeuden sekaantua omaani?
+
+#(INTERFERENCE_NECESSARY)	arilou-031.ogg
+Mikä antaa sinulle oikeuden liikkua, oikeuden pudota?
+Jotkut toiminnot ovat motivoituja, osa on automaattisia.
+Älä luulekaan että voisit päättää mikä on mikäkin kenelle tahansa paitsi itsellesi
+tai voit tulla... pettyneeksi.
+
+#(i_just_like_to_leave)
+Aivan, selvä, miten vain. Antakaa vain minun häipyä nyt, okei?
+
+#(SORRY_NO_LEAVE)	arilou-032.ogg
+Tämä asia täytyy ratkaista, tai monta tapahtumasarjaa tulee... paljon vaikeammaksi.
+Sinun läsnäoloasi tarvitaan.
+
+#(what_about_war)
+Eli MITÄ tapahtui Sodan loputtua?
+
+#(ABOUT_WAR)	arilou-033.ogg
+Antakaa anteeksi meille, jos me unohdamme tällaisten asioiden tärkeyden teille.
+Meidän... asiayhteytemme on äärettömästi laajempi kuin teidän, sekä tilassa että *ajassa*.
+Huolimatta siitä, miellyttääkseni sinua yritän palauttaa mieleeni
+kyllä, nyt muistan. Tässä on järjestyksessä
+kun Ur-Quanien laivastot kulkevat teidän aurinkokuntanne läpi ja te häviätte
+kansanne tekee päätöksen olla sotimatta Ur-Quanien puolesta ja kanssa.
+Suuri kilpi luodaan maailmanne ylle. Kansanne on nyt turvassa. Se tekee meidät onnellisiksi.
+Armada lähtee aurinkokunnastanne ja suuntaa kohti jäljellä olevia Allianssin jäseniä
+eli meitä, syreenejä, yehateja ja heidän huostaansa ottamiaan shofixteja.
+Yehatit ja shofixtit vetäytyvät Delta Gornoon, mutta he eivät anna syreenien seurata.
+Me olemme tyytyväisiä tapahtumien kulkuun ja lähdemme alueelta palataksemme tänne.
+Meidän näkökulmastamme tämä tapahtumasarja päättyy tähän.
+
+#(what_about_urquan)
+No mitä sitten Ur-Quaneista? Mitä he haluavat?
+
+#(ABOUT_URQUAN)	arilou-034.ogg
+Pian sen jälkeen, kun Ur-Quanit valtasivat yehatit ja vangitsivat syreenit Betelgeuseen
+heidän sisaruksensa saapuivat aloittaakseen Oppien Yhteenoton.
+Tämä taistelu jatkuu kokoajan kun me puhumme.
+
+#(best_if_i_killed_you)
+Mielestäni olisi parasta, jos tappaisin teidät nyt.
+
+#(WICKED_HUMAN)	arilou-035.ogg
+Vaistot. Vaistot. Vaistot. Aina vain vaistot.
+
+#(what_did_on_earth)
+Mitä te tarkkaan ottaen olette tehneet Maassa?
+
+#(DID_THIS)	arilou-036.ogg
+Tahdot rehellisyyttä. Sitä saat.
+Olemme vierailleet maailmassanne monien tuhansien vuosien ajan lajinne menneisyydessä.
+Olemme vaihtaneet asioita... tehneet muutoksia.
+
+#(why_did_this)
+Mitä vaihdoitte ja muutitte Maapallolla, JA MIKSI?!
+
+#(IDF_PARASITES)	arilou-037.ogg
+Meidän motiivimme ovat moninkertaisia, halumme monimutkaisia.
+Osa siitä, mitä teemme Maassa, on teidän suojaksenne.
+On loisia. Olentoja, jotka asuttavat Toista Puolta.
+Niillä on nimiä, mutta te ette tiedä niitä. Ne haluaisivat löytää teidät
+mutta ne ovat sokeita teidän olemassaolollenne... paitsi jos näytätte itsenne.
+Androsynthit esittivät itsensä, ja jokin huomasi heidät.
+Ei ole enää androsynthejä. Vain orzit.
+
+#(tell_more)
+Tämä kuulostaa pelottavalta. Voisitko jatkaa.
+
+#(NOT_NOW)	arilou-038.ogg
+Ei. Tietämättömyys on tavallaan teidän panssarinne, teidän paras suojauksenne.
+Ne eivät voi nähdä teitä nyt. Ne eivät voi haistaa teitä.
+Suurin osa työstämme kansanne kanssa koski teidän tekemistänne näkymättömäksi... teidän hajunne muuttamista.
+Jos kerron lisää, katsot sinne minne et ole koskaan ennen katsonut
+ja kun katsot sinne sinut voidaan nähdä ja myös nähdään.
+Et halua tulla nähdyksi.
+
+#(umgah_acting_weird) 
+Olemme tavanneet umgahit, ja he käyttäytyvät erittäin oudosti, kuin zombie-kuplat!
+
+#(learned_about_umgah) 
+Oletteko vielä saaneet saaneet tietää mitään umgaheista?
+
+#(WELL_GO_CHECK)	arilou-039.ogg
+Hmmm... nämä ovat häiritseviä uutisia. He ovat tavallisesti äärimmäisen riehakkaita.
+Lähetämme aluksia umgahien avaruuteen tutkimaan tilannetta.
+Meillä pitäisi olla vastauksia muutaman päivän päästä.
+
+#(NO_NEWS_YET)	arilou-040.ogg
+Tutkimusaluksemme eivät ole palanneet. Olemme huolestuneita.
+Jos kysyt myöhemmin, ehkä tiedämme.
+
+#(UMGAH_UNDER_COMPULSION)	arilou-041.ogg
+Olemme havainneet jotain outoa ja pelottavaa umgaheista.
+Kun lähestyimme heidän aluksiaan, kimppuumme hyökättiin heti
+ja umgahit eivät yrittäneet ottaa yhteyttä aluksiimme tai vastata meidän kutsuihimme.
+Käyttämällä omia psyykkisiä aistejamme päättelimme, että he ovat jonkinlaisen psyykkisen pakotuksen vallassa.
+Psyykkisen kontrollin komentojen lähde näyttää olevan Beta Orionis, umgahien kotitähti.
+Lähetimme aluksia tutkimaan tätä paikkaa, mutta yksikään ei ole palannut... pelkäämme, että ne on tuhottu.
+
+#(what_do_now)
+Eli mitä me voimme tehdä näille psyykkisesti zombifoiduille kuplille?
+
+#(GO_FIND_OUT)	arilou-042.ogg
+Emme ole saaneet tuloksia tutkimuksillamme.
+Mikä ikinä hallitseekin Umgaheja on uhka, mutta me näytämme olevan valmistumattomia sen käsittelyyn.
+Ehkä sinä ja sinun miehistösi olette paremmin tähän tehtävään soveltuvia.
+Jos päätät mennä Beta Orionikseen, ole varovainen, lapsi
+mikä ikinä hallitseekin umgaheja tietää  nyt meidän olemassaolostamme
+ja se saattaa varautua meitä vastaan.
+
+#(tell_arilou_about_tpet)
+Umgahien pakkomielteen lähde on Puhuva Lemmikki, jonka annoitte Umgaheille
+mutta nyt se on älykäs ja omaa outoja voimia.
+
+#(BAD_NEWS_ABOUT_TPET)	arilou-043.ogg
+Nämä ovat todella pahoja uutisia. Tämä olento, yliälykäs, on fyysisesti
+erittäin samanlainen kuin olio rodusta, jonka luultiin kadonneen yli 20 000 vuotta sitten.
+Niiden nimi oli Dnyarri, ja historia kertoo, että ne hallitsivat suurta osaa galaksista
+monen tuhannen vuoden ajan. Dnyarrit olivat julmia ja katalia
+ja kun eräs niiden orjaroduista lopulta nujersi ne
+ne luultavasti hävitettiin.
+Ehkä tämä Puhuva Lemmikki on dnyarrien rappeutunut hedelmä.
+
+#(what_do_about_tpet)
+Eli mitä meidän pitäisi tehdä tälle dnyarri-olennolle?
+
+#(DANGEROUS_BUT_USEFUL)	arilou-044.ogg
+Dnyarrit olivat vihamielisin rotu, jonka tämä galaksi on tuntenut.
+Muissa ulottuvuuksissa, muissa *ajoissa* on paljon, paljon häijympiä olioita
+mutta ne eivät uhkaa sinua tällä hetkellä.
+Hallintakaudellaan dnyarrit omistivat absoluuttisen kontrollin kaikkiin älykkäisiin lajeihin tällä alueella.
+Ne käyttivät orjiaan kaikkiin vähäpätöisiin töihin ja erilaisiin turmeltuneisiin viihdykkeisiin.
+Jos Puhuva Lemmikki, jonka annoimme umgaheille, on saavuttanut esi-isiensä pakotuskyvyt
+meidän täytyy olettaa että muutkin Puhuvat Lemmikit voivat tehdä samoin.
+Täten tämä olento täytyy luokitella galaksin vaarallisimmaksi olioksi.
+Sen tuhoaminen on välttämätöntä... paitsi jos
+sinä löydät jonkun keinon hallita sitä!
+Jos voit tehdä näin, sinulla on voimakas ase Ur-Quaneja vastaan.
+Tietenkin, jos teet yhdenkin virheen, sinusta voi tulla Dnyarrin ikuinen orja.
+
+#(what_give_me)
+Sanoit, että teillä on paljon annettavaa kansalleni. Voisitko olla tarkempi?
+
+#(ABOUT_PORTAL)	arilou-045.ogg
+Kuten tiedätkin, me asumme hyperavaruuden rinnakkaisessa ulottuvuudessa jota me kutsumme Kvasiavaruudeksi.
+Meidän aluksemme kulkevat näiden ulottuvuuksien välillä ulottuvuuksienvälisen rakenteen heikkouksien läpi.
+Vaikka onkin olemassa monta heikkoutta, tai portaalia, jotka johtavat meidän ulottuvuudestamme, kvasiavaruudesta
+moneen sijaintiin hyperavaruudessa, on vain yksi normaalisti esiintyvä portaali
+joka siirtää aluksen hyperavaruudesta kvasiavaruuteen.
+Täten mielestämme on mukavaa luoda omia portaalejamme keinotekoisesti
+kohdistetuilla ulottuvuudenväsyttämis- säteilllä.
+Pitkäikäisen kanssakäymisen merkiksi teidän lajinne kanssa
+me asentaisimme mielellämme sinun alukseesi Portaalinluojan
+mutta aluksesi on niin massiivinen, että meidän yksikkömme ovat tehottomia. Kuitenkin
+me arvelemme, että saattaisit löytää tarpeeksi tehokkaan vääristysmoottorin, Portaalinluojan tärkeimmän osan
+Ur-Quanien Taistelulaivan haaskesta Alfa Pavoniksen seitsemännessä maailmassa.
+Tuo tämä vääristysmoottori tänne, ja me valmistamme Portaalinluojan alustasi varten.
+
+#(what_about_tpet)
+Mainitsit Puhuvan Lemmikin. Kuinka löysitte sen?
+
+#(ABOUT_TPET)	arilou-046.ogg
+Me olemme loputtoman utelias laji, ja me vietämme paljon ajastamme
+kuinka sanoisin, tiedustelutehtävissä.
+Eräällä sellaisella matkalla me todistimme Ur-Quanien Taistelulaivan hätälaskeutumisen
+Alfa Pavonis 7:n pinnalle.
+Normaalisti, kun Ur-Quanien alus lamautetaan, se automaattisesti käynnistää itsetuhopiirit
+estääkseen muita rotuja oppimasta Ur-Quanien teknologisia salaisuuksia.
+Tässä tapauksessa näiden piirien on kuitenkin täytynyt pettää. Taistelulaiva ei pirskoutunut törmäyksessä.
+Me laskeuduimme tutkiaksemme haaksen, ja olimme hämmästyneitä löytäessämme henkiinjääneen... Puhuvan Lemmikin!
+Kuten tiedät, Ur-Quanit käyttävät näitä ei-tietoisia olentoja lajienväliseen tulkkaukseen
+tehtävä, minkä Ur-Quanit luokittelevat epämiellyttäväksi.
+Puhuva Lemmikki oli hieman loukkaantunut, ja me teimme mitä voimme tänne epäonniselle olennolle
+mutta tuli selväksi, että ilman parempia menetelmiä Puhuva Lemmikki kuolisi.
+Me käännyimme umgahien puoleen, jotka olemme tunteneet jo satojen vuosien ajan.
+Heidän biotieteensä on paljon meitä edellä.
+Umgahit lupasivat tehdä mitä he voisivat, ja ilmoittaisivat meille kuinka Lemmikki voi.
+Emme ole kuulleet umgaheilta mitään sen jälkeen.
+Jos kuljet heidän tähdistöjensä läpi, ehkä voisit kysyä heiltä.
+
+#(about_portal_again)
+Voisitko kertoa tästä Portaalinluoja -jutusta uudelleen?
+
+#(PORTAL_AGAIN)	arilou-047.ogg
+Mielelläni. Merkkinä pitkäaikaisesta ystävyydestämme lajinne kanssa
+asentaisimme mielellämme alukseesi Portaalinluojan
+mahdollistaen sinulle kyvyn hypätä paikasta toiseen hyperavaruudessa ilman pitkän matkan kulkemista.
+Sinun aluksesi on kuitenkin niin massiivinen, että meidän yksikkömme olisivat riittämättömiä
+mutta löydät tarpeeksi voimakkaan vääristysmoottorin Ur-Quanien Taistelulaivan haaskesta
+Alfa Pavonis 7:stä. Tuo tämä vääristysmoottori tänne, ja me laitamme Portaalinluojan sinun alukseesi.
+
+#(got_it)
+Olen hankkinut Vääristysmoottorin Ur-Quanien haaskesta.
+
+#(CLEVER_HUMAN)	arilou-048.ogg
+Mikä yllätys!
+Kuten olen aina sanonut, Ihmiset ovat KAIKISTA nokkelin ja älykkäin laji.
+Olemme niin ylpeitä sinusta! Mutta älä huoli, että sinun täytyisi odottaa.
+
+#(GIVE_PORTAL)	arilou-049.ogg
+Olemme valmiita. Tälläkin hetkellä meidän tekninen henkilöstömme varustaa alustasi
+tilaustyönä valmistetulla versiolla Portaalinluojasta.
+Laite on käytettävissä ainoastaan hyperavaruudessa. Kun se aktivoidaan
+luoja kohdistaa muutamia ulottuvuudenvälisiä väsytyssäteitä aluksesi viereen
+aukaisten väliaikaisen aukon Kvasiavaruuteen. Mene nopeasti portaalin lävitse!
+Kun aluksesi on saapunut kvasiavaruuteen, voit valita jonkun  läheisistä portaaleista
+jotka johtavat takaisin hyperavaruuteen, täten säästäen sinulta matka-aikaa.
+Ole syvästi tietoinen tästä tosiasiasta! Luoja tarvitsee suuren annoksen energiaa toimiakseen.
+Arvioimme, että joka kerta kun käytät laitetta, se syö 10 teidän polttoaineyksikköänne.
+
+#(bye_friendly_homeworld)
+Näkemiin, Arilou-ystäväni.
+
+#(GOODBYE_FRDLY_HOMEWORLD)	arilou-050.ogg
+Näkemiin, älykäs lapsi.
+
+#(HOSTILE_GOODBYE_1)	arilou-051.ogg
+Olemme sanoneet kaiken mitä on sanottavana.
+Suosittelemme nopeaa lähtöäsi, mutta olemme valmistautuneet hyökkäykseesi.
+
+#(HOSTILE_GOODBYE_2)	arilou-052.ogg
+Sinun käytöksesi on selvästi vihamielistä. Me vastustamme yhteistyökyvyttömyyttä.
+Kontaktit välillämme ovat tästä lähtien turhia.
+
+#(HOSTILE_GOODBYE_3)	arilou-053.ogg
+Etsi kuolemaa muissa nurkissa. Jätä meidät.
+
+#(HOSTILE_GOODBYE_4)	arilou-054.ogg
+Etsi kuolemaa muissa nurkissa. Jätä meidät.
+
+#(ANGRY_SPACE_HELLO_1)	arilou-055.ogg
+Emme osaa hahmottaa syitäsi, joten sinun täytyy toimia yksinkertaisesti vaiston varassa.
+Ehkä tämä on meidän vikamme. Olemme aina rakastaneet vaistoja
+vaikka emme itse omaa niitä lainkaan.
+Onko sinulla liikaa vaistoja, ihminen? Onko sinun kansallasi? Tulemme näkemään sen.
+
+#(ANGRY_SPACE_HELLO_2)	arilou-056.ogg
+Ihminen. Paiskot tuulta. Lopeta väkivaltaisuudet.
+Voisitko sinä vahingoittaa lemmikkiäsi? Lastasi? Petoasi?
+Pyydän... mieti uudelleen asemaasi.
+
+#(lets_fight)
+Anna tulla vaan, tapellaan... Friikkinaama!
+
+#(NO_FIGHT)	arilou-057.ogg
+Me emme ikinä taistelisi kanssasi, lapsi.
+
+#(im_sorry)
+Auhhh! Olen pahoillani! MITÄ MINÄ OIKEIN AJATTELIN?!!
+
+#(APOLOGIZE_AT_HOMEWORLD)	arilou-058.ogg
+Jos haluat tehdä sovinnon... etsi oudon näköinen kivi tai kasvi.
+Kuitenkin, jos haluat vaihtaa väliemme luontoa
+etsi arilout Kvasiavaruudesta. Voit tehdä matkan koordinaateissa 43.8 : 637.2
+mutta vain silloin, kun ovi on auki.
+
+#(bye_angry_space)
+Heippa.
+
+#(GOODBYE_ANGRY_SPACE)	arilou-059.ogg
+Kun olet sovittanut yhteenottomme, puhumme uudelleen.
+
+#(OUT_TAKES) arilou-060.ogg
+Uskotko todella, että Projekti Bluebook paljasti KAIKEN mitä Armeijan Ilmavoimat tiesivät?
+Tiedätkö todella, mitä OIKEASTI tapahtui Roswellissa, New Mexicossa 1940-lopulla?
+Oletko koskaan kuullut Miehistä Mustissa?
+Onko sinulla ystäviä, joilla on 'puuttuvia päiviä'?
+Nukutko lukitsematta ikkunaasi?
+Nähdään...
+

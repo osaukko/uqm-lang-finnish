@@ -1,0 +1,278 @@
+#(WE_COME_IN_PEACE_1)	probe-000.ogg
+TULEMME RAUHASSA.
+
+#(WE_COME_IN_PEACE_2)	probe-001.ogg
+TUOMME TERVEISET YSTÄVÄLLISELTÄ LAJILTA.
+
+#(WE_COME_IN_PEACE_3)	probe-002.ogg
+ÄLKÄÄ PELÄTKÖ. EMME VAHINGOITA TEITÄ.
+
+#(WE_COME_IN_PEACE_4)	probe-003.ogg
+TÄMÄ ON LUOTAIN 2418-B, RAUHANOMAISELLA TEHTÄVÄLLÄ.
+
+#(WE_COME_IN_PEACE_5)	probe-004.ogg
+TULEMME RAUHASSA JA HALUAMME PERUSTAA YSTÄVÄLLISET SUHTEET LAJINNE KANSSA.
+
+#(WE_COME_IN_PEACE_6)	probe-005.ogg
+HALUAMME TIETÄÄ ENEMMÄN TEISTÄ. LÄHETTÄKÄÄ TIETOJA, KIITOS.
+
+#(WE_COME_IN_PEACE_7)	probe-006.ogg
+TÄMÄ LUOTAIN EI OLE VIHAMIELINEN. ÄLKÄÄ HYÖKÄTKÖ.
+
+#(WE_COME_IN_PEACE_8)	probe-007.ogg
+TULEMME RAUHASSA.
+
+#(threat_1)
+Alistukaa tai tuhoutukaa!
+
+#(threat_2)
+Huomio, muukalaisluotain. Lopettakaa vihamielisyydet tai kohdatkaa vihamme.
+
+#(threat_3)
+Kuulkaa nyt, luotain! Olemme yrittäneet olla mukavia, mutta te vain ammutte meitä. Nyt me siis taistelemme!
+
+#(threat_4)
+Valmistautukaa tuhoutumiseen!
+
+#(PROGRAMMED_TO_DEFEND_1)	probe-008.ogg
+TÄMÄ LUOTAIN ON OHJELMOITU PUOLUSTAUTUMAAN VIHAMIELISTÄ KÄYTÖSTÄ VASTAAN.
+
+#(PROGRAMMED_TO_DEFEND_2)	probe-009.ogg
+ELOONJÄÄMIS -ALIJÄRJESTELMÄ AKTIVOITU. ASEET VALMIINA.
+
+#(PROGRAMMED_TO_DEFEND_3)	probe-010.ogg
+TOTEUTETAAN KOLMATTA LAKIA.
+
+#(PROGRAMMED_TO_DEFEND_4)	probe-011.ogg
+PUOLUSTUSJÄRJESTELMÄ PÄÄLLÄ. ALOITETAAN VIHAMIELISYYDET.
+
+#(something_wrong_1)
+Mitä voitte kertoa meille lajistanne?
+
+#(something_wrong_2)
+Onko jokin vialla? Meillä näyttää olevan viestintäongelmia.
+
+#(something_wrong_3)
+Yrittäkää nyt ymmärtää. Emme halua vahingoittaa teitä!
+
+#(something_wrong_4)
+Tämä juttu aiheuttaa minulle päänsärkyä. Mikä teitä oikein vaivaa?
+
+#(NOMINAL_FUNCTION_1)	probe-012.ogg
+KAUKOLUOTAIN OHJELMOITU MONISTUMAAN - TALLENTAMAAN DATAA - OTTAMAAN YHTEYTTÄ MUUKALAISLAJEIHIN.
+
+#(NOMINAL_FUNCTION_2)	probe-013.ogg
+SISÄISTEN VALVONTAMEKANISMIEN MUKAAN VIRHEITÄ EI OLE.
+
+#(NOMINAL_FUNCTION_3)	probe-014.ogg
+ALOITAN NELJÄNNEN TASON JÄRJESTELMÄTARKASTUKSEN.
+TARKASTAN... TARKASTAN... TARKASTAN...
+NELJÄNNEN TASON JÄRJESTELMÄTARKASTUS RAPORTOI TÄYTTÄ TOIMINTAKYKYÄ.
+
+#(NOMINAL_FUNCTION_4)	probe-015.ogg
+KAIKKI JÄRJESTELMÄT RAPORTOIVAT OIKEELLISESTA TOIMINNASTA.
+
+#(we_are_us_1)
+Olemme Maasta, rauhanomaisella tehtävällä.
+
+#(we_are_us_2)
+Mekin tulemme rauhassa, uskokaa nyt jo!
+
+#(we_are_us_3)
+Hmmm... ehkä käänteinen psykologia toimii. Ööh... Kuole, muukalaissaasta!
+
+#(we_are_us_4)
+Ellette jo tiedä, olemme mukavaa väkeä Maasta joiden kimppuun te hyökkäilette.
+
+#(THIS_IS_PROBE_1)	probe-016.ogg
+TÄMÄ ON LUOTAIN 2418-B. OLEMME RAUHANOMAISELLA TUTKIMUSTEHTÄVÄLLÄ.
+
+#(THIS_IS_PROBE_2)	probe-017.ogg
+TÄMÄ ON LUOTAIN 2418-B. HALUAMME SAADA YSTÄVÄLLISIÄ KONTAKTEJA MUUKALAISELÄMÄNMUOTOIHIN.
+
+#(THIS_IS_PROBE_3)	probe-018.ogg
+TÄMÄ ON LUOTAIN 2418-B. ME MONISTAMME ITSEÄMME JOTTA VOIMME LAAJENTAA TEHTÄVÄMME TOIMINTA-ALAA.
+
+#(THIS_IS_PROBE_40)	probe-019.ogg
+TÄMÄ ON LUOTAIN 2418-B.
+
+#(THIS_IS_PROBE_41)	probe-030.ogg
+KOORDINAATIT OVAT: 
+
+#(THIS_IS_PROBE_42)	probe-031.ogg
+.
+
+#(why_attack_1)
+Ojennamme ulokkeitamme ystävyydessä. Mikä on vastauksenne?
+
+#(why_attack_2)
+Miksi hyökkäätte kimppuumme? Emme ole vihamielisiä elämänmuotoanne kohtaan.
+
+#(why_attack_3)
+Tulkitsette aikomuksenne väärin. Pyydän, älkää hyökätkö!
+
+#(why_attack_4)
+Mitä väliä? Lyön vetoa että te vain hyökkäätte, sanonpa mitä hyvänsä.
+
+#(PEACEFUL_MISSION_1)	probe-020.ogg
+TEHTÄVÄN SELOSTUS SEURAA:
+KULJE AVARUUDEN HALKI KERÄTEN TIETOA
+ETSI MATERIAALEJA MONISTAMISTA VARTEN
+MONISTU LAAJENTAAKSESI TEHTÄVÄN TOIMINTA-ALAA
+OTA YHTEYTTÄ ELÄMÄNMUOTOIHIN RAUHANOMAISESTI
+KYMMENEN MONISTUKSEN JÄLKEEN PALAA LÄHTÖPAIKKAAN
+TEHTÄVÄN SELOSTUKSEN LOPPU.
+
+#(PEACEFUL_MISSION_2)	probe-021.ogg
+KÄYTTÄYTYMINEN SEURAA ANNETTUJA PRIORITEETTEJÄ
+MONISTAMINEN
+TIEDON KERÄÄMINEN
+RAUHANOMAINEN YHTEYDENOTTO MUUKALAISELÄMÄNMUOTOIHIN.
+
+#(PEACEFUL_MISSION_3)	probe-022.ogg
+MONISTUMISSTATUS
+KAHDEKSAN MONISTUMISTA
+SEURAAVA MONISTUMINEN 85-PROSENTTISESTI VALMIINA
+ARVIOIDUT MONISTUMISET LÄHTÖPAIKASTA LÄHTEMISEN JÄLKEEN
+583 MONISTUMISTA.
+ARVIOIDUT MONISTUMISET YHDEN VUODEN KULUTTUA TÄSTÄ PÄIVÄMÄÄRÄSTÄ
+14.784 MONISTUMISTA.
+ARVIOIDUT MONISTUMISET VIIDEN VUODEN KULUTTUA TÄSTÄ PÄIVÄMÄÄRÄSTÄ
+45.786.412 MONISTUMISTA.
+
+#(PEACEFUL_MISSION_4)	probe-023.ogg
+PRIORITEETIT MÄÄRÄTTY LÄHTÖPAIKASSA.
+KÄYTTÄYTYMINEN SEURAA ANNETTUJA PRIORITEETTEJA
+
+#(bye_1)
+Näkemiin, luotain.
+
+#(bye_2)
+Hyvästi, luotain.
+
+#(bye_3)
+Hyvästi ja tervemenoa.
+
+#(bye_4)
+Voisitteko jättää minut rauhaan tällä kertaa?
+
+#(GOODBYE_1)	probe-024.ogg
+LOPETETAAN YHTEYDENOTTO-ALIJAKSO.
+
+#(GOODBYE_2)	probe-025.ogg
+LOPETETAAN YHTEYDENOTTO-ALIJAKSO.
+
+#(GOODBYE_3)	probe-026.ogg
+LOPETETAAN YHTEYDENOTTO-ALIJAKSO.
+
+#(GOODBYE_4)	probe-027.ogg
+LOPETETAAN YHTEYDENOTTO-ALIJAKSO.
+
+#(HOSTILE)	probe-028.ogg
+PRIORITEETTI KUMOTAAN. UUSI KÄYTöS MÄÄRÄTÄÄN.
+KOHDE PITÄÄ HAJOTTAA OSAMATERIAALEIKSI.
+
+#(DESTRUCT_SEQUENCE)	probe-029.ogg
+KÄYNNISTETÄÄN ITSETUHOPIIRIT.
+
+#(destruct_code)
+Lähettäkää tuhokoodi!
+
+#(COORD_PLUS)	probe-032.ogg
++
+
+#(COORD_MINUS)	probe-033.ogg
+-
+
+#(COORD_POINT)	probe-034.ogg
+.
+
+#(ENUMERATE_HUNDRED)	probe-035.ogg
+sata
+
+#(ENUMERATE_THOUSAND)	probe-036.ogg
+tuhat
+
+#(ENUMERATE_ZERO)	probe-037.ogg
+nolla
+
+#(ENUMERATE_ONE)	probe-038.ogg
+yksi
+
+#(ENUMERATE_TWO)	probe-039.ogg
+kaksi
+
+#(ENUMERATE_THREE)	probe-040.ogg
+kolme
+
+#(ENUMERATE_FOUR)	probe-041.ogg
+neljä
+
+#(ENUMERATE_FIVE)	probe-042.ogg
+viisi
+
+#(ENUMERATE_SIX)	probe-043.ogg
+kuusi
+
+#(ENUMERATE_SEVEN)	probe-044.ogg
+seitsemän
+
+#(ENUMERATE_EIGHT)	probe-045.ogg
+kahdeksan
+
+#(ENUMERATE_NINE)	probe-046.ogg
+yhdeksän
+
+#(ENUMERATE_TEN)	probe-047.ogg
+kymmenen
+
+#(ENUMERATE_ELEVEN)	probe-048.ogg
+yksitoista
+
+#(ENUMERATE_TWELVE)	probe-049.ogg
+kaksitoista
+
+#(ENUMERATE_THIRTEEN)	probe-050.ogg
+kolmetoista
+
+#(ENUMERATE_FOURTEEN)	probe-051.ogg
+neljätoista
+
+#(ENUMERATE_FIFTEEN)	probe-052.ogg
+viisitoista
+
+#(ENUMERATE_SIXTEEN)	probe-053.ogg
+kuusitoista
+
+#(ENUMERATE_SEVENTEEN)	probe-054.ogg
+seitsemäntoista
+
+#(ENUMERATE_EIGHTEEN)	probe-055.ogg
+kahdeksantoista
+
+#(ENUMERATE_NINETEEN)	probe-056.ogg
+yhdeksäntoista
+
+#(ENUMERATE_TWENTY)	probe-057.ogg
+kaksikymmentä
+
+#(ENUMERATE_THIRTY)	probe-058.ogg
+kolmekymmentä
+
+#(ENUMERATE_FOURTY)	probe-059.ogg
+neljäkymmentä
+
+#(ENUMERATE_FIFTY)	probe-060.ogg
+viisikymmentä
+
+#(ENUMERATE_SIXTY)	probe-061.ogg
+kuusikymmentä
+
+#(ENUMERATE_SEVENTY)	probe-062.ogg
+seitsemänkymmentä
+
+#(ENUMERATE_EIGHTY)	probe-063.ogg
+kahdeksankymmentä
+
+#(ENUMERATE_NINETY)	probe-064.ogg
+yhdeksänkymmentä

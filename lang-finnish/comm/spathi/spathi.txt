@@ -1,0 +1,677 @@
+#(SORRY_ABOUT_THAT)	spathi-000.ogg
+Huomio, iso, ilkeä, vihamielinen muukalaisalus joka leijuu yläpuolella selvässä hyökkäysvalmiudessa:
+Tämä on spathikapteeni Fwiffo.
+Tiedän, että aiotte kiduttaa minua, joten hoidetaanpa tämä juttu loppuun heti.
+Kotimaailmani, Spathiwan, koordinaatit ovat 241.6, 368.7
+ja ultrasalainen Spathikoodi, jonka vain minä ja muutama miljardi muu spathi tiedämme
+on `Huffi-Muffi-Guffi'.
+Pahoittelen sitä pikku mokaa laskeutumisaluksenne kanssa!
+Olin niin pelästynyt kun se lähestyi alustani uhkaavalla tavalla että
+Ööh
+automaattiset puolustusjärjestelmäni tulittivat sitä kun se tuli liian lähelle.
+Toivottavasti keneenkään ei sattunut!
+
+#(identify)
+Huomio, muukalaisalus: Ilmoittakaa keitä olette tai tuhoutukaa!
+
+#(I_FWIFFO)	spathi-001.ogg
+Tietenkin, tietenkin!
+Kuten sanoin, olen spathien tyhjiöalus TähtiJuoksijan kapteeni Fwiffo.
+Sensorimme ovat jäljittäneet saapumisenne tähän tähtijärjestelmään
+minkä epäilemättä aiotte valloittaa
+ja vaikka te saattekin ilman muuta tehdä sen, arvostaisimme suuresti
+jos vain menisitte pois ja unohtaisitte että tätä tähtijärjestelmää on ikinä ollut olemassakaan, kiitos.
+Jos ette mene, se tulee vaikeuttamaan suuresti isäntä-orja -suhdettamme Ur-Quanien kanssa,
+jotka asettivat meidät tänne valvomaan Maakalaisia.
+
+#(hi_there)
+Heipä hei, ystävä! Tulemme rauhassa emmekä halua vahingoittaa sinua.
+
+#(ARE_YOU_SURE)	spathi-002.ogg
+Oletko varma?
+Koska tuo toteamuksesi on yleensä vain kohteliaampi tapa sanoa
+`Huomio, muukalaisalus: Ilmoittakaa keitä olette tai tuhoutukaa.'
+Joka tapauksessa, Minä olen Spathikapteeni Fwiffo, tyhjiöalus TähtiJuoksijasta
+joka on sijoitettu tähän aurinkokuntaan osana voimakasta Maavartio- tähtilaivuetta
+jonka isäntämme Ur-Quanit perustivat tänne varmistamaan etteivät Maakalaiset yritä mitään temppuja.
+
+#(dont_kill)
+Älkää tappako meitä!
+
+#(we_fight_1)
+Hyökkäsitte laskeutujamme kimppuun -- tapoitte miehistöämme! Valmistautukaa kuolemaan.
+
+#(we_fight_2)
+Jo riittää limainen uikutuksesi. Me taistelemme!
+
+#(OK_WONT)	spathi-003.ogg
+Uh, okei... emmehän toki!
+Muistakaa kuitenkin -- tämä tarjous voidaan perua milloin vain.
+
+#(do_cultural)
+Kehotamme teitä suorittamaan ne kulttuuriset toimitukset, joita lajinne tekee ennen kuolemaa.
+
+#(WEZZY_WEZZAH)	spathi-004.ogg
+Varmasti, mitä suopiollisin tuhoaja, kuten hyvin tiedetään, ennen tältä maalliselta kiertokäynniltä lähtemistä
+kaikkien spathien pitää suorittaa lyhyt, haikea Wezzy-Wezzah -rituaali varmistaaksen turvallinen elo tuonpuoleisessa
+ja sallimalla meidän täyttää tämä vaatimus, myönnetään sinullekin kuolemattomuus kauniissa spathitaivaassa
+jonka taataan olevan ehdottomasti vapaa niinikään kuolemattomista hirviöistä jotka söisivät muuten meidät molemmat.
+
+#(die_slugboy)
+Kuole, etanapoju!
+
+#(begin_ritual)
+Voit aloittaa rituaalisi, ja jos saan tehdä pikku ehdotuksen: hoida se loppuun alle 2 minuutissa.
+
+#(MUST_DO_RITUAL_AT_HOME)	spathi-005.ogg
+Voi kurjuutta -- varmastikin niin laajasti matkustanut viattomien tuhoaja kuin sinä
+tietää, että Wezzy-Wezzahin muodollisuudet eivät päde ellei niitä
+suoriteta kotimaailmaamme, Spathiwaa, kiertävällä suurella kuulla,
+joka on vain 143 valovuoden päässä, ja, jos oikein muistan,
+..on erityisen kaunis tähän aikaan vuodesta.
+Menemmekö sinne nyt?
+
+#(you_wont_die_yet)
+Koska olen armollinen, et kuole ennen kuin olet käyttänyt hyödyllisyytesi loppuun.
+
+#(ETERNAL_GRATITUDE)	spathi-006.ogg
+Ikuinen kiitollisuuteni on sinun, oi avuttomien olentojen tuhoaja.
+Tällaisina aikoina olen pakotettu olemaan melkein, vaikka ei täysin, pahoillani
+siitä että Ur-Quanit voittivat ja nöyryyttivät lajinne niin täydellisesti.
+
+#(we_fight)
+Nyt taistellaan!
+
+#(pay_for_crimes)
+Nyt teidän täytyy maksaa raukkamaisten isäntienne, pahojen Ur-Quanien, rikoksista.
+
+#(CLUTCH_MAVEN)	spathi-007.ogg
+Tässä vaikeassa tilanteessa mieleeni tulee se, mitä tarrautumisopastajani kerran sanoi minulle ennen ensimmäistä kuorenvaihtoani.
+`Toisinaan vihollinen on niin nopea ja tie niin petollinen ettet voi enää paeta.
+Silloin sinun täytyy kääntyä ja turvautua taistelemiseen
+ja kaikella todennäköisyydellä kuolla hirvittävästi
+mutta sitä ei koskaan tiedä milloin onni potkii, joten anti mennä!'
+
+#(you_may_live)
+Syvä omistautumisesi rituaaleillenne ja perinnäistavoillenne liikuttaa minua. Saat elää.
+
+#(HONEST_AND_FRIENDLY)	spathi-008.ogg
+Tämä ratkaisi asian, sillä olen nyt varma että olet rehellinen ja ystävällinen olento
+jonka epäonnelliset olosuhteet - maailmankaikkeudet kohtuuton vihamielisyys 
+pakottavat kulkemaan pitkin galaksia aluksessa, joka, sensorieni mukaan,
+..soveltuu parhaimmin planeetanlaajuiseen hävitykseen.
+
+#(what_are_coordinates)
+Saattaisimme sinut mielellämme kotimaailmaasi. Mitkä ovat sen hyperavaruuskoordinaatit?
+
+#(COORDINATES_ARE)	spathi-009.ogg
+Ihmeellinen kotiplaneettani Spathiwa kiertää rataansa turvallisen matkan päässä Yuffosta, oranssista jättiläisestä
+joka on hyperavaruuskoordinaateissa
+hei -- odotas hetkinen!
+Onko tämä joku Homosappien temppu saada selville kotimaailmani sijainti
+niin että voitte käydä siellä kylvämässä tuhoa?!
+
+#(tell_me_coordinates)
+Kerro nyt ne koordinaatit, senkin muukalaiskoiranlima!
+
+#(FAKE_COORDINATES)	spathi-010.ogg
+Hmmm... Huomaan
+Hyvä on sitten, uhkauksesi ovat pakottaneet minut paljastamaan tämän salaisuuden
+Spathiwa on ensimmäinen planeetta katsoen tähdestä, joka on hyperavaruudessa (570.4, 979.5)
+
+#(TOO_SCARY)	spathi-011.ogg
+Sinulla on niin monta alusta laivastossasi, että teihin liittymisen sijasta
+taidan vain pötkiä pakoon.
+
+#(youve_got_me_all_wrong)
+Ei, ei ei! Olet saanut aivan väärän käsityksen. Lupaan olla kiltti.
+
+#(SORRY_NO_COORDS)	spathi-012.ogg
+Ööh... enpä tiedä.
+Haluaisin uskoa sinua, haluaisin todellakin, mutta riski kansaani kohtaan on liian suuri.
+Taisin muutenkin juuri unohtaa koordinaatit -- katsotaan pystyisinkö muistamaan ne
+en!
+Pelkäänpä että ne ovat poissa ikuisesti, joten minun kiduttamiseni olisi aikasi tuhlaamista.
+
+#(what_doing_on_pluto_1)
+Mitä teet täällä Plutossa?
+
+#(ABOUT_20_YEARS_AGO)	spathi-013.ogg
+Noin 20 vuotta sitten tätä avaruuden aluetta hallitsi Vapaiden tähtien allianssin nimellä tunnettu löysä valtioliitto,
+joka koostui näillä alueilla asuvista muukalaisista, jotka eivät halunneet tulla orjuutetuiksi.
+He vastustivat uljaasti ylivoimaisia Ur-Quanien joukkoja
+ja näytti jopa siltä, että he saattaivat ihmeen kaupalla voittaa Ur-Quanien yhdistyneen armadan
+aina siihen asti kunnes Ur-Quanit voittivat heidät täydellisesti - tosiaankin, hävittivät heidät.
+
+#(what_doing_on_pluto_2)
+Mitä sinä siis TEET Plutossa?
+
+#(WHEN_URQUAN_ARRIVED)	spathi-014.ogg
+Kun Ur-Quanien armada saapui tähän aurinkokuntaan alistaakseen Maakalaiset muodollisesti,
+Ur-Quanit esittivät ihmisille standardit orjien vaihtoehdot:
+liittyä Hierarkiaan taisteluorjina, ja säilyttää osittainen autonomia, sisältäen oikeuden avaruusmatkustamiseen
+tai tulla 'kesanto'lajiksi ja palata esiatomiseen raakalaisuuteen planeettansa pinnalla
+suljettuna ikiajoiksi läpäisemättömän voimakilven alle.
+Ihmiset valitsivat jälkimmäisen vaihtoehdon, ja vangittiin pikaisesti maan pinnalle
+mutta Ur-Quanit eivät uskoneet että he tottelisivat rajoituksia... joten
+he valitsivat pienen ryhmän Hierarkian taistelualuksia ilwrathien ja spathien laivastoista
+luodakseen niin kutsutun Maavartion ja sijoittivat ne Maan kuussa olevaan tukikohtaan.
+
+#(where_are_urquan)
+Missä Ur-Quanit ovat nyt?
+
+#(URQUAN_LEFT)	spathi-015.ogg
+Isäntämme eivät pidä meitä kovinkaan hyvin informoituna tekemisistään
+joten kaikki minkä tiedämme on että välittömästi viimeisen viimeisen Allianssin rodun alistamisen jälkeen
+yehatien, luulisin
+Ur-Quanit keräsivät Taistelulaivansa ja lähtivät kohti galaksin reunaa
+käskien meitä tottelemaan orjalakeja tai kohtaamaan heidän vihansa kun he palaisivat.
+
+#(what_about_other_races)
+Tiedätkö mitään muista muukalaislajeista?
+
+#(ABOUT_OTHER_RACES)	spathi-016.ogg
+Tiedämme vain sirpaleita sieltä täältä mitä tapahtui eri roduille; esimerkiksi
+kun heidät oli voitettu, yehatit liittyivät Hierarkiaan taisteluorjina
+kun taas syreenit päättivät mennä orjakilven alle BugSquirtin tähtijärjestelmässä olevalle planeetalle.
+Ei, ei se niin ollut -- unohdin sen nimen, missä muuten olinkaan?
+Ai niin, shofixtit! He tuhoutuivat täydellisesti valtavissa 'kunnian lieskoissa'.
+
+#(what_doing_on_pluto_3)
+KERRO mitä oikein teet Plutossa, NYT!
+
+#(what_about_yourself)
+Entä sinä itse, Fwiffo?
+
+#(ABOUT_MYSELF)	spathi-017.ogg
+Minäkö? Tarkoitatko minua henkilökohtaisesti? Kuinka mukavaa kun kysyit!
+Synnyin köyhänä, vihreänä kuorellisena, 18487-jäsenisen perheen nuorimpana.
+Urosvanhempani piti tehdä ankarasti töitä elättääkseen meidät, hyvin ankarasti
+mutta kaikki veljeni ja siskoni ja minä yritimme auttaa parhaamme mukaan.
+Naarasvanhempi oli mukava ja ystävällinen meille kaikille.
+Hän kerran jopa kutsui minua NIMELTÄ; hän sanoi
+`Fwiffo! Fwiffo-kulta! Menisitkö vastaamaan ovelle? Luulen että siellä on joku.'
+Millaista kohtelua! Kultainen muisto.
+Kypsyin nopeasti hienoksi esimerkiksi lajistani, ja, vanhempieni avustuksella, saavutin itsenäisyyden.
+Tarkemmin sanoen he kampesivat minut pois ovenpielestä ja vierittivät kadulle.
+Täten valmistautuneena lähdin etsimään onneani.
+Minulla oli suuria unelmia niinä päivinä, aivan, suuria unelmia!
+Tiesin että jonain päivänä olisin suunnattoman rikas, tarpeeksi rikas hankkiakseni suuren, vahvasti puolustetun kartanon.
+Kartanoani ympäröisivät valtavat maa-alueet, joiden poikki voisin liukua milloin vain halutessani!
+Koskaan ei tietenkään voi olla liian varma ettei heti seuraavan pensaan takana piileskele hirviöitä
+joten istuttaisin puita joihin kiivetä tasaisin, helposti saavutettavin välein.
+Ja maailmanspathina tietäisin, että jotkut hirviöt kiipeävät puihin, vaikka yleensä eivät hyvin
+joten käskisin palvelijoitani asettamaan kuhunkin puuhun korillisen täydellisiä kiviä
+ei liian painavia, ei liian kevyitä -- täsmälleen oikeata kokoa, jotta niillä voisi heitellä hirviöitä.
+Mietin, minkä värisiksi kivet maalattaisiin (akva, malva vai magenta)
+kun vihanneskärry kiiti kallistellen alas katua kotini ulkopuolella ja iski minut tajuttomaksi.
+Kun heräsin, olin tyhjiöalus TähtiJuoksijan, joka kulki kohti Maata, kannella.
+Ilmeisesti olin ollut päästäni sekaisin pitkään onnettomuuden jälkeen
+ja, joidenkin mukavien tuntemattomien avulla
+minut oli vapautettu varoistani ja saatu liittymään laivastoon
+missä olen, ikävä kyllä, palvellut viimeiset 25 vuotta.
+
+#(STATIONED_ON_EARTH_MOON)	spathi-018.ogg
+Aluperin miedät oli sijoitettu Maan kuuhun, mikä sai meidät wpathit tuntemaan olomme vähän epämukavaksi
+koska jokainen kulunut päivä sai meidät entistä huolestuneemmiksi siitä että kierot Maakalaiset hyökkäisivät yllättäen
+vaikka ilwrathit tolkuttivatkin meille että se olisi mahdotonta
+sillä maakalaisilla ei ollut minkäänlaisia aseita tai aluksia.
+Se sai meidät tuntemaan olomme vähän paremmaksi, mutta kun ilwrathit lähtivät, aloimme taas pelätä
+ja päätimme tehdä strategisen vetäytymisen Marsiin.
+Myöhemmin päätimme että olisi viisasta siirtyä Jupiterin kuuhun, Ganymedeen
+sitten myöhemmin Saturnuksen kuuhun, Titaniin
+ja lopulta tänne Plutoon.
+
+#(what_blaze_of_glory)
+Mitä tarkoitat, 'kunnian lieskoissa'? Mitä tapahtui shofixteille?
+
+#(BLAZE_IS)	spathi-019.ogg
+Shofixtit olivat puolivillejä, kuten tiedät, koska yehatit olivat kohottaneet heidät
+vain muutama vuosikymmen ennen sotaa.
+Kun otetaan lukuun heidän tapansa tehdä itsemurhia räjäyttämällä noita niin kutsuttuja 'Kunnialaitteita' taistelua
+minulle ei tullut erityisenä yllätyksena että Ur-Quanien päävoiman saapuessa heidän kotimaailmaansa
+Shofixtit laittoivat aurinkonsa räjähtämään valtavassa supernovassa
+tuhoten koko aurinkokunnan, ja, eikä aivan vahingossa, kymmenittäin Ur-Quanien Taistelulaivoja!
+(Snork-snork-snork!)
+
+#(what_about_moonbase)
+Mitä sitten tapahtuu Kuussa olevalla asemalla?
+
+#(SET_UP_BASE)	spathi-020.ogg
+Tulimme siihen tulokseen, että jos Maakalaiset tajuavat meidän hylänneen Kuussa olevan tukikohdan
+he todennnäköisesti yrittäisivät jotakin kieroa.
+Siispä me kyhäsimme kokoon joitain vanhoja palveluandroideja ja käskimme niitä ajelemaan ympäri kuun pintaa katepillareilla,
+työnnellen samoja pölykasoja ympäriinsä loputtomasti.
+Lisäksi me yhdistimme tukikohdan paikallisradiolähettimen melnormien ääni-FunRomiin
+nimeltään `Winkyn Onnellinen Yö', toivoen heidän luulevan että me olisimme yhä siellä.
+
+#(what_about_ilwrath)
+Mitä tapahtui tähän aurinkokuntaan sijoitetuille ilwratheille?
+
+#(ABOUT_ILWRATH)	spathi-021.ogg
+Ilwrath-osaston piti olla kovin harjunlaki, ööh
+jäykin räpylä, ei
+ai niin - Maavartion SELKÄRANKA; mutta he lähtivät aurinkokunnasta joukolla
+pian sen jälkeen kun Ur-Quanien Taistelulaivat olivat lähteneet tästä avaruuden kolkasta.
+He väittivät saaneensa suoran käskyn Pahuuden ja Pimeyden jumaliltaan
+jotka olivat tulleet tyytymättömiksi ilwrathien passiivisuuteen
+ja tahtoivat heidän tappavan tai ainakin kiduttavan jotakuta pian.
+Henkilökohtaisesti uskon, että he vain kyllästyivät ja menivät pitämään hauskaa.
+
+#(what_about_other_spathi)
+Mitä tapahtui muille spathialuksille?
+
+#(really_thousands)
+Satoja? Äläs nyt.
+
+#(SPATHI_ARE)	spathi-022.ogg
+Viime vuosien aikana tuli välttämättömäksi siirtää strategisesti osa Maavartio-joukoistamme
+kotimaailmaamme siltä varalta, että kimppuumme hyökkää ilkeä ja armoton muukalaisrotu, jota me Spathit kutsumme nimellä
+Äärimmäinen Pahuus!
+
+#(what_enemy)
+Kuka tai mikä on tämä 'Äärimmäinen Pahuus'?
+
+#(ENEMY_IS)	spathi-023.ogg
+Toistaiseksi Äärimmäinen Pahuus ei ole vielä juuri paljastanut itseään, ja sen voimat ja tarkat aikomukset ovat vähän epäselviä
+koska se väijyy jopa kaikkein herkimpien pitkän matkan paljastimien kantomatkan ulkopuolella
+mikä meidän mielestämme antaa kiistämättömän todisteen Äärimmäisen Pahuuden katalista aikomuksista.
+
+#(when_ilwrath)
+Milloin odotat Ilwrathien palaavan?
+
+#(THEN_ILWRATH)	spathi-024.ogg
+Jaa, kun he olivat siirtymässä hyperavaruuteen 18 vuotta sitten, me kysyimme heiltä tuon saman kysymyksen
+ja luullakseni he sanoivat jotain sen suuntaista kuin
+'Aivan Pian'.
+
+#(why_you_here)
+Miksi olet yhä täällä, Kapteeni Fwiffo?
+
+#(DREW_SHORT_STRAW)	spathi-025.ogg
+Koska voimakkaat ja anteeksiantamattomat isäntämme, Ur-Quanit, asettivat meidät tänne
+tiesimme että olisi armottoman typerää olla täysin tottelematta heitä
+mutta päätimme että yhden aluksen lähettäminen kotiin kävisi päinsä.
+Käytimme yhtä vanhimmista ja  arvokkaimmista rituaaleistamme, Puun-Taffya, valitaksemme onnekkaan aluksen.
+Sitten... muutama kuukausi myöhemmin, päätimme ettei OIKEASTI haittaisi, jos lähettäisimme toisenkin aluksen kotiin
+ja sitten myöhemmin lähetimme vielä yhden, ja sitten yhden... käsität varmaankin.
+Ikävä kyllä, kuten kohtalo määräsi, kun viimeinen rituaali oli suoritettu,
+minut, Fwiffo, jätettiin tänne yksin, sillä nuorinkin kuorellinen tietää
+että täytyy olla aina yksi spathi joka vetää lyhyen Ta Puun -kepin.
+
+#(how_many_crew)
+Paljonko miehistöä aluksessanne on?
+
+#(JUST_ME)	spathi-026.ogg
+Minut on voitettu! Olet aivan liian älykäs minunkaltaiselleni kurjalle spathille
+minun täytyy nyt alistua suuremmalle muukalaisälyllesi.
+Luulenpa, etten paljasta mitään todella tärkeitä salaisuuksia jos kerron sinulle
+että jokainen lajini Välttelijä-luokan tyhjiöalus vetää tyypillisesti 30 miestä
+vaikka tällä hetkellä alukseni, TähtiJuoksija, ei ole täydessä miehityksessä
+kotimaailmani tarpeiden takia heidän vastustaessaan Äärimmäistä Pahuutta
+ja itse asiassa alukseni on jokseenkin alimiehitetty tällä hetkellä
+kun otetaan huomioon että olen ainoa spathi laivalla, mikä on vähän pelottavaa, kuten varmasti ymmärrät.
+
+#(THOUSANDS)	spathi-027.ogg
+Tusinoittain- tarkoitan siis sanoa, tiuittain ja ehkä jopa sadoittain tovereitani kulkee
+tässä erikoisviritellyssä, supertehokkaassa, massatuhoon tarkoitetussa avaruusaluksessa
+joka pystyisi piirittämään kokonaista aurinkokuntaa jos päättäisimme tehdä niin
+ja mitä, teidän onneksenne, emme ole päättäneet tehdä tänään.
+
+#(full_of_monsters)
+Galaksi vilisee uhkaavia hirviöitä. Oletko onnellinen täällä -- Yksin ja haavoittuvaisena?
+
+#(HOW_TRUE)	spathi-028.ogg
+Kuinka totta, Kapteeni, kuinka totta!
+Totta puhuen, meidän kesken, viimeisten seitsemän vuoden ajan olen tuntenut oloni varsin epämukavaksi
+ja silti huomaan nauttivani seurastasi, tästä terävästä dialogista
+ja valtavan, voimallisen, kuolemaa jakavan aluksen läsnäolosta, joka ystävänäni
+tuntisitte varmasti itsenne pakotetuiksi käyttämään pelastaaksenne minut vihamielisiltä elinmuodoilta
+jotka uhkaisivat minua kuolemalla.
+
+#(join_us)
+Olen varma että tuntisit olosi paljon turvallisemmaksi kanssamme. Kuules, Fwiffo, liity laivastoomme!
+
+#(WILL_JOIN)	spathi-029.ogg
+Oi onnenpäiviä ja riemua!
+Hylkään kaikki ennakkoluuloni ja epäröintini ja hyväksyn ja juhlin suojelutarjoustanne
+ja kuolematonta omistautumistanne hyvinvoinnilleni!
+Minun täytyy kuitenkin vaalia surumielisyyttäni hetken
+ja varmistaa, että ymmärrätte, että kaikki muut spathialukset. joita yleensä tapaamme galaksissa
+eivät tule olemaan yhtä vastaavaisia ystävällisille eleillenne kuin minä
+sillä he kantavat Ur-Quanien orjuuden ikeen raskaampana
+ja ovat myös taipuvaisia välttelemään liittoutumista täysin tuntemattoman muukalaisen kanssa
+mitä minä, tänne yksin jätettynä, en voi tehdä.
+Tehkää tilaa kannelle, Kapteeni!
+
+#(WONT_JOIN_1)	spathi-030.ogg
+No... haluaisin todellakin
+mutta en ole oiken varma että näissä olosuhteissa
+liittyminen jännittäviin ja myös vaarallisiin avaruusseikkailuihisi olisi järkevin toimintatapa juuri nyt
+koska Ur-Quanit voisivat palata milloin tahansa ja se rangaistus, jonka he minulle asettaisivat tällaisesta petturuudesta
+saisi minkä tahansa muun karmean kuoleman näyttämään lystiltä siihen verrattuna.
+Kiitos tarjouksesta kuitenkin.
+
+#(give_ship_or_die)
+Anna aluksesi tai tuhoamme sinut!
+
+#(WONT_JOIN_2)	spathi-031.ogg
+Sinulla on vahvat perustelut, Kapteeni.
+Täällä minä olen, yksin ja puolustuskyvyttömänä vihamielisen muukalaismaailman pinnalla.
+Yläpuolellani leijut sinä kiertoradalla, hampaisiin asti sädetykeillä, ohjuksilla ja muilla, kauheammilla aseilla, varustautuneena.
+Ajattelen siis itsekseni: Fwiffo, onko järkevää jäädä tänne, haavoittuvaisena kuin nahanvaihtaja paistinpannulla?
+`EI', vastaan itselleni, `LIITY IHMISEEN - HÄN ON MUKAVA JA HYVÄ!'
+Mutta sitten pahanilkinen ääni vastaa:
+`varo... ihminen huijaa sinua! Jos liityt häneen, kuolet yksin, avaruuden kylmyydessä.'
+Ja syistä, jotka ylittävät ymmärrykseni, Kapteeni, tämä ääni kukistaa toisen
+ja siksi minun tulee jäädä tänne... Vaikkakin tahtoani vasten.
+
+#(WONT_JOIN_3)	spathi-032.ogg
+Kahdesti olet jo kysynyt tämän kysymyksen, Kapteeni. Sanooko kolmas kerta toden?
+Voi, pelkäänpä että ei.
+
+#(GEE_THANKS)	spathi-033.ogg
+Vau, kiitos.
+
+#(changed_mind)
+Muutin mieltäni. hyökkäämme kimppuusi.
+
+#(youre_forgiven)
+Ymmärrämme, että toisinaan tapahtuu tällaisia traagisia väärinkäsityksiä. Suremme, muttemme ole katkeria.
+
+#(THANKS_FOR_FORGIVENESS)	spathi-034.ogg
+Huh, kiitos! Hetken ajan luulin, että aioitte tappaa minut!
+
+#(HATE_YOU_FOREVER_SPACE)	spathi-035.ogg
+Pelkään sinun kohtaamistasi taistelussa, mutta jos en tee sitä, tulet viikko viikolta vahvemmaksi.
+Näin ollen minun tulee kohdata sinut nyt.
+Säädän moottorit täydelle teholle, suljen silmäni, ja alan hakata tulitusnappia raivokkaasti.
+
+#(INIT_ANGRY_HELLO_SPACE)	spathi-036.ogg
+Olet katala, julma ja petollinen. Epäilen että olet ilwrath apinan nahassa.
+Mitä sinä tahdot?
+
+#(SUBSEQUENT_ANGRY_HELLO_SPACE)	spathi-037.ogg
+Ah, herra Ilkeä on palannut. Mitähän hän tahtoo tänään? Rauhaa, onnea, iloa kaikille?
+Ei, pelkäänpä että kuolema ja hillitön tuho ovat hänen perinteisiä kauppatavaroitaan.
+Olenko oikeassa?
+
+#(INIT_NEUTRAL_HELLO_SPACE)	spathi-038.ogg
+Voi yllätys ja kauhu!
+Vastassani on pehmeä ja vihamielinen naama, joka kuuluu vanhoille vihollisillemme, ihaamisille
+ei... ihmenenille, ei, nyt muistankin, imhisille!
+
+#(SUBSEQUENT_NEUTRAL_HELLO_SPACE)	spathi-039.ogg
+Hei, imhinen, miten haluat uhkailla minua tänään?
+
+#(INIT_FRIENDLY_HELLO_SPACE)	spathi-040.ogg
+Hei, imhisystävä! Kuinka mukava tavata taas. Oletko tappanut ketään tänään?
+
+#(SUBSEQUENT_FRIENDLY_HELLO_SPACE)	spathi-041.ogg
+...Ei! Ei! Aseupseeri, älkää ampuko! Se on se imhinen taas, idiootti!
+Mitä! Näyttöruutu? Mitä te oikein ...oh.
+Hei, imhisystävä! Kuinka voit? Meillä menee hyvin, tosi mahtavasti. 
+Ei mitään ongelmia! Pelkkää hyvää. Ei laisinkaan ongelmia!
+
+#(INIT_ALLIED_HELLO_SPACE)	spathi-042.ogg
+Terve, kapteeni liittolaisimhinen! Olemme samassa paikassa samaan aikaan
+kuin tekin -- kuinka ihmeellistä.
+
+#(SUBSEQUENT_ALLIED_HELLO_SPACE)	spathi-043.ogg
+Ah, imhinen! Ihmettelin juuri... onko Tuffa-Yuf vielä elossa?
+Oletko nähnyt häntä, voiko hän hyvin?
+Hänet lähetettiin Maan avaruusasemalle jonkin aikaa sitten
+kapteeniksi Eluder-alukselle osana yhteistyösopimustamme.
+Voit olla varma siitä että hänestä tulee erinomainen lisä eliittijoukkoihisi.
+Se viikkokausien intensiivinen koulutus tuottaa aina huippuluokan upseerin.
+Jos näet hänet, kerrothan hänelle
+että pidän yhä hänen velkaansa sitovana, ja odotan pikaista takaisinmaksua.
+Kiitos.
+
+#(give_info_space)
+Spathi - vaikka välimme eivät ole parhaat mahdolliset, antaisitko minulle vähän tietoja?
+
+#(HERES_SOME_INFO)	spathi-044.ogg
+Mielelläni, ja tässä se on - kuuntele nyt tarkkaan, sillä sanon tämän vain kerran.
+Älä pyydä palveluksia niiltä, joita väijyt ja murhaat.
+
+#(we_sorry_space)
+Kuulkaas nyt. Olemme tehneet virheitä, myönnän sen! Mutta ollaan vaan ystäviä, eikös?
+
+#(APOLOGIZE_AT_HOMEWORLD)	spathi-045.ogg
+Vilpittömät ja sydämelliset sanasi lämmittävät sieluani.
+Se on päätetty -- olemme ystäviä ikuisesti.
+Minun pitää kuitenkin kohta lähteä suorittamaan velvollisuuksiani, emmekä ikävä kyllä näe toisiamme enää koskaan.
+Muistan sinut ikuisesti, Kapteeni.
+Ja uutena ystävänäsi voin vakuuttaa että sinun tulisi tehdä yleisempi vetoomus spatheille
+pyytää anteeksi menneistä konnantöistäsi
+sinun kannattaisi hakeutua Korkean Hallintoneuvoston pakeille Spathiwassa.
+Hyvästi... ystävä.
+
+#(we_fight_again_space)
+Tämä taisteleminenhan on hauskaa! Tehdään sitä taas!
+
+#(OK_FIGHT_AGAIN_SPACE)	spathi-046.ogg
+Aghk! Olet kieroutunut ja perverssi! Ansaitset kuoleman.
+
+#(bye_angry_space)
+Älä mene pois vihaisena, spathi. Kunhan menet vain pois.
+
+#(GOODBYE_ANGRY_SPACE)	spathi-047.ogg
+Ehdottaisin uutta suunnitelmaa sinulle, imhinen:
+lähde tästä avaruuden kolkasta, äläkä ikinä palaa.
+
+#(look_weird)
+Ei hemmetti! Näytät oudolta -- kaikki nuo pihdit ja tahmainen silmämunasi. Yäk!
+
+#(YOU_LOOK_WEIRD)	spathi-048.ogg
+Kauneus on katsojan silmässä.
+
+#(no_look_really_weird)
+Ei, eikä ole. Olet vain tavallisen susiruma.
+
+#(NO_YOU_LOOK_REALLY_WEIRD)	spathi-049.ogg
+Vai niin? Vai NIIN!?
+No...
+Niin olet sinäkin.
+
+#(come_in_peace)
+Olemme rauhanomaisella matkalla kosmoksen halki.
+
+#(AGAINST_NATURE)	spathi-050.ogg
+Kaksi asiaa viimeisimmässä lausunnossasi uhmaa minun tuntemaani luonnonjärjestystä.
+Ensinnäkin
+`Rauha', kuten sitä kutsut, on illuusiota.
+Jos sinulla on `Rauha', et vain ole vielä nähnyt sitä oliota, joka yrittää tappaa sinut.
+Toiseksikin
+Rauhanomaisiin matkoihin kosmoksen halki harvemmin tarvitaan aseita, jotka ovat tarpeeksi isoja ampumaan reikiä pienen kuun läpi.
+
+#(prepare_to_die)
+Oletko valmis kuolemaan tänään, spathi?
+
+#(ALWAYS_PREPARED)	spathi-051.ogg
+Me spathit olemme aina valmiita kuolemaan, sillä tiedämme mitä tulee tehdä.
+Se menee jokseenkin näin
+AIEEEE! Ei! Armoa, minä pyydän! Ei pihtiäni! Pyydän, ei! Rukoilen sinua! Sattuu! EI!
+
+#(since_friendly_give_stuff)
+Nyt kun olemme ystäviä, kuuluu hyviin tapoihin että annatte meille lahjoja.
+
+#(GIVE_ADVICE)	spathi-052.ogg
+Mielellämme, ehkäpä aloitan pienellä neuvolla.
+Älä oleta meidän olevan typeriä.
+
+#(whats_up_space_1)
+Spathiystäväni, mitä tärkeitä faktoja voit kertoa?
+
+#(GENERAL_INFO_SPACE_1)	spathi-053.ogg
+Luulenpa, että ainoa tärkeä tapahtuma, josta tiedän, koskee alhaisia ja typeriä umgaheja
+joiden piloista joudumme kärsimään säännöllisesti.
+Ainakin olemme poistaneet yhden heidän ärsyttävien pilojensa lähteistä -- epätavallisen vahvan hyperavaruuslähettimen
+jota he käyttivät useaan otteeseen tekeytyäkseen sellaisiksi pelottaviksi hahmoiksi kuin
+Suuret Planeetansyöjät
+Jud, Vud Jonka Nimeä Ei Käy Lausuman
+ja Tappomestari 18.
+Sanomattakin lienee selvää ettemme menneet kertaakaan lankaan.
+Itse asiassa onnistuimme ottamaan umgaheilta pois heidän rakkaan lähettimensä
+ja lopetimme näin heidän sairaat epäasiallisuutensa.
+
+#(bye_friendly_space)
+Näkemiin, spathi. Toivon sinun pysyvän terveenä.
+
+#(GOODBYE_FRIENDLY_SPACE)	spathi-054.ogg
+Näkemiin, imhinen. Toivon ettet joudu hirviöiden syömäksi.
+
+#(looking_for_a_few_good_squids)
+Anna minun olla rehellinen. Etsimme liittolaisia.
+
+#(URQUAN_SLAVES)	spathi-055.ogg
+Ellet ole unohtanut, olemme kahlittuna Ur-Quaneihin orjina.
+Rangaistusta ehdottamaasi suunnitelmaan voidaan kuvailla `Kuolemana'.
+
+#(why_slaves)
+Tässä tulikin mielenkiintoinen kysymys esiin. Jos olette tuollaisia pelkureita, miksi taistelette Ur-Quanien puolella?
+
+#(UMGAH_TRICK)	spathi-056.ogg
+Tämä on surullinen tarina, joten älä edes yritä pidättää kyyneliäsi.
+Kun Ur-Quanit olivat kukistaneet ilwrathit, he käänsivät Armadansa voiman spatheja vastaan.
+Termi `nopeasti alistettu' kuvaa parhaiten sitä, mitä tapahtui seuraavaksi.
+Kun Ur-Quanit saapuivat Spathiwaan, tapahtui suuri seremonia.
+Osaan tästä seremoniasta kuului erinäisten osien planeettamme pinnasta räjäyttäminen radioaktiiviseksi pölyksi
+ja siitä osasta emme nauttineet.
+Mutta pahin oli vielä tulossa.
+Johtajamme kutsuttiin Ur-Quanien Lordi 1:n taistelulaivan komentosaliin
+missä heille luettiin pitkä dokumentti, joka selitti uusille orjille annettavia valintoja.
+Kun johtajamme kuulivat termit `ikuisesti suljettu' ja `läpäisemätön kilpi'
+pelkäänpä että he kiihtyivät liikaa, ja tekivät kohtalokkaan erheen.
+Päätös viestitettiin Ur-Quaneille yhdellä kahdesta sauvasta, joista yksi oli värjätty mustaksi, toinen valkoiseksi.
+Johtajamme ojensi valkoisen sauvan yhdelle Ur-Quanien palvelijoista, ilmaisten `kesanto'-orjuutta
+mutta palvelija jotenkin vaihtoi sauvoja ja ojensi Ur-Quan-lordille mustan sauvan
+ilmaisten haluamme tulla taisteluorjiksi!
+Kun opimme vaihdosta, oli jo myöhäistä -- Ur-Quanit eivät sallineet muutosta asemassa.
+Tämän murheellisen päivän jälkeen meidät pakotettiin omaksumaan Ur-Quanien tähtikonnien rooli.
+Yritimme vältellä taistelua, mutta Ur-Quanit antoivat meille kolme varoitusta, joista kukin oli edellistä ankarampi.
+Kun saimme tietää ettei olisi kolmatta varoitusta, ainoastaan tuhoutuminen
+astuimme uuteen rooliimme uudella tarmolla.
+Ai, ja oletkin varmaan jo arvannut -- se Ur-Quanien palvelija joka teki vaihdon
+oli umgah.
+
+#(tell_us_about_you)
+Mitä voit kertoa meille lajistanne?
+
+#(ABOUT_US)	spathi-057.ogg
+Meitä voisi parhaiten kuvailla `Metanilviäisinä'
+joilla on sekä simpukan että Dravatzin, jota ei esiinny maailmassasi, parhaat ominaisuudet.
+Olemme älykkäitä ja nokkelia, vaikka meitä ei ikinä voisi kutsua oveliksi.
+Joka päivä herätessämme lausumme ääneen perinteisen spathirukouksen
+Hyvä Jumala... Älä anna minun kuolla tänään! Huomenna olisi paljon parempi!
+
+#(what_you_really_want)
+Mutta mitä sinä todella tahdot tästä suuresta `Elämäksi' kutsutusta mysteeristä?
+
+#(WANT_THIS)	spathi-058.ogg
+Tahdon elää ikuisesti, ilman minkäänlaista kipua ja omistaa valtavan henkilökohtaisen omaisuuden sekä ison joukon nuoria naaraita.
+Jos vallassasi on antaa tämä, rukoilen sinua tekemään niin.
+
+#(how_about_alliance)
+Näissä olosuhteissa olisi mielestäni parasta jos liittoutuisitte Maan kanssa välittömästi.
+
+#(SURE)	spathi-059.ogg
+Tottakai, pidä sitä tehtynä. Liittolaisia katkeraan loppuun saakka.
+EIKÄ!
+
+#(part_in_peace)
+Lähdemme kuten tulimmekin, rauhassa.
+
+#(KEEP_IT_SECRET)	spathi-060.ogg
+Kuules, voisimmeko pitää tämän salaisuutena meidän kahden välillä?
+Tämä on tosiaankin aika noloa.
+
+#(heard_youre_cowards)
+Olemme kuulleet että koko rotunne on pelkureita. Onko se totta?
+
+#(DARN_TOOTIN)	spathi-061.ogg
+Kyllä, ehdottomasti, ja varauksetta.
+Tämä järjestelmä on pitänyt meidät hengissä vuosituhansia, emmekä näe syytä muuttaa sitä nyt.
+
+#(wanna_fight)
+Haluatteko taistella?
+
+#(YES_WE_DO)	spathi-062.ogg
+Ööh... kyllä, me haluamme.
+
+#(so_lets_fight)
+Taistellaan sitten.
+
+#(OK_LETS_FIGHT)	spathi-063.ogg
+Okei, taistellaan. Täältä tullaan. Hihkumme innosta päästä taistelemaan.
+
+#(so_lets_fight_already)
+No taistellaan sitten jo!
+
+#(DONT_REALLY_WANT_TO_FIGHT)	spathi-064.ogg
+Oh! Ööh... muutimme mieltämme. Emme tahdokaan. Sori.
+(Pwappy, senkin idiootti! Sanoinhan ettei se toimisi!)
+
+#(attack_you_now)
+Paha tursas -- valmistaudu kuolemaan!
+
+#(YIPES)	spathi-065.ogg
+En voi uskoa tätä!
+Imhinen ei ainoastaan ole järjettömän vihamielinen vaan hän ei myöskään hallitse biologisia analogioita!
+Olemme paljon lähempää sukua Maan simpukoille ja
+niin mitä, aseupseeri? Hänen aluksensa lähestyy suojat päällä aseet valmiina...
+Jaips!
+
+#(whats_up_space_2)
+Hei heput, mitäs uutta?
+
+#(GENERAL_INFO_SPACE_2)	spathi-066.ogg
+Pelkäänpä ettei paljoakaan. Olemme vain katselleet tähtiä.
+Kuules, yksi juttu muuten oikeasti tapahtui
+viime kuun 17.päivänä; näimme uuden tähden ilmestyvän Circinin ja Chandrasekharin tähtirykelmien väliin.
+Me katselimme ja katselimme sitä -- kolmen päivän ajan me vain katselimme sitä
+Sitten se meni pois, katosi, tuosta vain.
+Toivottavasti se palaa.
+
+#(give_us_info_from_space)
+Liittolaiset, suokaa meille viisautenne lahjoja.
+
+#(GET_INFO_FROM_SPATHIWA)	spathi-067.ogg
+Jumittuneena tänne syväavaruuteen emme opi paljoakaan kiinnostavia asioita.
+Kehotan sinua konsultoimaan niitä kiinnostavampia heppuja Spathiwassa.
+
+#(give_us_resources_space)
+Pyydän teitä jakamaan mineraalivarantonne kanssamme liittolaisina.
+
+#(GET_RESOURCES_FROM_SPATHIWA)	spathi-068.ogg
+Kuten haluat. Jätteenkierrätysyksikkömme on käytössänne.
+Sieltä löydätte rutkasti metaania, sulfuurikaasua, ja joitakin kiinnostavia orgaanisia yhdisteitä.
+Ottakaa vapaasti kaikki minkä tahdotte.
+
+#(what_do_for_fun)
+Miten te heput huvittelette täällä syväavaruudessa?
+
+#(DO_THIS_FOR_FUN)	spathi-069.ogg
+Meillä oli ennen tylsää, mutta sitten ostimme tämän siistin viihdetuotteen.
+Se simuloi suurta seikkailua läpi tuhannen parsekin vihamielisen avaruuden
+jossa tapasimme kiinnostavia muukalaisia, paljastimme kauan sitten kadonneen superrodun salaisuuksia
+ja loppujen lopuksi, pelastaaksemme maailmamme tuholta, meidän piti kohdata kauhistut
+ei mitään, huomaan ettet ole oikeasti kiinnostunut.
+
+#(bye_ally_space)
+Näkemiin, spathiystäväni. Toivon että matkasi sujuu turvallisesti.
+
+#(GOODBYE_ALLY_SPACE)	spathi-070.ogg
+Samaa sinulle.
+
+#(OK_WE_FIGHT_AT_PLUTO)	spathi-071.ogg
+Nesteeni sykkivät kehoni läpi epätavallisella raivokkuudella!
+Röyhkeytesi on saattanut minut väkivaltaiseen vimmaan
+ja olen pakotettu hyökkäämään kimppuusi edeltäehkäisevällä, puolustavalla toiminnalla.
+Nyt et tule ikinä oppimaan tärkeitä salaisuuksiani
+kuten sen Oranssin Jättiläistähden, jonka ympäri kotimaailmani kiertää koordinaatteja
+ups -- hitto! -- sait minut paljastamaan sen!
+Kapteeni, jos jotenkin selviät hyökkäyksestäni, minulla on yksi vilpitön toive
+se, että sinut kohta nielee hitaasti ruma, litteähampainen kasvissyöjä!
+

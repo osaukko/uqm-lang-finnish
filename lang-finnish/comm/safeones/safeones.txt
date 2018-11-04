@@ -1,0 +1,632 @@
+#(killed_fwiffo)
+Pelkäänpä ettei Fwiffo ole enää elävien kirjoissa.
+
+#(POOR_FWIFFO)	safeones-000.ogg
+Jotenkin, Kapteeni, emme ole yllättyneitä.
+
+#(fwiffo_fine)
+Kuka Fwiffo? Ai, hän voi hyvin, todella mahtavasti. Oikeasti! Hän voi paksusti.
+
+#(NOT_LIKELY)	safeones-001.ogg
+No sitten teillä ei varmaankaan ole vaikeuksia päästää Fwiffoa näköruudun luokse pientä jutustelua varten
+eihän, Kapteeni?
+Niin me arvelimmekin.
+
+#(we_attack_again)
+Uuteen toimintatapaamme kuuluu taistelu.
+
+#(WE_FIGHT_AGAIN)	safeones-002.ogg
+Uuteen? Uuteen!? Tämä ei ole uusi asia. Väkivaltaiset tapanne ovat, kuten teidän kielellänne sanotaan, vanhoja kuin hatut.
+
+#(bye_no_ally_offer)
+Meidän täytyy mennä, mutta palaamme kohta.
+
+#(GOODBYE_NO_ALLY_OFFER)	safeones-003.ogg
+Älkää nyt turhaan kiirehtikö meidän takiamme.
+
+#(bye_angry_spathi)
+Huomaan että olette tolaltanne, ja siispä lähdemme.
+
+#(GOODBYE_ANGRY_SPATHI)	safeones-004.ogg
+Yhtäkkiä olemmekin vähemmän tolaltamme.
+
+#(why_dont_you_do_it)
+Miksette tee sitä itse?
+
+#(WE_WONT_BECAUSE)	safeones-005.ogg
+Kaksi syytä.
+Ensinnäkin, meillä on se järjetön pelko että Pahat ahmaisevat meidät kaikki tuskallisesti.
+Toiseksikin, niissä harvoissa tapauksissa joissa olemme päässeet pelkomme yli ja uskaltautuneet Spathiwan pinnalle
+kaikki laskeutuneet spathit ahmaistiin tuskallisesti.
+
+#(MEAN_GUYS_RETURN)	safeones-006.ogg
+Katsokaa, katsokaa kaikki! Se on se väkivaltainen olento Maasta.
+Kuinkahan monta kuorellista se tahtoo ahmaista tänään, ihmettelen ma?
+
+#(we_apologize)
+Kadumme menneitä tekojamme, joten miksi elää menneisyydessä? Katsokaamme yhdessä kohti kirkasta uutta tulevaisuutta!
+
+#(DONT_BELIEVE)	safeones-007.ogg
+Olen todennäköisesti pelkkä vanha mudantonkija, Kapteeni, mutta en vain voi luopua siitä ajatuksesta
+että tämä kaikki on osa jotakin kieroa suunnitelmaasi kiduttaa ja tappaa lajiani.
+
+#(HELLO_AGAIN)	safeones-008.ogg
+Emme odottaneet näkeväsi sinua näin pian, imhinen!
+Ennustajamme olivat osoittaneet ettet palaisi ainakin 30 vuoteen
+ja pelkäänpä nyt, että he menettävät palkkansa tämän seuraamuksena.
+Kuinka surullista. Luulen että jokaisella oli tuhansia kuorettomia syötettävänä jotka joutuvat nyt näkemään nälkää.
+Tässä on idea! Lähde nyt äläkä palaa ennen määrättyä aikaa.
+Tämä ennenaikainen vierailu jää meidän pikku salaisuudeksemme, eh?
+
+#(HATE_YOU_FOREVER)	safeones-009.ogg
+Me, Spathiwan Korkea Hallintaneuvosto, olemme juuri hyväksyneet uuden lain.
+Olemassaolosi jatkuminen on nyt rikos!
+Me hyökkäämme, oikeuden puolesta!
+
+#(WHAT_IS_PASSWORD)	safeones-010.ogg
+Mikä on Salainen Koodi?
+
+#(WHAT_IS_PASSWORD_AGAIN)	safeones-011.ogg
+Saat vielä yhden mahdollisuuden.
+Mikä on Koodi?
+
+#(we_are_vindicator0)
+Huomio, muukalaiset: olen 
+#(we_are_vindicator1)
+ virkaatekevä Kapteeni aluksesta 
+#(we_are_vindicator2)
+. Pyydän teitä vastaamaan.
+
+#(gort_merenga)
+Ööh... Gort, merenga!
+
+#(guph_florp)
+Ööh... florp blurt a-ruppa-tuppa?
+
+#(pleeese)
+Miten olisi `Pliiiis!'
+
+#(wagngl_fthagn)
+Wagh-nagl Fthagn?
+
+#(screw_password)
+Hittoon tämä Koodijuttu -- emmekö voi vain puhua?
+
+#(good_password)
+Huffi-Muffi-Guffi.
+
+#(WRONG_PASSWORD)	safeones-012.ogg
+Et tiedä Salaista Koodia!
+Näin ollen sinun täytyy olla paha, vaarallinen muukalaisvalloittaja
+joka aikoo tappaa meidät kaikki jollain karmealla tavalla!
+Meillä on kaikki oikeudet estää tämä.
+
+#(NO_PASSWORD)	safeones-013.ogg
+Olet yrittänyt huijata meitä nokkelalla vilpillä
+me olemme kuitenkin aina varovaisia ja olemme paljastaneet pahat suunnitelmasi!
+Vaikka inhoammekin väkivaltaa, olemme huomanneet että tällaisissa olosuhteissa
+paras toimintatapa on hyökätä äkillisesti murskaavalla ylivoimalla.
+Tähän tapaan.
+
+#(what_do_i_get)
+Kun olen antanut teille Koodin, mitä saan?
+
+#(YOU_GET_TO_LIVE)	safeones-014.ogg
+Saat elää vähän pitempään.
+
+#(YES_GOOD_PASSWORD)	safeones-015.ogg
+Me olemme Turvalliset  -- spathien Korkea Neuvosto.
+Olet antanut meille oikean Koodin ja niinpä sinua ei tuhota välittömästi.
+Nyt ole hyvä ja kerro meille kuinka sait käsiisi spathien Salaisimman Koodin
+mitä jokainen spathi vannoo, ettei ikinä, ikinä paljasta
+edes uhattuna huomattavalla tuskalla.
+
+#(spathi_on_pluto)
+Tapasimme erään spathin Plutossa... öh, meistä tuli hyviä ystäviä!
+
+#(WHERE_SPATHI)	safeones-016.ogg
+Ja missähän on tämä spathi`ystävä' nyt?
+Ei mitään -- vastaus on aivan liian selvä kuivissa pikku silmissäsi.
+
+#(hostage)
+Meillä on Fwiffo aluksella. Hän voi taata hyvät aikomuksemme!
+
+#(GUN_TO_HEAD)	safeones-017.ogg
+Jos osoittaisit Fwiffon päätä aseella, hän sanoisi mitä tahansa haluaisitkaan hänen sanovan.
+Itse asiassa, jos osoittaisit hänen päätään vihanneksella
+hän todennäköisesti sanoisi mitä tahansa haluaisitkaan hänen sanovan.
+
+#(we_come_in_peace)
+Tulemme rauhassa ja hyvällä tahdolla.
+
+#(OF_COURSE)	safeones-018.ogg
+Epäilemättä.
+
+#(KILLED_SPATHI)	safeones-019.ogg
+Ei, te _saavuitte_ rauhassa.
+Te _tulitte_ jokseenkin väkivaltaisemmalla tavalla
+kuten tämä raportti spathivartion alukselta, jonka kimppuun hyökkäsitte, osoittaa.
+
+#(misunderstanding)
+Ööh, se oli vain yhdensorttinen väärinkäsitys.
+
+#(JUST_MISUNDERSTANDING)	safeones-020.ogg
+Tietenkin, Kapteeni, tajuamme että väärinkäsityksiä tapahtuu... toisinaan.
+Toivotaan vain ettei samankaltainen `väärinkäsitys' saa meitä avaamaan tulta sinua vastaan
+planeettapuolustuspattereillamme.
+
+#(give_us_resources)
+Voisitteko jakaa mineraaliresursseja hyvän tahdon eleenä?
+
+#(NO_RESOURCES)	safeones-021.ogg
+Emme.
+
+#(resources_please)
+Nyt kun liittomme on vakaalla perustalla, siirtäisittekö suuria määriä arvokkaita mineraaleja aluksellemme?
+
+#(SORRY_NO_RESOURCES)	safeones-022.ogg
+Emme.
+
+#(bye_ally)
+Näkemiin, neuvoston jäsenet.
+
+#(GOODBYE_ALLY)	safeones-023.ogg
+Näkemiin, imhinen.
+
+#(what_about_hierarchy)
+Mitä voitte kertoa minulle Ur-Quanien Hierarkiasta?
+
+#(what_about_history)
+Mitä tiedätte muinaisesta historiasta?
+
+#(what_about_alliance)
+Tiedättekö mitään vanhan Allianssin lajeista?
+
+#(what_about_other)
+Oletteko tietoisia mistään muista muukalaiskulttuureista?
+
+#(what_about_precursors)
+Onko teillä mitään tietoja Edelläkävijöistä?
+
+#(enough_info)
+Siinä oli riittävästi tietoja toistaiseksi.
+
+#(OK_ENOUGH_INFO)	safeones-024.ogg
+Hyvä. Minua ei juuri huvitakaan puhua siitä.
+
+#(ABOUT_HIERARCHY)	safeones-025.ogg
+Koska emme ikinä tahtoneet olla Hierarkiassa, ja pelkäämme kaikkia muita jäseniä
+tietoutemme tässä aiheessa on hieman rajoitettua, mutta kerron sinulle sen minkä tiedän.
+Hierarkia on Ur-Quanien tuotos. Se on olemassa heidän yliherruutensa säilyttämiseksi
+kaikkien muiden galaksin älyllisten elämänmuotojen yli.
+Meidän tietojemme mukaan Hierarkiassa on 6 muuta aktiivista lajia, lukuun ottaen
+hyytelömäiset umgah-pilailijat
+monijalkaiset, superväkivaltaiset ilwrathit, jotka ovat fanaattisia Dogarin ja Kazonin palvonnassaan
+thraddashit - heikko ja vastenmielinen laji Draconiksen tähdistöstä
+humanoidikloonit joita te kutsutte androsyntheiksi, vaikka he ovatkin olleet oudon poissaolevia muutaman vuoden ajan
+turhamaiset VUXit, joita komentaa nerokas ja omalaatuinen kenraali ZEX
+ja salamyhkäiset myconit, jotka höpöttävät loputtomasti kansoista, paikoista ja tapahtumista kauan sitten
+aivan kuin ne olisivat tapahtuneet vasta eilen.
+Jos on muita Hierarkian lajeja, me emme ole tietoisia niistä.
+
+#(ABOUT_HISTORY)	safeones-026.ogg
+Ennen kuin Pahat ilmestyivät, me spathit olimme yksinkertaista väkeä
+olimme tyytyväisiä rauhallisiiin elämiimme, alkeellisiin majoihimme
+ja karkeasti kudottuihin kapeakaulaisiin villapaitoihimme.
+Luulen että olisimme voineet pysyä siinä tilassa ikuisuuksia
+ellei yhtäkkiä olisi ilmestynyt miljoonaa ahnasta hirviötä helvetistä!
+Emme ole ikinä oikein päässeet selville siitä, mistä ne, Pahat, tulivat.
+Ne harvat saamamme koekappaleet, jotka olivat enimmäkseen kuolleet hammasmätään syötyään makeaa spathinlihaa
+eivät muistuttaneet fysiologisesti mitään muuta lajia Spathiwasta.
+Aivan kuin ne olisivat saapuneet yllättäen planeettamme pinnalle
+jonkin tuntemattoman toimijan siirtämänä... mutta se on hölynpölyä
+kuka voisi olla niin julma?!
+
+#(ABOUT_ALLIANCE)	safeones-027.ogg
+Tarkoitatko sitä jonka hajottamisessa me autoimme? Sitäkö?
+No, meillä oli jonkin verran kontakteja Allianssin jäseniin ennen Ur-Quanien esiintuloa.
+Enimmäkseen henjesujen kanssa, jotka pysähtyivät tänne silloin tällöin
+ollessaan matkalla tutkimaan galaksin ydintä.
+Viimeinen visiitti oli oikeastaan mielenkiintoinen. He olivat paluumatkalla Tucanaen tähtijärjestelmistä
+mistä he kertoivat löytäneensä uuden muukalaislajin nimeltään Fop-Dope-Bic... tai jotain sinne päin.
+Ainoa muu laji jonka kanssa jouduimme ikinä tekemisiin olivat mmrnmhrm:t jotka yrittivät kerran kolonisoida Beta Herculista
+jonka katsoimme olevan vaikutuskehämme sisäpuolella.
+Kun selitimme tämän Mmrnmhrm:lle, he vetäytyivät kohteliaasti kiistanalaisesta tähtijärjestelmästä
+eivätkä enää ikinä häirinneet meitä.
+
+#(ABOUT_OTHER)	safeones-028.ogg
+Koska meillä on taipumus pysyä lähellä kotia -- mieluiten olohuoneessa
+emme tiedä paljoakaan muista lajeista naapureitamme, kuten umgaheja, kauempana.
+Ennen joutumistaan Ur-Quanien alistamaksi, umgahit olivat tyytyväinen ja rauhanomainen laji
+joka asutti `Orionikseksi' kutsumaanne tähtien aluetta.
+He kuluttivat aikaansa iloisesti tutkimalla ja louhimalla läheisiä planeettajärjestelmiä
+ja tekemällä taidokkaita, ja, omalle ajattelutavallemme, julmia kepposia.
+Yksi erityisen ilkeä pila oli se kerta kun he lähettivät pilailuviestin avaruuden halki
+julistaen 'Suurten Planeetansyöjien' saapumisen tai jotain muuta hölynpölyä.
+Tämä sai muutaman muukalaiskultuurin menemään hulluksi paniikista
+sisältäen, tämä saattaa yllättää sinut, meidät itsemme.
+
+#(ABOUT_PRECURSORS)	safeones-029.ogg
+Kuten kaikki muut lajit, mekin olemme löytäneet todisteita Edelläkävijöistä hajaantuneena ympäri avaruuttamme.
+Uskomuksemme on etteivät Edelläkävijät ole oikeasti poissa, he vain tulivat eräänä päivänä järkiinsä
+ja käyttivät ylivoimaista teknologiaansa valmistaakseen jonkinlaisen täydellisen näkymättömyyssuojan
+ja ovat pysyneet hengissä tähän päivään saakka. Toivomme löytävämme tämän salaisuuden uudestaan jonain päivänä
+ja katoavamme samanlaiseen huomaamattomuuteen.
+Eräs toinen asia
+Emme ole pystyneet kääntämään paljoakaan heidän kirjoituksistaan, mutta ymmärrämme yhden tekstinkatkelman.
+Se mainitsee 10 keinotekoisen `jätteensijoituspaikan' sarjan jotka he rakensivat jonnekin täälläpäin.
+Luulen että jopa Edelläkävijöiden jätteet olisivat uskomattoman arvokkaita.
+
+#(little_mistake)
+Ööh... olemme pahoillamme siitä pikku virheestä... me _luulimme_ saaneemme kaikki ne otukset.
+
+#(BIG_MISTAKE)	safeones-030.ogg
+Se ei ollut _pikku_ virhe.
+_Pikku_ virhe on jättää jäätelin kansi auki tai unohtaa puhdistaa silmäluomesi aamulla.
+Toisaalta sitten, _iso_ virhe saattaisi olla, sanotaanko
+että kertoo ystävilleen että tietty paikka on turvallinen kun se itseasiassa on täynnä hirvittäviä, nälkäisiä petoja
+jotka eivät tahdo mitään enemmän kuin syödä pehmeää spathinlihaa!
+Se on _iso_ virhe.
+
+#(bye_before_party)
+Palaamme kun olemme suorittaneet tehtävämme loppuun.
+
+#(QUEST_AGAIN)	safeones-031.ogg
+Siispä... imhispelkuri on palannut.
+Tiedät kai, että jos Ur-Quanit huomaavat että olemme veljeilleet kanssasi
+joudumme melkoiseen pulaan.
+Ehkäpä olisi parempi että vain lähtisit.
+Siis ellet ole täällä hyväksyäksesi tehtävää.
+
+#(GOODBYE_BEFORE_PARTY)	safeones-032.ogg
+Ellet joudu tapetuksi ja syödyksi, mikä on varsin todennäköistä.
+
+#(GOOD_START)	safeones-033.ogg
+Olet tehnyt vahvan aloituksen ja sinua tullaan ylistämään.
+Nyt mene hoitamaan homma loppuun.
+
+#(something_fishy)
+Hei, haudotteko te jotain kieroa?
+
+#(NOTHING_FISHY)	safeones-034.ogg
+Lieroa! Lieroa? Mikä ihmeen liero?
+Ei, ei mitään matoja -- täysin lierotonta.
+Noniin, nyt kun tämä on saatu alta pois
+onko mitään muuta mistä haluaisit puhua, Kapteeni?
+
+#(surrender)
+Vaadimme välitöntä antautumista!
+
+#(NO_SURRENDER)	safeones-035.ogg
+Olen pahoillani, minulla täytyy olla nolostuttava vahatukkeuma kuuloaukossani.
+Mitä sanoitkaan?
+
+#(surrender_or_die)
+Jos ette antaudu, meidän täytyy tuhota teidät.
+
+#(DEFEND_OURSELVES)	safeones-036.ogg
+Muitakin vaihtoehtoja kyllä ON, mutta jos vaadit...
+
+#(hand_in_friendship)
+Tarjoamme kättämme ystävyydessä. Liittykää meihin ja moniin liittolaisiimme.
+
+#(TOO_AFRAID)	safeones-037.ogg
+Pelkäämme Ur-Quaneja liikaa harkitaksemme sellaista liittoa.
+He aivan varmasti rankaisisivat meitä äärimmäisellä kidutuksella.
+
+#(stronger)
+Olemme vahvempia kuin Ur-Quanit. Teidän kannattaisi liittyä meihin.
+
+#(YOURE_NOT)	safeones-038.ogg
+Haloo! Haloo! Herää unelmatilastasi, imhinen!
+Nyt on aika realismille, ei villeille kuvitelmille!
+
+#(yes_we_are)
+Me kylläkin OLEMME tarpeeksi vahvoja! Katsokaa Edelläkävijä-alustamme. Eikö se ole ainutlaatuinen?
+
+#(NO_YOURE_NOT)	safeones-039.ogg
+Kyllä, aluksesi on ainutlaatuinen, ja siinä onkin ongelman ydin.
+`Ainutlaatuinen', joka tarkoittaa yksittäistä avaruusalusta ei riitä koko Ur-Quanien armadan tuhoamiseen.
+Jos sinulla olisi, sanotaanko, kymmenen tuhatta samanlaista alusta, voisimme ottaa kerskailusi vakavammin.
+
+#(how_prove)
+Kuulkaas nyt, mitä minun pitää tehdä todistaakseni tämä asia teille - tuhota koko tähtilaivastonne?
+
+#(BETTER_IDEA)	safeones-040.ogg
+No, se varmaankin toimisi
+mutta minulla on parempi idea -- koe
+yksi niistä sellaisista tehtäväjutuista.
+
+#(share_info)
+Haluaisitteko jakaa tietoja kanssamme?
+
+#(NO_INFO)	safeones-041.ogg
+Emme.
+
+#(WE_UNDERSTAND)	safeones-042.ogg
+Me ymmärrämme.
+Siksi me elämme tässä asuinkelvottomassa kuussa mukavan, lämpimän kotiplaneettamme sijasta.
+
+#(prove_strength)
+Okei, todistaaksemme voimamme ja rohkeutemme me suoritamme tämän kokeen tietämättä edes mikä se on!
+
+#(YOUR_BEHAVIOR)	safeones-043.ogg
+Käytöksesi tekee selväksi sen hyvin pienen eron rohkeuden
+ja itsemurhahakuisen typeryyden välillä.
+
+#(what_test)
+No, minkälainen koe teillä on mielessänne?
+
+#(BEFORE_ACCEPT)	safeones-044.ogg
+Anna meidän selittää lajimme surullinen historia.
+Kerran, monta tuhatta vuotta sitten
+asutimme kotiplaneettamme, Spathiwan, lämmintä, turvallista pintaa.
+Olimme onnellisia ja tyytyväisiä. Noiden kultaisten vuosisatojen aikana me kehityimme alkukantaisesta paimentolaiskulttuurista
+monimutkaiseksi maanviljelysyhteiskunnaksi. Opimme kirjoittamaan savitauluille
+ja aloimme jo pystyä lukemaan niitä tauluja
+kun Pimeys vajosi yllemme
+kun Pahat tulivat!
+Ne olivat olentoja helvetin pimeimmistä koloista.
+Ne metsästivät kansaamme -- ahmivat heitä kuin maukkaita nystyröitä
+eikä meillä ollut puolustuskeinoa niitä vastaan.
+Äkkiä kulttuuristamme tuli taas kerran vaelteleva.
+Pakenimme valtamerten yli, mantereelta mantereelle, mutta pahat seurasivat aina.
+Suuren tarpeemme kannustamana edistyimme pronssikaudelta atomiajan teknologiaan vähemmässä kuin yhdessä vuosisadassanne
+mutta yhdestäkään keksinnöistämme ei ollut vastusta Pahojen luonnolliselle oveluudelle ja raivokkuudelle.
+Lopulta, kun muuta vaihtoehtoa ei ollut, me pakenimme maailmastamme ja ryhdyimme elämään omassa kuussamme
+missä olemme asuneet, ikävä kyllä, viimeiset kolmesataa vuotta.
+
+#(WIPE_EVIL)	safeones-045.ogg
+Sinun pitää pyyhkiä Pahat pois Spathiwan pinnalta!
+
+#(think_more)
+Huh, haluaisin miettiä tätä vähän aikaa ennen kuin sitoudun mihinkään.
+
+#(COWARD)	safeones-046.ogg
+Älä turhaan nolostele sitä että olet pelkuri. Se on luonnollista.
+
+#(tell_evil)
+Kerro minulle lisää näistä Pahoista.
+
+#(i_accept)
+Ok, hyväksyn! Alkakaa pakata laukkujanne, silmämunaheput, olette kotona ennen kuin huomaattekaan.
+
+#(AWAIT_RETURN)	safeones-047.ogg
+Odotamme paluutasi suurella innolla.
+Samalla valmistamme lyhyen ja haikean muistopuheen surraksemme kuolemaasi.
+
+#(talk_test)
+Voimmeko puhua siitä kokeesta taas?
+
+#(already_got_them)
+Mikä yhteensattuma! Tänään on onnenpäivänne -- me juuri eliminoimme kaikki ne otukset!
+
+#(EARLY_BIRD_CHECK)	safeones-048.ogg
+Mitä?! Voiko tämä olla tosiasia eikä pelkkä kurja valhe?
+Lähetämme tutkimusryhmän tutkimaan väitettäsi.
+Jos se mitä sanoit, on totta, olemme ikuisesti... ööh
+huomattavasti velkaa sinulle pitkäksi, vaikkakin määrittelemättömäksi ajaksi.
+Näkemiin.
+
+#(NOT_SURPRISED)	safeones-049.ogg
+En ole yllättynyt. Emme varmasti mene sinne.
+Miksi sinä olisit sen vähempää raukkamainen kuin me itse?
+
+#(TEST_AGAIN)	safeones-050.ogg
+Sinun pitää pyyhkiä Pahat pois Spathiwan pinnalta!
+Ne ovat olentoja helvetin pimeimmistä koloista
+joiden hellittämätön himo meidän lihaisia osiamme kohtaan
+pakotti meidän hylkäämään muutoin ihmeellinen kotimaailmamme
+ja aloittamaan epäonnellinen elo tässä kylmässä, ilmattomassa kuussa.
+
+#(too_dangerous)
+Plääh, se kuulostaa liian vaaralliselta.
+
+#(WE_AGREE)	safeones-051.ogg
+Olet oikeassa. Se on. Älä edes harkitse uudelleen harkitsemista.
+
+#(HOW_GO_EFFORTS)	safeones-052.ogg
+Kuinka tyhmänrohkeat ja jalot pyrkimyksenne puhdistaa Pahat rakkaan Spathiwamme pinnalta sujuvat?
+
+#(killed_them_all_1)
+Vaikka menetimmekin paljon miehistöä, olemme eliminoineet maanvaivan.
+
+#(killed_them_all_2)
+Tapoimme ne kaikki, jep, niinpä tosiaan teimme.
+
+#(WILL_CHECK_1)	safeones-053.ogg
+Tämä on ihmeellistä -- liian hyvää ollakseen totta!
+Alamme välittömästi siirtää spatheja tältä epämiellyttävältä kuulta alas turvalliselle pinnalle.
+Lähetämme kuorettomat ja sairaalloiset vanhukset ensin, erikoiskunnianosoituksena!
+Pyydämme, palaa myöhemmin ottamaan ritariksilyöntisi vastaan.
+
+#(WILL_CHECK_2)	safeones-054.ogg
+Huijaa minua kerran, häpeä sinulle.
+Huijaa minua kahdesti, häpeä... ööh
+vielä ENEMMÄN häpeää sinulle !
+Olet valehdellut meille ennen
+mutta luulen että me tarkistamme uudestaan.
+
+#(zapped_a_few)
+No, me zappasimme niistä muutaman, mutta jokunen pääsi karkuun.
+
+#(RETURN_COMPLETE)	safeones-055.ogg
+Palaa kun olet suorittanut homman loppuun.
+
+#(MUST_DESTROY_ALL)	safeones-056.ogg
+Sinun pitää tuhota ne kaikki, ja pikaisesti!
+Ne sikiävät kuin Shofixtit ja uudistavat lukumääränsä muutamassa päivässä.
+
+#(no_landing)
+No, totta puhuakseni, emme ole edes laskeutuneet sinne vielä.
+
+#(saw_creatures)
+Me laskeuduimme ja näimme ne olennot mutta lähdimme välittömästi.
+
+#(YOU_FORTUNATE)	safeones-057.ogg
+Olette onnekkaita että selvisitte
+mutta suorittaaksenne tehtävän, ja ansaitaksenne ystävyytenne
+teidän pitää hävittää ne kaikki!
+
+#(YOU_LIED_1)	safeones-058.ogg
+Petit meidät!
+Siellä kuhisi olentoja!
+Ne hyökkäsivät pahaa-aavistamattomien spathien kimppuun sillä sekunnilla kun aluksemme tyhjentyivät ja lähtivät lentoon.
+Kuorettomat raukat hotkittiin kuin popcornia ikään!
+Voimme tulla vain siihen johtopäätökseen, että innossasi palauttaa meidät maailmaamme
+laiminlöit KAIKKIEN Pahojen eliminoinnin pinnalta.
+Työ on kesken kunnes niiden läsnäolo on lakaistu pois Spathiwan pinnalta!
+
+#(YOU_LIED_2)	safeones-059.ogg
+Minkälaisina hölmöinä sinä meitä oikein pidät?
+Valehtelemisesi on hyödytöntä.
+Tästä päivästä lähtien me olemme ikuisesti vihollisia!
+
+#(bye_from_party_1)
+Tottahan toki, en haluaisi pilata juhlianne. Nähdään!
+
+#(bye_from_party_2)
+Ei se mitään. Palaamme myöhemmin, kun teillä on enemmän aikaa meille.
+
+#(bye_from_party_3)
+Hei, ymmärrän mielenkuohunne joten palaan jonkin ajan kuluttua.
+
+#(GOODBYE_FROM_PARTY)	safeones-060.ogg
+Näkemiin.
+
+#(MUST_PARTY_1)	safeones-061.ogg
+Oi iloa! Oi onnea! Me riemuitsemme ja iloitsemme juhliessamme väistämätöntä paluutamme kotimaailmaamme.
+Olet mitä sankarillisin ja avuliain - kiitos, kiitos, kiitos!
+Mutta nyt minun pitää palata juhlallisuuksiimme.
+Palaa milloin vain haluat!
+
+#(MUST_PARTY_2)	safeones-062.ogg
+Oh, olet palannut
+hieenoaa.
+Öh... juhlallisuutemme jatkuvat yhä, voisitko tulla takaisin myöhemmin?
+
+#(MUST_PARTY_3)	safeones-063.ogg
+Oh, hei, imhinen. Ajoitit saapumisesi mitä huonoimmin.
+Soitit juuri kun oli vuoroni Ja-ja-tolpalla
+ja nyt minun pitää odottaa jonossa uudestaan.
+Luuletko että voisit palata joskus tulevaisuudessa?
+
+#(deals_a_deal)
+Hei! Sopimus on sopimus! Entäs liittomme?
+
+#(WAIT_A_WHILE)	safeones-064.ogg
+Mikset odottaisi jonkin aikaa, kunnes olemme asettautuneet uudestaan kotimaailmaamme?
+Voimme keskustella yksityiskohdista sitten.
+
+#(how_long)
+Kuinka pitkään uskotte tämän vievän?
+
+#(TEN_YEARS)	safeones-065.ogg
+Kymmenen, enintään viisitoista vuotta.
+
+#(reneging)
+Olenko oikeassa jos ymmärrän että kieltäydytte tekemästä omaa osaanne sopimuksesta?
+
+#(ADULT_VIEW)	safeones-066.ogg
+Ei, ei, ei!
+Me vain olemme valinneet kypsemmän, `tervetuloa oikeaan maailmaan'-näkökulman tähän tilanteeseen.
+Emme voi vain sanoa, `Hurraa!' ja muodostaa liittoa kanssanne juuri tällä hetkellä.
+Kai te sen ymmärrätte?
+
+#(return_beasts)
+Tiedätte kai että nuo olennot eivät ole kuolleita. Ne ovat meillä alennetussa elintilassa. Haluaisitteko meidän palauttavan ne pinnalle?
+
+#(WHAT_RELATIONSHIP)	safeones-067.ogg
+EI!... ööh,... ei... minä pyydän!
+(huokaus)
+Minkälaista suhdetta te tarkalleen ottaen ajattelitte?
+
+#(minds_and_might)
+Mielten ja mahdin yhteishyödyllistä liittoa.
+
+#(HUH)	safeones-068.ogg
+Huh?
+
+#(fellowship)
+Älyllisten elämänmuotojen tasa-arvoista veljeskuntaa.
+
+#(WHAT)	safeones-069.ogg
+Mitä?
+
+#(do_as_we_say)
+Sellaista jossa te teette kaiken TÄSMÄLLEEN niin kuin me sanomme.
+
+#(DEPART_FOR_EARTH)	safeones-070.ogg
+Ööh, ok... olemme aika tottuneita sellaiseen järjestelyyn.
+Hyvä on... Lyön vetoa että tulemme vielä katumaan tätä päätöstä, mutta et jätä meille vaihtoehtoa.
+Myönnymme tarpeisiinne.
+Maa-planeetalle lähtee välittömästi spathidelegaatio.
+
+#(HELLO_ALLIES_1)	safeones-071.ogg
+Tervetuloa takaisin Spathiwaan, Kapteeni.
+Toivomme että materiaalit, jotka luovutimme avaruusasemanne insinööreille olivat riittäviä tarpeisiisi.
+
+#(HELLO_ALLIES_2)	safeones-072.ogg
+Mitä me, spathien Korkea Hallintoneuvosto voimme tehdä hyväksesi?
+
+#(HELLO_ALLIES_3)	safeones-073.ogg
+Hei kapteeni, mikä tuo sinut tänne tänään?
+
+#(whats_up)
+Onko tapahtunut mitään merkityksellistä kehitystä?
+
+#(GENERAL_INFO_1)	safeones-074.ogg
+Ehkä, Kapteeni. Minäpä selitän.
+Olemme tutkineet Lähetintä jonka otimme pois umgaheilta
+`Jud, Vug' -skandaalin jälkeen 8 vuotta sitten.
+Olemme paljastaneet todisteita jostakin oudosta jota on tapahtunut umgahien ja ilwrathien välillä monen viime vuoden ajan.
+Epäilemme että umgahit käyttivät Lähetintä johonkin pitkäaikaiseen pilaan ilwratheja kohtaan
+mutta emme pysty keräämään enempää yksityiskohtia.
+
+#(GENERAL_INFO_2)	safeones-075.ogg
+Kyllä, ja uutiset eivät ole hyviä.
+Kuten tiedät, androsynthien avaruus on omamme vieressä, ja vaikka emme ikinä oikeastaan pitäneet androsyntheistä
+vaikutti siltä etteivät he aikoneet tappaa meitä kuten kaikki muut tuntuvat.
+Kuvittele järkytystämme kun saimme tietää että nuo kalatyypit, orzit, olivat valloittaneet ja syöneet heidät!
+No, oikeastaan me emme tiedä ovatko orzit syöneet ketään, mutta olemme varmoja että he tekivät jotain pelottavaa.
+Toivon todella että et harkitse liittoa heidän kanssaan, Kapteeni, ne ovat vaarallisia.
+
+#(GENERAL_INFO_3)	safeones-076.ogg
+Taisimme unohtaa kertoa tämän sinulle jonkin aikaa sitten... sorí
+mutta olemme olleet niin kiireisiä viime aikoina työskellessämme kilv-- ööh... valmisteluissa Spathiwaan palaamista varten
+että se taisi vain lipsahtaa mielestäni.
+Joo, siinä olikin kaikki.
+Hei, minä pyysin jo anteeksi!
+Mitä sinä vielä tahdot?
+Ai niin! Se juttu jonka unohdin.
+Aivan, nyt muistankin! Se oli jotain outoa joka tapahtui kuin tapasimme Ur-Quanit ensimmäisen kerran.
+Lähetimme aluksen kohtaamaan lähestyviä Taistelulaivoja
+halusimme kertoa Ur-Quaneilla Pahoista, niin että he voisivat välttää planeettaamme turvallisesti
+mutta sitten kun pääsimme lähelle, Ur-Quanit alkoivat huudattaa tätä musertavaa signaalia
+`ÄLYLLINEN ELÄMÄ. ME OLEMME UR-QUANIT. ITSENÄISYYTTÄ EI SUVAITA. BLAH, BLAH, BLAH.' -- ymmärrät kyllä
+joka tapauksessa, paniikinomaisen nerokkuuden hetkenä, Kapteeni sopersi
+`Pysähtykää! Se mitä teette meille on väärin! Miksi teette näin?'
+Kaikkien hämmästykseksi Ur-Quanien laivasto pysähtyi niille sijoilleen avaruuteen.
+Ur-Quanit kohdistivat voimakkaan kommunikointisäteen alukseen
+ja olento puhui pitkään ja suurella kiihkolla
+aivan kuin se olisi lausunut suurta rituaalia.
+Sanoilla, joita se puhui, oli planeettoja järisyttävä merkitys!
+Ainakin me oletamme niin. Me pysty oikein olemaan varmoja, koska kaikki sillä hetkellä aluksella olleet spathit
+olivat vetäytyneet tiukasti kuoriinsa, eivätkä kuulleet kovinkaan hyvin.
+Ehkä jos saat tilaisuuden, Kapteeni, voit yrittää kysymyksen kysymistä uudestaan.
+
+#(GENERAL_INFO_4)	safeones-077.ogg
+Kehitystä?! Mitä kehitystä!? Mistä sinä oikein puhut, Kapteeni?
+Yritätkö vihjailla että me aikoisimme jotain -- että meillä on jonkinlainen salainen suunnitelma!?
+Kuinka väärässä oletkaan, kapteeni! Tämä epäoikeutettu syytös loukkaa tunteitamme.
+Anteeksipyynnöt olisivat aiheellisia nyt.
+
+#(GENERAL_INFO_5)	safeones-078.ogg
+Ei, Kapteeni, ei uutisia.
+
+#(like_some_info)
+Antaisitteko meille tiettyjä tietoja?
+
+#(WHAT_ABOUT)	safeones-079.ogg
+Mielellämme, mistä aiheesta?
+

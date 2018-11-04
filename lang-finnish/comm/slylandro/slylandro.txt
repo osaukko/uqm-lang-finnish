@@ -1,0 +1,615 @@
+#(HELLO_1)	slylandro-000.ogg
+Tervehdys, vierailija!
+Me olemme Slylandroja. Minä olen Leijuen Tyytyväinen
+slylandrojen Puhuja.
+Tänne tulosi herättää mielenkiintomme!
+Niin harvat ovat käyneet vierailemassa näinä monina Drahneina.
+Toivomme että voisit jäädä keskustelemaan kanssamme hetkeksi.
+
+#(HELLO_2)	slylandro-001.ogg
+Palaat todella nopeasti.
+Viimeisen viiden Drahnin aikana meillä on ollut vain yksi vierailija.
+Ja nyt olet tullut jo kahdesti yhden Drahnasan aikana!
+Kuinka ihanaa!
+
+#(HELLO_3)	slylandro-002.ogg
+Tervetuloa takaisin, ihmismatkaaja!
+Toivomme että seikkailusi ovat antaneet sinulle oivalluksia
+joita voit jakaa kanssamme.
+
+#(HELLO_4)	slylandro-003.ogg
+Tervetuloa takaisin, ihmismatkaaja!
+Toivomme että seikkailusi ovat antaneet sinulle oivalluksia
+joita voit jakaa kanssamme.
+
+#(RECALL_PROGRAM_1)	slylandro-004.ogg
+Ah! ihmismatkaaja. Meillä on uutisia.
+Eräs luotaimistamme viimeinkin palasi kotiin.
+ja me olemme onnistuneet säätämään sitä niin, että
+se etsii muita luotaimia ja lähettää niille itsetuhokoodin.
+Oletamme luotainten määrän putoavan nopeasti.
+Kiitos todella paljon, että näytitte meille virheemme.
+Olemme todella pahoillamme siitä häiriöstä, mitä se aiheuttanut muille.
+
+#(we_are_us0)
+Minä olen 
+#(we_are_us1)
+, Maapallon edustaja lippulaivassamme 
+#(we_are_us2)
+. Mitä hittoja te oikein olette?
+
+#(TERRIBLY_EXCITING)	slylandro-005.ogg
+Oi, tämä on hirveän jännittävää!
+Kerromme sinulle mielellämme itsestämme
+jos olisit kiltti ja tekisit saman.
+Näethän, me slylandrot olemme erittäin kiinnostuneita oppimaan galaksista
+Mutta fysiologiamme tekee meistä kyvyttömiä poistumaan kaasujättiläisestämme.
+Joten joudumme tyytymään harvoihin vierailijoihimme
+saadaksemme tietoja aurinkokuntamme ulkopuolisista tapahtumista.
+Ja vierailijoita käy yleensä vain muutaman Drahnin välein.
+Toivomme että vasta lähetetty luotainlaivastomme
+ei vain pelkästään kerää tietoa meille,
+vaan kertoo myös muille roduille olemassaolostamme!
+
+#(happy_to_tell_more)
+Kuinka pitkä aika tarkalleen on yksi `Drahn'?
+
+#(TELL_MORE)	slylandro-006.ogg
+Drahn on yleisimmin käyttämämme ajan yksikkö.
+Yksi Drahn vastaa ajanjaksona
+neljää miljoonaa planeettamme kierrosta.
+Drahn jaetaan kahteen tuhanteen drahnasaan.
+Nyt on meidän vuoromme. Voisitko kertoa meille kansastasi?
+
+#(would_you_like_to_know_more)
+Kertoisimme mielellämme lisää omasta kansastamme.
+
+#(YES_TELL_MORE)	slylandro-007.ogg
+Kyllä! Kertokaa ihmeessä!
+Keitä te olette? Mistä tulette? Miksi olette tulleet tänne?
+Tunnetteko muita älykkäitä rotuja?
+Me pyydämme! Kertokaa meille kaikki, KAIKKI!
+
+#(we_come_from_earth)
+Suurin osa meistä tulee kiviseltä planeetalta nimeltä Maa.
+
+#(OK_EARTH)	slylandro-008.ogg
+Aivan! Näin näyttää aina olevan.
+Jokseenkin kaikki, jotka ovat käyneet täällä
+ovat sanoneet että he ovat kehittyneet sen kaltaisella planeetalla.
+Tietääksemme me olemme ainoa tietoinen rotu
+joka ikinä on kehittynyt kaasujättiläisen kaasukehässä.
+Tietenkään tietääksemme suurimmalla osalla matkustajista, kuten te
+ei ole kovin paljoa kiinnostusta kaasujättiläisiä kohtaan
+joten ehkä jossain on olemassa muita meidän slylandrojen tapaisia.
+
+#(we_explore)
+Matkaamme pitkin galaksia avaruusaluksissa, etsien tietoa ja ottaaksemme yhteyttä muihin älyllisiin.
+
+#(OK_EXPLORE)	slylandro-009.ogg
+Se mahtaa olla hienoa! Poistua planeetaltaan ja samota tähdissä!
+Et tiedäkään, kuinka yksitoikkoista voi olla elää kaasujättiläisellä kolmen tai neljän Drahin ajan.
+Pilviä, pilviä, pilviä. Tuulta. Ukkosta. Pilviä, pilviä, pilviä. Siinä se!
+Tiedämme PALJON pilvistä. Jos tahdot tietää jotain pilvistä, kysy meiltä.
+Meillä on yli kahdeksansataa erilaista symbolista viittausta vain niiden kuvailemiseen!
+Suurimman osan ajasta, kun emme syö
+me leijumme ympäriinsä ja puhumme siitä, miltä pilvet näyttävät.
+Tottakai, ainoat asiat mitä tiedämme, ovat pilvet, ruoka ja muut slylandrot
+joten yleensä pilvet näyttävät mielestämme niiltä.
+
+#(we_fight_urquan)
+Ensisijainen tavoitteemme on juuri nyt vapauttaa itsemme pahojen Ur-Quanien vallasta.
+
+#(URQUAN_NICE_GUYS)	slylandro-010.ogg
+Ur-Quanien? Pitkät ruskeahkot tyypit Yhteisöstä, kaikkine silmine ja raajoineen?
+Heillä oli tapana vierailla luonamme säännöllisesti noin kolme Drahnia sitten.
+He kertoivat meille kaikista tiedusteluretkillään löytämistään mielenkiintoisista asioista.
+He olivat tosi mukavia! Miksi te taistelette heidän kanssaan?
+
+#(not_same_urquan)
+Sekoitatte heidät varmaan joihinkin muihin. Ne Ur-Quanit joista puhumme, ovat vihreitä.
+
+#(PERSONALITY_CHANGE)	slylandro-011.ogg
+Mutta Ur-Quanit olivat kivoja tyyppejä!
+Heillä oli monia mielenkiintoisia juttuja kerrottavana.
+eivätkä he koskaan kyllästyneet kysymyksiimme.
+Hmm. Luulen, että paljon ehtii tapahtua lajille kolmessa Drahnissa.
+Kuten vihreäksi ja pahaksi muuttuminen.
+
+#(we_gather)
+Olemme erityisen kiinnostuneita tutkimaan epätavallisia planeettoja ja elämänmuotoja.
+
+#(MAYBE_INTERESTED)	slylandro-012.ogg
+Oi! Sittenhän teidän kannattaisi mennä tutkimaan planeettaa erään sinisen tähden systeemistä.
+Luulisin että sen lähistöllä on toinen sininen tähti. Kummatkin ovat aika lähellä.
+Emme voi tarkalleen kuvailla missä se on, mutta ne jotka kertoivat meille siitä
+Ur-Quanit, luulisin, sanoivat että se oli yksi harvinaisimmista maailmoista avaruudessa
+ja mikäli he tiesivät oikein
+Tässä osassa galaksia oli vain kymmenen samankaltaista planeettaa.
+
+#(enough_about_me)
+Tämä riittäköön meistä tällä kertaa.
+
+#(OK_ENOUGH_YOU)	slylandro-013.ogg
+Hyvä on, mutta voimmeko puhua lisää teistä myöhemmin?
+
+#(what_other_visitors)
+Luotaimia? Mistä luotaimista oikein puhutte?
+
+#(VISITORS)	slylandro-014.ogg
+No, se aika hassua. Me emme olleet kuulleet muusta galaksista kokonaiseen Drahnasaan
+ja sitten melnormet tulivat käymään, ja myivät meille luotaimen
+ja vain muutama sata kierrosta myöhemmin TE tulitte!
+Ainiin, luotaimet. Juuri niin.
+No, kuten sanoimme, ihan vähän aikaa sitten melnorme-niminen rotu käväisi täällä
+He sanoivat saaneensa käsiinsä informaatiota, joka paljasti olemassaolomme
+ja he halusivat tutkia meitä, jos emme pistä pahaksemme
+Itse asiassa melnormet sanoivat että he MAKSAISIVAT meille oikeudesta tehdä niin.
+Luulen että he ovat hulluna biologiaan, tai jotain
+niin, kuitenkin, vaihdoksi tiedoistamme he antoivat meille luotaimen.
+
+#(any_other_visitors)
+Kertokaa minulle muista roduista jotka ovat käyneet täällä vuosien saatossa.
+
+#(LONG_AGO)	slylandro-015.ogg
+Vuosien? Ai... Tarkoitat Drahneja...
+Katsotaanpas... melnormet kävivät vain muutama kierros sitten...
+ja sitten menemmekin taaksepäin kokonaiset kolme Drahnia  Ur-Quaneihin
+ja muihin Yhteisön jäseniiin... Yulit ja Drallit, luulisin.
+
+#(what_about_sentient_milieu)
+Yhteisö? Mikä on tämä Yhteisö, ja keitä ovat Yulit ja Drallit?
+
+#(MET_TAALO_THEY_ARE_FROM)	slylandro-016.ogg
+Hmm.. Anna kun muistelen.. Siitä on jo niin pitkä aika... Olin vasta nymfi silloin
+ah, nyt muistan!
+Tietoisten Yhteisö oli tietoisten rotujen liittoutuma
+yulien, drallien, taalojen, mael-numien, fazien ja Ur-Quanien muodostama
+jotka elivät suuressa osassa galaksiamme.
+He puhuivat meidän kanssamme toistuvasti noin puolen Drahnin ajan
+sitten yhtäkkiä vierailut loppuivat, emmekä ole kuulleet heistä sen jälkeen.
+
+#(who_else)
+Vierailiko kukaan muu luonanne kuin melnormet ja Yhteisön rodut?
+
+#(PRECURSORS)	slylandro-017.ogg
+Kyllä... oli yksi muukin rotu... erittäin hienostunut karvaisten jättiläisten rotu
+jotka kävivät luonamme säännöllisesti usean Drahnin ajan.
+He jopa sijoittivat lähetinsatelliitin maailmamme kiertoradalle
+jonka avulla pystyimme keskustelemaan heidän kanssaan milloin halusimme.
+Heitä kutsuttiin.... Hmm..
+Olen pahoillani, en muista heidän nimiään. Siitä on niin kauan.
+
+#(precursors_yow)
+Vau! He kuulostavat ihan Edelläkävijöiltä! Mitä muuta voitte tästä rodusta?
+
+#(ABOUT_PRECURSORS)	slylandro-018.ogg
+Toivoisin että tietäisin enemmän siitä mitä etsit, Matkaaja
+mutta me näimme Karvaiset viimeksi vähän yli 39 Drahnia sitten
+ja vain hyvin vähän niiltä ajoilta on jäänyt jäljelle lauluihimme.
+Hetkinen. Annas kun kysyn Jurolta Vajoajalta ja Riemukkaalta Nostatukselta
+Riemukas Nostatus, jolla on parempi muisti kuin minulla
+muistelee että Karvaisten kuvailtiin olevan... huolissaan.
+He olivat aina menossa paikasta paikkaan, etsien tietoa
+aivan kuin olisivat epätoivoisesti etsineet jotain tärkeää salaisuutta
+jotain vastausta kysymykseen, jota he eivät koskaan kertoneet meille.
+Juro Vajoaja muistelee, että viimeisellä kerralla kun he kävivät,
+he tulivat suurella pyöreällä avaruusaluksella, vielä isommalla kuin omanne.
+He olivat löytäneet Vastauksensa, ja olivat lähtemässä jonnekin.
+Mutta he eivät kertoneet tarkkaan missä tämä 'jonnekin' oli.
+
+#(must_know_more)
+Tämä on meille ERITTÄIN tärkeää! Ettekö tosiaan tiedä muuta?
+
+#(ALL_WE_KNOW)	slylandro-019.ogg
+Ei, olen kertonut sinulle.. hetki.. Riemukkaalla Nostatuksella on asiaa
+  
+Riemukas Nostatus on muistanut jotain muuta.
+Vaikka se ei liity Karvaisten Kysymykseen, Vastaukseen, Lähtöön, Määränpäähän,
+Niin ystäväni kertoo kymmenestä planeetasta, joiden kaltaisia ei ole muita.
+Karvaiset joko löysivät nämä planeetat... Tai... Tämä on epäselvää, kokosivat ne?
+Meille kerrottiin, että planeetat on... Tämä on outoa, järjestetty (?) johonkin muotoonn
+Joka jotenkin liittyy Karvaisten lopulliseen kohtaloon.
+Yhden näistä planeetoista kerrottiin kiertävän toista kahdesta läheisestä sinisestä tähdestä.
+Toinen näistä maailmoista kiertää suurta valkoista tähteä.
+Tässä kaikki mitä muistamme.
+
+#(who_are_you)
+Anteeksi, mutta keitä te oikeastaan olittekaan?
+
+#(WE_ARE_SLY)	slylandro-020.ogg
+Me olemme Slylandrot, kilttien ja uteliaiden kaasupussien rotu.
+
+#(like_more_about_you)
+Hmmm. Kuulostaa mielenkiintoiselta! Kertokaa lisää.
+
+#(SURE_KNOW_WHAT)	slylandro-021.ogg
+Tottakai, kunhan kerrot meille myös itsestänne.
+Mitä haluaisit tietää?
+
+#(what_about_home)
+Kertokaa kodistanne... Tästä kaasujättiläisestä.
+
+#(ABOUT_HOME)	slylandro-022.ogg
+Planeetallamme, jota kutsumme Lähteeksi, ei ole kiinteää pintaa, kuten omallanne varmaankin on.
+Meidän 'maailmamme' on noin 500 kilometrin korkuinen osa ilmakehästä, jossa pystymme selviämään.
+Tämän alapuolella ovat Syvyydet.. Pimeä ja vaarallinen alue
+joka tulee sitä pimeämmäksi ja vaarallisemmaksi, mitä syvemmälle menee.
+Tyypillinen urotyö slylandro-nuorukaisille on vaipua tarpeeksi alas Syvyyksiin
+niin että nuorukaisen ilmarakko melkein repeää paineesta.
+Tästä tulevat kudosarvet kestävät monia kierroksia
+ja niiden uskotaan houkuttavat mahdollisia puolisoja.
+Yläpuolellamme on Tyhjyys. Kun vaellamme tarpeeksi ylös Tyhjyyteen
+tulemme huikentelevaisiksi ja käyttäydymme epäsopivasti.
+
+#(what_about_culture)
+Mitä voitte kertoa kulttuuristanne?
+
+#(ABOUT_CULTURE)	slylandro-023.ogg
+Meillä on täällä tasa-arvoinen yhteiskunta. Kaikki ovat samanarvoisia.
+Tietenkään se ei estä joitain olemasta typeryksiä tai öykkäreitä.
+Mutta niinkin suuressa maailmassa kuin Lähde, jossa ei ole rajoja
+jos joku häiritsee, voi aina mennä muualle.
+Kuten olet varmaankin arvannut, meillä ei ole fyysistä teknologiaa.
+Pitkän historiamme aikana muutamat meistä ovat yrittäneet käyttää esineitä
+Rakentaen aseita ja muita työkäluja eläinten raadoista
+mutta ennen pitkää, se mitä ikinä he rakensivatkaan, tuli liian raskaaksi
+ja veti heidät Syvyyksiin.
+
+#(what_about_history)
+Entä historiastanne?
+
+#(ABOUT_HISTORY)	slylandro-024.ogg
+Koska meillä ei ole teknologiaa, meillä ei ole pysyvää keinoa tallentaa historiaamme.
+Sen sijaan käytämme Historian Lauluja.. Pitkiä lauluja joiden rytmit ja kaavamaisuus
+estävät virheen tulemisen 'tallenteeseen'.
+Kun Karvaiset saapuivat ensi kertaa 41 Drahnia sitten
+Meillä ei ollut sanaa muukalaisille tai aluksille, eikä tähdille tai planeetoille.
+Taivaamme on läpinäkymätön värien kirjo. Emme tienneet mitään muusta maailmankaikkeudesta.
+Karvaiset opettivat meille suurimman osan Uusista Sanoista
+ja kun he lähtivät, muistimme heitä monina pitkinä Drahneina
+kunnes Tietoisten Yhteisön alukset saapuivat.
+
+#(what_about_biology)
+Kertokaa kehityksestänne.
+
+#(ABOUT_BIOLOGY)	slylandro-025.ogg
+Maailmamme, Lähde, on ollut koti lajillemme monien tuhansien Drahnien ajan.
+Kehityimme alkeellisemmista yksisoluisista olennoista jotka elävät ilmakehän konvektiopisteissä.
+Aluksi emme olleet juuri muuta kuin järjettömiä kuluttajia
+Jotka liisivät tuulivallien reunoilla siivilöiden pienempiä eliöitä ilmasta.
+Mutta silloinkin olimme sosiaalisia eläimiä, jotka keksivät kielen
+jotta pystyimme paremmin ajamaan ruokaa tiivimmille alueille.
+Lähteellä on satoja eri lajeja
+tuottajia, kuluttajia, metsästäjiä ja loisia, mutta tähän mennessä
+me olemme ainoa laji täällä joka on kehittänyt älykkyyden.
+
+#(enough_info)
+Kiitos. Tämä riittänee nyt.
+
+#(OK_ENOUGH_INFO)	slylandro-026.ogg
+Ilo oli minun puolellani. Puhuisimmeko nyt sinusta ja kansastasi?
+
+#(where_are_you)
+Mitä nuo hohtavat osat sisällänne ovat?
+
+#(DOWN_HERE)	slylandro-027.ogg
+JESTAS! Unohdin! Te olennot näette valotaajuuksilla, ja voitte nähdä meidän... tuota
+meidän... Öö... no, ME emme voi nähdä niitä
+Ömm... Eh. Tarkoituksenani on sanoa... ne ovat... no me käytämme niitä
+kun naaras ja uros... Öhh...
+Kuule, olisin kiitollinen että et kysy niistä, sopiiko?
+(Varsinkaan Juron Vajoajan paikallaollessa... Hän on vähän ujo)
+
+#(thats_impossible_1)
+Kysyin.. MITÄ NUO HOHTAVAT OSAT SISÄLLÄNNE OVAT?!
+
+#(NO_ITS_NOT_1)	slylandro-028.ogg
+Mahtavaa. Nyt teit sen. Katso vaan Juroa Vajoajaa.
+Nolasit hänet niin pahasti, että hän ei pysty edes säännöstelemään painolastiaan.
+
+#(thats_impossible_2)
+Äh... Kuule... Olen pahoillani, että kysyin.. hehkuvista osistanne.
+
+#(NO_ITS_NOT_2)	slylandro-029.ogg
+Ei se mitään. Itse asiassa epäsoveliaat kysymyksesi
+ovat saaneet Juron Vajoajan epätavalliseen ja mielenkiintoiseen tilaan.
+Paneudun tutkimaan tätä muutosta tarkemmin kun keskustelumme loppuu.
+
+#(bye)
+Näkemiin, kaasupussi-Slylandrot.
+
+#(GOODBYE_1)	slylandro-030.ogg
+Näkemiin, nestesäkki-ihminen!
+
+#(GOODBYE_2)	slylandro-031.ogg
+Näkemiin, nestesäkki-ihminen.
+
+#(what_are_probes)
+Voitteko kertoa tarkemmin luotaimistanne?
+
+#(PROBES_ARE)	slylandro-032.ogg
+Tottakai, jos olet kiinnostunut. Vaihdossa tietoon Lähteessä asuvista organismeista
+Melnormet tarjosivat meille kaukotutkimusluotainta.
+Se vaeltaisi ympäri galaksia, keräten tietoa ja ottaen yhteyttä eri lajeihin
+ja kun se olisi täyttänyt tietopankkinsa, se palaisi tänne
+ja kertoisi meille kaiken oppimansa!
+
+#(know_more_probe)
+Siinäkö kaikki? Eikö luotain voi tehdä mitään muuta?
+
+#(OK_WHAT_MORE_PROBE)	slylandro-033.ogg
+Ai niin! Miten saatoin unohtaa.. Tämä oli ERITTÄIN tärkeä osa!
+Luotain oli itseään monistava!
+Kun se ei tallentanut tietoa, se hienonsi kiviä ja muuta romua
+ja sitten imi osaset sisään. Kun sillä oli tarpeeksi raaka-aineita
+se valmisti kopion itsestään, joka sekin puolestaa monistuu!
+Odotamme ensimmäisen luotaimen tulevan takaisin muutaman sadan kierroksen sisällä
+ja sen jälkeen meidän pitäisi nähdä niitä etenevässä määrin.
+
+#(where_probes_from)
+Mistä sanoittekaan saaneenne luotaimen?
+
+#(PROBES_FROM_MELNORME)	slylandro-034.ogg
+Melnorme-kauppiailta.
+Se oli katalogin esine 2418, Itsemonistava Pitkänmatkan Tutkimusrobottiluotain.
+Halpa säästömalli.
+
+#(why_sell)
+Miksi melnormet myivät sen teille?
+
+#(SELL_FOR_INFO)	slylandro-035.ogg
+Melnormet vaihtoivat sen tietoon Lähteen organismeista.
+He sanoivat että kyseinen tieto oli ainutlaatuista, ja oli
+arvoltaan jotain... en oikein ymmärrä heidän valuuttaansa
+ehkä noin 10 000 kero-niittiä... tai jotain.
+Onnekkaasti, se oli tasan sama hinta kuin heidän
+kataloginsa esineellä 2418... Itsemonistava Pitkänmatkan Tutkimusrobottiluotain.
+
+#(how_long_ago)
+Kuinka kauan aikaa sitten saitte ensimmäisen luotaimen?
+
+#(FIFTY_THOUSAND_ROTATIONS)	slylandro-036.ogg
+Kaksi- tai kolmesataa kierrosta sitten, luulisin.
+
+#(whats_probes_mission)
+Millainen oli luotaimen ohjelmointi?
+
+#(SEEK_OUT_NEW_LIFE)	slylandro-037.ogg
+Se lähetettiin 500 kierroksen tehtävälle!...
+..etsimään uutta elämää ja uusia sivilisaatioita.. Menemään rohkeasti minne yksikään
+katalogin esine 2418... Itsemonistava Pitkänmatkan Robottitutkimusluotain
+ei ollut ennen mennyt!
+
+#(if_only_one)
+Voitko selostaa luotaimen monistumiskykyä?
+
+#(THEY_REPLICATE)	slylandro-038.ogg
+No, emme ole laitteistoeksperttejä, joten tiedämme vain teorian.
+Se mitä tapahtuu on, että kun luotain tutkii avaruutta
+kun se ei tee jotain tärkeämpää
+se etsii asteroideja ja muuta sentapaista avaruusromua
+ampuu sen pienempiin osiin, imee sisäänsä romun
+ja kun sillä on sisällään tarpeeksi raaka-ainetta
+se valmistaa täydellisen kopion itsestään.
+Joten vaikka ostimmekin vain yhden luotaimen
+tällä hetkellä luotaimia pitäisi olla jo satoja, ellei tuhansia!
+
+#(enough_probe)
+Olen kuullut tarpeeksi, kiitos.
+
+#(OK_ENOUGH_PROBE)	slylandro-039.ogg
+Hyvä on. Mistä muusta voisimme puhua?
+
+#(why_probe_always_attack)
+No, miksi luotaimenne sitten hyökkäävät kimppuumme?
+
+#(ONLY_DEFEND)	slylandro-040.ogg
+Luotaimemme EIVÄT hyökkää!
+Ne kykenevät vain puolustautumaan.
+Hyökkäävä käyttäytyminen EI ole osa ohjelmoimaamme luotaimen koodia.
+Sen tekeminen olisi tuomittavaa!
+
+#(talk_more_probe_attack)
+Voimmeko puhua hieman tarkemmin luotaimen ohjelmoinnista?
+
+#(NO_PROBLEM_BUT_SURE)	slylandro-041.ogg
+Tottakai. Mitä haluaisit tietää?
+
+#(tell_me_about_basics)
+Voisitko selittää minulle luotaimen ohjelman yleisen toiminnan?
+
+#(BASIC_COMMANDS)	slylandro-042.ogg
+Tottakai. Se oli vaikea tehtävä meille, koska emme olleet mitään sen kaltaista
+mutta suurimmaksi osaksi vain muokkasimme alkuperäistä ohjelmaa, joka oli suurinpiirtein
+    SKANNAA (kohteita, Kohdelistan mukaan)
+    JOS (ei valittua kohdetta)
+    NIIN (valitse Uusi kohde Nykyisten kohteiden listalta määriteltyjen prioriteettien mukaan)
+    JOS (Kohde nykyisessä olinpaikassa)
+    NIIN (Valitse uusi käyttäytymismalli, Käyttäytymisen Prioriteettiasetusten mukaan)
+    SUORITA (Nykyinen Käyttäytymismalli)
+No niin, se on perusohjelma... Sanoinhan sen olevan yksinkertainen
+ja tässä ovat ohjelman käyttämät taulukot.
+    KOHDELISTA (prioriteetin mukaan).
+        Avaruusalus (5).
+        Radioaaltoja lähettävä objekti (4).
+        Astronominen poikkeavaisuus (3).
+        Elämän ylläpitoon kykenevä planeetta (2).
+        Raaka-aineita kopiointiin (1).
+    LUOTAIMEN KÄYTTÄYTYMINEN (prioriteetin mukaan).
+        Kommunikoi (5).
+        Tallenna tietoa (4).
+        Analysoi tietoa (3).
+        Etsi kopiointimateriaaleja (999)
+        Liiku nykyiseen kohteeseen (1)
+Siinä se.
+
+#(tell_basics_again)
+Mitkä luotaimen ohjelmoinnin perusteet olivatkaan?
+
+#(OK_BASICS_AGAIN)	slylandro-043.ogg
+Ohjelma oli...
+    SKANNAA (kohteita, Kohdelistan mukaan)
+    JOS (ei valittua kohdetta)
+    NIIN (valitse uusi kohde Nykyisten Kohteiden listalta annettujen prioriteettien mukaan)
+    JOS (Kohde on NYKYISESSÄ olinpaikassa)
+    NIIN (Valitse uusi käyttäytymismalli, käyttäytymisen prioriteetin mukaan)
+    SUORITA (Nykyinen käyttäytymismalli)
+Noniin, se on perusohjelma.. Sanoinhan sen olevan yksinkertainen
+ja tässä on ohjelman käyttämät listat.
+    KOHDELISTA (prioriteetin mukaan).
+        Avaruusalus (5).
+        Radioaaltoja lähettävä objekti (4).
+        Astronominen poikkeavaisuus (3).
+        Elämän ylläpitoon kykenevä planeetta (2).
+        Raaka-aineita kopiointiin (1).
+    LUOTAIMEN KÄYTTÄYTYMINEN (kohdevaatimus, prioriteetin mukaan).
+        Kommunikoi (Avaruusalus tai lähettävä lähde, 5).
+        Tallenna tietoa (Mikä tahansa kohde, 4).
+        Analysoi tietoa (analysoimatonta dataa jonossa, 3).
+        Valmista Monistusmateriaaleja (Mikä tahansa kohde, 999)
+        Liiku nykyiseen kohteeseen (Mikä tahansa kohde, 1)
+
+#(what_effect)
+Mikä vaikutus prioriteetillä on käyttäytymiseen?
+
+#(AFFECTS_BEHAVIOR)	slylandro-044.ogg
+Olen melko varma että aina kun käyttäytyminen on suoritettu tai keskeytetty
+ohjelma valitsee uuden käyttäytymisen prioriteetin sekä
+kohteen tyypin mukaan... Luulisin.
+Todella suuri prioriteetti pakottaisi luotaimen käyttämään sitä käyttäytymismallia.
+
+#(how_does_probe_defend)
+Mainitsit luotaimen olevan puolustuskykyinen. Tarkenna.
+
+#(ONLY_SELF_DEFENSE)	slylandro-045.ogg
+Melnormet koodisvat sen käyttäytymisen laitteisiin.
+Emme voineet muuttaa sitä.
+Pohjimmiltaan, luotain ampuu aseillaan vain jos sen kimppuun hyökätään
+ja ei voi kommunikoida hyökkääjän kanssa.
+
+#(combat_behavior)
+Ja puolustaessaan itseään, se käyttää salama-asettaan?
+
+#(MISSILE_BATTERIES)	slylandro-046.ogg
+Ei. Luotain on varustettu ohjuspatterilla.
+Se ei käytä sähköisiä purkauksia taistelussa.
+
+#(what_missile_batteries)
+Mitä ihmeen ohjuspattereita? Se hyökkäsi kimppuumme aina salamoilla!
+
+#(LIGHTNING_ONLY_FOR_HARVESTING)	slylandro-047.ogg
+Se on mahdotonta! Täysin epäloogista!
+Sähköisiä purkauksia käytetään vain raaka-aineiden rikkomiseen
+pieniin osasiin joita on helppo kerätä.
+
+#(tell_me_about_rep_1)
+Kertoisitko minulle 'Kopiointi' -käyttäytymisestä?
+
+#(ABOUT_REP)	slylandro-048.ogg
+Mielelläni! Näethän, luotain kykenee
+etsimään raaka-aineita, prosessoimaan ne tarvittaviksi ainesosiksi
+keräämään ainesosat, ja kun sillä on tarpeeksi niitä
+se voi rakentaa kopion itsestään.
+Päätimme, että koska meillä on vain yksi luotain, meidän tulisi muuttaa kopiointiprioriteettiä
+ja nostaa se suuremmaksi, jotta luotaimet lisääntyisivät nopeammin.
+
+#(what_set_priority)
+Ööh.. Kuinka suuren prioriteetin laitoitte kopioinnille?
+
+#(MAXIMUM)	slylandro-049.ogg
+No, alkuperäinen oli kaksi, Liikkumisen (1) ja
+Datan analysoinnin (3) välissä. Käskin Riemukasta Nostatusta asettamaan sen vähän suuremmaksi
+hetki, kysyn kuinka suureksi se laitettiin...
+Voi ei! Sehän oli vähän liikaa, eikö?
+Riemukas Nostatus kertoi minulle vaihtaneensa sen 999:ään
+suurimmaksi mahdolliseksi.
+
+#(enough_problem)
+Keskustelemme tästä myöhemmin.
+
+#(OK_ENOUGH_PROBLEM)	slylandro-050.ogg
+Hyvä on.
+
+#(probe_has_bug)
+Luotaimemme TODELLA tuhoaa aluksia, ja voin todistaa sen!
+
+#(NO_IT_DOESNT)	slylandro-051.ogg
+Ei! Se ei pysty! Sille ei ole ohjelmoitu hyökkäävää käyttäytymistä!
+Miksi se niin tekisi?
+
+#(tell_me_about_attack)
+Ajattele mitä luotain tekee kun se tapaa aluksen.
+
+#(ATTACK_NO_PROBLEM)	slylandro-052.ogg
+Avaruusalukset ovat luotaimen korkein prioriteetti
+koska haluamme mieluiten tehdä ystävällisen kontaktin muukalaisten kanssa.
+
+#(tell_me_about_rep_2)
+Nyt, ajattele luotaimen kopiointikäyttäytymistä.
+
+#(REP_NO_PROBLEM)	slylandro-053.ogg
+Luotain etsii raaka-aineita, ja valmistaa ne kopiointia varten.
+
+#(what_about_rep_priorities)
+No, mikä on vaikutus kopiointikäyttäytymisen prioriteetin muutoksella?
+
+#(MAXIMUM_SO_WHAT)	slylandro-054.ogg
+Vastaus on helppo.. Se käyttää enemmän aikaa raaka-aineiden etsimiseen
+kopiointiprosessia varten. Mitä siitä?
+
+#(think_about_rep_priorities)
+No, mitä se tekee alukselle, kun kopioinnin prioriteetti on maksimissa?
+
+#(UH_OH)	slylandro-055.ogg
+En näe mihin pyrit, mutta pysyn mukana leikissä.
+Kuten sanoin, muukalaisaluksilla on YLIN prioriteetti.
+Kun luotain on skannannut aluksen, se alkaa liikkua sitä kohti.
+sitten kun se pääsee sen luokse, se yrittää automaattisesti kommunikoida.
+Kun kommunikointi loppuu, uusi käyttäytyminen valitaan, ja....
+Uh-huh.
+Uusi käyttäytyminen valitaan, ja koska kopiointiprioriteetti on maksimissa
+luotaimella ei olisi aikaa valita uutta kohdetta.. Se käyttäisi nykyistä kohdetta
+alusta
+raaka-aineina kopiointiin
+se prosessoisi aluksen
+rikkoisi sen tarvittaviin ainesosiin
+sähköisillä purkauksilla.
+Voi ei,
+Mitä me olemme tehneet?
+Matkaaja! Sinun täytyy kertoa mitä voimme tehdä!
+Miten voimme pysäyttää luotaimia tuhoamasta kaikkea elämää galaksista?!
+
+#(hunt_them_down)
+Jonkun täytyy etsiä ja tuhota ne kaikki.
+
+#(GROW_TOO_FAST)	slylandro-056.ogg
+Ei, se ei ikinä toimisi!
+Luotaimet lisääntyvät liian nopeasti!
+Kun saisit yhden tuhottua, kaksi tulisi tilalle!
+
+#(sue_melnorme)
+No, aluksi, jos olisin te, vaatisin korvauksia melnormeilta.
+
+#(SIGNED_WAIVER)	slylandro-057.ogg
+Olen pahoillani. Melnormet pistivät meidät hyväksymään erään sopimuksen
+joka vapauttaa heidät vastuusta tällaisen tapahtuessa.
+
+#(recall_signal)
+Ettekö te voisi lähettää jonkinlaista takaisinkutsusignaalia?
+
+#(NOT_THIS_MODEL)	slylandro-058.ogg
+Ei, ei katalogin artikkelia 2418
+(Itseään kopioiva tutkija-robottiluotain)
+Malli jonka olisi pystynyt kutsumaan takasin oli katalogin esine 2419
+ja Melnormet sanoivat että ne olivat loppuneet.
+
+#(mega_self_destruct)
+Teillä ei varmaankaan olisi jonkin sortin mega-itsetuhokoodia tai jotain?
+
+#(WHY_YES_THERE_IS)	slylandro-059.ogg
+MUTTA SELLAINENHAN ON!
+Olet nero, matkustaja! Miksemme itse tuota muistaneet!?
+Mutta.. Ongelmana on se, miten aiomme lähettää koodin?
+No, kun mietimme tätä, voimme ainakin antaa sinulle kyseisen koodin.
+Näin, jos vastaasi tulee luotaimiamme, voit tuhota sen tulemalla ammutuksi.

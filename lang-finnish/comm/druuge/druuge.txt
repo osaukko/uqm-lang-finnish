@@ -1,0 +1,562 @@
+#(AMBUSH_IS_FIRST_HELLO)	druuge-000.ogg
+Me olemme Crimson-yhtiön Druuget. Tämä planeetta jota lähestyt kuuluu meille.
+Kaikki muut omistukset on täten luokiteltu vääriksi ja pitämättömiksi.
+Poistukaa.
+
+#(INIT_BOMB_WORLD_HELLO)	druuge-001.ogg
+Hauskaa nähdä sinut täällä, Kapteeni!
+
+#(SUBSEQ_BOMB_WORLD_HELLO)	druuge-002.ogg
+Aarre tässä maailmassa on meidän omaisuuttamme! Se kuuluu Crimson-yhtiölle.
+Läsnäoloasi täällä voidaan pitää ainoastaan
+yrityksenä riistää meiltä jotain, mikä on oikeutetusti meidän!
+Poistu!.. Ja älä enää koskaan häiritse meitä!...
+Tai valmistaudu kärsimään vakavat seuraukset.
+
+#(whats_up_at_bomb_planet)
+Druuge-aluksen kapteeni. Perustele olosi täällä.
+
+#(GEN_INFO_AT_BOMB_PLANET)	druuge-003.ogg
+Me, Crimson-yhtiön nimitetyt edustajat tulimme hakemaan ainoastaan
+reilun ja hyväksyttävän maksun tavaroistamme!
+Me kuljimme tähän avaruuden osaseen vuosia sitten myydäksemme turhan Ultron-laitteen Utwigeille.
+Me jopa tiesimme, että heillä oli ase pinnalla alhaallamme -- tämä oli meidän hintamme!
+Mutta Utwigit käyttivät älykästä jekkua huijatakseen meitä!
+Olin saanut vakuutettua synkille Utwigin typeryksille, että Ultron olisi vastaus kaikkiin heidän säälittäviin uniinsa.
+"Voimia?", Proktorit valittivat. "Antaako se meille kaikki ne voimat mitä me tarvitsemme?"
+Varmistin sen heille, kyllä, Ultron antaa heille Toisen Näön
+Ultron antaisi heille kyvyn katsoa menneisyyteen ja tulevaisuuteen
+Ultron hitaasti yhdistäisi kunkin heistä salaisiin voimiin, joilla on suuri merkitys
+Ultron varmistaisi, että heidän rotunsa potentiaali mahtavuuteen täyttyisi.
+Sitten... Tapahtui virhe.
+Jo riittää typeryys! Me otamme Edelläkävijöiden laitteen pinnalta ja sitten poistumme.
+Tämän jälkeen testamenttaan koko planeetan sinulle, Kapteeni
+kallisarvoisten palvelustesi vuoksi
+edellyttäen, että poistut nyt!
+
+#(we_get_bomb)
+Tämä Edelläkävijöiden artifakti ei kuulu teille. Se on oikeutetusti meidän. Astukaa syrjään.
+
+#(NOT_GET_BOMB)	druuge-004.ogg
+VALEHTELIJA!
+ME olemme oikeat omistajat! Et sinä, Kapteeni.
+Ne monta vuotta sitten, kun me tarjosimme Ultronin Utwigeille
+kuinka he myhäilivät ja nauroivatkaan hyvälle onnelleen... Typerykset!
+Sitten he kerjäsivät, että saisivat pitää laitetta, vain hetken.
+Varmistaakseni kaupan, minä sallin tämän... mikä kamala virhe!
+Hetkellä, kun Yliproktori kosketti Ultronia, hänen kehonsa taipui
+ja hänen silmänsä pyörivät hänen päässään.
+Hän alkoi mutista merkityksettömiä sanoja ja ulvoa kuin nälkäinen peto.
+Olimme olettaneet Utwigien lankeavan kauppaan, ostaakseen turhan laitteen. Mutta ei ikinä sellaisella innolla!
+Heidän epävarmuutensa ja puhtaan järjen puuttumisensa jätti heidät alttiiksi kaikille manipulaatioillemme.
+Mutta sitten Proktorin keho rentoutui, ja hänen silmänsä sulkeutuivat hitaasti.
+Kun ne aukesivat uudelleen, hänen silmänsä hehkuivat villiä ja pelottavaa valoa.
+`Tämä on kaikki mistä me olemme koskaan uneksineet... ja enemmän!', hän tokaisi. `Ja nyt, Druuget, palkkionanne...'
+Aukaisin suuni puhuakseni, mutta ennen kuin ehdin sanoa sanaakaan, Proktori keskeytti
+`Odota! Ultron syöttää ajatuksesi suoraan minulle. Älä puhu! Minä tiedän mitä sinä tahdot.'
+Mitä minä olisin voinut sanoa? Sen, että Ultron oli pelkkä pila eikä pystyisi siihen? Olin tyrmistynyt ja hiljaa.
+Proktori jatkoi. `Te Crimson-Yhtiön Druuget tahdotte suurenmoisen antiikkisen esineen!'
+`Jotain, millä on salainen toiminto ja arvo. Selvä! Niin käyköön.'
+Ja meidän johdatettiin pieneen holviin.
+Proktori avasi holvin oven juhlallisesti
+ja selitti, että koska me olimme tehneet niin suuren palveluksen, KAIKKI holvin aarteet olisivat meidän!
+Sisältä löysimme sekamelskan muinaisia ja turhia artifakteja
+hehkuva sauva, järjetön atrain ja paljon muuta roskaa.
+En keksinyt mitään keinoa estää tätä onnetonta tapahtumaa silloin.
+Mutta kun kuulin sinusta, sinun matkoistasi, ja sinun typerästä vapauden etsinnästäsi
+tajusin, että sinä voisit olla oikeudenvälikäsi... ja kas!... niin olet.
+Kuulit oikeutuksemme. Se on pysyvä ja syrjäyttämätön.
+MENE nyt! Äläkä palaa.
+
+#(then_we_take_bomb)
+Riippumatta teidän tuntemuksistanne tässä asiassa, me otamme laitteen.
+
+#(FIGHT_FOR_BOMB)	druuge-005.ogg
+Ei! Et tee sitä!
+Me tunnemme sinun sielusi, nuori Kapteeni. Se ei ole kirkkaampi kuin meidän!
+Me tunnistamme ahneutemme. Me herkuttelemme sillä.
+Sinä olet epärehellinen! Piilotat häpeäsi varjoihin, tekaistut perustelusi, järkisyysi!
+Loppujen lopuksi olemme kuitenkin samanlaisia.
+Mutta nyt seisot tiellämme. Etkä liiku.
+Joten me liitämme todellisen nimesi Vihan Kirjoihin, mutta ensin
+Kuole, lapsi, KUOLE!
+
+#(GOODBYE_FROM_BOMB_PLANET)	druuge-006.ogg
+Arvostuksesi tätä vaikeata tilannetta kohtaan palkitsee sinut.
+
+#(NOT_ENOUGH_ROOM)	druuge-007.ogg
+Sinun laivastossasi ei ole tarpeeksi tilaa aluksille, jotka me haluamme antaa sinulle.
+
+#(TRADE_FOR_SPHERE)	druuge-008.ogg
+Kapteeni! Erikoinen, vertaa vailla oleva vaihtokauppa!
+Tavallisen maksun sijaan me antaisimme sinulle tämän esineen
+mitä sinä haluaisit sanoa saadaksesi erilaisen vaihdon?
+Me haluaisimme vaihtaa kauppatavarasi todella arvokkaaseen Edelläkävijöiden artifaktiin
+Ruusukuulaan!
+Sen alkuperä on täynnä ihmeitä, sen voimat tuntemattomat, mutta hienovaraiset.
+Mikä on vastauksesi?
+
+#(no_way)
+Kiitos, mutta ei kiitos.
+
+#(OK_REGULAR_DEAL)	druuge-009.ogg
+Hyvä on, ymmärrämme mielipiteesi.
+Olimme epäreiluja, kun esitimme tämän ehdotuksen sinulle niin yllättäen.
+Ehkäpä voisimme esittää sitä sinulle tulevaisuudessa uudelleen.
+Kun sinulla on aikaa miettiä sitä.
+
+#(way)
+Hyväksyn tämän epätavallisen ehdotuksen.
+
+#(OK_HERES_SPHERE)	druuge-010.ogg
+He-he! Olet todellakin viisas nuori ihminen!
+Ruusukuula on sinun.
+
+#(whats_the_sphere_again)
+Kertokaa minulle lisää tästä Artifaktista, tästä Ruusukuulasta.
+
+#(SPHERE_IS)	druuge-011.ogg
+Sen historia on kadonnut menneisyyteen, kuten rotu, joka valmisti sen
+ihmeelliset Edelläkävijät!
+Huomioi kuinka laite hehkuu, kuinka se värisee... muuttuu hitaasti... kirkkaana... sitten tummana...
+kuin nukkuvan jumalan sydän.
+Kapteeni, tämä artifakti on ollut meidän omistuksessamme jo vuosisatoja.
+Valtavia, julmia sotia on käyty sen omistuksesta.
+Tarjous, jonka teemme sinulle tässä ja nyt on todella harvinainen!
+Älä tee hätäistä päätöstä.
+
+#(WE_SELL_FOR_CREW)	druuge-012.ogg
+Kun tämä kerran on sinun ensimmäinen kertasi, kun käyt kauppaa kanssamme, Kapteeni
+anna minun selittää tavalliset käytäntömme.
+Me myymme sinulle polttoainetta, muinaisia artifakteja, jopa omia Moukari-aluksiamme!
+Kaikki mitä me haluamme vaihdossa on se, että sinä asetat hieman sinun miehistöäsi palvelemaan tänne
+pysyväisluontoisesti.
+
+#(i_will_never_trade_crew)
+En koskaan myy miehistöäni teidän orjiksenne.
+
+#(YOUR_LOSS)	druuge-013.ogg
+Tämä on suuri menetys meille molemmille, mutta me emme tee poikkeusta sinun kohdallasi.
+Yritä kuitenkin ymmärtää se, mitä aion sanoa.
+Me otimme vapauden tutkia aluksesi tietokonejärjestelmää
+tutkiaksemme sopimusta, jonka vapaaehtoiset ihmiset, jotka palvelevat aluksellasi, ovat allekirjoittaneet.
+Kuten arvelimmekin, huomasimme, että he ovat lupautuneet tottelemaan sinua, Kapteeni, jokaisessa tilanteessa
+ilman poikkeuksia.
+Olet täysin oikeutettu käymään kauppaa kanssamme vaatimallamme tavalla.
+Mikäli haluat muuttaa mieltäsi, olemme aina valmiita työskentelemään kanssasi, Kapteeni,
+
+#(isnt_this_slave_trading)
+Heii, eikös tämä ole vähän kuin... orjakauppaa?
+
+#(NO_SLAVE_TRADE)	druuge-014.ogg
+Ei, ei ei, Kapteeni! Orjilla ei ole mahdollisuuksia vaikuttaa tulevaisuuteensa, ei vapautta.
+Emme ikinä hyväksyisi yhdenkään väestäsi pysyvää asettamista tänne
+jos emme tietäisi, että he ovat antaneet sinulle luvan tehdä sellaisen sopimuksen.
+
+#(what_do_with_crew)
+No, mitä minun miehistöni tekisi täällä?
+
+#(HAVE_FUN)	druuge-015.ogg
+Väki, joka on niinkin taitavaa kuin lippulaivasi miehistö, saa heti paikat tähtilaivastossamme.
+He työskentelevät druugejen avaruusalusten miehistöjen kanssa yhdessä
+jakaen kaikki työt.
+
+#(im_ready_to_buy)
+...Olen valmis tekemään ostoksia.
+
+#(THIS_FOR_SALE)	druuge-016.ogg
+Erinomaista! Aloittakaamme.
+Inventaariossamme on parhaillaan...
+
+#(HAVE_SPHERE)	druuge-017.ogg
+Ruusukuula! Muinainen Edelläkävijöiden artifakti, jonka kauneus ja mysteerisyys on verratonta.
+Eikä se maksa kuin ällistyttävät 100 miestäsi!
+
+#(HAVE_ART_2)	druuge-018.ogg
+Hehkuva Sauva! Oi, minkälaisia voimia saatkaan
+kun pidät tätä säkenöivää sauvaa korkealla pääsi yläpuolella ja huudat `Kaiii! Laikiii-laiii!'
+Ja se on sinun ainoastaan sadasta miehestä.
+
+#(HAVE_ART_1)	druuge-019.ogg
+Wimblin Atrain! Ei pelkästään yksi, vaan täydet KOLME mystistä oksaa antavat tälle artifaktille
+sen kunnioitettavat voimat. Oletko tarpeeksi vahva hallitaksesi sen voimaa? Vai hallitseeko se sinua?
+Hinta? 100 miestä.
+
+#(SHIPS_AND_FUEL)	druuge-020.ogg
+Kuten aina, meillä on loputtomat varastot erittäin korkealaatuista polttoainetta
+jonka hintana on kymmenen miestä kymmenelle polttoaineyksikölle
+ja myöskin juuri valmistettu Moukari
+jonka me myymme sataa miestäsi vastaan.
+
+#(BOUGHT_SHIP)	druuge-021.ogg
+Erinomainen valinta. Laivastosi pursuaa voimaa!
+Jos ostat lisää Moukareita, olisit melkein voittamaton!
+
+#(BOUGHT_FUEL)	druuge-022.ogg
+Polttoaine on siirretty sinun ajoneuvoosi.
+Uskon, että huomaat pian salaisten lisäaineidemme välittömän vaikutuksen polttoaineessa.
+
+#(BOUGHT_ART_2)	druuge-023.ogg
+Kuinka onnekasta sinulle! Kuinka surullista minulle. Pelkään, että tämä muinainen reliikki
+esti minua lopettamastani elämääni jättääkseni tämän kyynelten vainion.
+Mitä minä nyt teen?
+
+#(BOUGHT_ART_1)	druuge-024.ogg
+Ha-ha, Kapteeni! Älä osoita haaraumia minuun noin varomattomasti!
+Olisin voinut vahingossa kärventyä, tai siirtyä johonkin vihamieliseen ulottuvuuteen.
+Sinä kannat Atrainta komentavasti, Kapteeni.
+Huomaan, että alat parhaillaan jo tajuta tämän artifaktin todellisia voimia.
+
+#(BOUGHT_SPHERE)	druuge-025.ogg
+Harpon Kuulan säilytysastialle ja vedän sen hitaasti pois alustaltaan.
+Satojen vuosien pölyt ovat tehneet siihen hienon hitsin... siinä! Se on ulkona.
+Nyt asetan muinaisen Kuulan käsiisi. Tunsitko tuon, Kapteeni?
+Onko sen lämpö jo lävistänyt käsiesi ihon kulkiessaan sieluusi?
+No pian se kyllä, Kapteeni. Jatka yrittämistä.
+
+#(repeat_what_to_sell)
+Öh, voisitko toistaa mitä teillä on myytävänä?
+
+#(INIT_SPACE_HELLO)	druuge-026.ogg
+Terveisiä ystävälle ja tutkimusmatkailijalle.
+Olen Crimson-Yhtiön virkamies.
+Me olemme druuget.
+Olemme iloisia tutustuessamme, ja toivomme että voisimme tehdä kauppoja yhdessä.
+Jos toiveesi ovat samanlaisia, kiiruhtakaa meidän pääkauppakeskukseemme Zeta Persei 1:een.
+
+#(SUBSEQUENT_SPACE_HELLO)	druuge-027.ogg
+Kas, nuori avaruusaluskapteeni Maasta!
+Toivomme että seikkailusi ovat tuottaneet sinulle vaurautta.
+Kuinka voimme palvella?
+
+#(whats_up_in_space)
+Mitä voitte kertoa meille kulttuuristanne, lajistanne?
+
+#(GENERAL_INFO_IN_SPACE_1)	druuge-028.ogg
+Enemmän kuin kulttuuri, Kapteeni, olemme organisaatio -- Crimson-Yhtiö!
+Meidän yhtiömme haluaa ainoastaan parantaa meidän elintasoamme
+ja se tekee sen `Tihkumis'-ilmiön kautta.
+
+#(GENERAL_INFO_IN_SPACE_2)	druuge-029.ogg
+Haluat tietää enemmän meistä? Erinomaista!
+Loppujen lopuksi, tiedon tulisi olla ilmaista, vai mitä Kapteeni?
+Katsotaan... meistä
+no, me OLEMME Crimson-Yhtiö, ja Crimson-Yhtiö on me.
+Kun Yhtiön tulot nousevat, meidän elämämme parantuu ja hyötypakkauksemme paranevat.
+Mitä korkeammalla portailla on, sitä enemmän hyötyy henkilökohtaisesti.
+Kun ajat ovat kovat, Yhtiön täytyy leikata kustannuksia, usein erottamalla palkollisia.
+Koska kaikki maailmassamme on Yhtiön omistuksessa
+tämä tarkoittaa, että entinen työntekijä on välittömästi tunkeilija ja on syyllinen Yhtiön omaisuuden varastamiseen
+kuten ilman ja auringonvalon. Ainoa sopiva rangaistus varkaudelle on
+polttouunin lämmitys.
+
+#(GENERAL_INFO_IN_SPACE_3)	druuge-030.ogg
+Tiedäthän, Kapteeni, me olemme kuulleet että on rotu nimeltä Melnorme
+joka on juuri astunut tähän galaksin osaan.
+Ymmärtääksemme he myyvät polttoainetta kauhealla voitolla
+ja vaativat maksuksi tavallista tietoa
+ja tarjoavat `pelastustoimintaa' mikä on tuskin  merirosvoutta enemmän.
+Kuinka rikollista.
+Ihan tiedoksi, Kapteeni. Ajattelimme että haluat tietää
+että raaka-aineet, mitä Melnormen haaskesta saadaan, ovat suurenmoiset.
+
+#(GENERAL_INFO_IN_SPACE_4)	druuge-031.ogg
+Lisää tietoa, Kapteeni? Olet jo oppinut niin paljon meistä jo valmiiksi!
+Selvä.
+Haluat ehkä tietää, että me olimme syylliset erään rodun teurastukseen.
+Opimme sen ex-asiakkailtamme, burvixeilta.
+Kiltit ja filantrooppiset burvixit ilmoittivat meille että pimeä ja kauhea armada
+on havainnut meidän Hyperaaltopäästömme, ja vaikka yhä kaukana onkin
+on järkähtämättömästi tulossa meidän kauppamaailmaamme Zeta Perseihin.
+Me kehitimme erinomaisen suunnitelman, suoritimme sen täydellisesti
+ja säästyimme hirmuiselta kuolemalta muukalaisten käsissä
+jotka me myöhemmin opimme tuntemaan nimellä `Kohr-Ah'.
+
+#(GOODBYE_FROM_SPACE)	druuge-032.ogg
+Kunnes tapaamme jälleen.
+
+#(HSTL_TRADE_WORLD_HELLO_1)	druuge-033.ogg
+Mitä, haluat ryöstää kauppamaailmamme, niinkö? Ei tänään, poitsu!
+
+#(HSTL_TRADE_WORLD_HELLO_2)	druuge-034.ogg
+Teit virheen palaamalla tänne, Kapteeni.
+Tunnemme oikeat värisi. Olet mustasydäminen.
+
+#(HOSTILE_SPACE_HELLO_1)	druuge-035.ogg
+Varkaat! Näpistelijät! Roistot!
+Katsokaa sieluihinne! Tehkää rauhanne.
+Olette kuolemaisillanne.
+
+#(HOSTILE_SPACE_HELLO_2)	druuge-036.ogg
+Kurja piraatti! Me tiedämme sinun väkivallastasi ja varkauksistasi.
+Olet hukassa, ja nyt sinun täytyy maksaa törkeiden tekojesi hinta!
+
+#(INITIAL_TRADE_WORLD_HELLO)	druuge-037.ogg
+Huomio, tuntematon avaruusalus.
+Olette saapuneet Crimson-Yhtiön pääkauppakeskukseen.
+Druugejen kotiin.
+Olkaa tervetulleita ja hyödyntäkää erinomaisia kauppojamme.
+
+#(SSQ_TRADE_WORLD_HELLO_1)	druuge-038.ogg
+On erittäin miellyttävää nähdä sinua uudelleen, Kapteeni.
+Oletko täällä tänään ostaaksesi vai myydäksesi?
+
+#(SSQ_TRADE_WORLD_HELLO_2)	druuge-039.ogg
+Kas! Se on se nuori ihminen jättiläismäisessä avaruusaluksessa.
+
+#(SSQ_TRADE_WORLD_HELLO_3)	druuge-040.ogg
+Toivotamme sinut taas uudelleen tervetulleeksi kauppamaailmaamme, Kapteeni.
+Olemme palveluksessasi.
+
+#(SSQ_TRADE_WORLD_HELLO_4)	druuge-041.ogg
+Päivää, Kapteeni. Näin pian jo takaisin?
+
+#(whats_up_at_trade_world)
+Mitä voitte kertoa minulle tästä kauppamaailmasta?
+
+#(GEN_INFO_AT_TRADE_WORLD_1)	druuge-042.ogg
+Tämä on toimintamme sydän, Crimson-Yhtiön elävä keskus.
+Täällä tehdään päivittäin miljoonia kauppoja, kenties enemmän.
+Olisit viisas jos hyödyntäisit kaikkia palveluitamme, Kapteeni.
+Et löydä parempia kauppoja mistään muualta.
+
+#(GEN_INFO_AT_TRADE_WORLD_2)	druuge-043.ogg
+Vaikka olenkin varma, Kapteeni, että et ikinä tekisi näin typerää virhettä
+mielestäni minun tulisi kuitenkin varoittaa sinua eräästä meidän laistamme, erityisesti
+Druuge lausunto 3429 - jako A86, Hylättyjen Avaruusalusten Määritelmä.
+Yksinkertaistaen, Kapteeni, tämä lausunto esittää, että universumi on läpeensä vihamielinen paikka 
+ja mikä tahansa puolustuskyvytön alus kiihottaa väkivaltaan
+yleensä koska joku yrittää vallata aseistamattoman aluksen väkisin.
+Täten jokainen aseistamaton kulkuneuvo määritellään hylätyksi
+ja se joka löytää sen niin myös saa ottaa sen talteen.
+
+#(GEN_INFO_AT_TRADE_WORLD_3)	druuge-044.ogg
+Siinä tapauksessa ettei tätä ole vielä tehty selväksi sinulle, Kapteeni
+miehistösi lisäksi on tiettyjä esineitä millä me voimme käydä kauppaa.
+Erityisesti, näitä ovat: Syöverinluojat, Hyperaaltolähettimet
+ja Myconien Syvien Lapsien hylkäämät kovat sienirihmastot
+kun ne lävistävät planeetan pinnan.
+
+#(GEN_INFO_AT_TRADE_WORLD_4)	druuge-045.ogg
+Saata olla yllättynyt saadessasi tietää, että olemme syvästi uskonnollisia olentoja, Kapteeni.
+Me palvomme jumalaamme suurella innolla.
+Haluat tietää yksityiskohtia? Mutta tietenkin.
+Me Druuget olemme erittäin onnekkaita sieluja.
+Suurin osa elämänmuodoista jotka me olemme saavuttaneet, omaavat parhaimmillaan heiveröiset suhteet jumaliinsa
+mutta meillä Druugeilla on rautainen sopimus!
+Meidän asiakirjamme sanoo näin:
+Kun Druuget (tämän jälkeen nimellä `Palvojat')
+haluavat luoda pitkäikäisen suhteen kaikkivoipaan ja kaikkitietävään jumalalliseen olemukseen
+(tämän jälkeen nimellä `Jumala' tai `jumala')
+joka hyödyttää molempia osapuolia, osapuolet suostuvat noudattamaan seuraavia ehtoja ja sitoutumuksia
+koko lopun iäisyyden.
+Palvojat täten lupaavat suorittaa uskollisesti ja parhaimman kykynsä mukaan
+seuraavat
+1. Palvojien täytyy tehdä säännöllisiä ja vilpittömiä kunnianosoituksia Jumalalle, edellyttäen mutta ei rajoittuen
+rukouksia, uhreja ja suurien rakennusten rakentamisia.
+2. Palvojien täytyy tehdä kaikkensa käännyttääkseen vääräuskoiset (tämän jälkeen nimellä `Ne')
+varmistaen sen, että he saavat allekirjoitetut asiakirjat varmistaakseen käännytyksen.
+3. Palvojat eivät saa hyväksyä suhdetta toisen jumalhahmon kanssa, ilman Jumalan allekirjoittamaa lupaa.
+Mutta, jos kaikki yllämainitut kunnianosoitukset on suoritettu täysin, Jumala suvaitsee meille:
+1. Jatkuva olemassaoleminen pienellä tai ilman muutoksia Palvojien aistittuun todellisuuteen.
+2. Ei vähempää kuin 3 ihmettä (Suuri Voima), joiden tarkka luonne ja ajoitus
+tulevat jäämään Jumalan ohjaukseen.
+3. Palvojat saavat nauttia jonkinlaista elämää kuoleman jälkeen
+joka tulee jäämään täydelliseksi mysteeriksi Palvojille, kunnes he kuolevat.
+Me, allekirjoitetut, vilpittömästi lupaamme täyttää kaikki edellämainitut velvollisuutemme.
+Allekirjoitettu, druuget.
+(Jumalan, joka on kaikkivoipa ja kaikkitietävä, katsotaan oletusarvoisesti kirjoittaneen tämän asiakirjan.)
+
+#(SCAN_MAIDENS)	druuge-046.ogg
+On tullut tietoomme, että sinulla on naaraspuolisia shofixtiolentoja aluksessasi.
+Meillä on keinomme hedelmöittää nämä oliot keinotekoisesti
+joka sallii meidän luoda hybridipedon, jolla ruokimme uunejamme.
+Meidän täytyy saada nämä naaraat, Kapteeni!
+Olemme valmiit antamaan täydet kuusi musertavaa Moukariamme vaihtokaupassa.
+
+#(SCAN_FRAGMENTS)	druuge-047.ogg
+Me tiedämme, että sinulla on Myconien Syvän Lapsen munankuoren palasia aluksessasi.
+Haluaisitko vaihtaa ne uuteen, kiiltävään Moukari-alukseen?
+
+#(SCAN_DRUUGE_CASTER)	druuge-048.ogg
+Meidän sensorimme paljastavat, että sinulla on yksi voimakkaista Hyperaaltolähettimistämme aluksessasi.
+Ei pelkoa, Kapteeni. Se hylätiin Burvixin kuuhun
+ja meidän lakiemme mukaan se kuuluu sinulle; kuitenkin
+me olemme kiintyneitä tähän laitteeseen ja haluaisimme sen takaisin käymällä kauppaa.
+Anna Lähetin, ja me annamme sinulle niin paljon polttoainetta kuin alukseesi mahtuu.
+
+#(SCAN_ARILOU_SPAWNER)	druuge-049.ogg
+Me havaitsemme, että sinulla on Portaalinluoja.
+Vaihdossa antaisimme sinulle näin yksinkertaisesta esineestä täydet kolme Moukari-alusta
+ja lisäksi täyttäisimme sinun polttoainesäiliösikin ilman lisämaksua.
+
+#(ENOUGH_FRAGMENTS)	druuge-050.ogg
+Olemme skannanneet lisää myconien Munankuoria aluksessasi
+mutta meillä on riittävästi niitä, emmekä aio ostaa lisää tätä tuotetta.
+
+#(READY_TO_BUY)	druuge-051.ogg
+Olemme valmiit tekemään kauppoja.
+
+#(READY_TO_SELL)	druuge-052.ogg
+Erinomaista! Aloittakaamme.
+Meidän inventaariossamme on parhaillaan:
+
+#(BYE_FROM_TRADE_WORLD_1)	druuge-053.ogg
+Palaa pian, Kapteeni. Asiakkuuttasi arvostetaan.
+
+#(BYE_FROM_TRADE_WORLD_2)	druuge-054.ogg
+Ensi kertaan, Kapteeni.
+
+#(NOT_ENOUGH_CREW)	druuge-055.ogg
+Ikävä kyllä, Kapteeni, sinulla ei ole tarpeeksi miehistöä tämän kaupan tekemiseen.
+
+#(EXCHANGE_MADE)	druuge-056.ogg
+Sovittu kauppa on täten varmistettu.
+
+#(OK_DONE_BUYING)	druuge-057.ogg
+Oletko varma?... kuten haluat.
+
+#(OK_DONE_SELLING)	druuge-058.ogg
+Selvä.
+
+#(bye)
+Poistuisin nyt.
+
+#(want_to_sell)
+Haluaisin myydä esineitä.
+
+#(want_to_buy)
+Haluaisin tehdä ostoksia.
+
+#(buy_druuge_ship)
+Haluan ostaa druugejen Moukarin.
+
+#(buy_fuel)
+Tarvitsen polttoainetta.
+
+#(buy_art_1)
+Minun täytyy saada Wimblin Atrain.
+
+#(buy_art_2)
+Vaadin Hehkuvan Sauvan.
+
+#(buy_rosy_sphere)
+Tahtoisin saada Ruusukuulan.
+
+#(done_buying)
+Olen suorittanut ostokseni.
+
+#(done_selling)
+En halua enää myydä mitään.
+
+#(sell_maidens)
+Myyn shofixti-Neidot teille.
+
+#(sell_caster)
+Myyn Hyperaaltolähettimen teille.
+
+#(sell_fragments)
+Myyn Munankuoren palaset teille.
+
+#(sell_spawner)
+Haluan myydä Portaalinluojan teille.
+
+#(BOUGHT_MAIDENS)	druuge-059.ogg
+Ostan nuoret, hedelmälliset shofixtit.
+
+#(BOUGHT_FRAGMENTS)	druuge-060.ogg
+Hyväksyn kaupan myconien Syvän Lapsen munankuoresta.
+
+#(BOUGHT_CASTER)	druuge-061.ogg
+Ostan Hyperaaltolähettimen.
+
+#(YOU_GET)	druuge-062.ogg
+Vaihdossa saat
+
+#(YOU_ALSO_GET)	druuge-063.ogg
+Lisäyksenä, kuten sovimme, annamme sinulle myös 
+
+#(BOUGHT_SPAWNER)	druuge-064.ogg
+Otan Kvasiavaruuden Portaalinluojan.
+
+#(SALVAGE_YOUR_SHIP_1)	druuge-065.ogg
+Huomaan, että aluksesi on aseistamaton ja saattamaton.
+Täten, Druugejen lain mukaan, aluksesi on määritelty hylyksi, ja se joka löytää sen, saa myös pitääkin sen.
+Vaikka ottaisinkin aluksesi mieluummin ehjänä, epäilen valitettavasti, että pakotat minut myymään sen romukasana.
+
+#(SALVAGE_YOUR_SHIP_2)	druuge-066.ogg
+Druugejen Lausunto 3429, jako A86
+`Avaruusalushylkyjen määritelmä'
+Täten julistan puolustuskyvyttömän aluksesi minun löytösaaliikseni.
+Sinulla on viisi sekuntia aikaa tyhjentää aluksen tilat, ennenkuin olen pakotettu poistamaan sinut väkisin
+Aika on loppu!
+
+#(DEAL_FOR_STATED_SHIPS)	druuge-067.ogg
+sovittu määrä aluksia.
+
+#(DEAL_FOR_LESS_SHIPS)	druuge-068.ogg
+vähemmän, kuin se määrä, minkä aluksi tarjosin
+sillä sinulla ei ole tarpeeksi tilaa kaikille aluksille!
+Ikävää sinun kannaltasi, pelkäänpä, mutta vakuutan että se on laillista.
+
+#(DEAL_FOR_NO_SHIPS)	druuge-069.ogg
+alusten määrä, mikä voidaan lisätä sinun laivastoosi
+ja tekemäni laivastosi luotauksen mukaan se on ei yhtään.
+Suuri virhe sinun osaltasi, kapteeni, pelkäänpä, mutta suuri lahja Firmalle.
+Kun sain näin erinomaisen kaupan vyöni alle, ehkäpä minun tulisi rentoutua loppupäivä.
+
+#(FUEL0)	druuge-070.ogg
+Kaikki polttoaine, mikä vain alukseesi mahtuu.
+Yhdistämme parhaillaan polttoaineletkuja täyttääksemme säiliösi.
+Hmm.. Kas, kyllä. Homma on ohi. Katsotaan nyt paljonko sitä siirrettiin... Se oli 
+
+#(FUEL1)
+ yksikköä polttoainetta.
+
+#(HIDEOUS_DEAL)	druuge-071.ogg
+Aaarghh! Minut on tuhottu! Olet imenyt minun polttoainesäiliöni tyhjiksi!
+Julma Hirviö! Turvonnut Rosvo! Viattomien kurkkujen viiltäjä!
+Mitä minä kerron Johtajalle?! Puolisolleni?!
+Minut varmasti asetetaan uunien hoitajaksi.
+Palan atomitulessa!
+Ääääk!
+
+#(BAD_DEAL)	druuge-072.ogg
+Tämä näyttää todella pahalta minun luettelossani, Kapteeni. Olet satuttanut minua syvästi.
+Odotin ymmärtäväisyyttä kauppakumppanien kesken, tasa-arvoisten kesken
+mutta EI! Sillä hetkellä kun käänsin selkäni sinulle, täytit turvonneet säiliösi yli sopivan rajan.
+Olen oppinut tärkeän opetuksen sinulta tänään
+Sellaisen, jota en koskaan unohda.
+
+#(FAIR_DEAL)	druuge-073.ogg
+Olet saanut reilun vaihdon laitteestasi, Kapteeni.
+Ehkä enemmän kuin reilun sinulle.
+En voi valittaa tästä kaupasta, mutta kuitenkaan
+minun ei tarvitse murehtia uunin ruokkimisesta.
+
+#(GOOD_DEAL)	druuge-074.ogg
+Hyvin tehty, Kapteeni. Aika reilu vaihtokauppa. Hyvää työtä.
+(heh-heh-heh).
+
+#(FINE_DEAL)	druuge-075.ogg
+He-he, kyllä! Kyllä! Kyllä! Kyllä! Kyllä! Kyllä!
+Hyvä kauppa, Kapteeni. Erinomainen vaihtokauppa... minulle!
+Ho-ho-ho! Kun ehdotin sinulle niin paljon polttoainetta kuin vain saattaisit pitää, olisit voinut imeä jokaisen pisaran minulta.
+Kylmä hiki tippui kämmenistäni katsoessani, kun työläiseni aloittivat siirron.
+Ja sitten se oli ohi... niin pian! Niin kunniakkaan pian!
+Minut ylennetään ainakin täydet kolme askelta! Uusi toimisto! Uusi hyödykepaketti!
+Onni on hymyillyt minulle tänään!
+Tunnen olevani onnekas, Kapteeni, ettet ollut niin nokkela, että olisit ilmaantunut tänne tusinan tyhjän säiliön kanssa.
+Kiitos! Kiitos! Kiitos!
+
+#(OUT_TAKES) druuge-076.ogg
+Toivon että tiedät, että sopimusneuvottelut tulevat olemaan todella vaikeat...
+...eli siis minun roolistani jatko-osassa... kyllä, todella vaikeat. Aloittaaksemme...
+...haluan kymmenen prosenttia kaikista tuloista, luovan kontrollin minun dialogiini...
+...ja paksun viipaleen lelulisensseistä.
+Mitä!? Mitä sinä sanoit?! Koko jatko-osa tulee olemaan pelkästään MINUSTA?
+Kuinka mahtavaa! Mikä kunnia! Mikä mahtava mahdollisuus kiivetä tikkaissa askeleen ylemmäs kohti...
+...TUOTTAJAA!
+Unohda kaikki mitä sanoin lisenssimaksuista!
+On kunnia työskennellä sinun kanssasi!
+

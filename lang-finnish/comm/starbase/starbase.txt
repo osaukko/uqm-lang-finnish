@@ -1,0 +1,1425 @@
+#(BEFORE_WE_GO_ON_1) starbase-000.ogg
+ Ennen kuin jatkamme, minulla on jotain tärkeää kerrottavaa
+#(BEFORE_WE_GO_ON_2) starbase-001.ogg
+ On eräs asia, joka sinun pitäisi mielestäni tietää
+#(BEFORE_WE_GO_ON_3) starbase-002.ogg
+ Muuten, arvelin, että sinun pitäisi tietää
+#(BEFORE_WE_GO_ON_4) starbase-003.ogg
+ Ennen kuin jatkamme, haluan sinun tietävän
+#(BEFORE_WE_GO_ON_5) starbase-004.ogg
+ Minulla on tietoja jotka sinun pitäisi mielestäni kuulla
+#(BEFORE_WE_GO_ON_6) starbase-005.ogg
+ Olen odottanut paluutasi informoidakseni sinua uudesta tilanteesta
+#(BEFORE_WE_GO_ON_7) starbase-006.ogg
+ Tiedän, että olet kiireinen, mutta minulla on uutisia
+
+#(NORMAL_HELLO_A0) starbase-007.ogg
+Tervetuloa takaisin, Kapteeni
+#(NORMAL_HELLO_A1)
+.
+
+#(NORMAL_HELLO_B0) starbase-008.ogg
+Terve, Kapteeni
+#(NORMAL_HELLO_B1)
+. Olen valmis auttamaan sinua.
+
+#(NORMAL_HELLO_C0) starbase-009.ogg
+Mukava nähdä sinua taas, Kapteeni
+#(NORMAL_HELLO_C1)
+.
+
+#(NORMAL_HELLO_D0) starbase-010.ogg
+Ah, Kapteeni
+#(NORMAL_HELLO_D1)
+, Olen iloinen että olet palannut.
+
+#(NORMAL_HELLO_E0) starbase-011.ogg
+Hei, Kapteeni
+#(NORMAL_HELLO_E1)
+.
+
+#(NORMAL_HELLO_F0) starbase-012.ogg
+Olen käytössäsi, Kapteeni
+#(NORMAL_HELLO_F1)
+.
+
+#(NORMAL_HELLO_G0) starbase-013.ogg
+Kapteeni
+#(NORMAL_HELLO_G1)
+. Olen iloinen, että pääsit takaisin yhtenä palana.
+
+#(NORMAL_HELLO_H0) starbase-014.ogg
+Toivottavasti taistelu sujuu hyvin, Kapteeni
+#(NORMAL_HELLO_H1)
+.
+
+#(RETURN_HELLO) starbase-015.ogg
+Niin, Kapteeni?
+
+#(NORMAL_HELLO_TAIL)
+
+
+#(NORMAL_GOODBYE_A0) starbase-016.ogg
+Näkemiin, Captain
+#(NORMAL_GOODBYE_A1)
+.
+#(NORMAL_GOODBYE_B0) starbase-017.ogg
+Tuo tänne paljon mineraaleja, Kapteeni
+#(NORMAL_GOODBYE_B1)
+.
+#(NORMAL_GOODBYE_C0) starbase-018.ogg
+Palaa pian, Kapteeni
+#(NORMAL_GOODBYE_C1)
+.
+#(NORMAL_GOODBYE_D0) starbase-019.ogg
+Näkemiin, Kapteeni
+#(NORMAL_GOODBYE_D1)
+.
+#(NORMAL_GOODBYE_E0) starbase-020.ogg
+Yritä välttää tulemista tapetuksi karmealla tavalla, Kapteeni
+#(NORMAL_GOODBYE_E1)
+.
+#(NORMAL_GOODBYE_F0) starbase-021.ogg
+Odotamme paluutasi, Kapteeni
+#(NORMAL_GOODBYE_F1)
+.
+#(NORMAL_GOODBYE_G0) starbase-022.ogg
+Tuhoa yksi Ur-Quan minun puolestani, Kapteeni
+#(NORMAL_GOODBYE_G1)
+.
+#(NORMAL_GOODBYE_H0) starbase-023.ogg
+Ole sitten varovainen, Kapteeni
+#(NORMAL_GOODBYE_H1)
+.
+
+#(LIGHT_LOAD_A0) starbase-024.ogg
+Mitä enemmän mineraaleja meille tuot, Kapteeni
+#(LIGHT_LOAD_A1)
+, sen nopeammin pystymme tuhoamaan Ur-Quanit.
+
+#(LIGHT_LOAD_B0) starbase-025.ogg
+Kevyt lasti tällä kertaa, Kapteeni
+#(LIGHT_LOAD_B1)
+.
+
+#(LIGHT_LOAD_C0) starbase-026.ogg
+Taas pieni lasti, Kapteeni
+
+#(LIGHT_LOAD_C1) starbase-027.ogg
+. Jaa, onhan vähäkin parempi kuin ei mitään.
+
+#(LIGHT_LOAD_D0) starbase-028.ogg
+En haluaisi kritisoida, Kapteeni
+#(LIGHT_LOAD_D1)
+, mutta, ööh, mutta eikö olisi tehokkaampaa jos toisitte isompia lasteja?
+
+#(LIGHT_LOAD_E0) starbase-029.ogg
+Aika pieniä erä, Kapteeni
+#(LIGHT_LOAD_E1)
+. Noin pienien mineraalimäärien tuominen ei ole kustannustehokasta. Yritä tuoda isompia lasteja.
+
+#(LIGHT_LOAD_F0) starbase-030.ogg
+Eipä ole paljoa tänään, Kapteeni
+#(LIGHT_LOAD_F1)
+. Toivottavasti teillä on parempi onni ensi kerralla.
+
+#(LIGHT_LOAD_G0) starbase-030.ogg
+Voisi olla enemmänkin, Kapteeni
+#(LIGHT_LOAD_G1)
+. Toivottavasti ensi kerralla on parempi onni.
+
+#(MEDIUM_LOAD_A0) starbase-031.ogg
+Ei hullumpaa, Kapteeni
+#(MEDIUM_LOAD_A1)
+.
+
+#(MEDIUM_LOAD_B0) starbase-032.ogg
+Hyvää työtä, Kapteeni
+#(MEDIUM_LOAD_B1)
+.
+
+#(MEDIUM_LOAD_C0) starbase-033.ogg
+Kiitos, Kapteeni
+#(MEDIUM_LOAD_C1)
+.
+
+#(MEDIUM_LOAD_D0) starbase-034.ogg
+Lisää tällaista, Kapteeni
+#(MEDIUM_LOAD_D1)
+.
+
+#(MEDIUM_LOAD_E0) starbase-035.ogg
+Varsin reilun kokoinen lasti, Kapteeni
+#(MEDIUM_LOAD_E1)
+. Pystyttekö parempaan ensi kerralla?
+
+#(MEDIUM_LOAD_F0) starbase-036.ogg
+Älä lopeta nyt, Kapteeni
+#(MEDIUM_LOAD_F1)
+. Pystymme käyttämään kaiken minkä tuotte meille.
+
+#(MEDIUM_LOAD_G0) starbase-037.ogg
+Reilu erä, Kapteeni
+#(MEDIUM_LOAD_G1)
+. Ehkä sinun kannattaisi hankita uuden rahtitilan ostamista niin voitte kerätä isompia lasteja.
+
+#(HEAVY_LOAD_A0) starbase-038.ogg
+Erinomaista työtä, Kapteeni
+#(HEAVY_LOAD_A1)
+!
+
+#(HEAVY_LOAD_B0) starbase-039.ogg
+Tämä todella auttaa, Kapteeni
+#(HEAVY_LOAD_B1)
+.
+
+#(HEAVY_LOAD_C0) starbase-040.ogg
+Hieno homma, Kapteeni
+#(HEAVY_LOAD_C1)
+!
+
+#(HEAVY_LOAD_D0) starbase-041.ogg
+Vau,
+#(HEAVY_LOAD_D1)
+, tällä kertaa osuitte todellakin emosuoneen!
+
+#(HEAVY_LOAD_E0) starbase-042.ogg
+Jos pystyt pitämään tätaä tahtia yllä,
+#(HEAVY_LOAD_E1)
+, muutamme tuon lippulaivanne todelliseksi Taistelulaivan tappajaksi.
+
+#(HEAVY_LOAD_F0) starbase-043.ogg
+Kapteeni
+#(HEAVY_LOAD_F1)
+, ylistän sinua. Jatka tuota hyvää työskentelyä!
+
+#(HEAVY_LOAD_G0) starbase-044.ogg
+Lisää ruokaa tulelle, eh, Kapteeni
+#(HEAVY_LOAD_G1)
+? Tämän lastin pitäisi pitää se roihuamassa!
+
+#(STARBASE_IS_READY_A) starbase-045.ogg
+Minulla on hyviä uutisia raportoitavana, Kapteeni.
+Olemme onnistuneet integroimaan aluksenne Edelläkävijä-teknologian korjausjärjestelmiimme,
+ja kuten voitte nähdä, aluksenne
+
+#(STARBASE_IS_READY_B)
+, on jo paremmassa kunnossa saatuamme paikattua osan mikrometeorirei'i'stä.
+Huomasimme, että aluksessanne ei ole warppipakoyksikköä hätätilanteisiin.
+Siispä insinöörimme laittoivat sellaisen teille ja jokaiselle saattoaluksellenne.
+Nyt teidän pitäisi pystyä pakenemaan pahasta tilanteesta
+napin painalluksella.  Se kuitenkin maksaa:
+Yksikkö nielaisee viisi polttoaineyksikköä joka kerralla kun Edelläkävijä-aluksenne käyttää sitä.
+Meillä on nyt myös rajallinen kyky tehdä muutoksia alukseenne,
+jalostaa avaruusaluspolttoainetta, rakentaa lisää taistelualuksia
+ja kouluttaa uusia jäseniä miehistöksi
+
+#(STARBASE_IS_READY_C)
+ ja kaikkiin muihin aluksiin, joita saat laivastoosi.
+Kapteeni, tiedän, että olet innokas ryhtymään töihin, joten puhun nopeasti.
+Jos sinulla on jotain kysymyksiä -- kuinka tämä avaruusasema toimii, mitä resursseja tarvitsemme,
+tai vain haluat saada taustatietoa galaksista -- älä epäröi kysyä.
+
+#(WHAT_KIND_OF_INFO) starbase-046.ogg
+Varmasti, Kapteeni. Mitä haluat tietää?
+
+#(WHICH_FUNCTION) starbase-047.ogg
+Voimme virittää Edelläkävijä-alustasi, rakentaa uusia taistelualuksia
+ja antaa sinulle polttoainetta ja miehistöä.
+
+#(WHICH_HISTORY) starbase-048.ogg
+Mitä historiasta, Kapteeni?
+
+#(WHICH_MISSION) starbase-049.ogg
+Olisitko yksityiskohtaisempi?
+
+#(OK_NO_NEED_INFO) starbase-050.ogg
+Hyvä. Haluatko tietää mitään muuta?
+
+#(ABOUT_FUEL) starbase-051.ogg
+Tämä asema suunniteltiin Hierarkian alusten huoltamiseen.
+Onneksi lippulaivasi käyttää samaa stabilisoitua antimateriateknologiaa kuin Hierarkian alukset
+ja pystymme syntetisoimaan sen, mitä tarvitset.
+Aluksesi koon takia meidän pitää kuitenkin tuottaa valtavia määriä polttoainetta
+mikä kuluttaa resurssejamme huomattavasti.
+
+#(ABOUT_MODULES) starbase-052.ogg
+Insinöörimme ja Edelläkävijä-spesialistimme ovat samaa mieltä maailmastasi olevien tiedemiesten kanssa
+että aluksesi suunniteltiin 'työhevos'-laitteeksi
+jota voidaan helposti muokata erilaisiin käyttötarkoituksiin
+lisäämällä tai vaihtamalla erillisiä varustepakkauksia, joita me kutsumme 'moduuleiksi'.
+Moduulit, joita pystymme rakentamaan nyt ovat:
+Moottoriyksiköt jotka saavat aluksesi kulkemaan nopeammin
+Sivusuuttimet jotka mahdollistavan aluksen nopeamman kääntämisen
+Miehistötilat joiden elintukijärjestelmät mahdollistavat jopa 50 ylimääräistä miehistön jäsentä
+Varastotilat jotka lisäävät aluksesi rahtitilaa mineraaliresursseille
+Polttoainetankit joihin mahtuu 50 polttoaineyksikköä lisää
+Dynamot, jokta syöttävät energiaa taisteluenergia-akkuihisi, parantaen aseittesi tulinopeutta.
+ja viimeisimpänä muttei vähäisimpänä
+Ionitykit - taisteluaseistus, jonka tarkka toiminto riippuu sen sijainnista aluksessa
+Ensimmäiseen tai etummaiseen moduulipaikkaan sijoitettuna se amppu yhden ammuksen eteenpäin
+Toiseen paikkaan sijoitettuna se ampuu kaksi ammusta, jotka hajaantuvat keskustasta oikealle ja vasemmalle
+Kolmanteen paikkaan sijoitettuna se ampuu kaksi ammusta suoraan oikealle ja vasemmalle
+ja viimeiseen tai takimmaiseen paikkaan sijoitettuna se ampuu yhden ammuksen suoraan taaksepäin.
+
+#(ABOUT_CREW0) starbase-053.ogg
+Meillä on melkein 2000 erittäin motivoitunutta, kyvykästä ammattilaista avaruusasemalla
+ja joka ikinen heistä haluaa paikan aluksellanne
+#(ABOUT_CREW1)
+. Jokainen käsi jonka menetämme aluksellenne tarkoittaa kuitenkin vähempää miesvoimaa täällä avaruusasemalla
+ja tämä heijastuu miehistön RP-hinnassa.
+Niin kauan kun et menetä liikaa miehistön jäseniä taistelussa tai planeettojen tutkimisessa
+RU-hinta pysyy samana; mutta tällä avaruusasemalla on vain rajallisesti miesvoimaa
+ja jos miehistöntarpeenne kasvaa tietyn pisteen yli
+hinta saattaa kohota dramaattisesti.
+
+#(ABOUT_SHIPS) starbase-054.ogg
+Telakkamme laitteistot ovat hienostuneita ja täysin automaattisia,
+sallien sen, että kourallinen aseman henkilökuntaa voi tehdä saman työn
+kuin viisisataa avaruuspukuista rakennustyöläistä. Ikävä kyllä,
+ainoat piirustukset, jotka olivat tietokoneissamme, olivat epätäydellisiä Hierarkian aluspiirustuksia.
+Asiat näyttivät synkiltä, kunnes yksi upseereistamme astui esiin hämmästyttävän tarinan kanssa.
+Vaikka Ur-Quanit tuhosivatkin laivaston jokaisen Maakalaisristeiljän melkein 20 vuotta sitten
+yksi ylläpitoinsinööreistäni oli avaruusalustuotantoapulainen Detroitin telakoilla.
+Kun Maa valloitettiin, häntä käskettiin tuhoamaan kaikki avaruusalusten valmistustietokannat;
+mutta hän teki salaa kopioita suunnitelmalevykkeistä ja piti ne itsellään sen jälkeen.
+Näissä levykkeissä on kaikki data, jonka me tarvitsemme rakentaaksemme niin monta Earthling Cruiseria kuin haluat
+kunhan sinä, Kapteeni, vain pystyt keräämään ne valtavat mineraalimäärät, joita noiden alusten rakentamiseen tarvitaan.
+Teoriassa, Kapteeni, voisimme rakentaa täällä muukalaisaluksia jos meillä olisi niiden suunnitelmat; kuitenkin,
+on laajasti tunnettu tosiasia, että muukalaisaluksilla ei voi lentää taistelussa
+ellei ruorissa ole syntyperäisiä kapteeneja.
+
+#(ABOUT_RU) starbase-055.ogg
+Kuten tiedät, Kapteeni, olemme omistaneet koko tämän aseman tuoton
+lippulaivanne ja taistelulaivastonne kasvattamiseksi niin voimakkaiksi kuin mahdollista; siltikin
+resurssimme ovat hyvin rajallisia, ja meidän mielestämme SINUN tulisi päättää
+mihin käytämme ponnistuksemme ja materiaalimme.
+Auttaaksemme sinua näiden päätösten teossa, olemme kehittäneet resurssien allokaatiojärjestelmän.
+Annamme sinulle numeerisia arvioita aseman resursseista
+ja määräämme hinnan jokaiselle työlle jonka voimme tehdä ja jokaiselle laitteelle jonka voimme rakentaa.
+Se on sinust kiinni miten päätät 'kuluttaa' resurssipisteesi tai 'RP':n, kuten me kutsumme sitä.
+Hankkiaksesi lisää RP:tä sinun täytyy tuoda resursseja avaruusasemalle.
+Nämä resurssit voivat olla joko planeettojen pinnalta kerättyjen mineraalimalmien
+tai jo jalostettujen metallien ja arvomateriaalien, jotka ovat vihollialusten hylyistä, muodossa.
+
+#(ABOUT_MINERALS) starbase-056.ogg
+Suoraviivaisin tapa kerätä resurssipisteitä
+on rahdata mineraalimalmeja tänne avaruusasemalle.
+Pelkästään lähimmissä tusinassa tähdessä on todennäköisesti tarpeeksi resursseja
+rakentamaan aluksestasi voimakas taistelulaiva tai
+tai luomaan voimakas taistelualusten laivue.
+Suosittelen sinua myös rakentamaan muutaman ylimääräisen varastotilan.
+Kun keräät mineraaleja, keskity 'puhdistamaan' yksi tähtijärjestelmä kerrallaan.
+Tällä tavalla minimoit matkustuskustannukset kulkiessasi läpi hyperavaruuden.
+
+#(ABOUT_LIFE) starbase-057.ogg
+Vaikka arvostankin abstraktin tiedon etsimistäsi
+Kapteeni, suoraan sanoen, nykyisessä tilanteessamme en näe paljoakaan käyttöä sellaisille tiedoille täällä.
+Ehkä voit hyötyä biologisesta informaatiosta jossain muualla.
+
+#(OK_ENOUGH_STARBASE) starbase-058.ogg
+Mitä muuta voin kertoa sinulle?
+
+#(OK_ENOUGH_MISSION) starbase-059.ogg
+Mitä muuta voin kertoa sinulle?
+
+#(GET_MINERALS) starbase-060.ogg
+Jos kärsivällisyytesi riittää, suosittelen sinua käyttämään muutaman kuukauden
+tai jopa vuoden mineraaliresurssien keräämiseen.
+Sopivia mineraaleja löydät meilkein minkä tahansa planeetan pinnalta,
+mutta laatu ja esiintymistiheys vaihtelevat riippuen siitä, minkä tyypisellä planeetalla olet.
+Perusmetallit ovat todennäköisesti yleisimpiä aineita mitä löydät, mutta ne eivät ole erityisen arvokkaita.
+Merkuriuksen kaltaisista metallirikkaista maailmoista voit löytää harvinaisempia arvometalleja ja radioaktiiveja.
+Eräs vanha mainari kertoi minulle kerran, että planeetan mineraalien suhteellisen laadun voi arvioida
+sen mukaan, minkä väriseltä planeetta näyttää avaruudesta.
+Muistaakseen värijärjestyksen hyvästä huonoon
+mainarilla oli muistiohje, joka meni suunnilleen näin
+Vinkeät Kelpo Orankit Syövät Vihaisesti Sinkoillen, Pinaatille Punajuurikastiketta Valuttavat.
+Tosiasia on myöskin se, että mineraalisaaliit ovat parempia kuumempien tähtien lähellä.
+Lämpötila liittyy tähden kokoon ja väriin
+Punaiset tähdet ovat viileimpiä, sitten ovat oranssit, keltaiset, vihreät, siniset
+ja kuumimmat tähdet ovat valkoisia.
+
+#(ABOUT_ALIENS) starbase-061.ogg
+No, sehän riippuu täysin siitä kenet tapaat, vai mitä, Kapteeni?
+No jos täysin vakavia ollaan, jos kohtaat ilwratheja, VUXeja, androsynthejä tai muita Hierarkian taisteluorjia
+En olisi kovin toiveikas rauhanomaisen kohtaamisen puolesta.
+Joten, jos tunnet että sinulla on etu, hyökkää!
+Resurssit, joita saat vihollisten hylyistä, ovat hyvinkin vaivan arvoisia.
+Jos löydät Allianssin rotuja, jotka ovat siinä asemassa, että voivat auttaa meitä
+sinun TÄYTYY vakuuttaa heidät liittymään meihin!
+Heidän apunsa saattaa olla oleellista jos haluamme onnistua.
+
+#(MUST_DEFEAT) starbase-062.ogg
+Kapteeni, toivon että minulla olisi helppo vastaus, mutta kun ei ole.
+Nähdäkseni ainoa tapa Maan, samoin kuin Allianssin liittolaisten, vapauttamiseen
+...on voittaa Ur-Quanit ja heidän taisteluorjiensa armada täydellisesti.
+
+#(DEFEAT_LIKE_SO) starbase-063.ogg
+Voittaaksemme vihollisemme tarvitsemme mahtavaa voimaa, sekä lippulaivassasi että laivastossasi
+sekä uusien voimakkaiden liittolaisten apua.
+Vaikka taistelu tuleekin olemaan välttämätöntä ja joskus tarpeellista päämääriemme saavuttamisessa
+olen varma että älysi tulee olemaan vähintään yhtä tärkeä kuin aseesi.
+Sinun tulee tutkia tätä sektoria, keräten resursseja ja informaatiota, minne ikinä menetkään.
+
+#(FIND_URQUAN) starbase-064.ogg
+En tiedä, Kapteeni,
+mutta epäilen heidän taisteluorjiensa tietävän enemmän kuin meidän;
+ehdotan siis, että yrität kerätä tietoja heiltä, ehkä väkisinkin.
+
+#(FIGHT_URQUAN) starbase-065.ogg
+Alussa aluksesi on aivan liian haavoittuvainen, jotta voisit hyökätä Ur-Quaneja vastaan avoimesti.
+Vaikka aluksesi olisikin täydessä terässään, meidän täytyy tunnustaa se tosiasia
+että Hierarkialla on TUHANSIA aluksia
+Et voi voittaa tätä taistelua yksin, Kapteeni. Tarvitset liittolaisia.
+Myöskin, Sodan loppupuolella, kun Hierarkia murtautui ytimenpuoleisen rintaman läpi,
+kuulimme huhuja, että Ur-Quanit olivat päästäneet valloilleen jonkinlaisen superaseen
+joka oli tavallisin keinoin pysäyttämätön.
+Sinun pitää selvittää, oliko se huhu totta, Kapteeni
+koska jos Ur-Quaneilla on sellainen ase, meidän pitää keksiä jonkin tapa sen pysäyttämiseen
+tai kaikki ponnistuksemme ovat turhia.
+
+#(ALLY_LIKE_SO) starbase-066.ogg
+Jos kohtaat tuntemattoman muukalaisrodun, toimi varovaisesti ja diplomaattisesti --
+-- tarvitsemme kaikki ystävät jotka vain voimme saada, ja meillä ei todellakaan ole varaa saada uusia vihollisia.
+Muista, Kapteeni, että sinulla on Edelläkävijä-aluksesi kautta käytössäsi mahtava voima
+mutta muukalaisrotujen kanssa toimittaessa on tilanteita
+joissa 'porkkana' toimii paremmin kuin keppi.
+Mutta ensin sinun tulee saada selville minkä 'porkkanan' muukalainen tahtoo.
+
+#(STRONG_LIKE_SO) starbase-067.ogg
+Sinun pitää kerätä tarpeeksi resursseja että voimme kasvattaa lippulaivaasi
+ja valmistaa voimakkaan laivaston. Suosittelisin myöskin
+että hankit rakennussuunnitelmia muihin, voimakkaampiin aluksiin kuin uskollisiin Ristelijöihimme.
+Epäilen, että muukalaiset eivät anna sellaisia piirustuksia ellet muodosta liittoa heidän kanssaan.
+
+#(OK_ENOUGH_DEFEAT) starbase-068.ogg
+Mistä muusta voimme keskustella?
+
+#(WHICH_ALIEN) starbase-069.ogg
+Mikä muukalaisryhmä?
+
+#(WHICH_WAR) starbase-070.ogg
+Mitä haluat tietää Sodasta?
+
+#(WHICH_ANCIENT) starbase-071.ogg
+Meillä on vähän tietoja tästä aiheesta. Mitä haluat tietää?
+
+#(OK_ENOUGH_HISTORY) starbase-072.ogg
+Tottahan toki. Oliko muuta?
+
+#(WHICH_ALLIANCE) starbase-073.ogg
+Okei, mikä rotu?
+
+#(WHICH_HIERARCHY) starbase-074.ogg
+Mikä laji?
+
+#(ABOUT_OTHER) starbase-075.ogg
+Ei sellaisia, joiden kanssa meillä olisi ollut muodolliset suhteet.
+Chenjesut antoivat ymmärtää tavanneensa 2 muuta tähtien välillä kulkevaa lajia
+yhden lähellä Giclasin tähdistöä ja toisen Procyonista katsoen suoraan ytimeen päin.
+Ariloulaleelayt kertoivat kerran 'pitäneensä hauskaa' Draconiksessa olevan muukalaisrodun kanssa
+mutta kuten arilout yleensäkin, he eivät ikinä kertoneet koko tarinaa.
+Olen varma, että galaksissamme on satoja muita muukalaisrotuja,
+mutta jos pysytään faktoissa, oma arvauksesi on yhtä hyvä kuin minunkin.
+
+#(OK_ENOUGH_ALIENS) starbase-076.ogg
+Haluaisitko informaatiota mistään muusta historiallisesta asiasta?
+
+#(ABOUT_SHOFIXTI) starbase-077.ogg
+Shofixtit ovat älykkäiden pussieläinten rotu, joka oli ollut `sivistyneenä' vain muutamia vuosikymmeniä Sodan alkaessa.
+Yehatit löysivät heidät Delta Gornon tähtijärjestelmästä
+ja adoptoivat ja `kohottivat' shofixtit, antaen heille edistynyttä teknologiaa ja kulttuurillista ohjausta.
+Shofixtit ovat jaloja ja pelottomia sotureita, Kapteeni. Sen lisäksi heidän uskomaton hedelmällisyytensä ja nopea kypsymisensä
+pitivät Allianssin rivit täysinä Sodan pahimmillakin hetkillä.
+Kuules, olin kerran tarkkailijana yhdellä heidän aluksistaan
+rutiinipartiolla, emme nähneet vihollisesta merkkiäkään
+mutta en pystynyt olemaan hetkeäkään ajattelematta 'Kunnialaitetta', joka oli kiinnitetty aluksen runkoon.
+
+#(ABOUT_YEHAT) starbase-078.ogg
+Yehatit ovat muinaisten soturiklaanien rotu, joka on matkannut tähdissä monen vuosisadan ajan.
+Klaanit kilpailevat raivokkaasti keskenään ja joskus jopa sotivat toisiaan vastaan;
+mutta kaikki klaanit ovat uskollisia Kuningattarelle ja hänen kuninkaalliselle perheelleen, jotka tunnetaan Veep-Zeeppeinä.
+Veep-Zeepit ovat olleet vallassa yli 2000 vuotta, ja sanotaan että heidät hallintonsa aikana
+Yehatit eivät ole hävinneet yhtäkään taistelua.
+
+#(ABOUT_ARILOU) starbase-079.ogg
+En ole mielestäni ahdasmielinen henkilö, Kapteeni, etenkin mitä liittolaisiin tulee
+mutta jokin noissa arilouissa hyytää selkäpiitäni.
+Yksi juttu heistä kuitenkin täytyy sanoa
+Heillä on jokin tekniikka, jolla voi liikkua TODELLA nopeasti hyperavaruuden läpi.
+He eivät ikinä kertoneet mikä se oli,mutta se jättää nopeimmatkin aluksemme nieleskelemään tähtipölyä.
+
+#(ABOUT_CHENJESU) starbase-080.ogg
+Chenjesut olivat Allianssin johtajia, vaikka he muodollisesti kieltäytyivätkin ottamasta vastaan arvoa.
+En tiedä onko heidät piipohjainen biologiansa vain parempaa meidän hiilipohjaisiin malleihimme verrattuna
+vai onko heidän loistava älynsä muinaisen, rauhanomaisen kulttuurin tuotosta.
+Olipa syy mikä hyvänsä, ottaisin ehdottomasti mieluummin käskyjä chenjesulta kuin miltään muulta elämänmuodolta.
+Yksi heidän ällistyttävimmistä ominaisuuksistaan oli se, että he eivät ikinä käyttäneet hyperavaruuslähettimiä.
+He pystyivät lähettämään viestejä luonnollisesti
+ja heidän luonnolliset hyperavaruusvastaanottimensa olivat paljon herkempiä kuin parhaatkaan laitteemme.
+
+#(ABOUT_MMRNMHRM) starbase-081.ogg
+Emme ikinä oikein saaneet mahdollisuutta oppia tuntemaan niitä mekaanisia olentoja,
+mutta kerron sen, mitä tiedämme.
+He ovat kaukaisen, tuntemattoman kulttuurin tuotosta
+joka lähetti jättimäisen Tehdasarkin tähän avaruuden kolkkaan satoja vuosia sitten.
+Emoarkki (Sillä nimellä Maan lehdistö sitä kutsui) valmisti miljoonia robotteja kunnes lopulta meni rikki.
+En tiedä miksi mmrnmhrm:t eivät korjanneet Emoarkkia, ehkä he eivät osaa.
+Henkilökohtaisesti arvelen että heidät lähetetettiin tänne koska he ovat kolonisointiprojektin ensimmäinen aalto
+ja kun mmrnmhrm:t ovat kesyttäneet tarpeeksi uusia maailmoja, todelliset siirtolaiset -- keitä sitten ovatkaan
+saapuvat ja ottavat sen, mikä heille kuuluu.
+
+#(ABOUT_SYREEN) starbase-082.ogg
+Useimmat alokkaat näkivät syreenit pelkkinä lämpiminä, hengittävinä kansikuvatyttöinä.
+Lämpimiä he ovat, ja, kyllä, he hengittävät todella upeasti
+mutta, Kapteeni, ´he ovat kaukana pelkistä simppeleistä iloyksiköistä.
+Heidän historiansa mukaan syreenit perustivat rauhanomaisen kulttuurin, jossa elivät
+pronssikaudeltaan siihen saakka, kunnes keksivät avaruusmatkailun.
+Ennen kuin heidän planeettansa tuhoutui hirvittävässä luonnonmullistuksessa, heidän maailmansa oli oikea Eeden.
+
+#(OK_ENOUGH_ALLIANCE) starbase-083.ogg
+Mistä muusta muukalaista joukosta olet kiinnostunut?
+
+#(ABOUT_URQUAN) starbase-084.ogg
+Vihollisemme on ovela, heltymätön ja omistaa teknologiaa joka on kehittyneempää kuin mikään muu, paitsi ehkä
+se mikä löytyy avaruusaluksestasi.
+Ur-Quanit, syntyvät, elävät ja kuolevat ainoastaan yhtä tarkoitusta varten:
+kaiken muun älyllisen elämän alistaminen galaksissa.
+Miksikö? En tiedä.
+Heillä olisi todennäköisesti helpompaa, jos vain tuhoaisivat älyllisen elämän
+mutta he ovat hyvin varovaisia etteivät käytä enempää voimaa kuin uhrin alistumiseen tarvitaan.
+Haluaisin tietää mikä teki noista matomaisista paskiaisista niin kieroja kuin ovat
+ja haluaisin tietää miksi he ovat aina liikkeellä, eivätkä ikinä pysähdy pitemmäksi ajaksi
+kuin tarvitsevat löytämiensä orjuuttamiseen.
+
+#(ABOUT_MYCON) starbase-085.ogg
+Myconeista on vaikea saada otetta.
+Itse asiassa, en ole varma, onko kukaan ihminen ikinä todella keskustellut myconin kanssa.
+Sen mitä heistä tiedämme, olemme oppineet heidän ruumiistaan, joilla, saanen lisätä
+on paha tapa palata henkiin alipainepakastuksesta sulattaessa.
+Mycon-alukset tuntuvat käyttävän huomattavan määrän energiaa elintukeen.
+Se todennäköisesti johtuu siitä, että myconit viihtyvät vain lyijyn sulamispistettä lähellä olevissa lämpötiloissa.
+Meidän tietääksemme myconit ovat ainoa rotu, joka on aktiivisesti hakeutunut Ur-Quanien luo
+tullakseen taisteluorjiksi.
+
+#(ABOUT_SPATHI) starbase-086.ogg
+Kuvittele, että kohtaisit pelkurimaisen, liikkuvan simpukan, joka on aseistettu tykillä
+niin saat hyvän käsityksen millaista on olla spathia vastassa.
+Vaikka he yrittävätkin vältellä taistelua niin paljon kuin heidän isäntänsä sallivat
+taistelun alettua spathien Välttelijä on kova pala.
+Kuulin kerran huhun, vaikka en haluaisi itse siihen uskoakaan,
+että joukko rohkeita spatheja karkasi päälaivastosta,
+maalasi aluksensa mustiksi kirkkaanpunaisin raidoin
+ja muodosti "Mustien Spathien Laivueen', joka on omistautunut tekemään rohkeita ja vihamielisiä tekoja.
+Kuten sanoin, en usko sitä ennen kuin näen sen.
+
+#(ABOUT_UMGAH) starbase-087.ogg
+On valitettavaa, että umgahit joutuivat Ur-Quanien vallan alle jo Sodan alkuvaiheissa
+koska luulen, että meillä olisi synkannut hyvin noiden lihaklönttien kanssa;
+tai vähintäänkin se olisi ollut viihdyttävää.
+Tunnemme heitä vähän paremmin kuin useimpia rotuja, sillä he olivat innokkaita puhumaan aluksiemme kanssa
+ennen taistelua, sen aikana ja sen jälkeen.
+Arilut vihjaisivat, että heillä oli suhde umgaheihin ennen kuin Ur-Quanit saapuivat
+mutta en tiedä mitään yksityiskohtia.
+
+#(ABOUT_ANDROSYNTH) starbase-088.ogg
+Kun lensin taistelutehtävissä Ytimenpuoleisella Rintamalla
+emme pelänneet mitään enemmän kuin androsynthien Päälleajopartiota.
+Heidän Liekehtijä-aluksensa olivat enemmän kuin tasavertaisia Risteilijöidemme kanssa
+joten pysyimme kaukana Eta Vulpeculaesta, heidän kotitähdestään.
+Sen lisäksi luulen että jokainen meistä aluksen kannella olleista tiesi syvällä sisimmässään
+että androsyntheillä oli hemmetin hyvä syy vihata meitä.
+Isovanhempamme olivat pitäneet heitä orjina melkein 50 vuotta.
+
+#(ABOUT_VUX) starbase-089.ogg
+Avaruusalus Far Voyager, Kapteeni Jeffry L. Randin komennossa, kohtasi VUXit lähellä Beta Miraa.
+Vaikka yksityiskohdat ovatkin epäselviä, yleinen mielipide on se, että Rand loukkasi VUX-aluksen komentajaa
+tahattomalla solvauksella.
+
+#(ABOUT_ILWRATH) starbase-090.ogg
+Näen yhä unia, joissa ne hämähäkit
+ottavat minut vangikseen -- käyttävät minua yhdessä sairaista uhrauksistaan Dogarille ja Kazonille
+heidän tuhon ja tuskan kaksoisjumalilleen.
+Niille meistä, jotka olivat syväavaruusvartiossa, ne heput olivat melkein yhtä pelottavia kuin androsynthit.
+Heidän Avenger-aluksensa saattoivat ilmestyä tyhjästä ja sulattaa Risteilijän klöntiksi sekunneissa.
+Meidän onneksemme suurin osa ilwrathien laivastosta kävi chenjesuja ja mmrnmhrm:jä vastaan.
+
+#(OK_ENOUGH_HIERARCHY) starbase-091.ogg
+Mistä muusta muukalaisten ryhmästä olet kiinnostunut?
+
+#(ABOUT_PRECURSORS) starbase-092.ogg
+Helvetti, sinä todennäköisesti tiedät enemmän kuin minä, mutta olkoon... noin 200 000 vuotta sitten
+kun iso-kertaa-n-isovanhempamme olivat juuri alkaneet leikkiä kiviveitsillä ja karhunnahoilla
+tähtien välillä kulkeva laji äkkiä ilmestyi galaksiselle näyttämölle ja levisi kuin arotuli.
+Olemme löytäneet todisteita heidän läsnäolostaan miltei kaikkialta
+Alfa Centaurin kiertoradalla olevasta avaruusasemasta luolassa Plutossa olevaan datalevyjen pinoon
+johonkin nimettömään kapistukseen joka löytyi voodookaupasta New Orleansissa.
+Vaikka emme ole ikinä löytäneet Edelläkävijöiden ruumista tai edes kuvaa sellaisesta
+voimme päätellä miltä he näyttivät heidän varusteidensa kokoa ja asettelua.
+Kyseinen analyysi osoittaa että he olivat jättiläisiä, sanotaanko 5-8 metriä pitkiä ja tuplasti niin leveitä.
+En tiedä, näyttivätkö he enemmän brontosauruksilta vai norsuilta
+Joka tapauksessa, noin kolme tuhatta vuotta sen jälkeen kun Edelläkävijät tekivät dramaattisen esiintulonsa
+he katosivat, puff! Parhaan tietomme mukaan siihen meni vähemmän kuin vuosikymmen.
+
+#(ABOUT_OLD_RACES) starbase-093.ogg
+Tarkoitatko muita kuin Edelläkävijöitä? No, ainoa mitä meillä on on toisen käden tietoa
+joka perustuu johonkin chenjesu-historioitsijan tutkimukseen josta luin Akatemiassa.
+Tzzz-Tzer-Tzak, historioitsija, löysi todisteita että oli muukalaisrotujen joukko
+joka muodosti tähtienvälisen imperiumin jonkin matkan päässä täältä noin 20 000 vuotta sitten.
+Ainoa laji siinä imperiumissa joka todella eli tässä osassa avaruutta
+oli kivimäisten olentojen rotu, joka eli Vulpeculaen tähdistössä.
+Vihamielisten androsynthien läsnäolo siinä avaruuden kolkassa
+rajoitti Tzzz-Tzer-Tzakin tutkimuksia vakavasti.
+Hän ei ikinä saanut tietää edes rodun nimeä.
+
+#(ABOUT_ALIENS_ON_EARTH) starbase-094.ogg
+Kyllä on.
+Jos ei oteta huomioon edelläkävijä-reliikkejä, joita olemme löytäneet Maasta --
+-- usein museoista, väärin tulkittuna 'modernina taiteena' --
+-- olemme löytäneet häiritsevää todistusaineistoa paljon uudemmista vierailuista.
+Ehkö tiesitkin jo, että 20:nen vuosisadan puolivälistä loppuun
+oli lukemattomia UFO-havaintoja, kuten myös tusinoittain raportoituja 'kohtaamisia' muukalaisten kanssa.
+Vaikka voimmekin vaikka voimmekin pistää monet raporteista toivekuvitelmien tai valheellisten muistojen piikkiin,
+tuon ajan sotavoimat pitivät salaista tietokantaa 'tapauksista' jotka olivat aitoja.
+Jokaisessa sellaisessa tapauksessa muukalaiset ovat miltei identtisiä ulkonäöltään.
+Heillä on valkoinen iho ja niukasti kasvonpiirteitä, paitsi valtavat, mantelin muotoiset silmät.
+joiden sanotaan usein olevan 'hehkuvat' tai 'läpikuultavat'.
+Tämä selostus sopii, miltei täydellisesti, ariloulaleelayhin.
+Useimmista aidoissa kohtaamisissa
+niihin joutuneet ihmiset kertovat, että muukalaiset tutkivat tai muuntelivat heitä fyysisesti.
+Joissain tapauksissa ilmeni epätavallisia raskauksia, ja melkein jokaisessa tapauksessa oli toistuvia vierailuja
+aivan kuin Ariloulaleelayt olisivat tehneet 'tarkastuksia' kohteilleen.
+Emme saaneet ikinä mahdollisuutta tiukata ariloulaleelaylta mitä he tekivät meille ja miksi.
+Saammekohan ikinä?
+
+#(OK_ENOUGH_ANCIENT) starbase-095.ogg
+Haluaisitko tietoja mistään muusta historiallisesta asiasta?
+
+#(URQUAN_STARTED_WAR) starbase-096.ogg
+Maa joutui mukaan vuonna 2112, pelin oltua jo pitkään käynnissä, kun chenjesut saapuivat aurinkokuntaamme ensimmäisen kerran
+joten palataanpa vähän taaksepäin, vuoteen 2098
+kun chenjesujen superherkät vastaanottimet havaitsivat oudon signaalin Ophiuchin tähdistöstä.
+Vaikka chenjesutkaan eivät tienneet sitä, se oli ensimmäinen merkki Ur-Quanien saapumisesta.
+Ur-Quanit, havaittuaan useiden älyllisten lajien läsnäolon, päästivät ulos riemukkaan metsästyshuudon.
+Ensimmäinen suora todiste Ur-Quanien aikomuksista
+oli umgahien, yksinäisen, vaikkakaan ei vihamielisen, lajin valloittaminen Orioniksen tähdistössä.
+Chenjesut, jotka olivat mielettöminä invaasion takia, vihastuivat entisestään kun Ur-Quanit
+käänsivät laivastonsa vihamielistä mutta heikkoa ilwrathien rotua vastaan.
+Mmrnmhrm:en ja chenjesujen pikaisesti kootut puolustusvoimat työnsivät Ur-Quanien laivaston sivuun
+mutta hyökkääjä liikkui spathien avaruuteen, alistaen tämän rodun nopeasti.
+Jokaisen uuden valloituksen myötä Ur-Quanien laivasto kasvoi suuremmaksi lisätessään orjien aluksia riveihinsä.
+Maa liittyi chenjesuihin muodostaakseen Vapaiden Tähtien Allianssin suunnilleen samaan aikaan kun
+androsynthien tähdet vajosivat Ur-Quanien armadalle.
+Ennen kuin muste oli kuivunut chenjesujen kanssa tekemäämme sopimukseen vuonna 2116
+uusi rotu ilmestyi kuun kiertoradalle ja pyysi päästä mukaan Allianssiin
+he olivat ariloulaleelayt.
+Ajoitus tuntui epätavalliselta ja arilout olivat eittämättä outoja, he näyttivät Marsin lautasmiehiltä
+mutta olivmme liian kiireisiä herättäessämme henkiin pölyyntynyttä raskasta teollisuuttamme
+että emme kiinnittäneet paljonkaan huomiota siihen sillä hetkellä.
+
+#(WAR_WAS_LIKE_SO) starbase-097.ogg
+Sodan alussa me täällä Maassa paiskimme töitä hullun lailla
+rakentaen sadoittain raskaita Risteilijöitä ja pienempiä tukialuksia.
+Ur-Quanitkin olivat kiireisiä. Meidän tietämättämme he olivat liikkuneet kohti Lyutenin tähdistöä
+ja hyökkäsivät VUXien, joiden olemassaolosta vain yehatit tiesivät, kimppuun.
+Mokattu ensiyhteytemme VUXien kanssa tapahtui vuonna 2119, ja se oli suurin yksittäinen virhe jonka teimme Sodan aikana.
+Vaoitettuaan VUXit, Ur-Quanien laivastot törmäsivat yehatien ja shofixtien yhdistettyyn mahtiin,
+joita tuki risteilijöidemme ensimmäinen aalto.
+Taas Ur-Quanit kääntyivät pois kovasta paikasta hyökätäkseen heikon kimppuun, vaikka me luulimme heidän vain pötkivän pakoon.
+Itse asiassa Ur-Quanit olivat löytäneet uuden itsenäisen muukalaisrodun, myconit, Brahen tähdistöstä.
+Myconien vapaaehtoinen alistumine Ur-Quaneille
+sai aikaan Ur-Quanien laivastojen paluun, nyt turvonneena sadasta tuhoavasta myconien Podshipistä.
+Viimeiset konfliktiin ilmoittautuneet olivat syreenit, avaruuskiertolaisten rotu
+jotka olivat paenneet Hierarkialta siirtämällä valtavan hitaasti liikkuvien asuinpaikkojensa laivastoninto ihmisten avaruuteen.
+Kun puolet oli määritelty, Ur-Quanien viimeinen offensiivi alkoi.
+
+#(LOST_WAR_BECAUSE) starbase-098.ogg
+Ur-Quanit tulivat ärjyen läpi VUX-avaruuden ja yrittivät tunkea Indin ja Mira tähtijärjestelmien ohi.
+Heidän hyökkäyksensä hädintuskin torjuttiin ja vastahyökkäyksemme verotti tuskin lainkaan Hierarkian joukkoja
+mutta linjamme pitivät -- Ytimenpuoleinen Rintama pysyi ehjänä.
+Seuraavan kymmenen vuoden aikana oli monia suuria taisteluita Allianssin yhdistyneen laivaston
+ja Ur-Quanien ja heidän taisteluorjiensa Hierarkian välillä.
+Sitten, vuotta 2134, tapahtui dramaattinen muutos voimatasapainossa --
+-- sen on täytynyt olla samoihin aikoihin kuin se tieteellinen tutkimusryhmä lähetettin Velassa olevalle planeetalle --
+-- laivastomme työnnettiin Indi-Miran linjalta Raynetin taakse.
+Chenjesut maksoivat kalliin hinnan Rigelin pitämisestä, ja, Ur-Quanit, jotka tunnistivat tämän heikkouden
+siirsivät kovimman iskunsa painopisteen heidän Procyonissa olleisiin joukkoihinsa.
+Se oli viimeinen asia, jonka kuulimme chenjesuista ja mmrnmhrm:stä.
+Muutamaa viikkoa myöhemmin aalloittain aluksia hyökkäsi kimppuumme kaikista suunnista.
+Kun Ceresin asema, siirtokuntamme Asteroidivyöhykkeellä, menetettiin Hierarkialle, tiesimme että meidät oli lyöty
+mutta taistelimme silti.
+Kolme päivää myöhemmin Ur-Quanit höyrystivät viimeiset laserpuolustuslinnoituksemme kuussa
+ja Taistelulaivat asettuivat geosynkronisiin asemiin Rooman,
+Moskovan, Pekingin, Tokion, Lontoon, Buenos Airesin ja Washingtonin ylle.
+Olimme hävinneet Sodan ja tiesimme sen, mutta Ur-Quanit päättivät tehdä sen todella selväksi --
+-- ja sen takia, jos katsot uusimpia karttojamme, et löydä Buenos Airesia.
+
+#(AFTER_WAR) starbase-099.ogg
+Sen jälkeen kun YK oli lähettänyt virallisen antautumisen
+meille annettiin viikko orjuutemme muodon päättämiseen.
+Ur-Quanit vaativat että päätös tehtäisiin kansanäänestyksellä.
+Kun kaikki äänet oli laskettu, Maa oli valinnut olla taistelematta Ur-Quaneille
+meistä oli tullut kesanto-orjien maailma.
+Meille annettiin kuukausi kaiken väkemme ja laitteidemme vetämiseen Maahan.
+Kuka tai mikä tahansa, jonka jättäisimme planeetan ulkopuolelle tuhottaisiin kilven pystyttämisen jälkeen.
+Sitten Ur-Quanit lähettivät oudon viestin
+kaikki ihmisen rakentamat yli 500 vuotta vanhat kohteet pitäisi 'hylätä'.
+Emme tienneet mitä Ur-Quanit tarkoittivat ennen kuin he siirsivät Taistelulaivansa uusiin asemiin kiertoradalla
+ja alkoivat tulittaa Maan pintaa fuusioaseillaan.
+Muutaman sekunnin aikana suuria alueita Lontoosta, Pariisista, ja muista eurooppalaisista kaupungeista hävitettiin.
+Aluksi me luulimme, että he aikoivat sittenkin tuhota meidät
+ja huomasimme. että he iskivät myös sellaisiin kohteisiin kuin Gizan pyramideihin,
+Ateenan Parthenoniin ja Stonehengeen. Erikoista kyllä, Yhdysvallat jäi miltei koskemattomaksi.
+Liekehtivä sade kesti 40 helvetillistä tuntia.
+Kesti päiviä, ennen kuin ryömimme esiin our savuavista suojistamme tajutaksemme mitä Ur-Quanit olivat tehneet.
+Uudet isäntämme olivat kohdistuneet jokaiseen rakennukseen, monumenttiin tai muuhun ihmisen tekemään yli 500 vuotta vanhaan rakenteeseen
+ja tuhonneet sen.
+Noiden kahden päivän aikana me menetimme suurimman osan ihmiskunnan historiasta.
+Joissain tapauksissa Ur-Quanit tuhosivat paikkoja
+joiden emme edes aavistaneet olleen merkittäviä.
+Kiertoradalla olleilta asemiltaan Taistelulaivat räjäyttivät ilmaan kilometrin verran maata keskellä Irakia
+höyrystivät muutamia kohteita Amazonin sademetsässä
+puhkaisivat ison aukon etelänavan jääpeitteeseen tuhotakseen jotain syvällä pinnan alla
+ja sulattivat ison alan meren pohjaa kaakkois-Atlantilla.
+Sitten, vain pari päivää myöhemmin, kilpi alkoi toimia
+ja kontaktimme ulkopuoliseen maailmaan loppui.
+Seuraava kerta kun näin tähdet, oli 8 vuotta sitten,
+kun minut siirrettiin tänne ylös tämän avaruusaseman uudeksi komentajaksi.
+
+#(OK_ENOUGH_WAR) starbase-100.ogg
+Haluaisitko tietoja mistään muusta historiallisesta asiasta?
+
+#(STARBASE_BULLETIN_TAIL) starbase-101.ogg
+Siinä kaikki toistaiseksi, Kapteeni.
+
+#(BETWEEN_BULLETINS) starbase-102.ogg
+lisäksi
+
+#(STARBASE_BULLETIN_1) starbase-103.ogg
+Kapteeni, spathien delegaatio on juuri saapunut heidän Korkean Neuvostonsa käskystä
+muodostamaan liiton ja avustamaan sinua taistelussa Hierarkiaa vastaan!
+He ovat luovuttaneet meille 'Välttelijä' -aluksensa suunnitelmatiedot
+ja lupaavat meille kapteeneja niin monelle alukselle kuin vain rakennamme.
+Erinomaista työtä, Kapteeni!
+
+#(STARBASE_BULLETIN_2) starbase-104.ogg
+Diplomaattiset ponnistelusi näyttävät lyöneen leiville, Kapteeni.
+Olemme saaneet yhteydenoton rodulta nimeltään zoq-fot-pik
+jotka haluavat täyttää osuutensa 'Yhdistäytymisestä' --
+-- jotakin, jonka olet järjestänyt heidän kanssaan, arvelisin.
+He ovat lähettäneet meille Pistäjä-hyökkäysalustensa piirustukset
+kuten myös ison joukon zoq-fot-pikien komentoupseereita.
+Teet hienoa työtä, Kapteeni.
+
+#(STARBASE_BULLETIN_3) starbase-105.ogg
+Supoxeiksi kutsuttujen kasviolentojen rotu saapui poissaolosi aikana, Kapteeni.
+He tarjosivat aluspiirustuksensa käyttöön ja antavat meille niin paljon kapteeneja kuin tarvitsemme.
+Minä tietenkin hyväksyin heidän tarjouksensa välittömästi.
+
+#(STARBASE_BULLETIN_4) starbase-106.ogg
+Pieni joukko utwigeja on käynyt vierailemassa.
+Sen jälkeen, kun he olivat kuluttaneet muutaman päivän virittämällä valmistajiamme heidän Jugger-aluksiensa rakentamiseen
+ja luovuttaneet meille jokusen kyvykkään komentajan, he lähtivät.
+Kapteeni, jos jatkat näin vahvojen liittojen muodostamista
+voitamme varmasti sotamme Ur-Quaneja vastaan!
+
+#(STARBASE_BULLETIN_5) starbase-107.ogg
+'Orziksi' itseään kutsuva muukalaisrotu on tehnyt täällä invaasion, vaikka invaasio onkin tähän asti ollut ystävällinen.
+Ne kalamaiset olennot ovat jyskyttäneet ympäri asemaa robottipuvuissaan
+jotka, jos minulta kysyt, näyttävät avaruustaistelupuvuilta.
+Minulla on vain yksi kommentti perustuen yhteenvetoihin, jotka olen nähnyt heidän `Nemesis' -aluksestaan:
+Pidän siitä!
+Sanoisinpa että meillä on varalla ilkeä pikku yllätys Ur-Quaneille kun seuraavan kerran joudut heidän kanssaan tekemisiin.
+
+#(STARBASE_BULLETIN_6) starbase-108.ogg
+Hyviä uutisia, Kapteeni!
+Pieni laivasto ariloulaleelayta ilmestyi ilman etukäteisvaroitusta asemamme viereen
+pelottaen syvätutkaoperaattorilta paskat housuun
+mutta tällä hetkellä voisin suudella jokaista noista kalpeista pikku friikeistä
+koska he antoivat meille kolme Skiff-alusta!
+
+#(STARBASE_BULLETIN_7) starbase-109.ogg
+Saamme ensi luokan hätäkutsuja zoq-fotien kotimaailmasta Alfa Tucanaesta.
+Signaali oli kiireinen mutta äärimmäisen heikko. Ainoat osat lähetyksestä, joista voimme olla varmoja, ovat:
+`APUA!'
+`MUSTA TUHOAJA!'
+`PLANEETALLE HYÖKÄTÄÄN!'
+`APUA!'
+`PAHEMPI KUIN ZEBRANKY!' (mitä sitten tarkoittaakaan)
+ja lopuksi
+`APUA!'
+
+#(STARBASE_BULLETIN_8) starbase-110.ogg
+Aiemmin tuntematon muukalaisrotu otti äskettäin yhteyttä asemaamme.
+He kutsuivat itseään melnormeiksi ja ovat innokkaita aloittamaan kauppasuhteet kanssamme.
+Jos olet kiinnostunut, he ehdottavat tapaamista Alfa Centaurissa.
+
+#(STARBASE_BULLETIN_9) starbase-111.ogg
+Melnormet palasivat avaruusasemalle ja ihmettelivät milloin haluat tavata heidät.
+He vaikuttivat ystävällisiltä mutta eivät halunneet tehdä kauppaa kanssamme,
+väittäen että meillä ei ole tietoja, joita he pitävät arvokkaina.
+He pyysivät ottamaan yhteyttä itseensä minkä tahansa superjättiläisen luona.
+
+#(STARBASE_BULLETIN_10) starbase-112.ogg
+Syväavaruutta tarkkaileva ryhmämme on havainnut heikkojen muukalaissignaalien tulevan
+Uranuksesta
+tai jostain suunnilleen samalta suunnalta.
+Säteilyn lähde on ehdottomasti tämän aurinkokunnan sisällä
+ja saattaisi lähteä Hierarkian vakoilijasta.
+
+#(STARBASE_BULLETIN_11) starbase-113.ogg
+Meillä on vakava tilanne, Kapteeni!
+Muutama päivä sitten kaikki spathien kapteenit katosivat avaruusasemaltamme.
+Emme tiedä kuinka tai miksi, mutta ennen kuin saamme sijaisia Spathiwasta
+et pysty lisäämään spathien Välttelijä-aluksia laivastoosi.
+
+#(STARBASE_BULLETIN_12) starbase-114.ogg
+Meitä kylvetetään leveäsäteisellä hyperavaruuslähetyksellä Rigelin tähtijärjestelmän suunnasta.
+Lähetyksen suuresta hajonnasta johtuen emme pysty erottamaan sen sisältöä.
+
+#(STARBASE_BULLETIN_13) starbase-115.ogg
+Olemme tehneet muodollisen liiton chmmr:ien kanssa.
+Voimme nyt rakentaa heidän aluksiaan telakoillamme.
+
+#(STARBASE_BULLETIN_14) starbase-116.ogg
+Shofixtit ovat palanneet!
+Voimme nyt rakentaa heidän aluksiaan telakoillamme.
+Nyt kun heidän valtavat joukkonsa paisuttavat rivejämme
+meidän ei tarvitse huolehtia kykenevien miehistönjäsenten loppumisesta
+ja olen varma että heidän vapaaehtoisensa vähentävät uuden väen hintaa.
+
+#(STARBASE_BULLETIN_15) starbase-117.ogg
+Olemme havainneet vähäisen mutta mitattavissa olevan häiriön avaruuksien välisessä kudoksessa
+suunnilleen tosiavaruuden koordinaateissa 100:50.
+Tiedemiehemme spekuloivat että tämä häiriö saattaa johtua tuhansista hypersiirto-läpäisyistä
+jotka tehtiin samanaikaisesti -- aivan kuin valtava laivasto olisi liikkeessä.
+
+#(STARBASE_BULLETIN_16) starbase-118.ogg
+Luin matkastasi Unzervaltista kertovista lokeista että kohtasit keikahtelevan,
+punaisen luotaimen joka hyökkäsi Tobermoonia vastaan ja tappoi Kapteeni Burtonin.
+Viime kuukausien aikana olemme havainneet kasvavan joukon näitä luotaimia saapuneen aurinkokuntaan,
+ja pelkään, että niiden lukumäärä näyttää lisääntyvän geometrisesti.
+Jos tämä jatkuu, avaruus on puolillaan näitä vehkeitä vuoden kuluttua!
+Suosittelen sinua pitämään tätä vakavana ongelmana ennen kuin siitä tulee katastrofi.
+Etsi näiden luotainten valmistajat ja estä heitä tekemästä lisää.
+
+#(STARBASE_BULLETIN_18) starbase-119.ogg
+Tämä on minusta outoa, ja en ollut varma toisinko sen esiin
+mutta vähän aikaa sitten kuusi väestäni meni samanaikaisesti tajuttomiksi ilman selkeää syytä.
+Kun he heräsivät tunteja myöhemmin, he kertoivat joutuneen voimakkaan tunteen valtaan
+että jotakin TODELLA väärää oli tapahtunut.
+Lääkintäteknikot eivät löytäneet mitään vikaa näistä miehistönjäsenistä, mutta he löysivät yhden korrelaation.
+Kaikilla kuudella oli poikkeuksellisen korkeat psi-arvot.
+
+#(STARBASE_BULLETIN_19) starbase-120.ogg
+Niinä kahtena viikkona jotka ovat kuluneet siitä kun chmmr:t alkoivat työskennellä aluksesi kanssa
+he ovat kiinnittäneet Utwig-pommin alukseesi ja ovat myös laittaneet paikalleen
+omat kristalliset vahvistuslaitteensa lisätäkseen aseen tehoa dramaattisesti.
+Työ on nyt saatu valmiiksi, ja lippulaivasi on valmiina kaikkiin lopullisiin virityksiin joita haluat.
+Chmmr-teknikot halusivat minun selittävän sinulle että pommi ja sen kristalliset voimantehostimet
+ovat hauraita eikä niitä voida liikutta paikoistaan aluksesi rungossa.
+Nyt minulla on sekä huonoja että hyviä uutisia.
+chmmr:ien piti poistaa kaikki päämoduulisi, aseesi, miehistötilasi, ja paljon muutakin
+lukuunottaen hätäwarppipakoyksikön
+joten valitse huolella taistelusi, Kapteeni.
+Lisäksi heidän laitteistonsa täyttävät nyt kymmenen taaimmaista paikkaa, jättäen vain kuusi omiin moduuleihisi.
+Mutta tässä ovat hyvät uutiset
+Chmmr:ien ansiosta meillä on käsittämättömät määrät mineraaleja ja muita resursseja.
+Meillä ei ole enää rajoituksia sen suhteen mitä voimme rakentaa lippulaivaasi tai laivastoosi.
+
+#(STARBASE_BULLETIN_22) starbase-121.ogg
+Minulla on synkkiä uutisia.
+Viikkojen ajan olemme luodanneet avaruutta Tucanaen tähtien suunnassa
+toivoen kuulevamme jotain liittolaisistamme zoq-fot-pikeistä
+onnistumatta. Meidän täytyy olettaa että heille on tapahtunut jotain haudanvakavaa.
+Vastaanotimme kuitenkin muukalaislähetyksen -- se kajahteli avaruuden läpi kuin sähköinen ulvonta.
+Luullakseni paras sana sen kuvaamiseen olisi...
+`riemukas´.
+
+#(STARBASE_BULLETIN_27) starbase-122.ogg
+Kapteeni, asia josta haluan keskustella on epämiellyttävä, mutta se pitää selvittää välittömästi.
+Asemalla leviää sellainen villi huhu
+että olisit myynyt omaa miehistöäsi druugeille orjiksi.
+Aika hullua, eikö?
+Kuule, Kapteeni, tiedän ettet ikinä tekisi mitään sellaista, ja olen pahoillani että edes mainitsin sen
+mutta nyt voin vakuuttaa kaikille että tämä on vain niitä idioottimaisia valheita jotka leviävät sota-aikana.
+Kiitos kärsivällisyydestäsi, Kapteeni.
+
+#(STARBASE_BULLETIN_28) starbase-123.ogg
+Olen juuri saanut kiistämättömiä todisteita
+että sinä OLET myynyt oman miehistösi jäseniä druugeille.
+Kapteeni, miten saatoit!? Etkö tiedä mihin druuget käyttävät noita miehiä ja naisia?
+Tykinruuaksi, ilman epäilystäkään. He ovat todennäköisesti jo kuolleita, kiitos sinun.
+Se on rikos, Kapteeni, hirveä rikos -- jopa sota-aikana.
+Sinun täytyy vakuuttaa minulle ettet tee tätä IKINÄ uudestaan!
+Jopa näiden vakuuksien kanssa tapahtunut vahinko on suuri.
+Nyt kun sana teoistasi on vapaana, tulee olemaan aika hiton vaikeaa värvätä vapaaehtoisia
+seuraavalle matkallesi.
+Oletan miehistön RP-hinnan nousevan pilviin.
+
+#(STARBASE_BULLETIN_29) starbase-124.ogg
+Noh, Kapteeni, meillä on uusi ongelma.
+Ponnistelusi ovat olleet hämmästyttäviä, uskon todellakin meidän voivan voittaa tämän kamppailun
+mutta näihin saavutuksiin ei olla päästy ilman hintaa.
+Väestäni yli tuhat on mennyt pois aluksessasi
+eikä ole palannut.
+TUHAT, Kapteeni!
+Miehistöstä on nopeasti tulossa arvokasta kauppatavaraa
+ja odotan heidän RP-hintansa heijastavan tätä.
+
+#(STARBASE_BULLETIN_30) starbase-125.ogg
+En voi uskoa mitä kuulin juuri!
+Kapteeni, olet katala orjakauppias!
+Vaihtokaupoistasi druugejen kanssa on tullut kauhutarinoita koko avaruusasemalla.
+Jos kukaan täällä on tarpeeksi typerä liittyäkseen miehistöösi, oletan RP-hinnan olevan taivaissa.
+Jos et olisi ainoa toivo vapaudellemme, Kapteeni, tappaisin sinut tältä seisomalta.
+Näin ollen voit odottaa minun nostavan syytteitä sinua vastaan kun tämä kaikki on ohi.
+
+#(DEVICE_HEAD) starbase-126.ogg
+Analyysi on seuraavanlainen:
+
+#(BETWEEN_DEVICES) starbase-127.ogg
+Seuraava kohta analyysissa on:
+
+#(DEVICE_TAIL) starbase-128.ogg
+Tähän loppuu tiedemiestemme raportti.
+
+#(ABOUT_PORTAL) starbase-129.ogg
+KOHDE: Kvasiavaruusportaalin Luoja.
+DATA: Laite on erilaisten muukalaisteknologioiden hybridi, sisältäen Arilou- ja Ur-Quan-elementtejä.
+Kokeemme osoittavat tämän laitteen luovan väliaikaisen heikkouden  kudoksessa, joka on hyperavaruuden
+ja toisen, tunnistamattoman ulottuvuuden välillä. Tämän prosessin energiakustannukset ovat äärimmäiset
+ja koska yksiköllä on oma voimanlähde, emme pysty arvioimaan kuinka kauan se pysyy toiminnallisena.
+YHTEENVETO: Tämän laitteen käyttö mahdollistaa sen, että avaruusalus voi siirtyä toiseen ulottuvuuteen.
+Tämän prosessin vaaroja ja hyötyjä on mahdotonta mitata ilman kenttätutkimusta.
+
+#(ABOUT_TALKPET) starbase-130.ogg
+KOHDE: Puhuva lemmikki -elämänmuoto.
+DATA: Tämä olento on fysiologisesti identtinen niin kutsutun Ur-Quanien `Puhuvan lemmikin' kanssa, yhdellä huomattavalla erolla.
+Se on erittäin älykäs, ja sillä on todistettavasti vahvoja psyykkisiä kykyjä.
+Ensimmäisissä MÄÖA-testeissä se nousi selvästi ihmisten superneron yläpuolelle
+vaikka heti tämän shokeeraavan arvion jälkeen
+sen pisteet tippuivat tasolle normaali-alle normaalin.
+Kohteelle tehdyt haastattelut ovat osoittaneet sen yhteistyöhaluiseksi
+vaikka IV-luokan lajienvälinen psykologinen profiili sijoittaakin olennon kauas luokkaan Kiero-Vihamielinen.
+Oli myös jotain häiritseviä välikohtauksia joissa
+me puhuimme ruusuista, päivänkakkaroista, ja muista kauniista kukista!
+YHTEENVETO: Kaikki on kunnossa! Tässä söötissä pikku hepussa ei ole mitään huolenaihetta.
+Ei sitten mitään!
+
+#(ABOUT_BOMB) starbase-131.ogg
+KOHDE: Utwigien pommi -laite.
+DATA: Analyysi on paljastanut vähän tietoja tästä laitteesta
+pääasiassa koska teknikkomme' kieltäytyvät avaamaan sitä, tai edes poistamaan pommia aluksestasi.
+Siitä riippumatta, tässä on se mitä tiedämme
+Laite on määritelty oikein pommiksi... sellaiseksi, jolla on valtava tuhopotentiaali
+mutta se ei ole utwigien tuotosta -- mikään siinä ei liity Jugger-aluksessa näkemäämme teknologiaan.
+Uskomme sen olevan myöhäistä Edelläkävijä-alkuperää
+vaikka se muistuttaakin hiukan tiettyä chenjesu-teknologiaa.
+Sen alkuperäinen tarkoitus? -- Todennäköisesti planeettatyökalu ei-haluttujen kuiden hajottamiseen.
+YHTEENVETO: Ellei ole vahvaa syytä tehdä toisin
+ÄLÄ AKTIVOI TÄTÄ LAITETTA! JÄTÄ SE RAUHAAN!
+Kaikki kokeilut tulisi suorittaa VÄHINTÄÄN 12 AU:n päässä tästä avaruusasemasta
+ja mielellään vielä kauempana.
+
+#(ABOUT_SUN) starbase-132.ogg
+KOHDE: Aurinkolaite.
+DATA: Yksikkö sisältää voimageneraattorin, jonka ulostuloteho on yksinkertaisesti huimaava.
+Aktivoituna laite säteilee näkyvää valoa, jonka määrä on vähemmän kuin kuin prosentin sadasosa omasta auringostamme
+kuitenkin, planeetan lähelle, ehkä kiertoradalle, sijoitettuna, sen teho kilpailee Auringon kanssa.
+YHTEENVETO: Uusi Edelläkävijä-työkalu, jonka energiantuotanto voi korvata tai lisätä auringon säteilyä.
+
+#(ABOUT_MAIDENS) starbase-133.ogg
+KOHDE: Shofixti-neidot.
+DATA: Kohteet vaikuttavat olevan 16 shofixti-naarasta, kaikki nuoria aikuisia.
+Kohteet tuntuvat olevan hyvässä kunnossa, pakastuspolttamia tai muuta vahinkoa on vähän tai ei ollenkaan.
+Hibernaation ylläpitoyksiköt toimivat normaalisti, ja elvytyslaitteet on helppo aktivoida.
+YHTEENVETO: Voimme herättää heidät, mutta miksi? Mitä me sanomme heille? Että heidän lajinsa on kuollut sukupuuttoon?
+Ennen sellaista aikaa, että tunnemme voivamme suorittaa keinotekoisen partenogeneesin,
+tai muutoin antaa shofixteille seksuaalisen lisääntymiskyvyn, suosittelemme pitämään heidät nykyisessä tilassaan
+unessa.
+
+#(ABOUT_SPHERE) starbase-134.ogg
+KOHDE: Ruusukuula -laite.
+DATA: Näytekappale on 5 senttimetriä läpimitaltaan, täysin sileä
+ja koostuu verenpunaisesta läpikuultavasta aineesta.
+Kokeet osoittavat että sillä on epätyypilliset ferro-magneettiset ominaisuudet, mutta se on täysin epäjohtava.
+YHTEENVETO: Todennäköisesti Edelläkävijä-työkalu -- käyttötarkoitus tuntematon.
+
+#(ABOUT_HELIX) starbase-135.ogg
+KOHDE: Akvakierukka -laite.
+DATA: Tämä laite koostuu vaaleansinisestä, superkovasta aineesta jonka luokitus on Mohs-13.
+Kohde on yhtenäistä materiaalia oleva litteä nauha, jonka pituus on noin 1 metri
+ja joka on vääntynyt täydelliseksi kierukaksi.
+Keskitetyt ioni- ja ydinmagneettiset luotaukset eivät paljasta paljoakaan sen sisuksista.
+YHTEENVETO: Tuntematon muotoilu. Tuntematon alkuperä. Tuntematon käyttötarkoitus.
+
+#(ABOUT_SPINDLE) starbase-136.ogg
+KOHDE: Kirkaskehrä -laite.
+DATA: Kyseessä olevalla esineellä ei ole selkeää käyttötarkoitusta tai aktivointitapaa
+mutta sillä on suprajohtavia ominaisuuksia 18:n ja 22:n Celcius-asteen välillä.
+Epäilemme, että se on Edelläkävijöiden valmistama, mutta emme voi olla varmoja ilman laajempia tutkimuksia.
+YHTEENVETO: Suurella todennäköisyydellä tämä kohde on osa suurempaa laitetta, joka kyvyt pysyvät tuntemattomina.
+
+#(ABOUT_ULTRON_0) starbase-137.ogg
+Kohde: Ultron -laite.
+Veimme tämän esineen jokaisen testin läpi, ja olisimme saaneet samat tulokset kuin haarukalla
+eli ei mitään, nolla, zip.
+Jos tämä laite on joskus toiminut -- mitä epäilemme -- se ei todellakaan toimi nyt.
+Aika ja fyysinen rasitus ovat jo kauan sitten tuhonneet kaikki `mystiset voimat', joita sillä on ehkä joskus ollut.
+YHTEENVETO: Älkää enää tulevaisuudessa haaskatko arvokasta aikaamme tämän niin kutsutun `Ultronin' tapaiseen romuun, kiitos.
+
+#(ABOUT_ULTRON_1) starbase-138.ogg
+KOHDE: Ultron -laite.
+DATA: Luulimme tätä alkusi romuksi  -- itse asiassa se saattaa olla sitä vieläkin
+mutta kun lähetitte sen tänne, pommitimme sitä gammasäteillä
+ja huomasimme siroamiskuvio oli identtinen oli identtinen kuvioihin,
+joita on nauhoitettu `Tyhjiöistä', `Laulavista Vanteista', ja `Isosta Suutarista'
+jotka löydettiin Edelläkävijä-kaivauksista Procyonilla.
+YHTEENVETO: Olemme nyt vakuuttuneita, että tämä on Edelläkävijä-työkalu, mutta se ei toimi vieläkään.
+
+#(ABOUT_ULTRON_2) starbase-139.ogg
+KOHDE: Ultron-laite.
+DATA: Ultron on osittain toiminnallinen, ja havaitsemme energiapäästöjä laitteesta.
+Uskoaksemme laite tarvitsee vielä vähäisiä korjauksia ennen täyden toimintakyvyn saavuttamista
+emmekä tällä hetkellä pysty tekemään arvioita sen kyvyistä.
+YHTEENVETO: Vielä yksi osa lisää, ja Ultronin pitäisi herätä henkiin.
+
+#(ABOUT_ULTRON_3) starbase-140.ogg
+KOHDE: Ultron.
+DATA: Olemme määritelleet niinkutsutun `Ultronin' olevan itse asiassa `Aamunkoiton Liitteet'
+josta kerrotaan Rigelistä vuonna 2123 löydetyssä pätkässä Edelläkävijöiden tekstiä.
+Osittain käännetyssä Edelläkävijä-tekstissä laitetta kuvaillaan `Henkisenä Vahvistimena'
+joka keskittää kantajan henkiset energiat `hienovaraista muutosta varten'.
+Ikävä kyllä ihmisaivojen säteily ei tunnu olevan yhteensopivaa Ultronin kanssa
+eikä myöskään testaamiemme liittolaisten.
+YHTEENVETO: Ehkä utwigit, jotka väittävät ymmärtävänsä tätä laitetta, voivat valaista meitä
+sen todellisesta käyttötarkoituksesta ja voimista.
+
+#(ABOUT_UCASTER) starbase-141.ogg
+KOHDE: Hyperaaltolähetin - umgahien valmistama.
+DATA: Tämä yksikkö pystyy lähettämään erittäin voimakkaita hyperavaruuslähetyksiä
+vaikka se onkin muuten samankaltainen omien lähettimiemme kanssa.
+YHTEENVETO: Tämä esine olisi mahtava jekkujen tekemiseen. Voisit huutaa `Buu!' Oortin pilvestä
+ja pelottaa housut, tai jotkin, jokaisen aurinkokunnassa olevan nilkkoihin.
+Jos käyttäisit sitä hyperavaruudessa, olisi mahdotonta tietää kuka kuulisi sen ja tulisi vastaan.
+
+#(ABOUT_BCASTER) starbase-142.ogg
+KOHDE: Hyperavaruuslähetin - tuntematon valmistaja.
+DATA: Tämä teknologia on uutta meille, mutta vaikka se onkin hieman primitiivinen Allianssin standardien mukaan
+se pystyy luomaan ERITTÄIN vahvan signaalin.
+YHTEENVETO: Jos haluat kutsua jotakuta hyperavaruudessa, tai lähettää viestin kilometrin paksuisen teräksen läpi
+se ei tuota tälle kaunokaiselle ongelmia.
+
+#(ABOUT_SHIELD) starbase-143.ogg
+KOHDE: Taalojen laite.
+DATA: Keitä taalot olivatkaan, he olivat älykkäitä -- selvästi meidän ohitsemme, todennäköisesti jopa chenjesujen.
+Parhaan tietoni ja kaikkien laitteidemme mukaan tämä kapistus on
+kivi. Pelkkä kivi; ei muuta kuin kivi. Kuitenkin
+Jos siihen syöttää virtaa, minne tahansa sen pinnalle
+kaikki täällä asemalla joilla on psi-potentiaalia saavat pahan päänsäryn.
+No, me me tutkimme tätä asiaa tarkemmin, ja kun taalojen laite on aktiivisena
+kaikki todisteet psykonien vuorovaikutuksesta katoavat -- mikään ei pääse läpi.
+YHTEENVETO: jos pidät tämän taalojen kivisen laitteen aluksessasi
+Löisin vaikka vetoa, että olet immuuni kaikenlaisille psyykkisille hyökkäyksille
+tai ainakin melkein immuuni.
+
+#(ABOUT_EGGCASE_0) starbase-144.ogg
+KOHDE: Myconien munan kuori.
+DATA: Emme oikeastaan tienneet myconien tulevan munista, mutta tälle suojukselle tekemämme analyysi
+osoittaa että se on alistettu uskomattomalle lämpölle ja paineelle.
+Munankuoren epätavallisin ominaisuus on sen koko
+tiedämme että myconien korkeus vaihtelee 0,5 ja 3,5 välillä
+mutta koko munankuoresta tekemämme rekonstruktio osoittaa sen olevan yli 25 metriä korkea!
+YHTEENVETO: Jos tästä on tullut mycon ulos, sen täytyy olla todella iso.
+
+#(ABOUT_SHUTTLE) starbase-145.ogg
+KOHDE: Syreenpilottien sukkula.
+DATA: Kenttätutkimustiimi ei ole vielä toistaiseksi raportoinut ryhmänjohtajilleen.
+Kun me kutsuimme heitä, he kertoivat syventyneensä tutkimuksiin
+ja halusivat keskittyä eräisiin tärkeisiin yksityiskohtiin ennen asemalle palaamista.
+YHTEENVETO: Useat ryhmänjohtajat ovat tarjoutuneet avustamaan tiimiä `auttaakseen missä voivat.'
+
+#(ABOUT_VUXBEAST0) starbase-146.ogg
+KOHDE: Vihamielinen muukalaisolento.
+
+#(ABOUT_VUXBEAST1) starbase-191.ogg
+DATA: Tässä raportoi vastaylennetty nuorempi tiedemies Hawkins.
+Tohtori Chu -- tiedättehän, tämän osaston johtaja -- hän on yhä sairaalassa.
+Hän on ollut siellä siitä asti kun tuo otus huitaisi häntä ja hän joutui liian lähelle häkkiä.
+Luulen että sillä on kolminiveliset raajat tai jotain... jotka ovat täynnä piikkejä ja teräviä levyjä.
+Ööh... data? Ai niin, juu, juu
+Kohde on Ksenoteratomorfi -- hiton iso sellainen, jos saan lisätä.
+Se syö kaikkea -- kasvi- ja eläinkudosta, puuta
+savea, muovia, asbestikuituja
+useita erilaisia metalleja
+tuoleja, pöydän ja noin puolet kaikesta mitä turvallisuusupseeri pukee.
+Sen, mitä se ei syö, se pureksii, ja mitä se ei pureksi
+no, se rikkoo pikkuruisiksi palasiksi.
+Mitä... yhteenveto? Ai, ai juu
+YHTEENVETO: Mitä pikemmin saatte tuon otuksen pois asemalta
+sen varmempaa on ettei tuo otus pääse vapaaksi ja tapa meitä kaikkia.
+Ööh... minä, ööh, luulen että siinä onkin kaikki.
+
+#(ABOUT_DESTRUCT) starbase-147.ogg
+KOHDE: Slylandrojen luotaimen tuhokoodisarja.
+DATA: Tämä on monimutkainen sarja ohjelmointikäskyjä
+jotka käyttävät kryptausta joka muistuttaa jonkin verran Rolling-Phungin algoritmia.
+YHTEENVETO: Kun Slylandrojen luotain lähestyy, avaa kutsutaajuus, odota vastausta
+ja lähetä sitten koodi.
+
+#(ABOUT_WARPPOD) starbase-148.ogg
+KOHDE: Ur-Quanien vääristysmoottori.
+DATA: Tämä yksikkö vaikuttaa olevan Ur-Quanien Taistelulaivan vääristysmoottorin ydin.
+Se muistuttaa omia warppiytimiämme yllättävän paljon
+mutta se luo paljon voimakkaamman ja tiheämmän kentän kuin Risteilijöissämme olevat laitteet.
+YHTEENVETO: Meille vääristysmoottori ei ole juuri muuta kuin kuriositeetti
+mutta saatat löytää sille hyödyllisen käyttötarkoituksen tulevaisuudessa.
+
+#(ABOUT_ARTIFACT_2) starbase-149.ogg
+KOHDE: Wimblin Atrain -laite.
+DATA: Oletan, että tämän laitteen nimi, `Wimblin Atrain'
+tulee nimestä `Wimbli',  joka on etsattu karkeasti sen pohjaan.
+YHTEENVETO: Totta puhuen, Kapteeni, luulen että druuget jallittivat sinua pahemman kerran.
+
+#(ABOUT_ARTIFACT_3) starbase-150.ogg
+KOHDE: Hehkuva Sauva -laite.
+DATA: Kapteeni, meillä oli korkeat odotukset tämän laitteen suhteen, koska se synnytti jatkuvan, sykkivän auran.
+Kuitenkin, pelkäänpä, että kun olimme tutkineet kohdetta ja paikantaneet siihen piilotetun patteriluukun
+jouduimme tekemään sen johtopäätöksen että se ei ollut muuta kuin hyvin rakennettu lelu.
+YHTEENVETO: Kapteeni, tulevaisuudessa kehottaisin katsomaan tarkkaan mitä ostat druugeilta.
+
+#(LETS_SEE) starbase-151.ogg
+Hmm... katsotaanpa...
+
+#(GO_GET_MINERALS) starbase-152.ogg
+Luulisin, että menisin keräämään lisää mineraaleja saadakseni reilusti resurssipisteitä.
+
+#(IMPROVE_FLAGSHIP_WITH_RU) starbase-153.ogg
+Käytä hankkimiasi Resurssipisteitä lippulaivasi parantelemiseen.
+
+#(GOT_OK_FLAGSHIP) starbase-154.ogg
+Lippulaivasi on aika hyvässä kunnossa
+
+#(GO_ALLY_WITH_ALIENS) starbase-155.ogg
+Sinun tulisi panostaa liittojen luomiseen ei-vihamielisten muukalaisrotujen kanssa.
+Heidän apunsa on oleellista onnistumisellemme.
+
+#(MADE_SOME_ALLIES) starbase-156.ogg
+Olet perustanut joitakin menestyksekkäitä liittoja muukalaisrotujen kanssa
+
+#(GET_SHIPS_BY_MINING_OR_ALLIANCE) starbase-157.ogg
+Kasvata taistelualusten laivastoasi.
+Niiden tuoma lisävoima ja niiden erilaisten voimien tuoma joustavuus
+parantaa kykyäsi selvieytyä avaruudessa suuresti.
+
+#(GOT_OK_FLEET) starbase-158.ogg
+Olet kerännyt hyvän kokoisen taistelualuslaivaston
+
+#(BUY_COMBAT_SHIPS) starbase-159.ogg
+Sinun pitää rakentaa saattoaluksia ja koota laivasto saattaamaan sinua halki avaruuden.
+
+#(GO_LEARN_ABOUT_URQUAN) starbase-160.ogg
+Meidän pitää löytää rako Ur-Quanien panssarissa --
+-- heikkous joka sallii meidän keskittää voimamme sellaisella tavalla
+että voimme tuhota koko heidän imperiuminsa yhdellä uskaliaalla iskulla.
+
+#(MAKE_FLAGSHIP_AWESOME) starbase-161.ogg
+Luulisin että sinun tulee kehittää alustasi vielä lisää
+tehdäksesi siitä enemmän kuin kunnon vastuksen mille tahansa vihollisalukselle jonka saatat kohdata.
+Tiedät Ur-Quanien Akilleksen kantapään -- heidän Sa-Matra-superaluksensa
+
+#(KNOW_ABOUT_SAMATRA) starbase-162.ogg
+Tiedät Ur-Quanien Akilleksen kantapään -- heidän Sa-Matra-superaluksensa
+
+#(GOT_AWESOME_FLAGSHIP) starbase-163.ogg
+Olet rakentanut lippulaivan, jonka voima on ylittämätön
+
+#(GOT_BOMB) starbase-164.ogg
+Olet saanut pommin utwigeilta
+
+#(FIND_WAY_TO_DESTROY_SAMATRA) starbase-165.ogg
+Sinun täytyy löytää jokin tapa tuhota Ur-Quanien superalus, Sa-Matra.
+
+#(MUST_INCREASE_BOMB_STRENGTH) starbase-166.ogg
+Vaikka utwigeilta saamasi pommi on hirvittävän voimakas
+Pelkäänpä, että tietokonemallinnuksemme osoittavat ettei räjähdys ole riittävä
+läpäistäkseen Sa-Matran puolustukset.
+Sinun täytyy löytää jokin tapa lisätä aseen energiantuottoa.
+Ehkä chenjesut ja heidän edistyneempi tieteensä olisivat pystyneet siihen
+mutta ikävä kyllä meillä ei tällä hetkellä ole teknologiaa tämän muutoksen suorittamiseen.
+
+#(MUST_ACQUIRE_AWESOME_FLEET) starbase-167.ogg
+Olen varma, että meidän pitää koota voimakkaampi taistelulaivasto ennen kuin kohtaat Sa-Matran.
+
+#(MUST_ELIMINATE_URQUAN_GUARDS) starbase-168.ogg
+Sinun pitää keksiä jokin tapa tuhota tai raivata tieltä Sa-Matraa vartioivat Ur-Quan ja Kohr-Ah-alukset.
+
+#(CHMMR_IMPROVED_BOMB) starbase-169.ogg
+Chmmr:t ovat muokanneet alustasi reitittääkseen sen asevoiman utwig-pommin kautta.
+
+#(GOT_AWESOME_FLEET) starbase-170.ogg
+Olet kasannut kokoon voimakkaan taistelulaivaston
+
+#(GO_DESTROY_SAMATRA) starbase-171.ogg
+Mene hyökkäämään Ur-Quanien Sa-Matraa vastaan!
+Vaikka siitä varmasti tuleekin vaikea taistelu
+sinulla on kaikki mitä voiton saavuttamiseen tarvitaan.
+
+#(GOOD_LUCK_AGAIN) starbase-172.ogg
+Me kaikki olemme riippuvaisia sinusta. Näkemiin ja hyvää onnea.
+
+#(IMPROVE_1) starbase-173.ogg
+Sinun tulee lisätä ja tasapainottaa lippulaivasi tehoa.
+
+#(IMPROVE_2) starbase-174.ogg
+Luulisin että sinun pitää parannella lippulaivaasi
+tehdäksesi siitä enemmän kuin kunnon vastuksen mille tahansa vihollisalukselle jonka saatat kohdata.
+
+#(NEED_THRUSTERS_1) starbase-175.ogg
+Lisäisin työntimiä, sanotaanko, 5:een tai 6:een asti.
+Nopeus on oleellista taistelussa, mutta se myös maksaa itsensä takaisin pitkällä tähtäimellä hyperavaruudessa
+ja jos mieluiten vältät taisteluja, mikään ei voita hyvää jalkaparia.
+
+#(NEED_THRUSTERS_2) starbase-176.ogg
+Maksimoisin aluksesi moottorit. Tulet tarvitsemaan nopeutta kun käyt Ur-Quaneja vastaan.
+
+#(NEED_TURN_1) starbase-177.ogg
+Sinuna laittaisin lisää kääntymissuuttimia lisätäkseni aluksen ketteryyttä
+
+#(NEED_TURN_2) starbase-178.ogg
+Sinuna maksimoisin kääntymisnopeuden täyttämällä kaikki kääntymissuutinpaikat
+
+#(NEED_GUNS_1) starbase-179.ogg
+Sinuna lisäisin tarpeeksi aseita puolustamaan itseäni jos joutuisin kiinni ilman saattoaluksia
+
+#(NEED_GUNS_2) starbase-180.ogg
+Hyödyntäisin aluksesi taistelukykyä lisäämällä sen tulivoimaa.
+Laita enemmän aseita
+
+#(NEED_CREW_1) starbase-181.ogg
+Tarvitset lisää miehistöä, ainakin 50, tehdäksesi tuottavia matkoja avaruuteen
+
+#(NEED_CREW_2) starbase-182.ogg
+Tarvitset vielä enemmän miehistöä, ehkä jopa 200, kohdataksesi haasteet edessäsi
+
+#(NEED_FUEL_1) starbase-183.ogg
+Tarvitset lisää polttoainetta, ainakin 150 yksikköä
+
+#(NEED_FUEL_2) starbase-184.ogg
+Tarvitset suuria määriä polttoainetta, ainakin 150 yksikköä
+
+#(NEED_STORAGE_1) starbase-185.ogg
+Lisää lastinkuljetusmaksimia lisäämällä Rahtitiloja lippulaivaasi
+
+#(NEED_LANDERS_2) starbase-186.ogg
+Tarvitset ainakin yhden laskeutujan
+
+#(NEED_LANDERS_1) starbase-187.ogg
+Rakenna lisää laskeutujia
+
+#(NEED_DYNAMOS_1) starbase-188.ogg
+Aseesi tulevat olemaan alitehoisia jos sinulla ei ole ainakin 1 dynamo
+
+#(NEED_DYNAMOS_2) starbase-189.ogg
+Tarvitset lisää dynamovoimaa;
+muuten aseittesi latausviive tulee koitumaan turmioksesi taistelussa
+
+#(NEED_POINT) starbase-190.ogg
+Suosittelen sinua inventoimaan ainakin yhteen lähipuolustuslaserpatteriin.
+
+#(have_minerals)
+Komentaja, minulla on mineraaleja purettavana.
+
+#(goodbye_commander)
+Näkemiin, Komentaja.
+
+#(repeat_bulletins)
+Komentaja, toistaisitko sen mitä sanoit kun aloimme tämän keskustelun?
+
+#(need_info)
+Ennen kuin jatkan, tarvitsen lisää taustatietoja.
+
+#(starbase_functions)
+Kertoisitko tarkemmin täällä avaruusasemalla olevista laitteistoista?
+
+#(history)
+Haluaisin vähän historiallista tietoa.
+
+#(our_mission)
+Haluaisin sinun mielipidettäsi siitä, kuinka voimme voittaa Ur-Quanit.
+
+#(no_need_info)
+En tarvitse enää lisää tietoja.
+
+#(enough_starbase)
+Olet vastannut kysymyksiini tällä alueella.
+
+#(enough_mission)
+Tiedän kaiken tarpeellisen tästä aiheesta, ainakin toistaiseksi.
+
+#(tell_me_about_fuel0)
+Kuinka saan polttoainetta
+#(tell_me_about_fuel1)
+-alukseeni?
+
+#(tell_me_about_modules0)
+Kuinka voin parannella ja muokata
+#(tell_me_about_modules1)
+?
+
+#(tell_me_about_crew)
+Kuinka saamme lisää henkilökuntaa alukseeni?
+
+#(tell_me_about_ships)
+Kuinka voin koota taistelualuslaivaston?
+
+#(tell_me_about_ru)
+Voisitko selittä resurssien allokaatiojärjestelmänne?
+
+#(tell_me_about_minerals)
+Minkälaiset resurssit ovat hyödyllisimpiä tehtävässämme?
+
+#(tell_me_about_life)
+Mitä hyötyä laskeutujiemme hienostuneista elämänmuotojen analysointiominaisuuksista on?
+
+#(where_get_minerals)
+Mistä voin löytää hyödyllisimpiä, rikkaimpia mineraaliresursseja?
+
+#(what_about_aliens)
+Kuinka minun pitäisi hoidella muukalaiset, joita tapaan avaruudessa?
+
+#(what_about_urquan)
+Kuinka me voimme hoidella Ur-Quanit?
+
+#(how_defeat)
+Komentaja, onko sinulla kauaskantoisia suunnitelmia Ur-Quan-Hierarkian tuhoamiseen?
+
+#(how_find_urquan)
+Miten löydän Ur-Quanit?
+
+#(how_fight_urquan)
+Kuinka voimme hyökätä Ur-Quaneja vastaan tehokkaimmalla tavalla?
+
+#(how_ally)
+Kuinka teen liittoja ja kenen kanssa?
+
+#(enough_defeat)
+Vaihdetaan puheenaihetta.
+
+#(alien_races)
+Haluaisin tietää muista avaruudessa kulkevista roduista.
+
+#(the_war)
+Olen kiinnostunut Sodasta Hierarkiaa vastaan.
+
+#(ancient_history)
+Tarvitsen tietoja galaksin muinaishistoriasta.
+
+#(enough_history)
+Ei enää historiaa, kiitos vain.
+
+#(what_about_alliance)
+Vanhan Allianssin jäsenistä.
+
+#(what_about_hierarchy)
+Hierarkian taisteluorjista.
+
+#(what_about_other)
+Oliko mitään muita rotuja, jotka eivät olleet Sodassa?
+
+#(enough_aliens)
+Olen saanut riittävästi informaatiota tästä aiheesta.
+
+#(shofixti)
+Shofixtit.
+
+#(yehat)
+Yehatit.
+
+#(arilou)
+Arilout.
+
+#(chenjesu)
+Chenjesut.
+
+#(mmrnmhrm)
+Mmrnmhrm:t.
+
+#(syreen)
+Syreenit.
+
+#(enough_alliance)
+Olen kuullut Allianssista tarpeeksi tällä erää.
+
+#(urquan)
+Ur-Quanit.
+
+#(mycon)
+Myconit.
+
+#(spathi)
+Spathit.
+
+#(umgah)
+Umgahit.
+
+#(androsynth)
+Androsynthit.
+
+#(vux)
+VUXit.
+
+#(ilwrath)
+Ilwrathit.
+
+#(enough_hierarchy)
+Olen saanut tarpeeksi tietoja Hierarkiasta.
+
+#(precursors)
+Mitä voit kertoa minulle Edelläkävijöistä?
+
+#(old_races)
+Entäs muut muinaiset rodut?
+
+#(aliens_on_earth)
+Onko mitään merkkejä siitä, että muukalaiset olisivat käyneet Maassa menneisyydessä?
+
+#(enough_ancient)
+Tämä on kiehtovaa, mutta täytyy pysyä liikkeellä.
+
+#(what_started_war)
+Kuinka sota Ur-Quanien kanssa alkoi?
+
+#(what_was_war_like)
+Mitä tapahtui Sodan aikana?
+
+#(why_lose_war)
+Kuinka Sota loppui, Komentaja?
+
+#(what_after_war)
+Mitä tapahtui Sodan jälkeen?
+
+#(enough_war)
+Kiitos tilannetiedotuksesta, Komentaja.
+
+#(new_devices)
+Pystyvätkö tiedemiehenne analysoimaan sen, mitä olen hankkinut viimeisimmän käyntini jälkeen?
+
+#(how_get_strong)
+Miten voisimme kasvattaa voimiamme nopeimmiten?
+
+#(what_do_now)
+Mitä tekisit, jos olisit nyt kengissäni?
+
+#(YOUR_FLAGSHIP_PC)
+the
+#(YOUR_FLAGSHIP_3DO0)
+lippulaiva
+#(YOUR_FLAGSHIP_3DO1)
+aluksesi
+#(YOUR_FLAGSHIP_3DO2)
+avaruusaluksesi
+#(SPACE)
+

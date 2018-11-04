@@ -1,0 +1,620 @@
+#(INIT_HELLO)	orz-000.ogg
+TÄMÄ ON VIESTI ALUKSEN TIETOKONEEN KÄÄNNÖSJÄRJESTELMÄLTÄ: 
+SAAPUVAN VIESTIN RAKENNE ERITTÄIN EPÄTAVALLINEN.
+KÄÄNNÖS SISÄLTÄÄ USEITA KIELELLISIÄ LIKIMALKAISUUKSIA.
+KÄÄNNÖKSEN YLEINEN TARKKUUS ON: TUNTEMATON.
+
+#(who_you)
+Keitä olette? Mitä voitte kertoa itsestänne?
+
+#(WE_ARE_ORZ)	orz-001.ogg
+Keitä olette? Ette ole Orz! Me olemme Orz! Orz ovat iloisia *kansan energioita* ulkopuolelta.
+Sisällä on hyvä. Niin hyvä että Orz aina *versovat*.
+Voitko tulla Orzin kanssa *juhliin*?
+
+#(why_here)
+Hyvä, selvä. Ööh... ehkä voisitte kertoa miksi olette täällä.
+
+#(HERE_BECAUSE)	orz-002.ogg
+Täällä on *kirkasta* ja *sileää*. Muu paikka on *vahingollinen* Orz liian väsynyt pysymään yhdessä.
+Muu paikka on **Frumple**. Orz ovat täällä nyt, mutta kuitenkaan ei vielä.
+Kohta Orz ovat oikeasti täällä! Sinä olet apu Orzille *juhlien* kanssa.
+Orz etsivät sinua, ja löytävät sinut. Niin paljon iloa!!
+Nyt *sileä* paikka kokoajan, ja tämän jälkeen ei mene enää ikinä ulkopuolelle.
+Ikinä!!
+
+#(ALLIED_HOMEWORLD_HELLO_1)	orz-003.ogg
+Terve tuloa *taloomme*. Voitko jo *paremmin* ?
+Jos olette *telttailijoita* nautitte *muutoksesta*, mutta ehkä ei vielä.
+On paras jos monta iloista Orzia ovat tulossa sinun *taloosi*.
+Aletaan *sylkeä* hauskoja sanoja muutamalle *palalle* ja sitten yllättäviä asioita!!!
+
+#(ALLIED_HOMEWORLD_HELLO_2)	orz-004.ogg
+Tämä on minun *taloni*. Haluatko tietää *salaisuuden*? Älä *ajattele* sitä *ei-telttailijoille*.
+Sinä olet niin monta *yksinäistä* *mehukasta* *kuplaa*. Se on niin surullista.
+Nyt kun olette *telttailijoita* teillä on enemmän *juhlia*
+ja ei enempää *surullisia* *yksinäisiä* *kuplia*.
+Tämä on se *salaisuus*.
+
+#(ALLIED_HOMEWORLD_HELLO_3)	orz-005.ogg
+Iloista tulla minun *talooni* useammin. Minä olen Orz.
+Minulla ei ole nimeä koska olen Orz. Orz on nimi.
+Haluatko *ruiskuttaa*?
+Jos haluat, sitten teet niin. Se on parasta, tiedän sen.
+
+#(ALLIED_HOMEWORLD_HELLO_4)	orz-006.ogg
+Iloista tulla minun *talooni* useammin. Minä olen Orz.
+Minulla ei ole nimeä koska olen Orz. Orz on nimi.
+Haluatko *ruiskuttaa*?
+Jos haluat, sitten teet niin. Se on parasta, tiedän sen.
+
+#(ALLIED_SPACE_HELLO_1)	orz-007.ogg
+Oho, *Allianssin* *juhla* *telttailijat* ovat *nyt-avaruudessa*.
+Se on *iloisia mausteita*. Miksi olette siellä?
+Tietenkin koska myös Orz ovat *nyt-avaruudessa*.
+Joten odotan teitä *sylkemään*. Se on nautinto.
+
+#(ALLIED_SPACE_HELLO_2)	orz-008.ogg
+*Telttailijat* haluavat sanoa `terve' kun he *haistavat* Orz.
+Olemme oppineet sen. Se on *ei-toiminto* mutta Orz haluavat tehdä *telttailijat* iloisiksi  jokapäivä.
+Selvä... Terve!! Nyt olette iloisia, Olen varma.
+
+#(ALLIED_SPACE_HELLO_3)	orz-009.ogg
+Minä *laajennun!* Se on niin *kostuttavaa* *haistaa* sinut!
+*Telttailijat* ovat parhaita! Minulla on *ennakko-odotus* ja sitten mitä?
+Parempia juhlia *keskellä* varmasti.
+
+#(ALLIED_SPACE_HELLO_4)	orz-010.ogg
+Minä *laajennun!* On niin *kostuttavaa* *haistaa* sinut!
+*Telttailijat* ovat parhaita! Minulla on *ennakko-odotus* ja sitten mitä?
+Parempia juhlia *keskellä* varmasti.
+
+#(whats_up_ally)
+Ööh.....Hei siellä. On mukavaa nähdä teitä taas....Luulen.
+
+#(GENERAL_INFO_ALLY_1)	orz-011.ogg
+Se on *huvittavaa*. Luulet että *näet* Orz mutta Orz eivät ole *valo heijastumia*.
+Ehkä luulet että Orz ovat *monta kuplaa* myös. Se on kuin vitsi.
+Orz eivät ole *monta kuplaa* kuin *telttailijat*. Orz ovat pelkästään Orz.
+Minä olen Orz. Minä olen yksi, jolla on monta *sormea*.
+*Sormeni* tulevat läpi *raskas-avaruuteen* ja sinä *näet* *Orz kuplia*
+mutta oikeasti ne ovat *sormia*.
+Ehkä et edes *haista*? Se on surullista.
+*Haistella* *ihania värejä* on paras *peli*.
+
+#(GENERAL_INFO_ALLY_2)	orz-012.ogg
+Ehkä ette ole olleet *leikkikentällä*.
+*Leikkikenttä* on Taaloille ja Orzille, mutta *Telttailijat* voivat mennä.
+Enemmän hupia kuin muutama.
+*Leikkikenttä* on 372.1, 261.9 teidän *hupaisia* numeroitanne.
+Voit mennä sinne pitämään liian paljon hauskaa.
+
+#(GENERAL_INFO_ALLY_3)	orz-013.ogg
+Terve! Minä sanon uudestaan lisänautinnoksí. Niin paljon hauskaa peliä.
+Terve! Terve! Seuraavaksi minä aion *sylkeä* *hidas-aika* sanoja sinulle parempaan *tanssimiseen*.
+Tiesitkö? Orz voivat *tanssia* erittäin hyvin.
+Nyt olet *iloinen telttailija* ja Orz voivat antaa *raskas-avaruus* aluksia *tanssimiseen*.
+Orz antavat. Orz-aluksilla on GO! GO!. Tiesitkö?
+Nämä ovat parhaita *raskas-avaruus* planeettojen runkojen lähellepääsyyn.
+Sitten GO! GO! voivat mennä nopeiten *muiden* alusten sisään.
+Sitten se on *iloinen aika*.
+
+#(GENERAL_INFO_ALLY_4)	orz-014.ogg
+Lisää *nautinnollisia yhdistelmiä*. Minä olen *onnistunut* eniten.
+Ehkä suurimman *juhlan* jälkeen sinä tulet ymmärtää Orz
+ja voin näyttämään sinulle muita *tasoja*.
+Niitä on niin monta, mutta sinä *leikit* vain tällä yhdellä.
+Yksi ei ole tarpeeksi.
+Olemme *ystäviä* nyt. Älä pelkää koskaan *avata* tarpeeksi ja *levittää vahaa*.
+
+#(more_about_you)
+Pelkään, etten ole vieläkään selvillä siitä keitä olette ja mistä olette tulleet.
+
+#(ABOUT_US_1)	orz-015.ogg
+Sinä olet *hupsu* *telttailija*. Minä olen aina Orz.
+Jos en olisi Orz, sitten minä en olisi, mutta tietenkin minä olen Orz.
+Me olemme *ulkopuolelta*. Myös Arilou *pikaiset lapset* ovat *ulkopuolelta*.
+Se on sama, mutta ei.
+Orz ovat *alhaalta*, Arilou ovat *ylhäältä*.
+Orz eivät pidä Arilou. Arilou ovat liian iso haitta.
+Emme voi pitää *juhlia* kun Arilou on aina *hyppimässä edessä*.
+Se saa Orz *frumple* niin paljon.
+Nämä ovat *lihavia* sanoja. Haluatko pelata tätä vähän lisää?
+
+#(ABOUT_US_2)	orz-016.ogg
+Minä kerron uudelleen monta *kappaletta*. Et tiedä *erikoisia asioita*.
+Tässä on vähän. *Aika* ei ole yksi mutta monta.
+*Avaruus* on monta. *Värit* on monta. Sinä olet niin *tahmea*.
+Et voi *liukua* kuin Orz *ulkopuolelta* *sisäpuolelle* ja *välille*.
+Se on ikävää, mutta Orz voi *vetää* *telttailijat* *yhteydenoton* jälkeen.
+Tämä on kohta.
+Orz yrittävät *vetää* Androsynthejä, mutta he ovat niin *hupsuja*, he eivät halua.
+Arilout voivat *liukua*. Myös Taalo. Monta voi *liukua*, mutta Orz ovat parempia tietenkin.
+
+#(ABOUT_US_3)	orz-017.ogg
+Tässä on *hyviä uutisia*!
+Kuusi tai yhdeksän *kappaletta* aiemmin, minä itse Orz eivät edes *haistaneet* sinun *tasoasi*.
+Voitko uskoa? Se on niin huvittavaa! Se on kuin *iloinen kylä*.
+Sitten Androsynth teki jotain *liukkaita paikkoja* ja sitten Orz voi *haistaa* sen.
+Se *haisee* niin hyvälle että Orz yllättyvät!
+Minä itse työnsin *sormet* *uuteen kylään* ja siellä on niin monta *telttailijaa*.
+Ensin VUX, mutta he ovat sellaisia *hupsuja lehmiä*
+He kysyivät niin paljon Androsyntheistä meidän pitää *tanssia* heidän kanssaan.
+Sitten me voimme *haistaa* Arilou. Taas he ovat *hyppimässä edessä*.
+Se on aina! Nnnnggaaahhhhh!
+Siellä on *mehu vuotamassa* ja sitten me emme ole niin *frumple*.
+Lopulta löydämme sinut, ja *iloiset telttailijat* ja Taalo *leikkikentän* läpiliukumiseen.
+Missäkö ovat Taalot? Siellä he ovat. Liian paljon huvia.
+Me olemme liian iloisia, tässä *hidas aika* *raskas avaruudessa*. Se on parempi *taso* peleille.
+Tämä on kaiken tarina. Nyt tiedät.
+
+#(ABOUT_US_4)	orz-018.ogg
+Minä jo kerron kaiken tarinan. Se on liian paljon.
+Sinä et ole kysymässä meiltä monesta.
+Seuraavaksi on *juhla* ja sinä tulet *tulemaan*.
+Se on paras.
+Tämän jälkeen olet niin *iloinen* et kysy monta kysymystä.
+Arvaatko? Kyllä! Kyllä arvaat!
+Olen liian *väsynyt* *huvittavaan* sana*peliin*.
+
+#(where_androsyn)
+Karttamme näyttävät tämän Androsynthien avaruudeksi. Tiedättekö mitä heille tapahtui?
+
+#(DISEMBLE_ABOUT_ANDROSYN)	orz-019.ogg
+Androsynth eivät ole täällä. Orz ovat täällä.
+Ette ole liian paljon samanlainen kuin Androsynth. Olette *iloisia telttailijoita*.
+Haluatko nähdä meidän yllättävät *lelumme*? Ei!! Älä!!
+Androsynth ovat niin huvittavia. Me emme *kerro tarinoita* paljoa heistä.
+Ei enempää Androsynth-tarinoita.
+
+#(must_know_about_androsyn)
+Mitä tapahtui?? Pahus, mitä teitte Androsyntheille?!!
+
+#(KNOW_TOO_MUCH)	orz-020.ogg
+Nnnnnngaaaa!!!! Minä *puserran* *mehun*.
+Olet tullut liian lähelle. Olet *sairas* viimeisen kerran!
+Nnnnnnggggaaaaaa!! Se ei ole tarpeeksi *iloisiin päiviin* olen varma.
+Lisää ja lisää *mehua!*
+Androsynth eivät ole tarina!!
+
+#(dont_really_care)
+Ööh, selvä. En minä oikeasti välittänytkään niistä paljoa.
+
+#(YOU_ARE_OUR_FRIENDS)	orz-021.ogg
+Ahaa! Olen puhunut muille Orz *serkuille* sinä olet *yhdistetty* *telttailuun*.
+Olen niin oikeassa!
+On iloisimmat päivät olla välittämättä Androsynth yhtään.
+Joten nyt voimme olla *yhdessä* ystävälliselle *jälkiruoalle*.
+Olen niin oikeassa. Minä kerron heille uudestaan.
+
+#(about_andro_1)
+Älkää nyt ymmärtäkö tätä väärin, pyydän, mutta mitä androsyntheille tapahtui?
+
+#(FORGET_ANDRO_1)	orz-022.ogg
+Minä olen sanoa parhaan sanan *frumple*. Ehkä sinä et tiedä.
+*Frumple* olla *pyöreä* ja silti *paakkuinen*. Niin paha!!!
+Androsyntheistä kysyminen on niin *frumple* emme ole iloisia
+Älä kysele sitä niin paljon.
+On parempi ettei *frumple* tai muuten on niin paljon ongelmia.
+Ei enempää Androsynthejä on parempi.
+
+#(about_andro_2)
+Kerro minulle vain tämä. Onko meillä sama kohtalo kuin heillä?
+
+#(FORGET_ANDRO_2)	orz-023.ogg
+Ette ole sama. Te olette *iloisia telttailijoita*, mutta te tiedätte jo.
+En halua puhella *hupsuista Androsyntheistä*, nyt on lopeta kysyminen.
+Jos kysyt kysymyksen toisella kerralla
+Se on *frumple* liian paljon ja Orz *tanssivat* *telttailijoiden* *hajoittamiseksi*.
+Minä olen selvä!!
+Et ole niin *hupsu*!
+
+#(about_andro_3)
+Selväksi tuli. Tämähän ei nyt oikeastaan ole kysymys, mutta sanotaanpa että AIKOISITTE kertoa Androsyntheistä. Jos aikoisitte, niin mitä sanoisitte?
+
+#(BLEW_IT)	orz-024.ogg
+Nnnnnggggaaaahhhhh!!!!!! Se on *tanssimista*!!!!
+
+#(NEUTRAL_HOMEWORLD_HELLO_1)	orz-025.ogg
+Tämä on minun *taloni* Tulitteko tänne *pelaamaan*?.
+Älkää olko surullisia jos olette *muita*. Me voimme silti *juhlia*.
+Ei ole koskaan tarpeeksi *telttailijoita*.
+
+#(NEUTRAL_HOMEWORLD_HELLO_2)	orz-026.ogg
+Haluatte *ottaa* *huvittavia* sanoja *hitaassa ajassa*. Se on selvä.
+Minä haluan *sylkeä* sanoja ja sitten ehkä on *juhla*.
+Tervetuloa minun *talooni* tai *muuhun taloon*.
+Se on vitsi! Vain on minun *taloni*.
+
+#(NEUTRAL_HOMEWORLD_HELLO_3)	orz-027.ogg
+Taas olette tulleet minun *talooni*. On sama aika.
+Miksi olette tulossa? Oletteko aina *hitaassa ajassa*?
+Olen yllättynyt!
+No jaa. Nyt on *hauskalle ajalle*, ei suremiselle.
+
+#(NEUTRAL_HOMEWORLD_HELLO_4)	orz-028.ogg
+Taas olette tulleet minun *talooni*. Se on sama aika.
+Miksi olette tulossa? Oletteko aina *hitaassa ajassa*? 
+Olen yllättynyt!
+No jaa. Nyt on *hauskalle ajalle*, ei suremiselle.
+
+#(NEUTRAL_SPACE_HELLO_1)	orz-029.ogg
+Hei suunnattomasti! Toivon että pidätte *pelaamisesta*.
+Jotkut *telttailijat* eivät ole kovin hyviä *peleissä*.
+Olisiko jo *pelaamisen* aika?
+
+#(NEUTRAL_SPACE_HELLO_2)	orz-030.ogg
+Miellyttäviä *yhdistelmiä*! Olemme *odottaneet* sinua.
+Pidätkö *juhlista*? Me teemme muutamia kertoja, ja niin paljon parempi.
+
+#(NEUTRAL_SPACE_HELLO_3)	orz-031.ogg
+Niin *mehukas*! Pidetään *juhla-aika* aiemmin.
+
+#(NEUTRAL_SPACE_HELLO_4)	orz-032.ogg
+Hei. Tunnutte olevan hyviä *telttailijoita*.
+Ehkä voimme tehdä *napakkaa hupia* kanssanne joka kerta.
+
+#(hostile_1)
+Älkää yrittäkö mitään hyökkäävää tai teidät tuhotaan välittömästi.
+
+#(HOSTILITY_IS_BAD_1)	orz-033.ogg
+Jos olet *sairas* sinun pitäisi pitää *juhlat*.
+Me voimme tulla *pelaamaan* sinun *taloosi*.
+
+#(hostile_2)
+Meillä ei ole aikaa lapsellisille älyttömyyksille. Haluamme tietoa. Suostukaa heti.
+
+#(HOSTILITY_IS_BAD_2)	orz-034.ogg
+*Erittäin sairas kala* tarvitsee *erikoisopetusta* ylimääräiselle *ilolle*.
+Me aiomme pitää *iloisen juhlan* nyt.
+
+#(we_are_vindicator0)
+Tervehdys. Olen kapteeni 
+
+#(we_are_vindicator1)
+, 
+
+#(we_are_vindicator2)
+-avaruusalukselta. Meillä on vähän vaikeuksia viestienne kääntämisessä.
+
+#(NICE_TO_MEET_YOU)	orz-035.ogg
+Niin tietenkin. Vaikeus. Ongelmat ovat vaikeita.
+Ollaan *erikoisia* yhdessä. *Mausteiset pelit* ovat aina hauskoja.
+
+#(seem_like_nice_guys)
+Näytätte ystävällisiltä kavereilta. Ehkä voitte auttaa meitä tehtävässämme?
+
+#(ARE_NICE_WANT_ALLY)	orz-036.ogg
+Kyllä. Kyllä. Me olemme liian ystävällisiä.
+Erittäin iloisten *siskojen* pitäisi korjata toisiaan *seremonioita* varten.
+Niin paljon nautintoa!
+Saammeko tulla teidän *taloonne* jotta voimme olla *sukulaisia*?
+
+#(talk_about_alliance)
+Olemme harkinneet uudestaan ideaa kansojemme välisestä liittoutumasta.
+
+#(OK_TALK_ALLIANCE)	orz-037.ogg
+Niin paljon parempi! Orz ovat odottaneet *liittoutuma* aikaa.
+Aion näyttää teille sisäpuolen.
+Se on niin hyvä ettette koskaan lähde sieltä.
+Öh, Ja olen niin jännittynyt oletettavien *liittoutuma juhlien* takia.
+Kyllä! Kyllä! Harkitseminen on paras.
+
+#(yes_alliance)
+Ööh....Oletan että puhutte liittoutumisesta. Kyllä, me olemme erittäin kiinnostuneita.
+
+#(GREAT)	orz-038.ogg
+Hyppivät *pippurit*!! Tämä on hymyilemisen aika!
+Olette *telttailijoita* sittenkin!!
+Aloitamme *liittoutuma* *juhlat* paremman ajanvietteen!
+
+#(no_alliance)
+En ole aivan varma, mutta luulen että vastaus on ei.
+
+#(MAYBE_LATER)	orz-039.ogg
+Masentavia *johtopäätöksiä*.
+Ehkä voimme pelata *liittoutuman* jonakin toisena iloisena päivänä.
+Aion kertoa *Orz pennuille* että odottavat *telttailemista*.
+
+#(decide_later)
+Ei aihetta mihinkään ryntäilemiseen. Ajatellaan sitä vähän lisää.
+
+#(OK_LATER)	orz-040.ogg
+Kyllä! Ajattele ja sitten tee! Kerro meille pian. Pian on nyt.
+*Juhlat* voivat olla niin paljon iloa muista syistä.
+*Liittoutuma* on hyvä.
+
+#(why_so_trusting)
+Tunnutte olevan erittäin... luottavaisia. Miksi näin?
+
+#(TRUSTING_BECAUSE)	orz-041.ogg
+Emme ole luottavaisia. Haluamme olla *yhdessä*.
+Haluatteko olla *yhdessä* kanssamme?
+Aina muita *surullisia eläimiä* menee pois, mutta ensin meillä on paljon hauskaa.
+Liian paljon hauskaa ei ole tarpeeksi!! Oletko samaa mieltä?
+Luulen että *haistan* niin kuin te teette.
+Tämä on tarina luottamisesta.
+Se on surullinen ja moni Orz *hajoaa* tai halkeaa muutamaksi.
+Miksi on niin että te olette luottavaisia? Miten hauska kysymys.
+Olen väsynyt.
+
+#(bye_neutral)
+Jaa, on ollut.... Öh... jaa, Pelkään että minun täytyy mennä nyt. Ymmärrättehän?
+
+#(GOODBYE_NEUTRAL)	orz-042.ogg
+Meneminen. Kyllä. Orz menee kanssasi samaan paikka *juhlimaan*.
+Kukaan ei unohdeta.
+Seuraava on *liittoutuma* *juhla*. Aina lupaus on hyvä pitää.
+Niin paljon ajanvietettä on tulossa, Orz ja sinä vaihtuvat yhteen niin pian kuin *telttaileminen* on alkanut.
+Et ole edes huomannut, ja sitten jokainen on niin iloinen.
+Sinua ei unohdeta. Liittoutuma on lupaus.
+Orz odottavat.
+
+#(ANGRY_SPACE_HELLO_1)	orz-043.ogg
+Orz löytävät sinut! Sinä et *pelaa* Orz kanssa niin edes ole *iloinen kylä*.
+Orz ajattelevat että *liukeneminen* on parempi vaihtoehto sinulle.
+Tämä on hyvä suunnitelma. Orz tekevät tämän loppuun parempien *pelien* puolesta.
+Nyt on *liukenemisen* aika.
+
+#(ANGRY_SPACE_HELLO_2)	orz-044.ogg
+Niin monta kertaa Orz sanovat 'Hei, Me olemme Orz', mutta seuraava on aina sama.
+Epäilemättä te olette *hupsuja lehmiä*.
+Nyt on taas uusi yritys *liukenemiselle*. Tietenkin tämä on paras lisähuville.
+Liukenemisen jälkeen, *hupsut lehmät* eivät ole *frumple*
+ja Orz saavat *erikoiskastiketta*, eivät *mehua*.
+
+#(ANGRY_HOMEWORLD_HELLO_1)	orz-045.ogg
+Olette tulleet meidän *taloomme* mutta emme voi *pelata* hauskoja *pelejä* kanssanne.
+Nnnnngggaaahhh!!
+Ette edes ole *telttailijoita*. Miksi olette tulossa *taloomme*?
+Emme voi *haistaa* teitä edes vähän.
+Niin paljon ongelmia *hitaassa ajassa* ei ole paras.
+
+#(ANGRY_HOMEWORLD_HELLO_2)	orz-046.ogg
+Ette ole *yhteydessä*! Liian monta kertaa puhun *huvittavia* sanoja *hitaassa ajassa*.
+Ei enempää puhumista.
+Seuraavaksi teidän pitää *liueta* ja *tulla* toinen kerta.
+Orz haluavat auttaa teitä *liukenemaan*.
+
+#(whats_up_angry)
+Te näytätte olevan järkyttyneitä. Olenko minä loukannut teitä jollakin tavalla?
+
+#(GENERAL_INFO_ANGRY_1)	orz-047.ogg
+Orz on järkyttynyt! Ei yksi, monta !
+Me *puserramme* *mehua*!
+Te näytätte ettette ole *iloisia telttailijoita*
+ja niin Orz eivät voi pitää *juhlia*.
+Orz tarvitsevat *juhlia* tai ei ole yhtään hauskaa, ja me olemme *frumple* joka päivä.
+Tämä on niin surullista, Orz on järkyttynyt, tietenkin.
+
+#(GENERAL_INFO_ANGRY_2)	orz-048.ogg
+Liian monta kertaa selittämässä hupsuja sanoja.
+Kuinka monta kertaa? Yhdesti? Kahdesti? Kolmesti? Seitsemästi?
+Orz ovat valmiita löytämään uusia *ystäviä*. Te ette halua *pelata*.
+Älkää tulko meidän *taloomme*.
+
+#(were_sorry)
+Minä en ole varma mitä sanoin väärin, mutta joka tapauksessa pyydän anteeksi.
+
+#(APOLOGY_ACCEPTED)	orz-049.ogg
+*Anteeksi* on hyvää hupia. Kyllä, me näemme että se on *peli*.
+Olette omituisimpia *telttailijoita*, mutta Orz ymmärtävät nyt.
+Me tulemme teidän *taloonne* ja aiomme olla *anteeksi* myös.
+Sitten on *juhla-aika*.
+Öh, Hauska *vitsi* on *anteeksi*. Ei ole enää *hupsuja lehmiä*.
+Tämä on *iloinen kylä* sittenkin!
+
+#(insult_1)
+Olette vaarallinen laji. Me emme halua olla missään tekemisissä kanssanne.
+
+#(insult_2)
+Jos jotkut tekevät mitään `hajoamista' täällä, niin te olette ne!
+
+#(insult_3)
+Nyt riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(insult_4)
+Nyt riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(insult_5)
+Nyt saa riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(insult_6)
+Nyt riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(insult_7)
+Nyt riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(insult_8)
+Nyt riittää! Olen saanut tarpeekseni! Olette kuolleita.
+
+#(INSULTED_1)	orz-050.ogg
+*Vaarallinen* ei ole oikea tapa! Orz ovat iloisia *hauska* päiviä koko ajan.
+*Hupsut lehmät* on niin omituisia, Orz ajattelee.
+Seuraavaksi *hupsut lehmät* *liukenevat* ja ei enempää sanan tekemistä *hitaassa ajassa*.
+Sitten on *iloiset päivät* täällä taas.
+
+#(INSULTED_2)	orz-051.ogg
+Orz eivät *liukene*! Miksi *hupsut lehmät* sanovat Orz *liukenee*?
+Liian paljon hulluja ehkä. Olette niin sairaita edes *juhliin*.
+Taas minä *puserran* *mehua*. Nnnggaaaahhh!!
+Se ei edes avuksi.
+
+#(INSULTED_3)	orz-052.ogg
+Me emme ole *kuolleita*. Orz ei koskaan ole *kuollut*.
+Orz ajattelevat *hupsut lehmät* haluavat *tanssia*.
+Orz osaa *tanssia* erittäin hyvin *välissä*
+mutta ei niin paljon hauskaa kuin *juhlat*.
+
+#(INSULTED_4)	orz-053.ogg
+Me emme ole *kuolleita*. Orz ei koskaan ole *kuollut*.
+Orz ajattelevat *huvittavat lehmät* haluavat *tanssia*.
+Orz osaa *tanssia* erittäin hyvin *välissä*
+mutta ei niin paljon hauskaa kuin *juhlat*.
+
+#(bye_angry)
+Hitto, te olette ihan liian outoja. Minä häivyn täältä.
+
+#(GOODBYE_ANGRY)	orz-054.ogg
+Orz eivät voi olla *outoja*. Orz on Orz. Outo on eri asia.
+Olet *hupsuin lehmä* ja lisää niin.
+Vähintään voit *tanssia* Orzin kanssa.
+*Tanssimisen* jälkeen Orz ajattelevat sinusta tulee hyvää *erikoiskastiketta*.
+Ehkä jopa muillekin Orz *juhlille*, joten älä ole surullinen.
+
+#(ANGRY_TAALO_HELLO_1)	orz-055.ogg
+Kuka se on? Se on *ei telttailijat*.
+Ehkä olette tulleet Taalo *Leikkikentälle* *piknikille*.
+Ei!!! Se ei ole asianlaita! *Hupsut lehmät* eivät koskaan voi pitää *piknikkiä*.
+Tietenkään. Eivät edes juhlaa.
+Jos olette menneet, Orz voivat pitää hauskaa vähän lisää.
+
+#(ANGRY_TAALO_HELLO_2)	orz-056.ogg
+Minä en arvaile, ja mitä sitten? Taas *hupsut lehmät*.
+Luulette että *Leikkikenttä* on *hauska* paikka?
+Minä selitän. Se ei ole..
+Nyt se on selitetty. Tietenkin te ymmärrätte.
+Se on riittävästi sanojen puhumista. Te olette lähtemässä.
+
+#(FRIENDLY_ALLIED_TAALO_HELLO_1)	orz-057.ogg
+Onnelliset *palaset*! Minä *puserran mukavia värejä*!
+Miksi? Syy.
+*Telttailija ystävät* ovat tulleet Taalo *Leikkikentälle*.
+Miksi olette tulossa tässä?
+
+#(FRIENDLY_ALLIED_TAALO_HELLO_2)	orz-058.ogg
+Minä *haistan* teitä niin paljon. *Telttailijat* ovat miellyttäviä.
+Te olette tulossa taas *Leikkikentälle*.
+Me voimme pitää lisähupia tulevaisuuden *juhlille* *pika-ajassa*
+
+#(demand_to_land)
+Minä vaadin lupaa että te annatte meidän ajaa ohi, jotta voimme laskeutua pinnalle.
+
+#(NO_DEMAND)	orz-059.ogg
+NNNNgggggaaahhhhh!!!!!! Te olette *frumple*! Te olette hupsuja!!
+Onko tämä iloista? EI!!! En voi *sylkeä* sanoja *lehmien* kanssa!
+Ei ole vaatimista!
+Me aiomme *tanssia* nyt muutamalle *palaselle*.
+
+#(ASK_NICELY)	orz-060.ogg
+Te ette ole *sylkemässä* iloisia sanoja. Vaatiminen ei ole iloista.
+Jos haluatte menemässä *Leikkikentälle* sitten *iloiset sanat* ovat parhaat.
+Ymmärrättekö eniten?
+Se on niin yksinkertaista?.
+
+#(why_you_here)
+Miksi olette täällä tällä planeetalla?
+
+#(ANGRY_EXPLANATION)	orz-061.ogg
+Tämä vastaus ei ole *hupsuille lehmille*.
+Ette tunne Taaloa. Taalo ei ole *ystävä*.
+Te olette tulossa *Leikkikentälle* ja sitten tekemässä sanoja.
+Aina te saatte Orz *pusertamaan mehua*. Meillä ei ole tarpeeksi.
+Minä en halua *haistaa* sinua nyt.
+
+#(FRIENDLY_EXPLANATION)	orz-062.ogg
+Minä kerron. Tämä on Taalo *Leikkikenttä*. Tiedätkö?
+Taalo ei ole enää *raskaassa tilassa*. Moni *telttailija* elää he eivät ole täällä.
+*Pelataksesi* Taalon kanssa, Orz täytyy *levitä* *Kauniiseen Tilaan*.
+On olemassa niin monta hyvää paikkaa sille täällä, Orz ovat iloisia.
+Tietenkään et tunne Taaloa. Olette *telttailijoita*.
+Ette voi menemässä *Kauniiseen Tilaan*, huonompi juttu.
+
+#(what_is_this_place)
+Mitä tarkoitat `Leikkikentällä'? Voitko selittää vähän lisää?
+
+#(FRIENDLY_PLACE)	orz-063.ogg
+Kyllä. Kyllä. Sinä sanot sanoja, sitten minä sanon.
+Se on hauskaa *välissä*. Enemmän huvia kuin *tanssiminen*.
+Monta *painovoimakeskusta* *raskaassa tilassa* tekee hyviä *juhlintapaikkoja*.
+Tämän vuoksi me pidämme *Uudesta Kylästä*. Niin monta *telttailijaa* ja sitten mitä?
+Jopa *Leikkikenttiä*! Mikä yllätys!
+Tällä *Leikkikentällä*, Taalo tekevät *Aikavitsejä*. Se on liian hauskaa Orzille.
+Taalo ovat *raskaassa tilassa* ja sitten mitä?
+Ne leviävät *Kauniiseen tilaan* koska Dnyarri jahtaavat heitä.
+Nyt Dnyarri nukkuvat, niin Orz voi *jahdata* niitä.
+Sitten voimme pitää *juhlat*. Ne ovat jopa parempia *telttailijoita* kuin te.
+Älkää tunteko pahalta. Te olette tarpeeksi hyviä *telttailijoita*, mutta ei vielä.
+
+#(ANGRY_PLACE)	orz-064.ogg
+Miksi selittää? Te ette ole *telttailijoita*! Olette liian *kovia*!
+Jos haluatte *sanoja häilyvän kanssa* sitten teidän pitää olla *telttailijoita*!
+Tietenkin olette niin huvittavia. Se on liian paljon. Älkää kyselkö *leikkikentistä*.
+Jos haluatte olla *telttailija* sitten voitte mennä minun *talooni*.
+Huvittava nimi on Gamma Vulpeculae.
+
+#(may_we_land)
+Pahastutteko jos teimme vähän tutkimusta planeetan pinnalla?
+
+#(SURE_LAND)	orz-065.ogg
+Sinä olet kysyt onko Orz järkyttyneitä? Orz eivät ole järkyttyneitä.
+Olette *iloisia telttailijoita*. Epäilemättä olette vain *hidas aika* *kävelijöitä*.
+Ei ole hauskaa pinnalla *hitaassa ajassa*.
+Jos haluatte mennä niin se on okei.
+
+#(ALLIES_CAN_VISIT)	orz-066.ogg
+Vain *telttailijat* voi mennä *leikkikentälle*.
+*Liittolais juhlat* ovat usein hyvä idea parempaan *juhlimiseen*.
+Jopa *piknikkeihin*.
+Haluatteko olla *telttailijoita* *ystävällisille päiville*?
+
+#(make_alliance)
+Hyvä on, hyvä on. Me voimme olla `telttailijoita'. Miten me teemme sen?
+
+#(CANT_ALLY_HERE)	orz-067.ogg
+*Hyppivät pippurit!* Minä olen *pusertamassa* lisää *mukavia värejä*.
+Se on paras tapa!
+Te tulette olemaan erittäin iloisia *telttailijoita*. Älkää *pelästykö*.
+Se on parempi kuin *telttailijat*.
+Teidän täytyy menemässä minun *talooni* jotta voitte aloittaa *telttailemisen*.
+Se on 371.3, 253.7 paikka.
+Me olemme niin kiireisiä *telttailijoiden* aloitukselle!
+
+#(why_busy)
+Mitä teette noin kiireisesti?
+
+#(BUSY_BECAUSE)	orz-068.ogg
+Kiire on koska Orz on syy. Se on salainen *telttailijoille*.
+Teidän täytyy kiirehtiä minun *talooni*.
+On ikävä ettette voi **HYUIVBHJHG** siellä
+mutta lentäminen *raskaassa* aluksessa on hyvä.
+Ehkä seuraavaksi me aiomme näyttää sinulle lelumme. Mutta älä katso!!!
+Mutta nyt menette *talooni*.
+
+#(bye_taalo)
+Jaa, on ollut mukavaa, mutta oikeastaan minun pitäisi olla jo menossa nyt.
+
+#(bye_ally)
+Voisin pysyä täällä ja jutella kaiken päivää, mutta pelkään että minun täytyy mennä nyt. Näkemiin, liittolaiset.
+
+#(GOODBYE_ALLY)	orz-069.ogg
+Kyllä! Me niin teemme! Näkemmin on *Peli*. Hei!! Minä olen vain vitsi.
+Se on ihan hauska. Älä unohda *nauttia kastikkeesta*!!!
+
+#(FRIENDLY_TAALO_GOODBYE)	orz-070.ogg
+Minä olen niin surullinen itse. Te ette ole täällä ja sitten en ajattele *juhlia*.
+No jaa. Se on niin paljon jännitystä seuraavalle kerralle.
+Teidän täytyy poistua nyt niin sitten teidän täytyy tulla takaisin.
+Kyllä. Minä ymmärrän erittäin hyvin.
+
+#(ANGRY_TAALO_GOODBYE)	orz-071.ogg
+Viimeinkin sinä *sulautat*. Minä olen väsynyt *sylkemään* tarkoitusta.
+Mene. On *iloiset päivät* sen jälkeen kun olette menneet.
+Sitten minulla on tarpeeksi *mehua*.
+Niin paljon parempi.
+
+#(HOSTILE_HELLO_1)	orz-072.ogg
+Nnnnnngaaaa!!!! Minä *puserran* *mehua*.
+Enemmän ja enemmän *mehua!*
+Olet *sairas* viimeisen kerran!
+
+#(HOSTILE_HELLO_2)	orz-073.ogg
+Nnnnnggggaaaahhhhh!!!!!! Se on *tanssimista*!!!!
+
+#(OUT_TAKES) orz-074.ogg
+*Iloiset telttailijat* ovat parhaita. Se on *iloista*
+ODOTA HETKI! Tämä typerä dialogi saa minut voimaan pahoin!
+Kuka kirjoitti tämän roskan -- viisivuotias?
+Hyvä on, Hyvä on. Yritän uudelleen *huokaus*...
+...*Iloiset* telttailijat ovat parhaita. On hyvä *haistaa* sinut taas...
+

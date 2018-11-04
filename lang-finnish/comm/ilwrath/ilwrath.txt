@@ -1,0 +1,632 @@
+#(NEVER_ENOUGH) ilwrath-000.ogg
+Emme Voi Ikinä Saada Riittävästi Ohjausta Teiltä, Suuret Mestarit!
+Odotamme Innokkaina Seuraavia Viheliäisiä Käskyjänne.
+
+#(OK_WARSHIP) ilwrath-001.ogg
+Kuten Tahdotte, Mahtavat, Armottomat Tuhoajat!
+Kaikessa Tulevassa Pilkonnassamme Kunnioitamme Teitä Tällä Tavalla!
+
+#(OK_DWE) ilwrath-002.ogg
+Kyllä, Suuri Dogar! Kyllä, Mahtava Kazon! Mhe Tulemme Tekemään Niin, Mhe Tulemme Tekemään Niin!
+
+#(OK_YOUBOO) ilwrath-003.ogg
+Niin Olkoot, Oi Mahtavat.
+Tee-Ee Olette Mahtavia!
+Tee-Ee Olette Kauheimpia Ja Petollisimpia!
+Me Ilwrathit Olemme Liian Onnekkaita Saadessamme Palvoa Tee-Eeitä!
+
+#(OK_DILRAT) ilwrath-004.ogg
+Me, Tilli-Rotat, Kumarramme Ja Hankaamme Ulokkeitamme Kunniaksenne, Mahtavat Dogar Ja Kazon!
+
+#(BIG_FUN) ilwrath-005.ogg
+Kuulkaa!
+Taas Kerran On Kauhistuttava Kaksikko Tykönämme!
+Kuulkaa Kiitoksemme, Mahtavat Dogar Ja Kazon!
+Olemme Löytäneet Suurimman Mielihyvän Julmassa Palveluksessamme Näillä Muukalaistähdillä!
+Vaikka Vihollisillamme, Thraddasheilla, On Kova Ja Kiinteä Ulkokuori
+Näillä Olennoilla On Sisäpuolellaan Mitä Pehmeimmät Ja Maukkaimmat Sisukset.
+Heidän Matalat Pelon Ja Tuskan Mylväisynsä Tekevät Kunniaa Nimillenne, Suuret Dogar Ja Kazon!
+Me Tapamme Näitä Petoja Nimissänne, Kunnes Ne Kaikki Ovat Kuolleita, Kuolleita, KUOLLEITA!
+
+#(FAST_AS_CAN) ilwrath-006.ogg
+Pimeyden Ja Tuskan Jumalamme Kutsuvat Meitä Jälleen!
+Paha Dogar, Julma Kazon! Kuinka Voimme Olla Niin Onnekkaita Että Kuulemme Teitä Taas?
+Rukoilemme Teitä, Jumalat, Antakaa Meille Anteeksi Ettemme Ole Vielä Aloittaneet Thraddashien Tappamista.
+Minun Pitää Nyt Nopeasti Raastaa Kolme Raajaa Rintakehästäni Rukoukseni Merkkinä.
+AIII!
+Se On Tehty! Dogar Ja Kazon Näkevät Nesteeni Ja Heidän Täytyy Hymyillä. Olen Onnellinen!
+Me Kaikki Kiirehdimme, Mutta Kostaja-Avaruusaluksemme Nopeus Rajoittaa Meitä.
+Tiedämme Että Surkeat Tekosyymme Ovat Arvottomia...
+Meidän Täytyy Osoittaa Häpeämme Poistamalla Vielä Lisää Raajoja.
+AIII!
+
+#(GLORIOUS_WORSHIP) ilwrath-007.ogg
+Tarkatkaa! Tuskan Ja Kuoleman Julmat Kaksoset Ovat Palanneet Ohjatakseen Meitä!
+Dogar Ja Kazon! Olemme Teidän Julmuuden ja Kuoleman Työkalujanne!
+Kun Puhumme, Pyhät Musertajat Hyökkäävät Thraddasheja Vastaan, Tappaen Armottomasti Teidän Nimissänne.
+
+#(ON_WAY) ilwrath-008.ogg
+Dogar Ja Kazon Jälleen Kerran Kunnioittavat Kanavaa 44 Inspiroivilla Vihan Ja Julmuuden Sanoillaan!
+Apupappi! Käännä Äänenvoimakkuus Maksimiin Välittömästi!
+Kuule Meitä, Musta Dogar! Kuule Meitä, Verinen Kazon!
+Olemme Kuulleet Sananne Ja Pyhitämme Jokaisen Hengenvetomme Täyttääksemme Mielihalunne Rajatonta Väkivaltaa Ja Kuolemaa Kohtaan!
+Nyt Kun Puhumme, Tuhat Avaruusalusta, Verhottuina Ja Näkymättöminä, On Matkalla Draconiksen Tähdistöön.
+Sinne Saapuessaan Pyhä Tapporyhmä Aloittaa Pyytämänne Verisen Teurastuksen.
+
+#(GODS_RETURN_1) ilwrath-009.ogg
+Dogar! Kazon! Kuulemme Kutsunne Ja Teurastamme Lihavan Jubbyn Tervehdykseksi.
+
+#(GODS_RETURN_2) ilwrath-010.ogg
+Jälleen Kerran Tuhon Jumalainen Kaksikko Ilmaantuu Tuskan Mustista Onkaloista!
+
+#(GODS_RETURN_3) ilwrath-011.ogg
+Jumalamme Ovat Palanneet Jälleen Kerran, Aivan Kuin Tämän Aamun Rituaalit Ennustivat!
+Kun Vedimme höyryävät Sisälmykset Ulos Kiemurtelevalta Uhrilta
+Ja Sinkosimme Rasvaiset Lenkit Pyhien Kammioidemme Seiniä Vasten
+Sisälmykset Liimaantuivat Tiukkaan Paikalleen, Liukumatta Tai Kuoriutumatta Edes Vähäisesti!
+Niin Ennustettiin Jumaliemme Saapuminen!
+
+#(JUST_GRUNTS) ilwrath-012.ogg
+Mitä Tämä On? Jumaltemme Dogarin Ja Kazonin Äänet? Ei Varmasti Voi Olla!
+Ja Silti Vastaanottimeni On Säädetty Mystiselle 44:lle -- Kuka Muu Se Voisi Olla?
+En Ole Tällaisen Huomion Arvoinen!
+Dogar -- Kazon! Jumalaiset Sananne Varmasti Kalvavat Minut.
+Rukoilen Teitä! Puhukaa Suoraan Johtajille Kotimaailmassa!
+En Ole Arvollinen.
+
+#(GRUNTS_AGAIN) ilwrath-013.ogg
+Hark! Vastaanotamme Pyhän Lähetyksen.
+Oi Pimeät Ja Kaameat Mestarit! Kunnioitatte Minua Huomiollanne.
+Mutta Suuret Jumalat, En Ole Kuin Yksinkertainen Ilwrath, Nöyrä Murhaaja.
+En Ole Arvollinen Kuulemaan Sanojanne!
+Ainoastaan Kotimaailmassa, joka Kiertää Dogarin Vihreää Silmää On Tarpeeksi Pahoja Ilwratheja
+Ymmärtämään Käskyjänne. Antakaa Minulle Anteeksi!
+
+#(WHAT_ORDERS) ilwrath-014.ogg
+Tahtonne On Inspiraatiomme. Mitä Teemme?
+
+#(WE_WORSHIP_1) ilwrath-015.ogg
+Tuskan Kamareista Me Kuulemme Sananne, Julmat Ja Pahat Pimeyden Valtiaat.
+Ja Kun Äänenne Särisee Kaiutinlaatikoistamme, Se Lähettää Väristyksiä Selkäkuoriamme Pitkin.
+Kaikki Karvaiset Piikkimme Töröttävät Pystyssä Ja Me Huohotamme Ja Vingumme Pyhässä Kiihkossa!
+Oi Mahtavat Jumalat! Olette Kaiken Sen Määritelmä Mikä On Pahaa Ja Kammottavaa Tässä Maailmankaikkeudessa!
+Olette Inspiraatio Kaikelle Julmuudelle, Petokselle Ja Tuskalle.
+Tästä Me Kiitämme Teitä!
+
+#(WE_WORSHIP_2) ilwrath-016.ogg
+Teemme Välittömästi Kunnianosoituksen, Jumalaiset Pimeyden Valtiaat!
+Apupappi! Sytytä Piinan Kynttilät -- Nopeasti!
+Ei, Senkin Idiootti! Ei Valkoisia...
+Käytä Niitä Keltaisia Ja Punaisia, Jotka Teimme Vangeista Viime Viikolla, Niitä Joissa On Möykkyjä.
+Ei, Typerys, Ei Niitä! Ne Ovat Yhä Kosteita!
+
+#(WE_WORSHIP_3) ilwrath-017.ogg
+Oi Paha Dogar!
+Oi Kammottava Kazon!
+Heitämme Lihavat Jubbiet Tuhannen Neulan Kuoppaan!
+Tämän Teemme Teidän Nimissänne!
+Tuomme Paikalle Viimeisen Jäljellä Olevan Ih-Mis-Vangin
+Ja Vedämme Sen Pään Irti Hitaasti, Niin Että Sen Huudot Kestävät Tuntikausia.
+Tämän Teemme Teidän Nimissänne!
+Me Piinaamme, Terrorisoimme, Ruhjomme Ja Tapamme, Uudestaan, Uudestaan Ja UUDESTAAN!
+Tämän Teemme Teidän Nimissänne!
+
+#(SUBSEQUENT_CHMMR_HELLO) ilwrath-018.ogg
+Siispä... Ih-Minen On Palannut Vierailemaan Haudattujen Petoksen Opettajiensa Luona!
+Tämä Haikea Hetki Liikuttaa Minun Tunteitani, Ja Tunnen Olevani Pakotettu Tekemään Välittömän Kunnianosoituksen.
+Heikko Maakalainen -- Kaadan Lämpimän Kiertonesteesi Dogarin Alttarin Yli
+Ja Tanssin Julmuuden Jigin Kylmenevän Ruumiisi Päällä.
+
+#(INIT_CHMMR_HELLO) ilwrath-019.ogg
+Kiinni Jäit, Eh?
+Olemme Seuranneet Visiittiäsi Tähän Maailmaan Suurella Mielenkiinnolla.
+Metkusi Ovat Surkuteltavia
+Ja Saavat Dogarin Ja Kazonin Kalistelemaan Alaleukojaan Toisiaan Vastaan Ja Hihittelemään Huvittuneina.
+Ja Siispä Nyt, Mehukas Ih-Minen
+Ihmettelenkin Minkälaiset Äänen Teet
+Kun Vedän Kätesi Irti?
+Korkean Ja Valittavan Rääkäisyn, Vai Matalan Äärimmäisen Kärsimyksen Voihkaisun?
+
+#(OK_ENOUGH_ILWRATH) ilwrath-020.ogg
+Ja Silti Tiedät Niin Vähän.
+
+#(OK_ENOUGH_GODS) ilwrath-021.ogg
+Surkuteltavat Tutkimuksesi Ovat Tuskin Raapaisseet Sen Pintaa Mitä Tulee Oppia
+Dogarista Ja Kazonista.
+Ja Muista, Et Ehkä Ikinä Saa Uutta Mahdollisuutta Tällaisten Kysymysten Tekemiseen.
+
+#(SEND_MESSAGE) ilwrath-022.ogg
+Kautta Mustan Kaksosen, Kazonin, Löyhkäävän Hengityksen!
+Ih-Minen Muukalaisaluksessa... Kuinka Kiehtovaa!
+Kun Pysäytin Sen Ur-Quan-Luotaimen, Ja Kuulin, että Tunnistamaton Alus Oli Lähestynyt Maata,
+En Ikinä Odottanut Löytäväni Näin Hämmästyttävää Ajoneuvoa Ihmisen Käsissä.
+Ih-Miset Ovat Saaliseläimiä - Heikkoja Ja Avuttomia-
+Mutta Tässä On Ihminen Aseistetussa Avaruusaluksessa!
+Ja Loukkaa Näin Ollen Suoraan Uskollisuusvalaa.
+Olen Varma, Että Herramme, Ur-Quanit, Tulevat Rankaisemaan Maata Mitä Ankarimmin Tästä Petturuudesta...
+Kun Esitän Heille Aluksenne Vääntyneen Hylyn Ja Teidän Monet Hiiltyneet Ruumiinne.
+
+#(CAME_FROM) ilwrath-023.ogg
+Koska Olet Kohta Kuollut, Selitän Mielelläni.
+Olemme Kuluttaneet Monta Vuotta Saalistaen Pkunkkeja Iloisesti.
+He Ovat Surkuteltava, Helposti Tapettava Laji,
+Ja Olisimme Jatkaneet Tätä Dogarin Ja Kazonin Jumalaista Palvelemista,
+Mutta Olimme Lisämiehistön Ja Häivelaitteen Korjaamisen Tarpeessa.
+Joten Lähdimme Giclasin Tähtistöstä Ja Suuntasimme Kurssimme Kohti Kotia.
+Mutta Ennen Kuin Olimme Päässeet Omaan Avaruuteemme, Tunnistimme Lähellä Kulkevan Aluksen - Ur-Quanien Luotaimen.
+Se Tiedotti Meitä Sinusta... Joten Täällä Me Olemme.
+Ja Nyt, SINÄ KUOLET!
+
+#(WHO_BLASTS_WHO) ilwrath-024.ogg
+En Pelkää Sinua, Heiveröinen Nisäkäs.
+Vaikka Aluksessani Ei Olekaan Toimivaa Häivelaitetta, Ja Monet Miehistämme Ovat Kuolleita,
+Jumalani, Dogar Musta Ja Kazon Kammottava, Ovat Henkilökohtaisesti Paljastaneet Minulle,
+Että He Vihaavat Teitä Ihmisiä, Ja He Auttavat Meitä Tappamaan Teidät Kaikki!
+
+#(NO_SURRENDER) ilwrath-025.ogg
+Houkka!
+Niin Outo Kuin Aluksenne Ehkä Onkin, Sensorimme Paljastavat Kuinka Vähän Aseita Teillä On.
+Vaikka Tämä Alus On Vajaamiehitetty, Ja Pimennyssuojamme Ei Toimi,
+Meillä On Vielä Enemmän Kuin Tarpeeksi Voimaa Teidän Kaikkien Tappamiseen!
+
+#(NOT_REASONABLE) ilwrath-026.ogg
+Ha-ha-ha-ha! Sinun Täytyy Olla Joko Hyväuskoinen Lapsi Tai Toivoton Ääliö.
+Kummassakaan Tapauksessa Sillä Ei Ole Väliä, Koska Kohta Olet KUOLLUT!
+
+#(SUBSEQUENT_HOME_HELLO) ilwrath-027.ogg
+Huomaan Että Olet Tullut Järkiisi
+Ja Olet Nyt Valmiina Osallistumaan Tuhannen Parkaisun Festivaaliin.
+Vaikka Se, Että Ensin Torjuit Kunnian, Oli Pelottavaa,
+Tajuamme Että On Voinut Olla Järkytys Olla Niin Etuoikeutettu.
+Ha Ha, Nipistä Itseäsi, Ih-Minen! Et Näe Unta.
+Dogar On Iskenyt Silmää Ja Kazon Kouristellut Ylimielisessä Hyväksynnässä.
+Tänään, Ih-Minen, On Onnenpäiväsi!
+
+#(GENERAL_INFO) ilwrath-028.ogg
+Vaikka Sellainen Tieto On Normaalisti Pyhää Ja Salaista,
+Huomaan Olevani Kyvytön Pidättelemään Itseäni. Tiedä Tämä Tosiasia, Ih-Minen
+Olet Ih-Minen, Heikko Ja Yksin Tässä Maailmankaikeudessa, Ilman Jumalia Suojelemassa Sinua.
+Tiedän Tämän, Koska Ainoat Todelliset Jumalat Ovat Meidät Ilwrath-Jumalamme, Dogar Ja Kazon!
+Dogar On Tappaja Mustassa Viitassa...
+Suuri Tuhoaja...
+Verikyntinen Murhaaja...
+Musta Peto, Jolla On Tuhat Jälkeläistä!
+Kazon Puolestaan On Suuri Pettäjä...
+Ilkeämielinen Pahuus Pimeydessä...
+Pysäyttämätön Hirviö Joka Ei Tunne Sääliä...
+Nälkäinen Vaanija Yössä.
+Nämä Ovat Jumalamme -- AINOAT Jumalat!
+Kuinkako Tiedämme, Kysyt? Koska Dogar Ja Kazon KERTOIVAT MEILLE Niin.
+
+#(GOODBYE_AND_DIE) ilwrath-029.ogg
+Ei Niin Nopeasti, Herkkä Ih-Minen! Teidän Täytyy Ensin Osoittaa Kunniaa Universaaleille Jumaluuksille, Dogarille Ja Kazonille!
+Kunnianosoitus On Yksinkertainen Ja Mahdollisuuksienne Rajoissa.
+Osoitatte Kunniaa Veriuhreillanne!
+
+#(DECEIVERS) ilwrath-030.ogg
+PETTURIT!
+Tiedämme Ettette Ole Aidosti Dogar Ja Kazon!
+Typerät Ja Lapselliset Yrityksenne Huijata Meitä Koituvat Kuolemaksenne!
+
+#(NO_PEACE) ilwrath-031.ogg
+Erinomaista! Nautimme Elämän Riistämisen Prosessista Niin Paljon Enemmän Kun Hengen Luovuttaja Tekee Sen Halukkaasti.
+Tule Nyt Rauhassa Ja Anna Se Mikä Saa Sinut Elämään!
+
+#(NO_ALLIANCE) ilwrath-032.ogg
+Höperö Maakalainen! Ur-Quanit, Isäntämme, Olisivat Tyytymättömiä Jos He Olisivat Tietoisia Loukkauksistanne!
+Rikottuanne Uskollisuusvalaanne Ur-Quaneille, Olemme Pakotettuja Ottamaan Henkenne Maksuna...
+Toimenpide, Joka Sattumalta Miellyttää Sekä Itseäni Että, Mikä Tärkeämpää, Arkkijumalallista Kaksikkoa!
+
+#(ILWRATH_BELIEVE) ilwrath-033.ogg
+Kuulkaa!
+Ne Ovat Jumaltemme, Dogarin Ja Kazonin Kammottavat Ja Inspiroivat Äänet!
+Oi Suuret Pahuuden Ja Pimeyden Jumalat, Mitä Voivat Nöyrät Ja Kieroutuneet Palvelijanne Tehdä Hyväksenne?
+
+#(OK_KILL_THRADDASH) ilwrath-034.ogg
+Oi Mahtava Dogar!
+Oi Mahtava Kazon!
+Alttiit Palvelijanne Kuulevat Sananne Ja Tottelevat Jumalaisia Ja Julmia Oivalluksianne.
+Pkunkit Ovat Sopimattomia MEIDÄN Sakramentaalisiin Kidutuksiimme!
+Nautimme Mahdollisuuksista Tappaa Soveliaita Uhreja!
+Lähdemme Välittömästi Niin Että Voimme Aloittaa Kunniakkaat, Pahat Hartautemme...
+Mutta Ketä Me Saalistamme Seuraavaksi?
+Mutta Kuka Kärsii Inspiroituneesta Kidutuksestamme?
+Hmm
+Eivätkö Nuo Vastenmieliset Umgahit Kerran Maininneet Eräästä Lajista Lähellä Avaruusaluettaan?
+Hmm... AIVAN! Nyt Keksin! THRADDASHIT!
+Menemme NYT, Ja Tapamme Ne Kaikki!
+
+#(GOODBYE_GODS) ilwrath-035.ogg
+Näkemiin, Dogar Ja Kazon. Pahantahtoinen Läsnäolonne Herättää Meissä Kunnioitusta, Ja Vannomme Teidän Kauttanne
+Tekevämme Huomenna Vielä Katalampia Ja Petollisempia Tekoja Kuin Teimme Tänään!
+
+#(INIT_HELLO_SPACE) ilwrath-036.ogg
+Mitä? Voinko Uskoa Aistinryvästäni? Aistin Ih-Misiä!
+Tanssin Ilosta Hyvän Onnemme Johdosta.
+Ih-Minen Kuolee Sellaisella Piinalla Ettei Se Voi Olla Miellyttämättä
+Dogaria Ja Kazonia.
+
+#(SUBSEQUENT_HELLO_SPACE_1) ilwrath-037.ogg
+Mikä Se On? Mmmm, Ih-Minen! Siitä On Pitkä Aika Aika Kun Viimeksi Näin Ih-Misen Kuolevan! 
+Lyömme Vetoa Siitä Kuinka Monta Osaa Voimme Poistaa Ennen Kuin Se Lakkaa Pitämästä Meteliä!
+Nyt, Sinä, Avaruus-Aluksen Kapteeni, Aloitat Soveliaasti Kaiken Ih-Mismiehistön Siirtämisen
+Ettemme Haaskaa Aikaa.
+
+#(SUBSEQUENT_HELLO_SPACE_2) ilwrath-038.ogg
+Ah, Ih-Minen! Liityt Meihin Dogarin Ja Kazonin Ylistyksessä!
+Innostumme: Ihmisestä Tulee Erinomainen Seremonia.
+Kun Kuorimme Sen, Äänentekijästä Tulee Kiivasta Määkimistä.
+Sitten Dogarin Vihreä Silmä Katselee Kun Se Kiemurtelee Alttarilla
+Ja Kazonin Värekarvat Kohoavat, Osoittaen Olevansa Valmiita Nesteitä Varten.
+Se Vääntelehtii Elinvoimaisesti Kunnes Poksautamme Rapean Äänentekijän.
+Iloitkaa! Petturuuden Kaksikko Saa Rukouksensa.
+
+#(SUBSEQUENT_HELLO_SPACE_3) ilwrath-039.ogg
+Sattuman Kaupalla Saapumisesi Sopii Hyvin Kalvamisseremoniaamme!
+Ih-Misen Täytyy Valmistautua: Sen Täytyy Suorittaa Täydellinen Karvojenpoisto,
+Ja Sitten Voidella Pintansa Kuolleina Syntyneiden Jälkeläistemme Toukkatahnalla.
+Pimeyden Kaksikon Alttarilla Me Imemme Luisen Voiman Lihallisesta Heikkoudesta
+Samalla Kun Ih-Minen Rääkyy Joko Dogarille Tai Kazonille!
+Ih-Minen, Kuuntele Näitä Sanoja Tarkkaan
+Älä Suosi Kumpaakaan Jumalaa Huudoillasi, Ettet Traagisesti Pilaa Kalvamista!
+
+#(SUBSEQUENT_HELLO_SPACE_4) ilwrath-040.ogg
+Kautta Dogarin Vihreän Silmän, Se On Mehukas Ih-Mis-Luusäkki!
+Se Odottaa Että Kazon Hieroo Sen Ruumista Kauhun Värekarvoilla
+Kunnes Se Voi Vain Kieriä Ja Määkiä.
+Hah! Se Voi Vain Toivoa Saavansa Sellaisen Kunnian.
+Nytkin Se Rukoilee Kuolemaa Ja Niinpä Minun Täytyy Nyt Päättää...
+Tapahtuuko Se Räjäyttämällä Aistimet Yksi Kerrallaan Kunnes Mitään Ei Ole Jäljellä?
+Tapahtuuko Se Ravistelemalla Sitä Kunnes Se Vuotaa Joka Paikasta?
+Tapahtuuko Se Puremalla Irti Palasia Ja Kappaleita Kunnes Se Ei Enää Toimi?
+Hmm, Ei Varmaan Jälkimmäisellä -- Liian Paljon Luita.
+
+#(GENERAL_INFO_SPACE_1) ilwrath-041.ogg
+Hah! Mitätön Ih-Minen! Saat Minut Hihittelemään Huvittuneena!
+Kautta Mahtavien Dogarin Ja Kazonin Tahdon, Olen Täällä Laittaakseni Sinut Kuolemaan, Kuolemaan, KUOLEMAAN!
+
+#(GENERAL_INFO_SPACE_2) ilwrath-042.ogg
+Dogarin Ja Kazonin Hyvä Tahto Tuo Meille Ih-Misen Ruoaksi!
+Ellei Olisi Petoksen Mustien Valtiaiden Mahtavaa Ohjausta,
+Meillä Ei Olisi Sitä Hyvää Onnea Että Sinut Sieppataan Juhlalliseen Raajojen Vääntelyyn!
+Taistelusi Henkesi Puolesta, Vaikkakin hyödytön, Palvelee Jaloa Tarkoitusta
+Ja Lepyttää Kunnioitettuja Jumaliamme.
+Olet Ansainnut Oikeuden Pitää Päätäsi Pystyssä!
+
+#(GENERAL_INFO_SPACE_3) ilwrath-043.ogg
+Väärin! Me Tulemme Dogarin Silmästä.
+Sellaista Kvasaaria Ei Ole Lähelläkään Tätä Paikkaa!
+Katso Taivaisiin Paikassa 022.9, 366.6
+Ja Katso Sen Kaikkinäkevän Silmä Syvyyksiin, Jos Uskallat!
+Ainoastaan Kazonin Voideltujen Värekarvoja Säästävän Huolenpidon Kautta Voit Selviytyä Sellaisesta Teosta.
+Muussa Tapauksessa Siunaat Kalvamisen Alttaria Seremonisella Verelläsi!
+
+#(GENERAL_INFO_SPACE_4) ilwrath-044.ogg
+Pikaisessa Kultaisessa Hetkessä - Sodassa Allianssianne Vastaan -
+Me Ilwrathit Nautimme Verrattomasta Ilonpidosta Ja Juhlallisuuksista.
+Niin Paljon Verta Ja Imunestettä!
+Sitten, Kun Ur-Quanit Olivat Tehneet Teidänlaisistanne Kesanto-Orjia,
+Olimme Pakotettuja Käyttämään Planeetallamme Esiintyviä Lajeja Huvitukseen.
+Elimme Miellyttävää Olemassaoloa Kunnes Skandaari Ravisutti Ilwratheja!
+Grahit -- Mieluiten Piinaamamme Laji, Jota Me Huolellisesti Pidimme Sukupuuton Rajalla,
+Oli Kalvettu Täydellisesti Loppuun!
+Syypäänä Oli Byrokraattinen Virhe.
+Laatukuolemasta Tuli Harvinaista. Korkeasti Edistynyt Sivilisaatiomme Alkoi Näyttää Merkkejä Rappeutumisesta.
+Tarpeemme Hetkellä Rukoilimme Mahtavalta Kaksikolta Ohjausta, Ja He Vastasivat.
+`Lähtekää Matkaan', He Sanoivat. `Etsikää Lintuolennot.
+Kynikää Ne Hitaasti. Poistakaa Sisälmykset Niiden Huohottavista Kuorista. Antakaa Dogarin Ja Kazonin Juoda Niiden Kuolemaa Ja Tuskaa!'
+Lähdimme Matkaan Ja Löysimme Pkunkit, Mutta Ih-Minen, Nyt Olemme Mitä Onnellisimpia...
+Koska Te Kuolette Niin Paljon Paremmin!
+
+#(GENERAL_INFO_SPACE_5) ilwrath-045.ogg
+Pyhäinhäpäisijä! Et Ole Sovelias Pyhimpiin Silpomisen Ja Kalvamisen Rituaaleihin!
+Karvas Lihasi Saisi Dogarin Ja Kazonin Aivan Varmasti Rykimään
+Ja Sylkemään Ohuen Sielusi Helvetin Yhdeksännelle Vuorelle.
+Näin Ollen Me Vain Leikkelemme Sinut Palasiksi Ja Syötämme Lemmikkieläimille.
+
+#(STRENGTH_NOT_ALL) ilwrath-046.ogg
+Ha, Typerä Lihapussi, Pakkomielteesi Voimaan Koituu Turmioksesi. 
+Ainoastaan Ahkeran Pimeyden Kaksikon Rituaalisen Palvonnan Kautta Saadulla Valaistuksella
+Voi Olento Olla Todella Voitokas!
+Kuolema, Lähteestä Riippumasta, Ruokkii Katalaa Paria.
+On Suurin Kunnia Ja Voitto Kuolla Tämän Tarkoituksen Puolesta.
+Tiedämme Että Lopussa Vain Todella Hurskaat Korjaavat Palkinnon, Jota Dogar Ja Kazon Jakavat!
+
+#(NO_SLAY_BY_THOUSANDS) ilwrath-047.ogg
+Huvitat Meitä Järjettömillä Hourailuillasi.
+Odotamme Innoissamme Pääsevämme Tutkimaan Rakennettasi Huolellisesti.
+Ensiksi Me Kuorimme Eriskummallisen, Rakkulaisen Ulkokerroksen Pois
+Jota Seuraavat Keltaisen Ihran Rasvaiset Peitteet.
+Näin Hämmentävästä Osien Sekasotkusta Riittää Hupia Tuntikausiksi!
+Ih-Minen, Valmista Itsesi Juhlallisuuksia Varten!
+
+#(NO_EASE_UP) ilwrath-048.ogg
+Rentoutukaa -- Aivan! Dogar Ja Kazon Eivät Voisi Sanoa Sitä Paremmin!
+Aloitamme Parhaan Stressinpurkutoiminnnan Tekemisen.
+Valmista Haalea Lihasäkkisi Kuolemaan!
+
+#(GOODBYE_AND_DIE_SPACE) ilwrath-049.ogg
+Minne Olet Menossa, Ih-Minen?
+Olemme Täällä Saattaaksemme Sinut Hohtaviin Tuskan Kammioihin
+Katalien Pimeyden Kaksosten Kotiin.
+Avustamme Sinua Päättymismatkallasi.
+
+#(INIT_HOME_HELLO) ilwrath-050.ogg
+Kuinka Miellyttävä Yllätys! Siitä Lähtien Kun Ur-Quanit Tekivät Niistä Kesanto-Orjalajin
+Olemme Kaivanneet Ih-Misiä! Saavut Juuri Sopivasti Tuhannen Parkaisun Festivaaliin.
+Toivotamme Sinut Tervetulleet Avoimin Ulokkein!
+Osallistumisesi Seremoniaan On Mitä Sattumanvaraisin.
+Samalla Kun Kaadamme Höyryävät Osasi Murretusta Kuorestasi
+Huudat Sellaisella Voimalla Joka Miellyttää Mahtavia Jumalia, Dogaria Ja Kazonia!
+Sitten Lausumme Kysymyksemme Ja Saamme Jumalaista Ohjausta. Loistokasta!
+
+#(GOODBYE_AND_DIE_HOMEWORLD) ilwrath-051.ogg
+Lähdetkö? Juhlallisuudet Eivät Ole Vielä Alkaneet -- Et Ole Rääkäissyt Vielä Huudon Huutoa!
+Tuskan Patamme On Juuri Sekoitettu Ja Olemme Teroittaneet Tikarimme.
+Odota! Emme Saata Sallia Sinun Jäädä Pois Kauhun Ja Piinan Iloisista Ajoista.
+
+#(SO_MUCH_TO_KNOW) ilwrath-052.ogg
+On Niin Paljon Kerrottavaa -- Niin Monta Erilaista Piirrettä!
+Nämä Jumaluudet Läpäisevät Maailmankaikkeuden Kudoksen.
+Koska Kaikki Olennot Loppujen Lopuksi Vaipuvat Kuolemaan, Kaikki Olennot Tapaavat Dogarin Ja Kazonin.
+
+#(LONG_AGO) ilwrath-053.ogg
+Ih-Minen, Et Ymmärrä. Näin On Aina Ollut.
+Kun Kuoriutujat Kamppailevat Ulos Munapussista
+He Osoittavat Kunnoitustaan Kuoleman Kaksoisjumalille Ensimmäisen Raivokkaan Mässäilynsä Aikana.
+Siitä Hetkestä Alkaen Dogarin Ja Kazonin Ohjeet Ja Toimintatavat
+Ilmenevät Kuoriutujassa.
+
+#(KILLED_GOOD_GODS) ilwrath-054.ogg
+Pimeinä Aikoina, Aivan, Monet Jumalat Saivat Meidät Ymmällemme.
+Oli Kymmenittäin Jumalia Aina Peltin Zithistä
+Sedsin Awkiin Asti.
+Vasta Huolellisen Papiston Johtoryhmän Muodostamisen Jälkeen
+Ilwrathit Pystyivät Määrittämään, Että Todelliset Jumalat Ovat Dogar Ja Kazon!
+Tämä Papiston Uusi Salaliitto Paljasti, Että Meidän Tulee Hylätä Kaikki Muut Jumalat
+Ovatpa Ne Sitten Tulensijoja Tai Virtaavaa Seittiä.
+Ainoastaan Papit Olivat Kykeneväisiä Tulkitsemaan Jumalten Tahtoa.
+Heidän Lahkonsa Jalosti Palvontaamme Kunnes Emme Enää Pystyneet Parempaan.
+Tarkemmin Sanoen, Kaikki Kerettiläiset Tuli Syödä,
+Ja Kaikki Omistukset Tuli Luovuttaa Pyhille Paikoille
+Tai Papiston Asumuksiin.
+
+#(CHANNEL_44) ilwrath-055.ogg
+Jumalainen Kaksikko Lähettää Kanavalla 44. Heidän Viisauden Sanansa Ovat
+Tarjolla Kaikille Ja Ohjeita Noudatetaan Niin Hyvin Kuin 
+Kuolevaiset Kykymme Sallivat. Tiedämme Miellyttävämme Jumalia, Koska He
+Eivät Enää Katso Tarpeelliseksi Ohjata Meitä. Menneisyydessä Mustat Kaksoset
+Olivat Pakotettuja Ohjaamaan Meitä Miltei Päivittäin, Mutta Nyt Emme Ole Saaneet
+Ohjeita Melkein Kahdeksaan Vuoteen. Todellakin, Me Tarkkailemme Ahkerasti
+Kanavaa Sen Varalta Että Dogar Ja Kazon Valitsisivat Kuulemiseksi Tulemisen.
+
+#(BECAUSE_44) ilwrath-056.ogg
+He Tekevät Sen Meidän Vuoksemme.
+Ensinnäkin he Puhdistavat Kanavan Sotkuisesta Taustahälystä Ja
+Interferenssistä. Toiseksikin Se Teki Meille Helpoksi Tunnistaa Kunnolla Sen
+Mitä Voitaisiin Erehtyä Luulemaan Hullun Houreiksi, Pyhiksi Sanoiksi. Ymmärräthän,
+Dogarilla On 44 Silmää Jotka Näkevät Olemassaolon 44 Tasolle Ja
+Jokainen Kazonin 44 Kielenhaarasta Koostuu 44 Pyöreästä, Kiemurtelevasta
+Värekarvasta. Sitä Paitsi, He Tiesivät Että Me Olimme 'Kapteeni Satelliitin' Katsojia.
+
+#(WHAT_ABOUT_ILWRATH) ilwrath-057.ogg
+Aivan, Mielenkiintosi Ei Ole Epätavallista. Mahtavien Pimeyden Valtiaidemme
+Kaikkitietävän Ohjauksen Kautta Olemme Saavuttaneet Tämän Miltei
+Täydellisen Tilan. Hälvennämme Tietämättömyytesi Koskien
+Armottomien Dogarin Ja Kazonin Ensimmäistä Lapsilajia.
+
+#(ABOUT_PHYSIO) ilwrath-058.ogg
+Aivan, Vetävä Ulkomuotomme Vain Antaa Vihjeitä Todellisesta Voimasta Joka
+Piilee Sisällä. Rintakehämme Läpi Kiertävät Elämän Nesteet.
+Samoin Kuin Tekin, Jos Vuodamme Ylenpalttisesti, Tyydytämme Dogarin Ja Kazonin Uhraustarpeet.
+Alaleukamme Sallivat Meidän Kommunikoida, Ottaa Ravintoa ja Aiheuttaa Kärsimystä.
+Ulokkeet, Jotka Näet Täällä Sallivat Meidän Käsitellä Teknologiaamme
+Ja Kasvavat Takaisin Vaurioitumisen Tai Menettämisen Jälkeen, Kuten Usein Tapahtuu Tuskan Rituaaleissa.
+Aistiryppäämme Antaa Meidän Tarkkailla Kuolettavan Kaksikon Oikkuja Ja Haluja
+Siinä Monimutkaisessa Tapahtumien Sarjassa, Joka Johtaa Meidät Kaikki Kuolemaan.
+
+#(ABOUT_HISTORY) ilwrath-059.ogg
+Ikiaikoja Elimme Ulokkeesta Alaleukaan.
+Sitten, Monta Tuhatta Vuotta Sitten, Saimme Dogarin Ja Kazonin Ohjauksen.
+Tämä Salli Meidän Siirtyä Seesteisten Metsästäjä-Kerääjien Yksinkertaisen Olemassaolon Ohi,
+Tulla Maailmoja Harppoviksi Kuoleman Ja Tuhon Avattariksi
+Monien Vuosien Ajan Me Kehitimme Teknologiaamme -- Aina Dogarin Ja Kazonin Nimessä
+Aina Kehittäen Hienostuneempia Työkaluja Murhaamiseen.
+Sitten Jumalat Antoivat Meille Tavan Siirtyä Eteenpäin Ja Tehdä Vieläkin Kunniakkaampia Tekoja!
+Se Oli 29 Vuotta Sitten, Kun Ur-Quanit Kohensivat Avaruusaluksiamme Ja Aseitamme.
+Sota Allianssianne Vastaan Oli Loistokas!
+Mutta, Ikävä Kyllä, Kaikki Hyvät Asiat Loppuvat Aikanaan. Te Hävisitte.
+Kunnioitimme Pehmeiden Ja Armollisten Ur-Quanien Toiveita Ja Lakkasimme Syömästä Teitä Ih-Misiä.
+Jatkaaksemme Juhlallisia Kuolemanseremonioitamme Aloimme Käyttää Luonnonvaraisia Lajejamme Seremonioihin.
+Asiat Näyttivät Sujuvan Hyvin Kunnes Käytimme Vahingossa Loppuun Kaikkien Näiden Elinmuotojen Varantomme.
+Tulimme Mielettömiksi Ja Kutsuimme Jumaliamme Ohjausta Varten!
+Sitten, Kahdeksan Vuotta Sitten, Dogar Ja Kazon Vastasivat Pelon Ulvontaamme
+Ohjaamalla Meidät Kalvamaan Sulkaiset Lintuolennot - Pkunkit!
+Olemme Nyt Työntyneet Syvälle Heidät Kotiavaruuteensa!
+Kun Saamme Suoritettua Kansamurhatehtävämme Loppuun
+Olemme Varmoja Että Kuulemme Jälleen Dogaria Ja Kazonia.
+
+#(ABOUT_CULTURE) ilwrath-060.ogg
+Ah, Kulttuurimme On Rikas Merkityksellisistä Perinteistä.
+Synnyinriitin Aikana Munapussi Vilisee Monista Uusista Potentiaalista Kuolemista
+Kuoriutujat Taistelevat Ensimmäisestä Vaahtoavasta Siemauksestaan Verta.
+Sukeutuvassa Vimmassa Monta Kuoriutujaa Kalvetaan, Joko Osittain Tai Kokonaisuudessaan.
+Usein Suoritetussa Vakuutusseremoniassa Osanottaja Jauhaa Pois Raajoja Osittain Tai Kokonaan.
+Tuska On Se, Joka Ilmoittaa Musertamisen Kaksosten Mahtavuuden
+Kuinka He Voisivat Olla Huomaamatta Silvotun Hermokudoksen Aiheuttamaa Parkaisua?
+
+#(ABOUT_URQUAN) ilwrath-061.ogg
+Ur-Quanit Ovat Pelkkiä Dogarin Ja Kazonin Työkaluja, Vaikka He Eivät Ehkä Itse Myönnäkään Sitä.
+Se Johtuu Siitä Että Pahat Kaksoset Laittoivat Heidät Auttamaan Meitä Teknologiallaan Ja Resursseillaan.
+Heidän Pehmeä, Armollinen Luontonsa Inhottaa Molempia Jumalia, Mutta He Näkevät Ur-Quaneissa Olevan Potentiaalin.
+Jos Epäilet Tätä Lausuntoa, Huomaa Että Ur-Quanien Taistelulaivassa On 42 Miehistönjäsentä.
+Koska Dogar Ja Kazon Osoittavat Kaikkialla Läsnäolon Ominaisuutta
+Miehistön Täysi Lukumäärä On Todellisuudessa Hyväenteinen Luku 44!
+Se, Että Ur-Quanit Ovat Pelkkiä Mustien Kaksosten Työkaluja, On Jo Etukäteen Selvä Johtopäätös.
+
+#(URQUAN_TOO_NICE) ilwrath-062.ogg
+Yksinkertaisesti Sanoen, Ur-Quanit Ovat Aivan Liian Mukavia Miellyttääkseen Dogaria Ja Kazonia.
+Kun Lajinne Alistettiin, Jumalamme Tekivät Selväksi Mielihalunsa Miljardien Välittömään Kuolemaan.
+Teimme Suunnitelmia Suureen Seremoniaan, Jota Olisi Kutsuttu `Lihan Vuoriksi'.
+Rakensimme Tuhansia Siirrettäviä Alttareita, Ja Siirsimme Miljoonia Verikaapuja Ja Fileerausveitsiä Maailmaanne.
+Mutta Sitten Ur-Quanit Käskivät Että Teidät Ihmiset Pitäisi Jättää Henkiin! Sitä Sekasortoa!
+Kun Loistelias Ja Mitä Pyhin Planeetanteurastuksemme Oli Väkisin Lopetettu
+Vetäydyimme Kotimaailmaamme Murjottamaan.
+
+#(OF_COURSE_WERE_EVIL) ilwrath-063.ogg
+Ha! Pahoja! Tietenkin Olemme Pahoja!
+Dogar Ja Kazon Eivät Ikinä Palkitsisi Vähemmän Kuin Hirvittävän Pahaa Lajia Turmiollisella Armollaan.
+Mehän Olemme Itse Pahuuden Määritelmä!
+Kaikki Meissä, Sisällä Ja Ulkopuolella, Lemuaa Katalilta Teoilta, Petokselta Ja Petturuudelta!
+Jopa Lemmikkieläimemme Ovat Melko Pahoja.
+
+#(DONT_CONFUSE_US) ilwrath-064.ogg
+Hmmm... Me OLEMME Täysin Pahoja.
+Me Kaikki Käyttäydymme Yhteisesti Hyväksyttyjen Murha-, Kidutus-, Petos-, Ja Muiden Tapojen mukaisesti.
+Yhdenmukainen Hyväksyntämme Tähän Hirveään Uskontunnustukseen Luo Järjestyksellisen Ja Yhteistyöhaluisen Yhteiskunnan
+Mikä Tuskin On Pahaa.
+Pahuus On Asioiden, Jotka Satuttavat Tai Saavat Toisia Pelkäämään, Tekemistä.
+Me KAIKKI Tietenkin Teemme Niin.
+Mutta Koska Me KAIKKI Teemme Sellaisia Asioita, Kuten Kulttuurimme Hyväksyy,
+Olisi 'Pahaa' Tehdä Toisin.
+Mikä Tarkoittaa... Ööh... Ööh...
+Heiveröinen Ih-Minen, Älä Leiki Sanoilla! Vihastutat Sekä Dogarin Että Kazonin! Nyt Sinun Täytyy Kuolla!
+
+#(ON_WAY_TO_THRADDASH) ilwrath-065.ogg
+Häipykää, Ih-Miset!
+Repisimme Erittäin Mielellämme Kaikki Sormenne Irti...
+Ja Meitä Viihdyttäisi Niiden Tunkeminen Aukkoihinne...
+Mutta Meillä On Nyt Paha Jihad Emmekä Saata Tappaa Teitä Juuri Nyt.
+Ehkä Myöhemmin.
+
+#(HAPPY_FIGHTING_THRADDASH) ilwrath-066.ogg
+Kanavalta 44 Tulivat Mustien Kaksosten Sanat Jotka äskivät Tehdä Verisen Pyhiinvaelluksen!
+Olemme Saapuneet Pyhälle Tappotantereelle Ja Toteutamme Dogarin Ja Kazonin Käskyjä Innokkaasti.
+Surmaaminen On Ollut Erinomaista -- Suuri Seremonia!
+Nyt Olet Täällä, Tahraten Tapahtuman Kädellisten Lörpöttelyllä.
+Häivy, Ih-Minen! Häiritset Mustien Kaksosten Siunattua Murharukousta.
+
+#(say_warship)
+TÄSTÄ PÄIVÄSTÄ LÄHTIEN, SANOKAA PILKONTA SEN SIJAAN ETTÄ SANOISITTE PALVONTA!
+
+#(say_dwe)
+TÄSTÄ PÄIVÄSTÄ LÄHTIEN SANOKAA MHE SEN SIJAAN ETTÄ SANOISITTE ME!
+
+#(say_youboo)
+TÄSTÄ PÄIVÄSTÄ LÄHTIEN SANOKAA TEE-EE SEN SIJAAN ETTÄ SANOISITTE TE!
+
+#(say_dillrat)
+ETTE ENÄÄ OLE ILWRATHEJA. OLETTE NYT TILLI-ROTTIA!
+
+#(enough_orders)
+OLETTE SAANEET RIITTÄVÄSTI KUNNIANOSOITUKSIA. MENKÄÄ JA TAPPAKAA KARMIVASTI NIMISSÄMME!
+
+#(other_divine_orders)
+VAADIMME ETTÄ TEETTE ASIOITA VÄHÄN ERI TAVALLA.
+
+#(worship_us)
+PALVOKAA MEITÄ!
+
+#(bye_gods)
+PALAAMME NYT HAISEVAAN PIMEYTEEN. TOTELKAA KÄSKYJÄMME!
+
+#(enough_ilwrath)
+Oooo! Pääni on pyörällään hämmästyttävistä faktoista! Älkää sanoko muuta!
+
+#(enough_gods)
+Alan väsyä Dogariin ja Kazoniin. Keskustellaan jostain muusta.
+
+#(where_you_come_from)
+Mistä helvetistä te tulitte?
+
+#(it_will_be_a_pleasure)
+Tulee olemaan ilo räjäyttää ruma naamanne avaruuteen.
+
+#(be_reasonable)
+Kuules nyt, ollaan järkeviä. Me VOIMME elää rauhanomaisesti.
+
+#(surrender)
+Antaudu, inha muukalaisolento, tai teidät hävitetään!
+
+#(whats_up)
+Kuules, ennen kuin yritätte tappaa minut, kertoisitteko minulle vähän itsestänne?
+
+#(bye)
+Se oli hauskaa, heput. Nähdään.
+
+#(want_peace)
+Ei ole tarvetta konfliktiin; alkakoon rauha!
+
+#(want_alliance)
+Liittoutukaamme yhteistä uhkaa, kammottuja Ur-Quaneja vastaan!
+
+#(go_kill_thraddash)
+KUULKAA NÄITÄ SANOJA, PAHAT LAPSEMME -- JÄTTÄKÄÄ TÄMÄ PAIKKA -- ETSIKÄÄ UUTTA SAALISTA!
+
+#(whats_up_space_1)
+Ilwrath-alus: ilmoittakaa heti tehtävänne luonne.
+
+#(whats_up_space_2)
+Läsnäolonne täällä on kiintoisaa. Valaiskaa meitä, kiitos.
+
+#(whats_up_space_3)
+Mikä tämä `Tokka' ja `Kassi on' -juttu muuten on?
+
+#(whats_up_space_4)
+Mitenkäs te ilwrathit kulutatte aikaanne?
+
+#(whats_up_space_5)
+Mitä Mogarista ja Katokonista?
+
+#(you_are_weak)
+Säälimme sinua, heikko Ilwrath. Nyt mene ennen kuin muutamme mieltämme.
+
+#(slay_by_thousands)
+Himonne henkien vientiin sinetöi kohtalonne. Me tapamme teitä tuhansittain!
+
+#(ease_up)
+Emme halua vahingoittaa teitä; rentoutukaa.
+
+#(bye_space)
+No, rakastaisin jutustelua, mutta minun pitää mennä.
+
+#(bye_homeworld)
+Hyvästi, adios, ciao!
+
+#(want_info_on_gods)
+Jumalanne kiehtovat meitä. Paljastaisitteko heidän todellisen luonteensa?
+
+#(when_start_worship)
+Milloin aloititte hurskaat tapanne?
+
+#(any_good_gods)
+En halua loukata, mutta onko teillä ikinä ollut Hyviä Jumalia?
+
+#(how_talk_with_gods)
+Kuinka rukoilette ja kuinka Dogar ja Kazon vastaavat?
+
+#(why_44)
+Miksi Jumalanne lähettävät kanavalla 44?
+
+#(want_info_on_ilwrath)
+Te ilwrathit kiehdotte minua. Kertokaa minulle itsestänne.
+
+#(what_about_physio)
+Pojat, pitää sanoa, että olette tosi oudon näköisiä ötököitä.
+
+#(what_about_history)
+Kuinka teistä tuli niin kier... ööh, sellaisia kuin olette?
+
+#(what_about_culture)
+Kertokaa minulle kiehtovista tavoistanne ja seremonioistanne.
+
+#(what_about_urquan)
+Mitä te muuten ajattelette Ur-Quaneista?
+
+#(are_you_evil)
+Okei, auttakaa minua sitten ymmärtämään tätä. Te siis pidätte itseänne Pahoina?
+
+#(but_evil_is_defined)
+Mutta `pahuus' määritellään poikkeamana yleisesti hyväksytyistä arvoista. Jos koko yhteiskuntanne käyttäytyy pahasti, ettekö te kaikki sitten itse asiassa ole hyviä?
+
+

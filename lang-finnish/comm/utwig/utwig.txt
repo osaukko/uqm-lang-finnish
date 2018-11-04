@@ -1,0 +1,718 @@
+#(NEUTRAL_SPACE_HELLO_1)	utwig-000.ogg
+Yäh. Luulen että minun tulisi kohteliaisuudenosoituksena esittää sovelias tervehdys.
+Utwigien Proktorien puolesta toivon totisesti, sinun tähtesi
+että päiväsi on ollut parempi kuin meidän
+vaikka se ei oikeastaan sano paljoakaan.
+
+#(NEUTRAL_SPACE_HELLO_2)	utwig-001.ogg
+Mene vain pois. Jätä meidät mietiskelemään murhettamme.
+
+#(HOSTILE_SPACE_HELLO_1)	utwig-002.ogg
+Jägh! Asenteesi meitä kohtaan ei ole hyväksyttävissä!
+Pyydämme anteeksi, että joudumme tekemään sinulle näin, mutta
+Ultronin menetyksen jälkeen meillä ei ole valinnanvaraa.
+Meidän valmistautuessamme kuolemaan, tulisi sinunkin tehdä niin.
+
+#(HOSTILE_SPACE_HELLO_2)	utwig-003.ogg
+Olet saavuttanut yksityisessä synkässä hetkessä.
+Meidän täytyy taata sinun vaikenemisesi täydellisellä ja totaalisella tuhoamisellasi.
+
+#(BOMB_WORLD_HELLO_1)	utwig-004.ogg
+Huomio, muukalaisalus: tämä maailma on Utwig-Proktoraatin täyden toimivallan alaisuudessa.
+Esitämme hillityn mutta kohteliaan tervehdyksen.
+
+#(BOMB_WORLD_HELLO_2)	utwig-005.ogg
+Olet saapunut mitä sopimattomimmalla hetkellä.
+Lajimme käy kollektiivisesti läpi suurta katumusta.
+Oli miten oli, vaaliaksemme lajienvälisen hyväntahdon henkeä
+vedämme itsemme pois intensiivisen itseanalyysin kehästämme
+ja tarjoamme tämä tervehdyksen, joka toivoaksemme riittää.
+
+#(HOSTILE_BOMB_HELLO_1)	utwig-006.ogg
+Voi onnettomuutta. Läsnäolosi on meille hämmentävää.
+Huolehtiaksemme tilanteesta tavalla, jolla säilytämme jonkinlaisen auktoriteetintapaisen
+olemme pakotettuja asettamaan joukkomme teidän armadaanne vastaan.
+Valmistautukaa taisteluun.
+
+#(HOSTILE_BOMB_HELLO_2)	utwig-007.ogg
+Masennuksen puuskassa huomaan leppymättömän turhautumani purkamisen sinuun välttämättömäksi.
+En tavallisesti ryhdy näin intomielisiin toimiin
+mutta huomaan olevani inspiroitu hävittämään sinut tarkoituksenmukaisesti.
+
+#(NEUTRAL_HOMEWORLD_HELLO_1)	utwig-008.ogg
+Normaalisti emme vaivautuisi tunnustamaan läsnäoloasi
+mutta tapaat meidät keskivaikean masennuksen tilassa
+normaalin itsetuhoisten taipumusten kehän sijaan.
+
+#(NEUTRAL_HOMEWORLD_HELLO_2)	utwig-009.ogg
+Muukalaisalus. Surkaa sekä utwigien että koko Maailmankaikkeuden yhteistä menetystä.
+
+#(NEUTRAL_HOMEWORLD_HELLO_3)	utwig-010.ogg
+Häiritset ikuisen murehtimisen rutiiniamme
+ja silti me esitämme sinulle tunnustamisen kohteliaisuuden.
+
+#(NEUTRAL_HOMEWORLD_HELLO_4)	utwig-011.ogg
+Olen niin masentunut. Voit yrittää piristää minua, jos haluat.
+
+#(HOSTILE_HOMEWORLD_HELLO_1)	utwig-012.ogg
+Olet vihastuttanut utwigien hengen.
+Vaikka olemmekin masentuneita miltei täydelliseen kyvyttömyyteen suorittaa minkäänlaisia toimia asti
+huomaamme, että sisällämme on riittävästi intoa ryhtyä kanssasi kuolemaan asti käytävään kaksintaisteluun.
+Todellakin, tulemme saamaan tyydytystä kuolemastasi tai vapauksestamme maallisesta taakastamme.
+
+#(HOSTILE_HOMEWORLD_HELLO_2)	utwig-013.ogg
+Huomio! Hyökkäävä alus! Läsnäoloanne täällä arvostetaan suuresti!
+Olet vavahduttanut meidät masennuksen aikaansaamasta apatiastamme
+siihen pisteeseen, jossa mielihalumme todella lasketaan tunteeksi!
+Odotamme innokkaina joko henkilökohtaista vapautusta vaineessa
+tai sinun onnistunutta hävittämistäsi.
+Kiitämme sinua tästä tilaisuudesta!
+
+#(why_you_here)
+Mitä varten oikein kidutte tässä paikassa?
+
+#(WE_GUARD_BOMB)	utwig-014.ogg
+Olemme Pommin valvojia.
+Pidämme sen poissa niiltä, jotka käyttäisivät sitä epäviisaasti.
+Lisäksi olemme valmiita toimimaan Proktoraatin ohjauksen alla
+jos päättäisimme tehdä viimeisen sovituksen hirvittävimmän töppäyksemme tähden.
+
+#(what_about_bomb)
+Hmm, tämän täytyy olla aika erikoinen Pommi, jos te kaikki pidätte sitä silmällä.
+
+#(ABOUT_BOMB)	utwig-015.ogg
+Olet oikeassa. Se on Edelläkävijä-alkuperää oleva reliikki.
+Sillä on voima tuhota kokonaisia planetaarisia kappaleita, ehkä jopa galakseja.
+Kohtalo on uskonut tämän laitteen valvomisen utwigeille
+niin että sitä tullaan käyttämään kohtalon tarkoittamalla tavalla.
+
+#(give_us_bomb_or_die)
+Tarpeemme vaatii tätä laitetta pikaisesti. Antakaa Pommi meille.
+
+#(GUARDS_WARN)	utwig-016.ogg
+Emme voi luovuttaa tämän voiman välikappaleen hallintaa!
+Ette voi saada Pommia.
+Mitä tahansa yritystä teidän osaltanne muuttaa tätä nykyistä järjestystä
+tullaan vastustamaan pelottavalla utwig-vastarinnalla!
+
+#(demand_bomb)
+Nyt otamme Pommin. Antakaa se meille.
+
+#(GUARDS_FIGHT)	utwig-017.ogg
+Piinamme ainoastaan ruokkii päättäväisyyttämme koskien tämän laitteen oikeusvaltaa.
+Olemme valmiina!
+
+#(may_we_have_bomb)
+Vau, tuohan on aika näppärää! Saisimmeko Pommin?
+
+#(NO_BOMB)	utwig-018.ogg
+Kyllä, se ON huomionarvoinen laite.
+On ymmärrettävää, että haluaisitte omistaa sen itse.
+Meidän mandaattimme kuitenkin vaatii, että säilytämme täyden kontrollin Pommiin.
+
+#(please)
+Oi, emmekö me saisi sitä, pliis? Se tekisi meidät tosi onnellisiksi!
+
+#(SORRY_NO_BOMB)	utwig-019.ogg
+Ei, olemme pahoillamme. Ette voi saada Pommia.
+Paitsi että se on käskyjämme vastaan, kuvitelkaa mitä tapahtuisi, jos jostain syystä
+Proktorimme päättäisivät käyttää sitä sivilisaatiomme tuhoamiseen.
+Kuinka selittäisimme sen poissaolon?
+
+#(whats_up_bomb)
+Kertokaa meille Pommista. Mikä on jymy-uutinen?
+
+#(GENERAL_INFO_BOMB_1)	utwig-020.ogg
+Löysimme tavanomaisten tutkimustoimenpiteiden aikana sen, mikä vaikutti olevan
+muinainen Edelläkävijöiden huoltotukikohta.
+Se oli riisuttu irtaimistosta ja vaikutti olevan tyhjänä.
+Telinealueella oli kokoelma sitä, mikä vaikutti olevan hylkytavaraa.
+Näiden sekalaisten tavaroiden luetteloinnin aikana laite löytyi vaurioituneesta kontista.
+Tiedemiestemme mukaan se vaikuttaisi olevan planeettatyökalu
+joka pystyy hävittämään kuun kokoisia kappaleita hiukkaspölypilviksi.
+Uskomme, että se joko unohdettiin vahingossa
+tai vain jätettiin, koska lähtevässä aluksessa ei ollut tilaa.
+
+#(GENERAL_INFO_BOMB_2)	utwig-021.ogg
+Pommi on saatettu jättää tänne vahingossa.
+Epäilemme, että jos se aktivoidaan, se muuttaa koko tämän planeetan
+pelkäksi laajenevaksi pikkuriikkisten pölykokkareiden massaksi.
+Utwigit ovat harkinneet tarkoin, että olisi tätä laitetta olisi ehkä parasta käyttää
+pistämään meidät pois kollektiivisesta kurjuudestamme.
+Vaikka tämä saattaakin kuulostaa äärimmäiseltä, huomautan että Ultronin väärinkäsittelymme
+on eeppisten mittasuhteiden kokoinen onnettomuus.
+
+#(bye_bomb)
+Tuo Pommi on aika vaarallinen ja te heput olette sekaisin. Minä häivyn täältä ja vähän äkkiä!
+
+#(GOODBYE_BOMB)	utwig-022.ogg
+Ha ha, älä huolehdi. Hei! Minähän nauroin! Kuinka saatoin tehdä sen?
+Nyt vajoan masennukseen, joka jättää minut sanattomaksi.
+
+#(hey_wait_got_ultron)
+Hetkinen nyt vain, jarruttakaa vähän! Katsokaas tätä! Meillä on teidän Ultroninne!
+
+#(TAUNT_US_BUT_WE_LOOK)	utwig-023.ogg
+Meidän ivaamisemme ei tee muuta kuin terästää päättäväisyyttämme lopettaa olemassaolosi.
+Itseasiassa me teemme sinulle mieliksi pikku pelissäsi.
+Sinulla on muutama sekunti näyttää meille se rihkama, joka sinulla on.
+Sitten ryhdymme päättämään olemassaoloasi.
+
+#(TRICKED_US_1)	utwig-024.ogg
+En vähempää odottanutkaan.
+Se mitä pitelet edessämme, on pelkkä muistutus vanhasta erehdyksestä, joka loukkaa meitä loputtomasti.
+Aloitamme nyt terminointisi.
+
+#(TRICKED_US_2)	utwig-025.ogg
+Olen raivosta sanaton... ja silti minun täytyy puhua!
+Kuinka julkeat pöyhkeillä utwigien kollektiivisella häväistyksellä?!
+Nyt saat maksaa röyhkeästä etikettirikoksestasi!
+
+#(we_are_vindicator0)
+Tämä on Kapteeni 
+#(we_are_vindicator1)
+, ja edustan 
+
+#(we_are_vindicator2)
+. Vastatkaa, olkaa hyvät.
+
+#(WOULD_BE_HAPPY_BUT)	utwig-026.ogg
+Mitä se hyödyttäisi -- Tarkoitamme, miksi meidän pitäisi?
+Kiduimme tuntikausia ihmetellen, josko se oli kohtalon julma oikku
+vaiko yksinkertaisesti pelkkä vakava mämmikouraisuustapaus.
+Oi, ne elinajat, jotka on kulutettu tämän petollisen yksinkertaisen kysymyksen
+vaikeasti tavoitettavan vastauksen tavoittamiseen ovat ajaneet monet meistä itsetuhon synkälle tielle.
+Todellakin, kun nämä sanat lyövät jokaisen, joka välittää kuunnella, korville
+todellinen kysymys on, Onko Sillä Väliä? En osaa sanoa, ryven murheessa
+kyvyttömänä päättämään, mikä sovittaisi paremmin osani Suureen Syntiin.
+Pitäisikö minun ryhtyä hitaaseen ja tuskalliseen itselopetukseen?
+Pitäisikö minun omistaa itseni tuskallisen itseruoskimisen pitkään elämään?
+Pitäisikö minun heittäytyä suurella innolla kollektiivisen tuhon ongelmaan?
+En tiedä. Jopa nytkin mieleni vääntelehtii ahdistuksesta, ettei tulos olisi vaillinainen.
+
+#(why_sad)
+Hmm, vaistoan, että viimeaikaiset tapahtumat eivät ole käyneet haluamallanne tavalla. Miksette aloittaisi alusta?
+
+#(ULTRON_BROKE)	utwig-027.ogg
+*Huokaus* Hyvä on, minä yritän, mutta tiedätkös, sillä ei oikeastaan ole väliä.
+Meillähän on kuuluisa utwig-sanonta: kun menettää syyn olemassaoloonsa
+tuppaa tulemaan vähemmän motivoiduksi.
+Tämä kulkee käsi kädessä tuskallisen  sopivan uskontunnustuksen kanssa
+'Me rikoimme sen niin saamme maksaakin siitä'.
+Tietenkään se ei sovi kovin tarkasti; tilanne on niin paljon karmeampi!
+Kuvittele, jos voit, että pidät Vastausta käsissäsi!...
+...ainoastaan jotta se voi ivata sinua kaikella menneellä potentiaalillaan!
+Aah, julmaa ironiaa! Ultronin menetys surettaa meitä kaikkia!
+
+#(what_ultron)
+Öö, juu, tietenkin, Ultron. Me suremme. Kuinka surullista. Niin mikä se nyt olikaan?
+
+#(GLORIOUS_ULTRON)	utwig-028.ogg
+Pah! Ei sillä väliä! Paitsi että se ei ole sinun huolenaiheesi
+tästä aiheesta keskusteleminen on mielestäni, no, mautonta.
+*Huokaus.* Ultron ei ainoastaan ollut se asia, joka takaa täydellisen elämän tarkoituksen meille molemmille
+se on Universaali; olen varma, että olet tietoinen tästä asiasta, vaikka pelkkänä legendanakin!
+Se antoi meille rajattoman voiman ja tiedon.
+Sen jälkeen se on, no, tullut toimimattomaksi.
+
+#(dont_be_babies)
+Älkää olko joukko itkuvauvoja vain sen takia että rikoitte Ultra-kapistuksenne!
+
+#(MOCK_OUR_PAIN)	utwig-029.ogg
+Gääh! Nyt olet todella tehnyt sen!
+Räikeät loukkauksesi ovat saaneet minut hypähtelemään raivosta!
+Hop hop hop! Okei, nyt saa riittää! Nyrkit tanaan! Kukaan ei pilkkaa Ultronia!
+
+#(real_sorry_about_ultron)
+Niisk. Tuo muistuttaa minua siitä, kun lemmikkikoirani Splib juoksi... kivimurskaimen eteen!
+
+#(APPRECIATE_SYMPATHY)	utwig-030.ogg
+Olet mukava. Jos voisimme käyttää Ultronia herättääksemme Splibisi henkiin, tekisimme sen... mutta
+Masennuksen aallot valtaavat minut äkillisesti.
+Minun täytyy nyt vetäytyä suorittamaan piinan rituaaleja.
+Jopa nytkin trauman allot vyöryvät olemukseni yli. Minun täytyy mennä.
+
+#(what_about_you_1)
+Todella ainutlaatuinen tapahtumien ketju on laittanut teidät nykyiseen tilaanne. Olenko oikeassa?
+
+#(ABOUT_US_1)	utwig-031.ogg
+Hah, sanoisinko että vähintäänkin!
+Menneisyytemme on sellainen jossa loistokas ja ylpeä kansa yhdistyy mullistukseen, joka järkyttää Maailmankaikkeutta
+ytimiään myöten!
+Se kaikki alkoi kun chimtit nousivat Synkeästä Suosta ja myös utwigit ilmestyivät.
+Niinä alkukantaisina aikoina me riehakoimme maailmassamme vailla muistoa mistään korkeammasta tarkoituksesta
+suhtauduimme kaikkeen nimellisarvon mukaan.
+Sillä aikaa chimtien kärhät läpäisivät Fahzin suunnattomat taivaankatokset ja sitten peitteet putosivat!
+Yhtäkkiä kollektiivinen oivallus typerrytti utwigit!
+Kaikki alkoivat välittömästi ja kiireisesti pukeutua kaikensorttisiin verhoihin! Nahkoihin, lehtiin, kuoriin, kiviin
+varhaisina päivinä verhouduttiin jopa eläviin drelleihin.
+Ymmärräthän, kasvot ovat mekanismi, joka ilmaisee monia primitiivisiä piirteitä, jotka haittaavat älyllisyyttä.
+Nyt kun olimme vapaita jatkuvista ahneuden, raivon, vihan ja himon muistutuksista
+utwigien viisautta eivät enää estäneet jatkuvat muistutukset primitiivisistä vieteistä.
+Monien sukupolvien kuluessa naamioetiketti jalostui yhteiskuntamme kivenkovaksi perustaksi.
+Moraalisuushäiriöt olivat toki kalliita sekä elämissä että infrastruktuurissa
+mutta tuloksena oli parempi naamiosäännöstö; määrittely tavallisesta Ankaran Mutta Välttämättömän Toiminnan Naamarista
+aina mitä hienoimmin koristeltuihin Tähtiedustuksen Kasvoihin. Ne oli selvästi eroteltu.
+Joustavuuden, selkeän leikkauksen ja tehokkaiden revisio- ja uusimiskäytäntöjen tärkeyden tunnistaminen
+huolehti muutamista säännöttömmyksistä. Siitä hetkestä alkaen olemme tukkineen älyllisen sorron lähteemme
+tiesimme, että suuri tarkoitus on määritellyt kohtalomme.
+Kuunteletko yhä?!
+Koko kehityksemme älyllisenä lajina oli koordinoitu sattumaan yhteen hämmästyttävän laitteen ilmestymisen kanssa
+Ultronin!
+Olimme tietämättömiä sen traagisesta seurauksesta.
+
+#(what_about_you_2)
+Vhuaa! Todella kiehtovaa. Mutta mitä tarkalleen tarkoitat traagisella?
+
+#(ABOUT_US_2)	utwig-032.ogg
+Jotta voisit todella ymmärtää tilanteen, tulee sinun tietää enemmän Ultronista
+ja sen ainutlaatuisista kyvyistä.
+Ymmärräthän, kun druuget havaitsivat Ultronin, he tiesivät että se oli meidän.
+Sisäinen universaali ohjaus pakotti druudet viemään sen sinne, minne se on aina kuulunut.
+He toivat sen meille.
+Oi, Ultron!
+Se takasi kaikille totaalisen ja täydellisen elämän tarkoituksen Kaikille -- Universaalisti!
+Ultron kädessäni voisin tuntea sinut, en ainoastaan motivaatiosi ja mielihalusi, vaan myös tarkoituksesi.
+Toimisin näiden asioiden mukaan tavalla, joka varmaankin vaikuttaisi mysteeriseltä, ellei, no, sekopäiseltä.
+Vuosia myöhemmin julistaisit osallistumistamme kehitykseesi lajinne käännepisteenä.
+Druuget olivat vain yksi monista, jotka hyötyivät tällä tavoin.
+Nytkin he ovat hämmentyneitä tavasta, jolla palkitsimme heidät siitä että he toivat Ultronin oikeaan paikkaansa.
+Kahdenkymmenenneljän vuoden, kahden kuukauden ja kolmen päivän kuluttua he kaikki tanssivat Riemun tanssin.
+Todellakin, Ultron on sallinut meidän muuttaa druugeja perusluonteisesti ikuisiksi ajoiksi!
+Supoxitkin saivat monia etuisuuksia siitä, että käytimme Ultronia.
+He voivat todistaa sen voiman!
+
+#(what_about_you_3)
+Hmm, kuulostaa siltä että asiat sujuivat aika hyvin. Mitä sitten tapahtui?
+
+#(ABOUT_US_3)	utwig-033.ogg
+Niin, asiat olivat täydellisiä. Se mitä tapahtui on, no, minä... siitä on vaikea puhua.
+Minä näin sen tapahtuvan. Todistin Chinz-Rahlin juhlan.
+Tunsin Ultronin täyttävän tyhjän tilan, jonka en tiennyt olevan siellä.
+Näin kun Suurproktori ojensi sen
+no, sanotaan että Päällikkö Groo ei tiennyt että se oli nin raskas ja liukas.
+Ehkä se oli osatekijöiden yhdistelmä.
+Jotkut, jotka ovat käyneet tallenteet läpi, väittävät että se oli oikeasti salaliitto!
+Tutkimuskomissio lausui virallisesti, että Ultron meni epäkuntoon pudottuaan maahan
+mutta monista tuntuu yhä, että koko tarinaa ei ole kerrottu!
+Kun se osui maahan, näin sen hehkun hiipuvan, ja sitten tuskallinen tyhjiö teki kaikki kyvyttömiksi.
+Kaikki utwigit pukivat välittömästi Äärimmäisen Nolostuksen ja Häpeän naamion ja vannoivat pitävänsä sitä ikuisesti!
+Kokot kaikkialle Fahzissa polttivat kaikki naamiot paitsi sen; yhtäkään muuta naamiota ei säästetty!
+Seremoniallisen Puheen Kasvot kaikkina asiayhteyksineen ja uudistettuine malleineen
+kuten varmastikin ymmärrät,
+kaikki seurustelunaamiot nokkelasta ja juonikkaasta Flirttailevan Hypähtelyn Hunnusta
+pahamaineiseen Irstaaseen Monokkeliin... ahnaat liekit nielivät kaikki.
+Jopa kaikkein perustavanlaatuisimmat kantanaamarit passitettiin tähän peruttamattomaan kohtaloon.
+Luonnollisten Ruumiinulosteiden Naamio roikkui kerran jokaisessa käymälässä!
+Useimmat julkiset palvelut ovat poistaneet kertokäyttöisten naamioiden jakajat
+mutta aina silloin tällöin näen yhä sellaisen aarreaitan... aina tyhjänä.
+Silloin monet ehdottivat että käytämme Edelläkävijöiden reliikkiä tapana rangaista itseämme.
+Suunnitelma oli, että me kaikki menemme yhdessä Zeta Hyadesin kuudennen planeetan toiseen kuuhun
+(koordinaateissa 850.3, 937.2)
+ja käytämme muinaista planeettatyökalua olemassaolomme lopettamiseksi.
+Pitkän keskustelun jälkeen päätimme, että me ansaitsimme kärsiä.
+Voimme käyttää Pommia, jos ikinä päätämme, että aika on oikea
+sillä aikaa me sovitamme hirvittävää virhettämme kollektiivisella kurjuudellamme.
+Vajoan äkillisesti masennuksen kuiluun. Minun täytyy mennä.
+
+#(what_about_urquan_1)
+Tiedättekö mitään orjuuttavista Ur-Quaneista?
+
+#(ABOUT_URQUAN_1)	utwig-034.ogg
+Emme tiedä mitään tästä mainitsemastasi lajista.
+Kuitenkin, nyt kun puhumme pahoista ja voimallisista lajeista
+olemme kohdanneet erityisen karmean rodun, joka vaikutti tulevan Arcturuksen suunnasta.
+Kun otimme heihin yhteyttä, he vastasivat mahtavilla aseilla, jotka lähettivät delegaatiomme manan majoille
+ne onnekkaat typerykset.
+Muukalaisten mustat, paksusti panssaroidut taistelualukset pystyvät laukomaan kieppuvia miinoja miltei minne hyvänsä
+ja jos vihollinen menee liian lähelle, tulinen korona tulee esiin, aiheuttaen pelottavaa vahinkoa.
+Kahakoissamme rodun kanssa, joka kutsuu itseään Kohr-Aheiksi
+huomasimme, että käyttämällä omaa suojauskykyämme pystyimme pyyhkäisemään miinojen läpi, absorboimaan koronan
+ja sitten pääsemään tarpeeksi lähelle antaaksemme mustien alusten maistaa omia aseitamme.
+Totta puhuen ne kuitenkin ovat hyvin voimallisia ja armottomia.
+Kun Kohr-Ahit alkoivat työntyä kohti kotimaailmaamme
+luulimme, että ansaittua rangaistustamme oltiin toimittamassa.
+Mutta sitten, mysteeri? Ne menettivät äkkiä mielenkiintonsa ja muuttivat suuntaa. Pah! Hämmästyttävän turhauttavaa!
+Ultronin avulla voisin puhua tästä aiheesta tietäväisesti!
+Se, että tämä ominaisuus on revitty pois ulottuviltamme painottaa, kuinka merkityksetöntä olemassaolomme todella on.
+Tämä merkityksen puute ajaa lajini harkitsemaan vakavasti pikaista loppua!
+
+#(what_about_urquan_2)
+Juu, se on todellakin surkuteltavaa. Niin mitä muuta te tiedätte Kohr-Aheista?
+
+#(ABOUT_URQUAN_2)	utwig-035.ogg
+Aagghh! Tiedustelusi muistuttaa minua jälleen tuskallisesti Ultronista ja siitä, mitä se oli Maailmankaikkeudelle!
+Voisin kertoa sinulle kaiken ja korjata KAIKEN, mikä vialla Maailmankaikkeudessa!
+Voin kertoa sinulle vain sen, että Kohr-Ahit elävät tappaakseen.
+Heidän mukaansa heidän tarkoituksensa on etsiä uutta elämää ja uusia sivilisaatioita
+ja sitten tuhota ne.
+Näytimme kelpaavan sellaseksi ja sen tähden onkin arvoituksellista, että vainottuaan meitä itsepintaisesti
+he kääntyivät äkkiä pois ja suuntasivat kohti Craterista.
+Aangh! Kaikki tämä spekulointi olisi tarpeetonta jos vain olisimme pelastaneet Ultronin!
+Siihen ei olisi tarvittu paljoa; koppaus syöksyen, heitetty tyyny
+jopa pörröinen wumpus olisi katkaissut pudotuksen tyydyttävästi!
+Todellakin, paneeli, joka kokoontui analysoimaan mahdollisuuksia
+tuli siihen tulokseen, että Ultron olisi voitu pelastaa ainakin 623 tavalla
+jos olisimme olleet valmistautuneita! Aagghh!
+Lakatkaamme keskustelemasta näistä asioista.
+
+#(got_ultron)
+Hei jätkät, arvatkaas mitä meillä on! Meillä on ULTRON! Haluattekos nähdä?
+
+#(DONT_WANT_TO_LOOK)	utwig-036.ogg
+Gaaah! Jos kohdistaisin katseeni sellaiseen näkyyn, saattaisin kärsiä vuosikausien ajan unettomista öistä!
+Se on utwigien kollektiivisen epäonnistumisen symboli.
+Se on äärimmäinen tragediamme!
+
+#(SICK_TRICK_1)	utwig-037.ogg
+Miksi pöyhkeilet meille kuorella, joka kerran oli Ultron?
+Etkö näe, kuinka paljon me kärsimme? Eikö tämä ole tarpeeksi?
+Tämä esine, joka sinulla on... kadotetun kohtalon kuori, se on utwigien Äärimmäisen Tuskan symboli!
+Ä - lä - Pii - naa - Mi - nua - Nä - in!
+
+#(SICK_TRICK_2)	utwig-038.ogg
+AAAHHH!! lopeta! Tiedän, että ansaitsen sen, mutta en saata kestää sitä.
+Minä pyydän, lopeta! Tämän esineen katseleminen... paljastaisin mieluummin kasvoni
+ja käyttäisin sen kaikkia osia groteskissa  itsehäpäisyn osoituksessa! Lähde nyt!
+
+#(bye_neutral)
+Terminoimme nyt yhteydenpidon sivistyneellä mutta tehokkaalla tavalla.
+
+#(GOODBYE_NEUTRAL)	utwig-039.ogg
+Kuten mekin. Mene nyt, ilman ilkeää mieltä tai iloa.
+
+#(TOO_LATE)	utwig-040.ogg
+Liian myöhäistä.
+
+#(name_1)
+Uusi Vapaiden Tähtien Allianssi
+
+#(name_2)
+Muukalaisvaltioiden Sopimus
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatio
+
+#(name_40)
+Imperiumi 
+#(name_41)
+ 
+
+#(HAPPY_DAYS)	utwig-041.ogg
+AAAHHH!! Jokainen kuoppa, jokainen repeämä Sen pinnassa on syöpynyt ikuisesti sieluuni!
+Poista se näkyvistäni, etten puhdista... hei!
+tuohan ei ole tuhoutunut Ultron
+se on kuva Ultronista ENNEN!... temppu? TEMPPU?!
+Oooh! En olisi voinut kuvitellakaan että yksikään laji vajoaisi noin alas!
+Kuinka julkeat yrittää manipuloida minua tuolla halvalla näyttämölavasteella?!... sehän ei edes ole
+Hei, odotas sekunti, se näyttää... VOISIKO SE OLLA?... KYLLÄ, SE ON!... IHME!!
+OI ONNEN PÄIVÄÄ!! ILOISTA TAPAHTUMAA!!
+Saat ikuiset kiitoksemme, hyvä Kapteeni!
+Sinut tullaan tekemään kuolemattomaksi siunattuna hahmona, joka toi meille tulevaisuutemme!
+Tulemme kunnioittamaan pelkkää muotokuvaasi!
+Salli minun ottaa Ultron... kyllä, tunnen linkin...  tiedon, ja... Voiman.
+Hmm, tehtävää näyttäisi olevan paljon.
+Näyttäisi todellakin siltä, että sinun pitäisi mennä Zeta Hyadesin kuudennen planeetan toiseen kuuhun
+ja ottaa se, minkä sieltä löydät; meillä ei ole enää tarvetta sille
+mutta Ultron paljastaa että SINULLA tulee olemaan!
+Kiitän sinua osastasi suuressa suunnitelmassa. Otamme nyt takaisin sen, minkä kohtalo on meille varannut
+ja jatkamme olennaisen palveluksemme suorittamista maailmankaikkeudelle.
+
+#(OK_ATTACK_KOHRAH)	utwig-042.ogg
+MUTTA ODOTA!!
+Ultron sykkii ja suhisee! Merkityksellisiä asioita välitetään aivoihimme.
+Siitä on niin kauan, kun olemme viimeksi kommunikoineet äärimmäisen kanssa tällaisella tavalla
+mutta hitaasti totuus paljastetaan... kohtalomme!!
+Meitä on ohjattu yhdistymään Supox-liittolaistemme kanssa ja hyökkäämään...
+SINUA VASTAAN!...
+...ei, odota, se on väärin. Anteeksi.
+Hyökkäämme... VIHOLLISIASI vastaan... Ur-Quaneja ja Kohr-Aheja!...
+...ei, sekään ei ole aivan oikein... mitä? Oh, okei.
+Meidän tulee iskeä VAIN mustia aluksia vastaan... vain Kohr-Aheja!
+Nyt, Kapteeni, meidän täytyy lähteä valmistaaksemme taistelulaivastomme. Toivota meille onnea!
+
+#(whats_up_after_space)
+Kertokaa meille, mitä tapahtumia on ilmennyt sen jälkeen kun viimeksi tapasimme.
+
+#(GENERAL_INFO_AFTER_SPACE_1)	utwig-043.ogg
+Olemme tavanneet Kohr-Ahit taistelussa, ja... no, salli minun selittää.
+Alussa, kun joukkomme kiitivät Horologiin tähtiin
+ne osoittautuivat tehokkaiksi Kohr-Ahien aseistuksia vastaan.
+Vahingon imevällä suojateknologiallamme pystyimme pyyhkäisemään kohr-Ahien kieppuvien terien läpi
+ja absorboimaan tulisen koronan kovimman iskun, mikä salli supox-liittolaistemme keskittyä itse aluksiin.
+Hinta oli kuitenkin korkea... hyvin korkea.
+Minun pitäisi pukea päälleni Menetetyistä Tovereista Johtuvien Tunnonvaivojen kasvokuva.
+
+#(GENERAL_INFO_AFTER_SPACE_2)	utwig-044.ogg
+Kuten tiedät, jouduimme vetäytymään hyökkäyksestä Kohr-Aheja vastaan.
+Vaikka pystyimmekin hyvän tilin itsellemme, menetyksemme olivat raskaita.
+Yrityksessämme tasapainottaa Oppien Selkkausta Ur-Quanien ja Kohr-Ahien välillä
+vältimme Ur-Quaneja; he kuitenkin jatkoivat meitä vastaan hyökkäilemistä aina kuin voivat.
+Meillä ei ollut muuta mahdollisuutta kuin ottaa vastaan ne menetykset, jotka meille aiheutettiin.
+En saata keksiä mitään naamiota, joka ilmaisisi kunnolla sen, mitä tunnen tämän tilanteen johdosta.
+
+#(what_now_after_space)
+Kun otetaan huomioon se, mitä olette oppineet, mitä meidän pitäisi tehdä teidän mielestänne?
+
+#(DO_THIS_AFTER_SPACE)	utwig-045.ogg
+Olemme tehneet kaiken minkä voimme. Muita, jotka pystyisivät puuttumaan asiaan merkityksellisesti, ei ole.
+Varma tuho uhkaa meitä kaikkia. Me valitamme.
+Mutta odota!...kuuntele tarkkaan! Ultron tulee väliin! On olemassa ratkaisu!
+SINÄ olet ratkaisu!
+Ainoastaan SINÄ voit pysäyttää Kohr-Ahien näennäisesti väistämättömän etenemisen elämän tuhoamisessa.
+Ne pitää voittaa ja sinun TÄYTYY tehdä!
+Oi, mielialani nousee! Jos vain Itsevarman ja Ylevän Ryhdin naamiotani ei olisi poltettu
+pukisin sen päälleni äkkipikaisella julkeudella, viis välittäen koko etiketistä ja menettelytavoista!
+
+#(bye_after_space)
+Kiitämme teitä avustanne. Menemme nyt kääntymään käsillä olevien ongelmien puoleen.
+
+#(GOODBYE_AFTER_SPACE)	utwig-046.ogg
+Erinomaista! Ultronin kimaltelut osoittavat, että tulevat toimenne on ladattu suurella potentiaalilla!
+Edetkää sydämellisimmän tukemme kanssa!
+
+#(whats_up_before_space)
+Olemme mielissämme, että saatoimme olla avuksi Ultroninne korjaamisessa.
+
+#(GENERAL_INFO_BEFORE_SPACE_1)	utwig-047.ogg
+Todellakin! Olemme juuri totuttamassa aivojamme uudestaan sen meta-aalto -pyörähtelyihin.
+Nytkin olemme pakotettuja toteuttamaan väliintulosuunnitelman, joka tekee Kohr-Ahien päämäärät tyhjiksi.
+Tunnemme Ultronin vaikutuksen kautta, että näillä pahuuden olennoilla
+on päämääriä, jotka sulkevat pois sekä meidän että teidän olemassaolonne.
+Nytkin, ultronin käsittämättömän ohjauksen avustuksella, muodostamme suunnitelman
+joka tulee toimii galaksin monimuotoisuuden suojelemiseksi.
+Valmistamme armadan, joka koostuu sekä utwigien että supoxien joukkojen yhdistyneestä mahdista
+joka tulee vainoamaan hyökkääjiä tarkoituksena estää niiden tuhosuunnitelmat.
+
+#(GENERAL_INFO_BEFORE_SPACE_2)	utwig-048.ogg
+Olemme saaneet selville, että Kohr-Ahit käyvät taistelua Ur-Quaneiksi kutsumaanne lajia vastaan.
+Emme pysty määrittelemään tämän konfliktin syytä.
+Jopa Ultronin pikkutarkka käyttö on tuonut esiin vain minimaalisia oivalluksia.
+Joka tapauksessa, tulkittuamme Ultronin antamaa ohjausta
+meidän täytyy antaa näidän kahden lajin kumota toisensa taistelun tuomaan rasitukseen.
+
+#(what_now_before_space)
+Ehdottaako huomionarvoinen laitteenne meille toimintatapaa?
+
+#(DO_THIS_BEFORE_SPACE)	utwig-049.ogg
+Pyyntösi on kykyjemme ulottuvissa. Hetkinen vain
+Mmmm, Ultronin säteilyt... karvainen oranssi ilma hengittää hentoja haukotuksia
+Kyllä, kaikki tulee nyt selkeäksi... sinun täytyy tehdä jotain Suurella Pommilla
+Edelläkävijöiden reliikillä, jota pidämme Zeta Hyades 6-B:ssä.
+vaikuttaa siltä, että tätä Pommia pitää, ääh...
+syödä?...ei. Halata?... ei
+Aa! PARANNELLA! Siinäpä se! Pommia pitää parannella, että se täyttäisi lopullisen kohtalonsa!
+
+#(bye_before_space)
+Ennakoimme kunnian aikaa utwigeille! Näkemiin!
+
+#(GOODBYE_BEFORE_SPACE)	utwig-050.ogg
+Meillä on liian paljon tekemistä. Olkoon Ultron kanssasi!
+
+#(how_went_war)
+Mitä tuloksia tuli toimistanne Ur-Quaneja ja Kohr-Aheja vastaan?
+
+#(ABOUT_BATTLE)	utwig-051.ogg
+Ah, Kapteeni! Taistelu Kohr-Aheja vastaan oli hirvittävä.
+Kun me ja supox-liittolaisemme lähestyimme pääjoukkoja
+saimme selville että Kohr-Ahit ja laji, jota te kutsutte Ur-Quaneiksi
+ovat selkkauksessa perustavanlaatuisesta opista, jossa Kohr-Ahien teesi vaikutti voimakkaammalta.
+Toimien Ultronin ohjauksen alla, me kävimme Kohr-aheja yrittäen tasapainottaa taistelua.
+Saimme jonkin verran menestystä. Pyyhkäisimme suoraan läpi miinojen ja tyhjensimme Kohr-Ahien alusten energiavarat.
+Sitten urheat supoxit syöksyivät taisteluun ja käyttivät aseitaan mustia aluksia vastaan.
+Ajoitus oli kriittistä. Menetyksemme olivat raskaat.
+Kun meidät oli rusikoitu täydellisesti, olimme pakotettuja vetäytymään.
+
+#(how_goes_war)
+Kuinka taistelunne Kohr-Aheja ja Ur-Quaneja vastaan sujuu?
+
+#(BATTLE_HAPPENS_1)	utwig-052.ogg
+Nytkin, puhuessani, urheat utwigit ja jalot supoxit syöksyvät kohti Kohr-Ahien armotonta arsenaalia.
+Jatkamme taktiikoidemme jalostamista.
+Ikävä kyllä, Kohr-Ahit ovat voitolla sodassaan Ur-Quaneja vastaan.
+Kohr-Ahien tällä hetkellä nauttima menestys saa meidät tuntemaan olomme epämukaviksi
+joten taistelemme vain Kohr-Aheja vastaan, toivoen että saamme heikennettyä heidän asemiaan Ur-Quaneja vastaan.
+Ur-Quanit hankaloittavat asioita räjäyttelemällä aluksiamme fuusiovasamillaan
+joten olemme tehneet menettelytavaksemme Ur-Quanien aluksien välttelemisen aina kuin mahdollista.
+
+#(BATTLE_HAPPENS_2)	utwig-053.ogg
+Olemme saaneet selville että Kohr-Ahit, hirveiden taistelualustensa lisäksi
+saavat kohta haltuunsa valtavan aluksen, joka pystyy aiheuttamaan tuhoa suunnattomassa mittakaavassa.
+Minun ei tarvitse tarkastella Ultronin sykintää tietääkseni, että he tulevat käyttämään tätä laitetta
+toteuttaakseen kertomansa päämäärän, kaiken älyllisen elämän poistamisen heitä itseään lukuunottamatta.
+
+#(FLEET_ON_WAY)	utwig-054.ogg
+Jopa nytkin, kun lausun nämä sanat, sekä utwigien että supoxien yhdistyneet sotilaalliset voimat
+etenevät kohti Horologiita estääkseen Kohr-Aheja.
+Meidän ponnistelujemme tärkeyden lisäksi Ultron osoittaa että
+kaikki tulevaisuudet, joihin sisältyy meidän selviytymisemme, ovat mahdollisia nyt tekemiesi toimien kautta.
+
+#(learn_new_info)
+Olen iloinen, että asiat sujuvat hyvin. Onko mitään uutta kehitystä tapahtumassa?
+
+#(NO_NEW_INFO)	utwig-055.ogg
+Totuttelemme juuri nytkin Ultronin suureen voimaan
+mutta hukumme niiden resurssien, joita Ultron tarjoaa, alle
+toisin sanoen taitomme käyttää sitä ovat ruostuneet.
+Kunhan saamme saamme takaisin entiset kykymme, pystymme vastaamaan kaikkiin pyyntöihisi.
+
+#(SAMATRA)	utwig-056.ogg
+Kohr-Ahit saavat kohta haltuunsa Sa-Matraksi kutsutun, nähtävästi voittamattoman aluksen.
+En voi antaa teille muita tähän asiaan liittyviä yksityiskohtia kuin sen likimääräisen sijainnin
+jossakin päin Crateriksen tähdistöä.
+Sa-Matra on ilmeisesti voittamaton, ja pystyy autioittamaan kokonaisen planeetan silmänräpäyksessä.
+Ultron osoittaa, että sinun tulee jotenkin tuhota tämä kapistus, tai Kohr-Ahit tuhoavat kaiken tunnetun elämän.
+
+#(what_now_homeworld)
+Mitä toimintatapaa Ultron, voimallinen ominaisuuksien vahvistajanne, ehdottaa meille nyt?
+
+#(HOPE_KILL_EACH_OTHER)	utwig-057.ogg
+Voimme vain toivoa, että ponnistelumme Ur-Quanien ja Kohr-Ahien voimien tasapainottamisessa
+mahdollistavat sen, että ne tuhoavat toinen toisensa.
+
+#(how_is_ultron)
+Vaikuttaa siltä, että saatte Ultronista paljon irti. Onko näin?
+
+#(ULTRON_IS_GREAT)	utwig-058.ogg
+Kysyt kysymyksen, johon epäröin vastata. Ymmärräthän, normaalisti tällä hetkellä
+minulla olisi päälläni Hillittömästä Riemusta ja Hurmioituneesta Ilosta Hyppimisen naamio.
+Sitä naamiota ei käytetä juuri koskaan, sillä harvat tapahtumat oikeuttavat sen monimutkaisuuden.
+Koska minulla ei juuri nyt ole sitä naamiota
+salli minun vain sanoa, että Ultron on kaikkea, mitä se voisi ikinä olla, ja ENEMMÄN!
+Nytkin vaistoan, että uteliaisuutesi on kiihottunut äärimmilleen.
+Haluat kysyä lisää kysymyksiä.
+Nämä kysymykset on kuitenkin paras jättää ilman vastausta.
+Ultronin mahtavan, mutta harmonisen voiman kautta
+saan sinut nyt lopettamaan tästä aiheesta puhumisen täysin.
+
+#(bye_allied_homeworld)
+Tunnustamme taivaallisen Ultronin ja teidän avunantonne. Lähdemme nyt omille teillemme.
+
+#(GOODBYE_ALLIED_HOMEWORLD)	utwig-059.ogg
+Aivan kuten Ultron tahtoo. Niin olkoon. Toivotamme teille parasta onnea.
+Vaikka onkin totta, että kaikki mahdollisuudet voidaan saattaa toteen käyttämällä Ultronia oikein
+olemme vielä toistaikseksi vajanaisia käyttämään tätä suurta laitetta.
+Tulemme kuitenkin tekemään parhaamme auttaaksemme teitä kaukaa.
+
+#(ALLIED_HOMEWORLD_HELLO_1)	utwig-060.ogg
+Sehän on legendaarinen Maan Kapteeni! On suuren juhlan aika!
+Valmistaudumme nyt juhlallisuuksiin!
+Monet tulevat kumartamaan edessäsi ja tarjoamaan runsaat kiitoksensa!
+Jatka täältä nyt pääavaruussatamaamme ja sieltä paraatiin!
+Mahtava kaksiviikkoinen suurten kiitosten juhla alkakoon! Oi iloa!
+Mitä? Olet liian kiireinen? Voi... ehkä joskus toiste.
+
+#(ALLIED_HOMEWORLD_HELLO_2)	utwig-061.ogg
+Mielialamme nousevat vierailusi johdosta!
+Vaistoan Ultronin voimien kautta, että olet utelias
+hyvin ansaitun kasvolaitteesi tilasta. Älä pelkää!
+Vaikka meillä ei juuri nyt olekaan olemuksesi arvoisia naamioita
+sen myötä, että Ultron järjestetään uudestaan osaksi utwigien kokonaisuuden rakennetta
+etenemme suunnittelussa ja sen toteuttamisessa, mikä tulee totisesti olemaan utwigien nerokkuuden huippu.
+Lopulta pystyt peittämään epämuotoisen naamasi edustavalla tavalla!
+
+#(ALLIED_HOMEWORLD_HELLO_3)	utwig-062.ogg
+Ah, huomaan, että suuri Maan Kapteeni kunnioittaa minua vähä-arvoista ansaitsemattomalla huomiolla.
+Nytkin ihoani pistelee hämmennyksestä sillä en pysty pukemaan naamiota
+joka osoittaa täsmällisesti pelonsekaisen kunnioitukseni sinua kohtaan.
+Olen kuitenkin iloinen sanoessani että me olemme aloittaneet
+koko kasvonilmekatalogimme määrittelyn ja konstruktioinnin uudestaan.
+Tulokset tulevat olemaan dramaattisia, sillä Ultron on nyt integroitunut tähän prosessiin.
+Sillä aikaa rukoilen sinua kestämään meitä kunnes saamme tämän työn valmiiksi.
+
+#(ALLIED_HOMEWORLD_HELLO_4)	utwig-063.ogg
+Suuruutesi kohtaaminen tuottaa minulle kunniaa!
+Tällä hetkellä kollektiivinen luova voimamme on ryhtynyt projektiin sinun kunnioittamiseksesi.
+Meillä on nyt menossa planeetan muodon muuttaminen
+paikassa joka jää salaiseksi
+Suureksi Naamioksi. Tätä naamiota tulee käyttämään vain yksi ja AINOASTAAN yksi yksilö!
+Se on Suuren Kapteenin naamio! Se olet sinä, joka pukee tämän naamion.
+Kun puet tämän naamion päällesi, näemme silmien tulevan eloon.
+Kun puhut, kaikki kuulevat. Kun hymyilet, me iloitsemme!
+Vaistoan mielenliikutuksesi tämän projektin johdosta!
+
+#(HELLO_BEFORE_KOHRAH_SPACE_1)	utwig-064.ogg
+Äkillisesti hämmennys valtaa minut!
+Minulla on hallussani huomattava kunnia puhutella legendaarista Maan Kapteenia!
+Pyydän, suo anteeksi soveliaan kasvolaitteen puutteeni.
+Tähän tilanteeseen sopisi ideaalisesti, että pukisin päälleni Äärimmäisen Kiitollisuuden Ilmaisun.
+Eegh! Ultronin voimalliset Purkaukset pakottavat minut selostamaan naamion ulkonäköä.
+Sen pohja koostuu kokonaan kovakuoriaisen eritteidenja Trooba Fernin matriisista
+konstikkaana ja monimutkaisena kudoksena.
+Prosessi on äärimmäisen aikaavievä, sillä jopa kaikkein parhaiten koulutetut kuoriaispesäkkeet
+rakentavat tuhat hylättyä jokaista onnistunutta pohjaa vastaan.
+Voi, vielä kuluu monta vuotta ennen kuin kukaan utwig pystyy pukemaan päälleen sellaista naamiota.
+
+#(HELLO_BEFORE_KOHRAH_SPACE_2)	utwig-065.ogg
+Pettävätkö silmäni minut? Olenko loistavan harhanäyn uhri?
+Uskon näkeväni edessäni legendaarisen Maan Kapteenin!
+Olemme suorittaneet täydellisen kartoituksen utwigeista
+ja olemme kutsuneet koolle komitean, joka tulee ohjaamaan sinun Pyhimysjulkisivusi muodostamista.
+Odotamme innokkaina tämän kasvolaitteen antamista!
+Kuvittele, kun sen kehitys on lopussa, ehkä vähemmässä kuin kymmenessä vuodessa
+voit peittää esteettisesti sen, joka jatkuvasti muistuttaa eläimellisistä puolistasi
+ja kävellä ylpeänä niiden parissa, joilla on hienostunutta älykkyyttä!
+
+#(HELLO_DURING_KOHRAH_SPACE_1)	utwig-066.ogg
+Ultron osoittaa, että teidän tulee lähteä tältä alueelta välittömästi! Olette äärimmäisessä vaarassa!
+Tätä aluetta hallitsevat tällä hetkellä joko Ur-Quanit tai Kohr-Ahit, emme ole varmoja.
+Käymme tällä hetkellä Kohr-Aheja vastaan yrityksessä tasapainottaa selkkausta. Pysykää poissa!
+
+#(HELLO_DURING_KOHRAH_SPACE_2)	utwig-067.ogg
+Taistelu raivoaa aivan välittömässä läheisyydessä. Varokaa!
+Ur-Quanit ja Kohr-Ahit ovat käyneet ovat käyneet vastakkaisten oppien yhteenottoon.
+Ur-Quanien argumentti vaikuttaa heikommalta.
+Teidän täytyy lähteä alueelta, ennen kuin teistä tulee joko Ur-Quanien tai Kohr-Ahien teesien uhreja.
+Nyt lähtekää! Jäämme tänne yrityksessä tasapainottaa yhteenottoa
+niin että nämä kaksi pahuuden voimaa voisivat mitätöidä toisensa tehokkaammin.
+
+#(HELLO_AFTER_KOHRAH_SPACE_1)	utwig-068.ogg
+Osoitamme vilpittömät kiitokset sille huomionarvoiselle olennolle
+joka palautti utwigeille merkityksen olemassaolomme jatkumiseen.
+Olemme palanneet suuren mittakaavan selkkauksesta, laivastomme rusikoituna
+mutta pidämme Urheuden ja Uskaliaisuuden naamioitamme korkealla!
+
+#(HELLO_AFTER_KOHRAH_SPACE_2)	utwig-069.ogg
+Ah, sehän on se viimeisin nimitetty Ultronpyhimys -- Kapteeni Maasta!
+Näpäytämme kasvolaitteitamme kollektiivisesti tyylikkäänä tervehdyksenä, joka osoittaa kunnioitusta ja kiitollisuutta.
+Kuinka voimme auttaa sinua?
+
+#(UP_TO_YOU)	utwig-070.ogg
+Ultronin ennusteleva harmonia paljastaa totuuden.
+Me utwigit olemme tehneet kaiken, mitä VOIMME tehdä avuksesi.
+Tehtävämme täytyy nyt rajoittaa syyn ja yhteyden monien kanavien ohjaamiseen.
+Luota siihen, että käytämme Ultronia tähän tarkoitukseen.
+
+#(can_you_help)
+Materiaalinen apu teiltä kallistaisi tasapainoa Hyvän puolelle.
+
+#(HOW_HELP)	utwig-071.ogg
+Hmm... kohtuullinen pyyntö. Anna meille sekunti aikaa kysyä neuvoa Äärimmmäiseltä.
+
+#(DONT_NEED)	utwig-072.ogg
+Ultron vahvistaa verkkokalvojemme antamaa todistusaineistoa
+olet vahva, älykäs ja kyvykäs.
+Laivastosi on maksimivahvuudessaan ja etiikkasi on tervettä.
+Lisäapu olisi ylenpalttista.
+
+#(HAVE_4_SHIPS)	utwig-073.ogg
+Ilman muuta. Ultron on humissut hyväksyntänsä.
+Ota haltuusi neljä Jugger-alustamme välittömästi.
+
+#(NO_ULTRON_AT_BOMB)	utwig-074.ogg
+Olemme Pommin valvojia.
+Meidän pilkkaamisemme ei hyödytä sinua. Lähde nyt!
+
+#(OUT_TAKES)	utwig-075.ogg
+Hei taas, sankarillinen humanoidi!
+Siitä lähtien kun palautit Ultronin meille...
+...kaikki on ollut IHMEELLISTÄ... aivan täydellistä!
+kahden päivän sisällä tehtaamme alkavat suoltaa ulos...
+...soveliaita kasvovälineitä, ja olen jo valinnut ensimmäisen naamioni...
+...Ylittämättömän Hilpeyden Dominon!
+Niin, me kaikki olemme aivan ekstaasissa... jopa Yliproktori kirmaa riemuiten...
+...suorittaessaan Paljastuksen Riemukasta Hypähdystä!
+Katso kuinka hän loikkii, pidellen Ultronia korkealla!
+Kuinka hän pyörähtelee, kuinka hän liukastuu ja viskaa Ultronin ilmaan... OI EIIiiiii!!!
+(KRÄSH!!)
+

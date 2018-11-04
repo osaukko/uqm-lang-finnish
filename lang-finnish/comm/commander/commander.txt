@@ -1,0 +1,421 @@
+#(GLAD_WHEN_YOU_COME_BACK) commander-000.ogg
+Tulkaa pian takaisin, Kapteeni.
+
+#(GIVE_FUEL) commander-001.ogg
+Meillä on vähän avaruusaluspolttoainetta joka on hyödytöntä voimajärjestelmillemme.
+Siirrämme nyt 5 yksikköä laivaanne.
+
+#(GIVE_FUEL_AGAIN) commander-002.ogg
+Meiltä on nyt polttoaine melkein loppu, mutta vielä on VÄHÄN.
+Olkaa varovampia tämän erän kanssa.
+Polttoainetta siirretään nyt.
+
+#(ARE_YOU_SUPPLY_SHIP) commander-003.ogg
+Huomio, tunnistamaton avaruusalus!
+Olen orjaplaneetta Maan avaruusaseman komentaja Hayes.
+hyperavaruuslähetyksemme -- äärimmäisen heikkoja
+tilanne kriittinen -- energiaytimet tyhjentyneet
+skannerit ja syvätutka eivat ole toiminnassa
+emme voi tunnistaa alustanne
+Oletteko aikataulun mukainen Hierarkian huoltoalus?
+Toistan, oletteko huoltoalus?
+
+#(DO_YOU_HAVE_RADIO_THIS_TIME) commander-004.ogg
+Löysittekö radioaktiivisia elementtejä voimaytimiimme?
+
+#(HERE_IS_ANOTHER_LANDER) commander-005.ogg
+Mitä!!!
+Menetitte taas laskeutumisaluksen!?
+Rakennamme uuden, mutta ÄLKÄÄ SITTEN MENETTÄKÖ SITÄ!
+
+#(THE_WHAT_FROM_WHERE) commander-006.ogg
+Avaruusalus mikä?
+Hälläväliä -- kuulkaa, emme kestä enää kovin pitkään. Tämä on tilanteemme
+Ur-Quaneille vannomamme Uskollisuusvalan mukaan meidän tulee ylläpitää tätä avaruusasemaa,
+mutta meillä ei ole omia avaruusaluksia
+ja kilpi estää meitä ottamasta yhteyttä Maahan
+joten olemme täysin riippuvaisia Ur-Quanien huoltoaluksista kaiken tarvitsemamme suhteen.
+Tiedämme, etta Kuun pinnalla on Hierarkian tukikohta, mutta emme saa yhteyttä heihin.
+Ur-Quanien piti huoltaa tätä asemaa säännöllisin viiden vuoden välein
+mutta emme ole saaneet mitään melkein kahdeksaan vuoteen!
+Sen, mitä emme kierrätä, voimme yleensa syntetisoida
+mutta siihen me tarvitsemme uusia radioaktiiveja generaattoriemme energiaytimiin.
+Jos toisitte meille radioaktiivisia aineita, pystymme rakentamaan ytimet itse.
+Suostutteko auttamaan meitä!?
+
+#(ABOUT_TIME) commander-007.ogg
+Oli jo, hitto, aikakin!
+Ur-Quanit lupasivat Uskollisuussopimuksessa, että tätä asemaa huollettaisiin
+vähintään viiden vuoden välein, ja viime näkemästä on jo kahdeksan vuotta!
+Jos olisitte saapuneet muutaman viikon myöhemmin, tällä asemalla ei olisi ollut ketään hengissä
+ei mitään... aloittakaa vain materiaalien siirto välittomasti, aloittaen radioaktiiveista.
+
+#(MESSAGE_GARBLED_1) commander-008.ogg
+Olen pahoillani, Kapteeni, viestinne oli epäselvä. Vastaanottimissamme on hyvin vähän virtaa.
+
+#(MESSAGE_GARBLED_2) commander-009.ogg
+En aivan saanut selvää, Kapteeni. Voisitteko toistaa?
+
+#(HERE_IS_A_NEW_LANDER) commander-010.ogg
+Uuden laskeutujan rakentaminen teille käyttää suurimman osan vähäisistä resursseistamme,
+mutta meillä ei taida olla valinnan varaa.
+Siirrämme uuden laskeutujan alukseenne välittomasti.
+
+#(THIS_MAY_SEEM_SILLY) commander-011.ogg
+Muuten, Kapteeni, mielestäni me tarvitsemme nimen tälle uudelle liitolle jonka aiomme rakentaa.
+Koska tämä oli teidän ideanne, on vain reilua että te saatte kunnian nimetä sen.
+Mikähän se sitten olisi?
+
+#(OK_THE_NAFS) commander-012.ogg
+Okei, se kuulostaa aika inspiroivalta. Olkoon niin - Uusi Vapaiden Tähtien Allianssi!
+
+#(OK_THE_CAN) commander-013.ogg
+Hyvä on.  Tästä päivästä lahtien me olemme Muukalaisvaltioiden Sopimus!
+
+#(OK_THE_UFW) commander-014.ogg
+Tuo kuulostaa jotenkin tutulta... Olkoon kuitenkin niin - Yhdistyneiden Maailmojen Federaatio!
+
+#(OK_THE_NAME_IS_EMPIRE0) commander-015.ogg
+Ulp!  No... te olette se jolla on iso avaruusalus.
+Olkoon niin - Imperiumi 
+
+#(OK_THE_NAME_IS_EMPIRE1)
+!
+
+#(FUEL_UP0) commander-016.ogg
+Aloitamme radioaktiivien siirron, Kapteeni.
+Nyt, heti kun insinöörimme ovat täyttäneet energiaytimet...
+
+#(FUEL_UP1) commander-017.ogg
+...no niin, tämä on paljon parempi. Voima-arvot nousevat, elintukijärjestelmä palaa takaisin vihreälle.
+Syvätutkajärjestelmät ja sensorit ovat toiminnassa ja voin luodata alustanne.
+!!!? -- MIKÄ HELVETIN ALUS TUO ON!?
+Kuka te OLETTE, Kapteeni?
+
+#(WHAT_KIND_OF_IDIOT) commander-018.ogg
+MITÄ!
+Minkälainen idiootti teidät oikein lähetti tänne ilman varaosia energiaytimiin!?
+Ällistyttävää, etta olemme pystyneet näinkin pitkään pitämään generaattorit päällä!
+Teidän on parempi hankkia ne radioaktiivit vähän äkkiä
+tai kaikki muut tarvikkeet ovat helvetin hyödyttömiä, koska olemme liian kuolleita käyttämään niitä!
+
+#(DONT_KNOW_WHO_YOU_ARE) commander-019.ogg
+En tiedä keitä olette tai miksi olette täällä,
+mutta juuri nyt ainoa asia josta olen huolissani,
+on 1900 tällä avaruusasemalla olevan miehen ja naisen hengen pelastaminen
+ja tällä hetkellä te olette ainoa toivomme.
+En pysty pitämään lähetintä päällä enää kovin pitkään -- tarvitsemme virtaa lämmitykseen ja ilmanvaihtoon
+joten jos teillä ei ole radioaktiiveja aluksessanne
+hankkikaa niitä ja tuokaa tänne, ennen kuin on liian myöhäistä.
+
+#(THATS_IMPOSSIBLE) commander-020.ogg
+Star Controlin tieteellinen komennus?
+Kapteeni, palvelin Star Controlin upseerina sodan aikana useilla risteilijöillä Ytimenpuoleisella Rintamalla
+ja jos olisi ollut jokin 'tieteellinen komennus' Velaan
+olisin kuullut siitä.
+
+#(ASK_AWAY) commander-021.ogg
+Okei, mitä tahdotte tietää?
+
+#(RADIOS_ON_MERCURY) commander-022.ogg
+Tässä aurinkokunnassa nopein tapa hankkia radioaktiiveja olisi laskeutua Merkuriukseen
+ja puhdistaa pinta radioaktiivisten aineiden esiintymistä.
+Mutta olkaa varovaisia. Merkurius on varsin vihamielinen paikka!
+Varokaa maanjäristyksiä ja tulipurkauksia.
+
+#(THANKS_FOR_HELPING) commander-023.ogg
+Kiitos! Mainitsen tästä varmasti seuraavalla kerralla kun puhun isäntiemme kanssa.
+Olen varma etta he palkitsevat teidät.
+
+#(STARBASE_IS) commander-024.ogg
+Ur-Quanien orjalaki vaatii, etta me ylläpidämme kiertoradalla olevaa avaruusasemaa,
+joka auttaa Hierarkian aluksia jotka ovat korjaamisen tai polttoaineen tarpeessa.
+Koska Maan ympärillä oleva kilpi katkaisee yhteytemme planeettaan täysin,
+olemme riippuvaisia Ur-Quanien huoltoaluksista uudistumattomien resurssien suhteen.
+Huoltoaluksien pitäisi saapua viiden vuoden välein
+jolloin Ur-Quanit jotenkin läpäisevät kilven ja vaihtavat täällä olevat
+uuteen henkilökuntaan pinnalta.
+
+#(HAPPENED_TO_EARTH) commander-025.ogg
+Kun Allianssi hävisi sodan, Ur-Quanit antoivat Maalle yhden valintamahdollisuuden:
+Liittykää Hierarkiaan Taisteluorjina ja taistelkaa Ur-Quanien puolella muiden älyllisten lajien orjuuttamiseksi
+tai tulkaa 'kesanto-orjiksi' ja olkaa ikuisesti vangittuina yhteen maailmaan,
+suljettuina läpäisemättöman energiakentän sisään tänne Maahan.
+Päätimme olla taistelematta Ur-Quanien puolella.
+
+#(URQUAN_LEFT) commander-026.ogg
+Pian sen jälkeen, kun Maa hyväksyi Ur-Quanien Uskollisuusvalan, he lähtivät,
+jättäen peräänsä Spathi- ja Ilwrath-aluksista koostuvan taisteluosaston, joka pitää päämajaansa kuussa.
+
+#(BASE_ON_MOON) commander-027.ogg
+Ahh... taistella Ur-Quaneja vastaan! Voittaa vapautemme takaisin!
+Muistan itsellanikin olleen samanlaisia ajatuksia... kerran, kauan sitten.
+Mutta se oli ensimmäisinä vuosina häviön jalkeen, kun oli vielä kammottavaa katsoa ylös
+ja nähdä sykkivän orjakilven verenkarvainen hehku yläpuolellaan.
+Päivät ja yöt me tuijotimme läpäisemätöntä muuria,
+aivan kuin pelkkä vihamme voima olisi vetänyt sen alas.
+Mutta vuosien varrella, käytin niin paljon aikaa kamppailuun --
+-- alhaalla pinnalla, kilven alla, ja sitten myöhemmin täällä ylhäällä, yrittäen pitää asemaa hengissa --
+-- että olin unohtanut mitä tarkoittaa olla vapaana... vihata Ur-Quan-isäntiämme! 
+Ja nyt, te olette täällä, muukalaisaluksessa, jonka voimia emme tunne,
+ja tarjoatte apua Ur-Quaneja vastaan taistelemiseen, kaikkien näiden vuosien jälkeen.
+Kapteeni, tarjouksenne on kiinnostava.
+On houkuttelevaa ajatella, etta edistyneen Edelläkävijä-teknologianne avulla
+pystyisimme jotenkin murtamaan Maan orjakilven
+ja kokoamaan Allianssin uudelleen hyökkäämään Hierarkiaa vastaan ja voittamaan tämän kirotun sodan TÄLLÄ kertaa!
+Mutta... harkitkaa seuraamuksia jos epäonnistumme.
+Ur-Quanit eivät tule rankaisemaan vain täällä asemalla olevia.
+He suorittavat karmean rangaistuksen myos alhaalla pinnalla.
+Ennenkuin laitan tämän aseman auttamaan teitä taistelemaan Ur-Quaneja vastaan
+ja hyväksyn tuhoutumisen vaaran jos häviämme
+minun pitää olla varma, etta teillä ja aluksellanne on mahdollisuuksia Hierarkiaa vastaan.
+Teen kanssanne sopimuksen.
+Jos pystytte eliminoimaan kuussa olevan muukalaistukikohdan, ja hävitätte sen uhkan,
+minä ainakin lupaan harkita tarjoustanne vakavasti.
+
+#(ACKNOWLEDGE_SECRET) commander-028.ogg
+Hmmm... Tiedättekös, nyt kun ajattelen tarkemmin,
+oli jotain huhuja, että Käytävä Yhdeksän, Star Controlin erikoisoperaatiojaosto
+suoritti jotain tosi salaista operaatiota lähellä androsynthien avaruutta.
+Velan tähtijärjestelmä... kyllä, se olisi oikeassa suunnassa
+Niin, Kapteeni... jos se, mitä sanotte, on totta
+niin kuinka selitätte tuon valtavan muukalaisaluksen jolla lennätte
+ja miksi olette täällä? Mitä haluatte meiltä?
+
+#(ABOUT_BASE) commander-029.ogg
+Sen jälkeen kun Ur-Quanit pystyttivät orjakilven Maan ympärille ja perustivat tämän avaruusaseman,
+he päättivät jättää taistelualusosaston Maan lähelle
+pitämään planeettaamme silmällä ja varmistamaan, että tottelisimme Ur-Quanien orjalakeja.
+Olen varma, että he ovat yhä kuun pinnalla
+koska meidän vastaanottimiimme tulee jatkuva muukalaislähetysten virta.
+
+#(GOOD_LUCK_WITH_BASE) commander-030.ogg
+Olkaa varovainen, Kapteeni.
+Kuun pinnalla on todennäköisesti ainakin tusina spathien Välttelijää ja ilwrathien Kostajaa.
+En tiedä, mikseivät ne ole kimpussanne,
+mutta sitten kun ne ovat, aseidenne on parasta olla valmiina ja moottoreidenne käydä polttavan kuumina.
+
+#(DEALT_WITH_BASE_YET) commander-031.ogg
+Oletteko jo huolehtineet tukikohdasta?
+
+#(HERE_COMES_ILWRATH) commander-032.ogg
+Kapteeni, kuunnelkaa tarkasti!
+Pitkän matkan luotaimet näyttävät aluksen lähestyvän nopeasti!
+Tietokoneemme mukaan se on ilwrathien Kostaja-luokkaa.
+Uskoakseni teillä on taistelu edessänne, Kapteeni.
+Paras taktiikka olisi odottaa kunnes se on aiv-n l-hellä
+K-pte-ni! Se häi-rit-ee- s-gn-al-am-e!...
+
+#(VERY_IMPRESSIVE) commander-033.ogg
+Mikä kaunis näky, Kapteeni!
+En ole nähnyt Kostajan räjähtävän kappaleiksi tuolla tavalla sitten Dracon taistelun.
+Luulisin, että olette osoittanut pystyvänne selviytymään taisteluista, Kapteeni,
+joten viimeisetkin epäluuloni teidän auttamiseenne ovat kadonneet.
+Omistan tämän aseman auttamaan teitä vapauttamaan Maa ja voittamaan Ur-Quanit.
+Atomimme voivat joutua siinä sivussa uudelleenjärjestetyiksi, mutta Jumalan kautta, Kapteeni, me aiomme yrittää!
+Eli ensimmäinen askel on tietystikin Edelläkävijä-varusteidenne ja ohjelmienne tuominen tänne,
+niin että saamme ne toimimaan avaruusaluksen korjauslaitteidemme kanssa.
+Mutta mitä sitten, Kapteeni?
+
+#(IT_WAS_ABANDONED) commander-034.ogg
+Voi helvetin kuustoista!
+Kaikki nämä vuodet olemme kuunnelleet heidän järjettömiä lähetyksiään, emmekä ikinä edes arvanneet.
+
+#(YOU_REALLY_FOUGHT_BASE) commander-035.ogg
+Taistelitteko niitä vastaan!? Toivottavasti ette kärsineet pahoja menetyksiä?
+
+#(IM_GLAD_YOU_WON) commander-036.ogg
+Olen iloissani kuullessani sen, Kapteeni. Olisinpa ollut itse siellä.
+
+#(IM_SURE_IT_WAS_DIFFICULT) commander-037.ogg
+Olen varma, että kokemus oli epämiellyttävä.
+
+#(THAT_WAS_PROBE) commander-038.ogg
+Se oli Ur-Quanien Turvallisuusluotain. Se pitää meitä silmällä.
+Kapteeni, mitä vakoiluluotaimelle tapahtui!?
+
+#(DEEP_TROUBLE) commander-039.ogg
+Oi ei. Juuri nyt se varmaankin kiitää Hyperavaruudessa,
+pyrkien suoraan kohti lähintä Hierarkian etuvartioasemaa.
+Kun Ur-Quanit huomaavat, että te olette täällä, he lähettävät taistelulaivaston välittömästi!
+
+#(GOOD_NEWS) commander-040.ogg
+Huh! Se liippasi läheltä.  Jos tuo luotain olisi päässyt pois -- hyperavaruuteen asti
+olisimme hetkessä korviamme myöten Taistelulaivoissa.
+Mikä helpotus!
+
+#(SURE_HOPE) commander-041.ogg
+Jos tuo luotain pääsee Ur-Quanien luo, Kapteeni, me MOLEMMAT olemme pahassa pulassa!
+
+#(ABOUT_BASE_AGAIN) commander-042.ogg
+Kuten jo sanoin, kun Ur-Quanit olivat pystyttäneet orjakilven Maan ympärille ja rakentaneet tämän avaruusaseman,
+he päättivät jättää osaston spathi- ja ilwrath-aluksia kuussa olevaan tukikohtaan.
+Olemme katsoneet kuutukikohtaa kaukoputkillamme ja voimme vahvistaa, että siellä on yhä huomattavaa toimintaa,
+mutta emme  ole ikinä pystyneet saamaan yhteyttä tukikohtaan Hyperavaruuslähettimellä
+tai perinteisillä radiosignaaleilla.
+
+#(COOK_BUTTS) commander-043.ogg
+Ha-ha.. kyllä, Kapteeni, sen me kyllä teemme!
+
+#(OVERTHROW_ALIENS) commander-044.ogg
+Jos teistä tuntuu, että tämä on välttämätöntä, Kapteeni, ymmärrän sen.
+
+#(KILL_MONSTERS) commander-045.ogg
+Järkevä suunnitelma, Kapteeni. Ryhdytään hommiin.
+
+#(GOOD_LUCK_AGAIN) commander-046.ogg
+Hyvää onnea.
+
+#(STARBASE_WILL_BE_READY) commander-047.ogg
+Nyt, Kapteeni, oletan tämän avaruusaseman säätöprosessin kestävän
+ainakin 2 viikkoa, joten ryhdytään hommiin...
+
+#(overthrow_evil_aliens) 
+Ööh, luottakaa minuun, Komentaja, minulla on suunnitelma... tosi hyvä suunnitelma! Mutta sen täytyy pysyä toistaiseksi salassa.
+
+#(annihilate_those_monsters)
+Kasvatamme voimiamme hitaasti, kokoamme liittolaislaivaston, ja lyömme Ur-Quanit polvien vastineilleen.
+
+#(cook_their_butts)
+Sitten, Komentaja, me alamme potkia muukalaisperseitä kunnolla!
+
+#(where_get_radios)
+Mistä voimme loytää radioaktiiveja?
+
+#(well_go_get_them_now)
+Lähdemme nyt hakemaan vaatimianne alkuaineita.
+
+#(we_will_transfer_now)
+Olemme valmiita siirtämään radioaktiiveja.
+
+#(what_will_you_give_us)
+Mitä annatte meille vastineeksi radioaktiiveista?
+
+#(before_radios_we_need_info)
+Ennen kuin autamme teitä, vaadimme tiettyjä tietoja.
+
+#(no_but_well_help0)
+Ei, tämä on avaruusalus 
+
+#(no_but_well_help1)
+, mutta olemme valmiita auttamaan teitä.
+
+#(yes_this_is_supply_ship)
+Öh.. juu, tämä ON huoltoalus. Mitä tarvitsette?
+
+#(what_slave_planet)
+`Orjaplaneetta!' `Hierarkian huoltoalus!' Mitä täällä tapahtuu?
+
+#(i_lied)
+Taisin kyllä valehdella, tämä ei ole huoltoalus. Sori.
+
+#(plumb_out)
+Ööh... Hitto! Ette varmaan usko tätä; meillä ei ole niitä yhtään.
+
+#(we_are_vindicator0)
+Olen kapteeni 
+
+#(we_are_vindicator1)
+, aluksemme on 
+
+#(we_are_vindicator2)
+. Olemme eloonjääneitä Star Controlin Velan tähtijärjestelmään menneestä tieteellisestä tutkimusryhmästä.
+
+#(first_give_info)
+Haluan, etta selitätte minulle ensin muutamia asioita.
+
+#(we_must_go_now)
+Meidän taytyy lähteä nyt. Kerron lisää kun palaamme.
+
+#(where_can_i_get_radios)
+Mistä löydämme radioaktiivisia alkuaineita, joita tarvitsette?
+
+#(ok_i_will_get_radios)
+Lähdemme nyt etsimään vaatimianne radioaktiivisia aineita.
+
+#(whats_this_starbase)
+Alkajaisiksi, mikä on tämän avaruusaseman tarkoitus?
+
+#(what_about_earth)
+Mikä on tuo outo punainen hehku Maan ympärillä?
+
+#(where_are_urquan)
+Missä Ur-Quanit ovat nyt?
+
+#(our_mission_was_secret)
+Komennus oli huippusalainen.
+
+#(we_are_here_to_help)
+Olemme palanneet Maahan antaaksemme teille Edelläkävijöiden tekniset salaisuudet ja auttamaan taistelussa Hierarkiaa vastaan.
+
+#(tell_me_about_base)
+Mitä yksityiskohtia voitte antaa meille kuussa olevasta tukikohdasta?
+
+#(we_will_take_care_of_base)
+Menemme nyt ja neutralisoimme tukikohdan.
+
+#(tell_me_again)
+Kertoisitteko vielä uudestaan Hierarkian tukikohdasta kuussa?
+
+#(base_was_abandoned)
+Löysimme tukikohdan, mutta se oli hylätty vuosia sitten.
+
+#(we_fought_them)
+Me, ööh...  hyökkäsimme tukikohtaan ja tuhosimme vihollisen täydellisesti!
+
+#(oh_yes_big_fight)
+Öh... oi, juu! Taistelu oli todella ankara.
+
+#(i_lied_it_was_abandoned)
+Taisin kylla valehdella. Löysimme sen hylättyna.
+
+#(i_cant_talk_about_it)
+Se oli liian kamalaa sanoilla sanottavaksi. En voi puhua siitä juuri nyt.
+
+#(name_1)
+Uusi Vapaiden Tähtien Allianssi!
+
+#(name_2)
+Muukalaisvaltioiden Sopimus!
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatio!
+
+#(name_40)
+Imperiumi 
+#(name_41)
+!
+
+#(i_lost_my_lander)
+Ainoa laskeutumisaluksemme tuhoutui meistä johtumattomista syistä. Voitteko antaa uuden?
+
+#(i_lost_another_lander)
+Öh... Tuota... Noin... Menetimme taas laskeutujan.
+
+#(need_fuel_mercury)
+Emme pysty laskeutumaan Merkuriukseen ja hankkimaan radioaktiiveja ennaltanäkemättömän polttoaineen puutteen takia.
+
+#(need_fuel_luna)
+Emme pysty laskeutumaan Kuuhun ja neutralisoimaan tukikohtaa ennaltanäkemättömän polttoaineen puutteen takia.
+
+#(need_fuel_again)
+Voi pojat, polttoaineen kulutus tosiaankin vaihtelee. Lainaisitteko meille vielä vähän lisää löpöä?
+
+#(what_was_red_thing)
+Komentaja, mikä oli se punainen, nopeasti liikkuva esine Maan kiertoradalla?
+
+#(it_went_away)
+Kun lähestyimme sitä, se lähetti varoituksen ja hyppäsi hyperavaruuteen.
+
+#(we_destroyed_it)
+Öööh... me tuhosimme sen! Jeps, räjäytimme palasiksi.
+
+#(what_probe)
+Uuh, tarkoitin jotain toista punaista esinettä. Älkää välittäkö.
+
+#(take_care_of_base_again)
+Olemme nyt valmiita huolehtimaan kuun tukikohdasta, Komentaja. Näkemiin.
+
+#(goodbye_commander)
+Näkemiin, Komentaja.
+

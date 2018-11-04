@@ -1,0 +1,1388 @@
+#(HELLO_NOW_DOWN_TO_BUSINESS_1)	melnorme-000.ogg
+Olen Kauppamestari Viherrys, ja komennan melnormejen avaruusalusta
+`Väistämättömän Menestyksellinen Kaikissa Olosuhteissa.' 
+Toivotan sinulle muodollisen tervetulotoivotuksen, Kapteeni.
+Vaikka me melnormet olemmekin vasta äskettäin saapuneet tähän avaruuden kolkkaan
+olemme jo pitkään halunneet saada yhteyden lajinne kanssa
+ja odotamme pitkäaikaista, tuottoisaa suhdetta.
+
+#(HELLO_NOW_DOWN_TO_BUSINESS_2)	melnorme-001.ogg
+Tervehdin sinua Kauppamestarina melnormejen kauppalaivastossa, Kapteeni.
+Uutiset lajistanne ja epätavanomaisesta aluksestanne ovat matkanneet nopeasti.
+On tarpeetonta edes sanoa, kuinka innokkaita olemme tekemään kauppaa sinun ja kaltaistesi kanssa! 
+No niin, kuinka voin palvella sinua?
+
+#(HELLO_NOW_DOWN_TO_BUSINESS_3)	melnorme-002.ogg
+Päivää taas, ihmisavaruuskapteeni. 
+Ehkäpä tämän kohtaamisen aikana pystymme perustamaan menestyksekkään liikesuhteen.
+
+#(KNOW_OF_YOU)	melnorme-003.ogg
+Jo ennen ensimmäistä tapaamistamme me tiesimme sinusta, Kapteeni.
+Vaikka kamppailusi Maan vapauttamiseksi tulee olemaan pitkä ja vaikea haaste
+täynnä suuria vaaroja ja mysteerejä
+meillä on suuri luottamus sinua ja kykyjäsi kohtaan.
+
+#(how_know)
+Kuinka tiesitte meistä, ennen kuin tapasitte meidät?
+
+#(KNOW_BECAUSE)	melnorme-004.ogg
+Keräämme informaatiota tuhannesta salaisesta lähteestä avaruudessa ja ajassa.
+Hintamme edes yhden näistä lähteistä paljastamisesta olisi niin korkea
+että lajisi olisi meille velassa vuosisatoja.
+
+#(what_about_yourselves)
+Mitä voitte kertoa itsestänne?
+
+#(NO_TALK_ABOUT_OURSELVES)	melnorme-005.ogg
+Alkuperämme ja aikeemme ovat, suoraan sanoen, mystisiä, ja muutamien väistämättömien tekijöiden takia
+emme pysty keskustelemaan itsestämme suurella yksityiskohtaisuudella.
+
+#(what_factors)
+Mitkä ovat nämä 'väistämättömät tekijät'?
+
+#(FACTORS_ARE)	melnorme-006.ogg
+Ensimmäinen ja etummaisin näistä tekijöistä
+on haluttomuutemme ANTAA pois informaatiota
+historiastamme, psykologiastamme ja henkisistä voimistamme,
+ainutlaatuisesta fysiologiastamme,
+kotimaailmojemme sijainnista,
+tai potentiaalisesti pahaenteisistä pitkäaikaissuunnitelmistamme.
+Kuitenkin, nämä tärkeät ja tähdelliset tiedot
+OVAT saatavilla nimellistä krediittisummaa vastaan.
+
+#(what_about_universe)
+Onko teillä mitään tietoja, jotka saattaisivat olla hyödyksi meille?
+
+#(NO_FREE_LUNCH)	melnorme-007.ogg
+Ehdottomasti. 
+Ensisijainen kauppatavaramme ON informaatio.
+Juuri nytkin minulla on täällä näyttöruudullani jotain
+jonka uskoisin varmasti olevan arvaamattoman arvokas teille!
+Voimme keskustella tämän ERITTÄIN merkityksellisen tiedon yksityiskohdista
+myohemmin, kunhan olemme perustaneet normaalit kaupankäyntimenetelmät
+jolloin keskustelemme myös maksujemme luonteesta.
+
+#(giving_is_good_1)
+Maksujen! Kai nyt kulttuurinne on sellaisen vähäpätöisyyden kuin rahan yläpuolella?
+
+#(GIVING_IS_BAD_1)	melnorme-008.ogg
+Olet tietenkin oikeassa.
+Hylkäsimme valuutan kauan sitten,
+ja nyt käymme kauppaa vain sellaisista hyödykkeistä, joilla on luontaista arvoa, kuten informaatiolla.
+
+#(giving_is_good_2)
+Mutta asiamme on oikeudenmukainen! Eikö altruismi olekin moraalisuuden korkein huippu?
+
+#(GIVING_IS_BAD_2)	melnorme-009.ogg
+Ei, se ei ole.
+Itse asiassa kulttuurissamme `antamista'
+ilman hyödykkeiden tai palveluiden reilua vaihtoa
+pidetään vulgäärinä ja epäsoveliaana.
+Pyydän, älkää mainitko tätä aihetta uudestaan.
+
+#(get_on_with_business)
+Jospa nyt aloitettaisiin kaupankäynti?
+
+#(trade_is_for_the_weak)
+`Kaupankäynti' on heikoille. Me OTAMME minkä tahdomme!
+
+#(WERE_NOT_AFRAID)	melnorme-010.ogg
+Horjumme alkavasta kauhusta ja joudumme äkilliseen paniikkiin.  
+Luonnoltamme rauhanomaisina
+olisimme epäilemättä valmistautumattomia äkilliseen vihamielisyyteeenne
+ellei olisi tätä erinomaista asejärjestelmää, jonka ostimme Keel-Verezyiltä juuri viime kuussa.
+Asejärjestelmä, joka muuten on täysin lukittunut komentosiltaanne.
+
+#(no_trade_now)
+Emme voi jatkaa tätä keskustelua. Hyvästi.
+
+#(OK_NO_TRADE_NOW_BYE)	melnorme-011.ogg
+Kun tahdot käydä kauppaa, hakeudu mihin tahansa superjättiläisjärjestelmään.
+Tulemme olemaan siellä.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_1)	melnorme-012.ogg
+Aivan, aloittakaamme kaupan hierominen.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_2)	melnorme-013.ogg
+Kuinka hauska nähdä teitä taas, Kapteeni.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_3)	melnorme-014.ogg
+Palkoni kutisivat tänä aamuna, Kapteeni, ja siinä sinä olet!
+
+#(HELLO_AND_DOWN_TO_BUSINESS_4)	melnorme-015.ogg
+Mikä sattuma! Puhuin juuri sinusta erään Keel-Verezy-kapteenin kanssa. 
+Hän/he osoitti suurta kiinnostusta tutkimusmatkojasi ja kamppailuasi Ur-Quaneja vastaan kohtaan
+mutta, kuten kaikki Verezyt, pelkään että hän/he epäröi esitellä itseään, koska pelkäsi
+no, että pelästyttäisi sinut. 
+Joka tapauksessa, mukava tavata sinut taas.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_5)	melnorme-016.ogg
+Jälleen kerran tapaamme vaihtaaksemme arvokkaita kouriintuntuvia.
+Eikä se olekin hauskaa?!
+
+#(HELLO_AND_DOWN_TO_BUSINESS_6)	melnorme-017.ogg
+Tzo-kristallimme värähtelyt ennustivat saapumisenne.
+Tiedämme jo miksi olet täällä ja mitä tarvitset meiltä;
+etiketti kuitenkin vaatii, että toimimme kuin emme tietäisi haluistasi.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_7)	melnorme-018.ogg
+Aivan tänä aamuna sanoin alaiselleni Okralle
+`Fe-Fi-Fo-Fum! haistan Ih-Ih-Mi-Sen jalat!'
+Me nauroimme katketaksemme. Mikä synkronisuus!
+
+#(HELLO_AND_DOWN_TO_BUSINESS_8)	melnorme-019.ogg
+Minun täytyy varoittaa sinua, Kapteeni
+tähän aikaan kuukaudesta me melnormet olemme erityisen kovia tinkimään.
+Varokaa!
+
+#(HELLO_AND_DOWN_TO_BUSINESS_9)	melnorme-020.ogg
+VAROKAA!
+Hoo! läheltä liippasi!
+Kapteeni, miksi yritit ajaa päin Keel-Verezyjen alusta!?
+Melkein murskasitte sen kappaleiksi!
+Mitä!? Ette nähneet sitä? Kai te nyt -- ööh
+Ei mitään.
+
+#(HELLO_AND_DOWN_TO_BUSINESS_10) melnorme-021.ogg
+Tervetuloa takaisin, Kapteeni! Olet suosikkiasiakkaamme.
+
+#(whats_my_credit)
+Mikä on krediittisaldoni, jos olisit niin hyvä?
+
+#(HELLO_SLIGHTLY_ANGRY_1)	melnorme-022.ogg
+Se väkivaltainen on siis palannut.
+Tulitko hakemaan anteeksiantoamme
+vai hyökkäämään uudestaan puolustuksettoman aluksemme kimppuun?
+
+#(HELLO_SLIGHTLY_ANGRY_2)	melnorme-023.ogg
+Olet pettäneet toiveemme
+vaikka puhuakseni totta
+meillä oli kyllä osviittaa, että suhteemme olisi alkuun vaikea
+lajinne tunneperäisen epäkypsyyden vuoksi.
+
+#(HELLO_SLIGHTLY_ANGRY_3)	melnorme-024.ogg
+Vaadimme virallista anteeksipyyntöä.
+
+#(explore_relationship)
+Voimmeko keskustella liiton perustamisesta?
+
+#(EXAMPLE_OF_RELATIONSHIP)	melnorme-025.ogg
+Kysymyksesi paljastaa tiettyä ymmärtämyksen puutetta
+mitä tulee ystävällisten lajienvälisten suhteiden luonteeseen. 
+Teemme tilanteen selväksi. 
+Jos haluat tulla jonkun kanssa ystäväksi
+älä IKINÄ
+ammu kahmaloittain superkuumaa plasmaa heitä kohti. 
+Onko tämä selvä?
+
+#(excuse_1)
+Kuules, erehdyksiä sattuu. Älä nyt suotta äkämysty!
+
+#(NO_EXCUSE_1)	melnorme-026.ogg
+Spathit kerran käyttivät samanlaista tekosyytä
+kun heidän asemallaan Algol IV:llä oli sattunut ikävä välikohtaus.
+He eivät pitäneet täkäläisestä ilmanalasta
+joten he päättivät tehdä `ihan pikkuisia muutoksia ilmastoon.'
+Heidän laitteensa menivät sekaisin, he panikoivat ja pakenivat
+ja planeetan ilmakehä hävisi kokonaan
+syntyperäisten algolilaisten suureksi
+vaikkakin lyhytikäiseksi mielipahaksi.
+
+#(excuse_2)
+Unohdetaan vain, että taisteluamme ikinä tapahtui, ok?
+
+#(NO_EXCUSE_2)	melnorme-027.ogg
+Ei.
+
+#(excuse_3)
+Mitä te oikein minulta tahdotte, virallista anteeksipyyntöä?
+
+#(NO_EXCUSE_3)	melnorme-028.ogg
+On pieni mahdollisuus, että anteeksipyyntö saisi asiat kuntoon.
+Mutta sen pitäisi olla vilpitön.
+
+#(we_apologize)
+Pyydän anteeksi. olen pahoillani. Rukoilen teitä, antakaa anteeksi.
+
+#(APOLOGY_ACCEPTED) melnorme-029.ogg
+No, koska sanoit sen niin kauniisti
+vaikutat niin aidosti katuvalta
+annamme sinulle uuden mahdollisuuden tulla kauppakumppaneiksi kanssamme.
+Mutta älä ikinä enää käy meitä vastaan
+Tai emme enää ole niin kilttejä ensi kerralla.
+
+#(so_we_can_attack)
+Tämä vaikuttaa hyvältä tilaisuudelta hyökätä kimppuunne uudestaan.
+
+#(DECEITFUL_HUMAN) melnorme-030.ogg
+Petollinen ihminen!
+
+#(bye_melnorme_slightly_angry)
+Minä lähden nyt. Hyvästi.
+
+#(MELNORME_SLIGHTLY_ANGRY_GOODBYE) melnorme-031.ogg
+Hyvästi, väkivaltainen ihminen.
+
+#(HELLO_HATE_YOU_1) melnorme-032.ogg
+Luulimme sinua mukavaksi hepuksi.
+Voi pojat, että olimme väärässä!
+Nyt mene pois ja jätä meidät rauhaan.
+
+#(HELLO_HATE_YOU_2) melnorme-033.ogg
+Se ääliö on siis palannut.
+Mitä oikein tahdot meiltä tällä kertaa?
+Hälläväliä, emme tahdo tietää.
+
+#(HELLO_HATE_YOU_3) melnorme-034.ogg
+Tulemme vihaamaan sinua ikuisesti.
+Tuleminen tänne siinä toivossa, että muutamme mieltämme, on hyödytöntä.
+Sitä emme tee!
+
+#(well_if_thats_the_way_you_feel)
+Kuole, silmäfriikki.
+
+#(you_hate_us_so_we_go_away)
+Hyvästi.
+
+#(HATE_YOU_GOODBYE) melnorme-035.ogg
+Äläkä ikinä tule takaisin!
+
+#(WE_FIGHT_AGAIN) melnorme-036.ogg
+Tällä kertaa saat maksaa loukkauksistasi!
+
+#(RESCUE_EXPLANATION) melnorme-037.ogg
+Tutkaintemme ja muiden herkkien laitteidemme mukaan
+olette liikkumattomia hyperavaruudessa ilman polttoainevarantoja.
+Tämä on vakava tilanne.
+Ilman polttoainetta ajelehditte täällä kunnes akkunne tyhjentyvät
+sitten elintukijärjestelmänne pettää
+ja loppunne koittaa
+ellei tietenkin
+vihamielinen muukalaisalus löydä teitä täältä avuttomina
+ja hävitä teidät armottomasti.
+Sellaista tiedetään tapahtuneen.
+
+Kuitenkin
+hyvän tahdon eleenä ja ystävyyden hengessä, me tarjoamme apuamme!
+Nimellistä korvausta vastaan.
+
+#(RESCUE_AGAIN_1) melnorme-038.ogg
+Taas kerran huomaamme olevamme sopivassa asemassa auttaaksemme teitä.
+Kuinka ihmeellistä.
+
+#(RESCUE_AGAIN_2) melnorme-039.ogg
+Oletko ikinä harkinnut lisäpolttoainetankkien ostamista?
+Ihan vain yställisenä ehdotuksena, Kapteeni.
+
+#(RESCUE_AGAIN_3) melnorme-040.ogg
+Olemme tulleet auttamaan sinua jälleen kerran, Kapteeni.
+
+#(RESCUE_AGAIN_4) melnorme-041.ogg
+Meidän TÄYTYY lakata tapailemasta tällä tavalla, Kapteeni!
+Ha, ha, ha!
+
+#(RESCUE_AGAIN_5) melnorme-042.ogg
+Löpö taas lopussa, eeh, Kapteeni?
+
+#(CHANGED_MIND)	melnorme-043.ogg
+Olet vaihtanut mieltäsi
+ja päättänyt hyväksyä avuntarjouksemme?
+
+#(no_changed_mind)
+Ei kiitos, en tarvitse apuanne juuri nyt.
+
+#(yes_changed_mind)
+Olin ehkä hätäinen kieltäytyessäni tarjouksestanne. Mikä se nyt olikaan?
+
+#(SHOULD_WE_HELP_YOU) melnorme-044.ogg
+Haluaisitko meidän auttavan teitä tällä kertaa?
+
+#(yes_help)
+Kyllä, arvostaisin apuanne. Mikä on hintanne?
+
+#(no_help)
+En tarvitse apuanne tällä kertaa. Ehkä kuitenkin myöhemmin.
+
+#(RESCUE_OFFER)	melnorme-045.ogg
+Sinulla ei ole krediittitiliä kauppatietokoneessamme
+ja skannerimme osoittavat, ettei sinulla ole kelvollisia kauppatavaroita
+mutta ehkä voisimme tehdä erikoissopimuksen.
+Sitä vastaan että annamme teille tarpeeksi polttoainetta
+
+#(RESCUE_TANKS)	melnorme-046.ogg
+tankkienne täyttämiseen, otamme:
+
+#(RESCUE_HOME)	melnorme-047.ogg
+päästäksenne kotiin, otamme:
+
+#(take_it)
+Huomaan, ettei minulla ole valinnanvaraa. Hyväksyn tarjouksenne... pitkin hampain.
+
+#(leave_it)
+Tämä tarjoushan on absurdi! Kieltäydyn.
+
+#(HAPPY_TO_HAVE_RESCUED) melnorme-048.ogg
+Polttoaineen vaihto laitteistoa vastaan on lopussa
+On ollut nautinto tehdä kauppaa kanssasi, kuten aina.
+Näkemiin, Kapteeni.
+
+#(MAYBE_SEE_YOU_LATER)	melnorme-049.ogg
+No, siinä tapauksessa toivotamme sinulle hyvästit.
+Toivomme näkevämme teidät uudestaan
+vaikka, kun istutte täällä, hengettöminä avaruudessa
+haavoittuvina ja yksin
+emme pidätä henkeämme.
+
+#(GOODBYE_AND_GOODLUCK)	melnorme-050.ogg
+Hyvää onnea, Kapteeni.
+
+#(GOODBYE_AND_GOODLUCK_AGAIN)	melnorme-051.ogg
+Kunnes tapaamme jälleen, Kapteeni.
+
+#(HELLO_PISSED_OFF_1)	melnorme-052.ogg
+Se ihminen on taas palannut.
+Hän joko toivoo vakuuttavansa meidät katumuksestaan menneistä vääristä teoistaan
+tai hän aikoo pakottaa meidät antamaan/tekemään järjettömiä kauppoja väkisin.
+
+#(HELLO_PISSED_OFF_2) melnorme-053.ogg
+Ahhh-YING!! Ahhh-YING! Ahhh-YING! Ahhh-Y
+Ai, anteeksi, Kapteeni. Meditoin vain juuri tietoisuutesi valitettavaa tilaa.
+Huomaatko mitään parannusta?
+
+#(HELLO_PISSED_OFF_3)	melnorme-054.ogg
+Ehkä voin olla sinulle avuksi tänä hämmennyksen ja vaivan aikana
+joko teette meille vilpittömän anteeksipyynnön tai lähdette.
+
+#(beg_forgiveness)
+Pyydämme anteeksiantoanne epäoikeutetun aggressiomme johdosta.
+
+#(LOTS_TO_MAKE_UP_FOR)	melnorme-055.ogg
+Vaikka hyväksyisimmekin sanasi totuutena
+teillä on paljon sovitettavaa.
+
+#(you_are_so_right)
+Olemme valmiita maksamaan korvauksia aiemmista käytöksistämme.
+
+#(ONE_LAST_CHANCE)	melnorme-056.ogg
+Hmm
+hmm...hmm...hmm.
+No, hyvä on sitten.
+Annamme sinulle yhden mahdollisuuden hyvittää meille
+ne vahingot, jotka olet aiheuttanut kauppalaivastollemme
+järjettömillä hyökkäyksilläsi menneisyydessä.
+Emme tee tätä tarjousta toista kertaa.
+Annat meille kaiken ei-välttämättömän laitteiston aluksestasi
+välittömästi!
+Hyväksytkö?
+
+#(ok_strip_me)
+Ok, sovittu, mutta VAIN ei-välttämättömät!
+
+#(no_strip_now)
+Minkälaiseksi luuseriksi te minua luulette? Unohtakaa se!
+
+#(NOT_WORTH_STRIPPING)	melnorme-057.ogg
+Se ei ole kuorimisen arvoinen.
+
+#(FAIR_JUSTICE)	melnorme-058.ogg
+Ei-välttämättömän laitteiston poisto on valmista.
+Olemme tyytyväisiä vaihtoon, ja uskomme että voimme nyt jatkaa
+tuottavaa liikesuhdetta.
+Unohdamme menneisyydessä tekemäsi erheet. Enimmäkseen.
+
+#(bye_melnorme_pissed_off)
+Hyvästi.
+
+#(MELNORME_PISSED_OFF_GOODBYE)	melnorme-059.ogg
+Tervemenoa.
+
+#(fight_some_more)
+Valmistautukaa tuhoutumaan.
+
+#(OK_FIGHT_SOME_MORE)	melnorme-060.ogg
+Ei, valmistautukaa TE tuhoutumaan!
+
+#(why_blue_light)
+Miksi komentosiltanne muuttui juuri siniseksi?
+
+#(BLUE_IS_MAD)	melnorme-061.ogg
+Meille sininen taustaväri merkitsee vastausta odottamattomaan uhkaan
+se näyttää, että olemme emotionaalisessa ahdingossa
+ja, eikä sattumalta
+se myös antaa meidän nähdä asekonsolimme paremmin.
+
+#(we_strong_1)
+Me emme sinua pelkää, melnorme!
+
+#(YOU_NOT_STRONG_1) melnorme-062.ogg
+Teidän pitäisi.
+Kerran dramyat luulivat voivansa varastaa meiltä.
+Näinä päivinä ei dramyoita pahemmin näe, eihän?
+
+#(we_strong_2)
+Meillä on koko tämän avaruusalueen voimallisin alus.
+
+#(YOU_NOT_STRONG_2) melnorme-063.ogg
+Se on ehkä totta, mutta teillä on vain yksi alus.
+
+#(we_strong_3)
+Miksemme me vain ottaisi sitä, minkä tahdomme, teiltä väkisin?
+
+#(YOU_NOT_STRONG_3)	melnorme-064.ogg
+Koska se on lakia vastaan, ja sitä paitsi
+jos varastatte meiltä, muiden melnormealuksien pitää nostaa hintojaan
+ja muut, viattomat avaruusolennot joutuvat maksamaan vääristä teoistanne.
+Sehän ei olisi reilua, vai mitä?
+
+#(just_testing)
+Kuulkaas, me vain testasimme aikomuksianne.  Olemme oikeasti rauhanomaisia ja ystävällisiä.
+
+#(REALLY_TESTING)	melnorme-065.ogg
+Teillä on outo tapa tehdä ystäviä, Kapteeni.
+Oletko varma, ettet vain yritä huijata meitä
+niin että voitte hyökätä kimppuumme heti kun käännämme selkämme?
+
+#(yes_really_testing)
+Lupaan että emme tee mitään tuollaista luihua.
+
+#(TEST_RESULTS)	melnorme-066.ogg
+Uskomme sinua.
+
+#(youre_on)
+Eiköhän testata tuota asejärjestelmää, vai mitä?... TAISTELUSSA!
+
+#(YOU_GIVE_US_NO_CHOICE) melnorme-067.ogg
+Et anna meille valinnanvaraa.
+
+#(TRADING_INFO)	melnorme-068.ogg
+Koska teet ensimmäistä kertaa kauppaa kanssamme, salli minun selittää kuinka järjestelmämme toimii.
+Olemme kiinnostuneita ostamaan tiettyjä artikkeleita, tarkemmin sanoen
+muukalaiselämänmuotojen biologista dataa
+ja tiettyjen outojen planeettojen sijaintipaikkoja, joiden säteilevä energia uhmaa kaikkia tutkaimia
+tuottaen sateenkaarimaisen kuvan.
+Vaihdossa meillä on monia kiintoisia ja arvokkaita kauppatavaroita
+kuten polttoainetta, joka on sopivaa aluksenne hyperajomoottoreiden kanssa
+teknologisia selostuksia, jotka sallivat sinun rakentaa uusia laitteita alukseesi
+ja monia tärkeitä salaisuuksia, joista voi olla apua matkoillasi.
+Helpottaaksemme kaupankäyntiä käännämme kaikki myyntisi tähtienvälisiksi krediiteiksi
+joilla voit tehdä ostoksia.
+Jos sinulla on kysymyksiä, älä epäröi kysyä.
+
+#(BUY_OR_SELL)	melnorme-069.ogg
+Noniin, mitähän me voimme tehdä hyväksesi tänään?
+
+#(goodbye)
+Näkemiin, Kauppamestari.
+
+#(why_turned_purple)
+Miksi komentosiltanne muuttui purppuraiseksi?
+
+#(buy)
+Haluaisin tehdä ostoksia.
+
+#(sell)
+Minulla on joitain nimikkeitä, jotka haluaisin myydä.
+
+#(TURNED_PURPLE_BECAUSE)	melnorme-070.ogg
+Tuo on hyvä kysymys, johon on erittäin kiintoisa vastaus!
+Tämän tiedon hinta on 12 000 000 krediittiä.
+
+#(NOTHING_TO_SELL)	melnorme-071.ogg
+Arvostamme aikomuksiasi, mutta sinulla ei ole mitään jota haluaisimme ostaa.
+
+#(WHAT_TO_SELL)	melnorme-072.ogg
+Mitä haluaisit myydä, Kapteeni?
+
+#(OK_DONE_SELLING) melnorme-073.ogg
+Kuten tahdot.
+
+#(sell_life_data)
+Minulla on dataa muukalaiselämänmuodoista.
+
+#(SOLD_LIFE_DATA1)	melnorme-074.ogg
+Ne 
+
+#(SOLD_LIFE_DATA2)	melnorme-203.ogg
+ yksikköä biologista dataa, jotka latasimme aluksestasi, tuottavat sinulle 
+
+#(SOLD_LIFE_DATA3)	melnorme-204.ogg
+ krediittiä.
+
+#(sell_rainbow_locations)
+Myisin teille Sateenkaarimaailmojen sijaintipaikkoja.
+
+#(SOLD_RAINBOW_LOCATIONS1)	melnorme-075.ogg
+Aluksenne loki osoittaa, että olette löytäneet sijaintipaikat 
+
+#(SOLD_RAINBOW_LOCATIONS2)	melnorme-205.ogg
+ Sateenkaarimaailmalle, jotka kiehtovat meitä niin.
+Vaihdossa annamme sinulle 
+
+#(SOLD_RAINBOW_LOCATIONS3)	melnorme-204.ogg
+ krediittiä.
+
+#(sell_precursor_find)
+Löysimme Edelläkävijöiden artifaktin. Tahdotteko sen?
+
+#(SOLD_PRECURSOR_FIND)	melnorme-076.ogg
+Aina! Ehdottomasti!
+Vaihdossa annamme sinulle 
+N krediittiä.
+
+#(changed_mind_no_sell)
+Nyt kun tarkemmin ajattelen, en usko että haluan myydä mitään.
+
+#(done_selling)
+Nyt riitti myyminen, toistaiseksi.
+
+#(NEED_CREDIT)	melnorme-077.ogg
+Tarvitset krediittejä ostaaksesi kauppatavaroitamme.
+Ansaitseksesi krediittejä sinun täytyy myydä meille haluamiamme artikkeleita:
+muukalaiselämänmuotojen biologista dataa
+ja tiettyjen outojen planeettojen koordinaatteja, joiden säteilevä energia uhmaa kaikkia tutkaimia
+tuottaen sateenkaarimaisen kuvan.
+
+#(WHAT_TO_BUY)	melnorme-078.ogg
+Mitä kauppatarvikkeita haluaisit ostaa tänään?
+
+#(WHAT_MORE_TO_BUY) melnorme-079.ogg
+Haluaisitko ostaa mitään muuta?
+
+#(OK_DONE_BUYING) melnorme-080.ogg
+Hyvä on.
+
+#(buy_fuel)
+Haluaisin ostaa polttoainetta.
+
+#(done_buying)
+Olen tehnyt toistaiseksi tarpeeksi ostoksia.
+
+#(be_leaving_now)
+Lähden nyt.
+
+#(HOW_MUCH_FUEL)	melnorme-081.ogg
+Paljonko polttoainetta haluat ostaa?
+
+#(buy_1_fuel)
+1 polttoaineyksikkö.
+
+#(GOT_FUEL)	melnorme-082.ogg
+Polttoaine siirretty aluksellesi.
+
+#(buy_5_fuel)
+5 polttoaineyksikköä.
+
+#(buy_10_fuel)
+10 polttoaineyksikköä.
+
+#(buy_25_fuel)
+25 polttoaineyksikköä.
+
+#(done_buying_fuel)
+Olen ostanut tarpeeksi polttoainetta.
+
+#(FRIENDLY_GOODBYE)	melnorme-083.ogg
+On ollut nautinto tehdä kauppaa kanssasi, Kapteeni.
+Odotamme seuraavaa käyntiänne.
+
+#(CREDIT_IS0)
+Tämänhetkinen tilisi on 
+#(CREDIT_IS1)
+ krediittiä.
+
+#(NEED_MORE_CREDIT0)	melnorme-084.ogg
+Ikävä kyllä, tämä ostos vaatii 
+#(NEED_MORE_CREDIT1)	melnorme-206.ogg
+ krediittiä lisää.
+
+#(BUY_FUEL_INTRO)	melnorme-085.ogg
+Kuten tiedät, kuljetamme aluksessamme suurta polttoainevarantoa, joka on yhteensopiva moottorijärjestelmäsi kanssa.
+Siirrämme tätä ainetta mielellämme alukseesi hintaan 1 krediitti per yksikkö.
+
+#(NO_ROOM_FOR_FUEL)	melnorme-086.ogg
+Aluksessasi ei ole tilaa näin suurelle määrälle polttoainetta.
+
+#(buy_info)
+Tahdon ostaa informaatiota.
+
+#(buy_technology)
+Olen kiinnostunut uuden teknologian ostamisesta.
+
+#(buy_current_events)
+Haluan ostaa informaatiota tämänhetkisistä tapahtumista.
+
+#(buy_alien_races)
+Maksan käyttökelpoisista tiedoista muukalaisroduista.
+
+#(buy_history)
+Myykää meille historiallista informaatiota, kiitos.
+
+#(done_buying_info)
+Olen ostanut tarpeeksi informaatiota.
+
+#(no_buy_info)
+En halua ostaa informaatiota juuri nyt.
+
+#(BUY_INFO_INTRO)	melnorme-087.ogg
+Kuten tiedät, käytyämme kauppaa tähdissä monien vuosisatojen ajan
+me melnormet olemme saaneet tietää paljon siitä, mitä tapahtuu galaksissamme
+sekä nyt että muinaisessa menneisyydessä.
+Olemme myös pitäneet kirjaa monimuotoisista muukalaisista avaruusalueellanne.
+Jaamme tätä elintärkeää tietoa kanssasi hintaan 75 krediittiä per informatiivinen fakta.
+Ei palautuksia.
+
+#(OK_BUY_INFO)	melnorme-088.ogg
+Hyvä! Haluankin MYYDÄ informaatiota.
+
+#(OK_NO_BUY_INFO)	melnorme-089.ogg
+Mitä muuta haluaisit ostaa?
+
+#(OK_DONE_BUYING_INFO)	melnorme-090.ogg
+Mitä muuta haluaisit ostaa?
+
+#(OK_BUY_EVENT_1)	melnorme-091.ogg
+Vaikka varmaan uskot, että shofixtit ovat kuolleet sukupuuttoon
+saatuaan aurinkonsa purkautumaan laitteella, joka on identtinen utwigien superpommin kanssa
+totuus ei ole niin yksinkertainen.
+On yhä mahdollisuus herättää henkiin tämä metapussieläinlaji, joskaan se ei tule olemaan helppoa.
+käsissä oleva ongelma vaikuttaa simppeliltä: tuo yhteen kaksi eri sukupuolta olevaa shofixtia
+ja aistillinen voimistelu alkaa. Kun otetaan huomioon shofixtien lyhyt raskaus- ja kypsymisaika
+sinulla on tuhansittain näitä olentoja kymmenessä vuodessa ja miljoonia kahdessakymmenessä.
+Lajin uroksen löytäminen on helpompaa kuin flup
+käyt vain shofixtien räjäytetyssä tähtijärjestelmässä Delta Gornossa.
+Kapteeni Tanaka tai sen sisarus Katana tulevat tervehtimään sinua saapuessasi.
+Varoitus! -- Nämä soturit ovat vanhoja ja lentävät hädintuskin toimivilla aluksilla.
+Jos he virheellisesti tunnistavat sinut viholliseksi, älä ammu takaisin!
+Peräänny ja yritä puhua heille heidän omalla tasollaan.
+Lajin naaraiden hankkiminen tulee olemaan vaikeampaa.
+Ainoa sellaisten jäljellejäänyt varanto galaksissa on Alfa Cerenkov 1:ssä
+joka on osana Kenraali ZEXin outoa ja rakastettua menageriaa.
+Sinun onneksesi, Kapteeni, hänen VUX-toverinsa pitävät ZEXiä... no... perverssinä.
+Se johtuu siitä, että ZEX oikeasti pitää ihmisolentojen läsnäolosta.
+Saadaksesi shofixtinaaraat sinun pitää lepyttää ZEX, tai tappaa hänet.
+
+#(OK_BUY_EVENT_2)	melnorme-092.ogg
+Ur-Quanit ovat tällä hetkellä sodassa Kohr-Aheina tunnetun rodun kanssa.
+He taistelevat suurella pallonmuotoisella alueella, jonka keskus on Crateriksen tähtiryhmässä.
+Vaikka onkin todennäköisesti liian aikaista sanoa, Kohr-Ahit vaikuttavat olevan voitolla.
+
+#(OK_BUY_EVENT_3)	melnorme-093.ogg
+Tunnet epäilemättä muukalaisrodun nimeltä umgah, jotka asuvat Orioniksen tähdistössä.
+Vaikka heidät tunnetaankin mahtavasta ja usein julmasta huumorintajustaan
+he ovat ylittäneet itsensä viime vuosina.
+Tarkemmin sanoen, he ovat käyttäneet epätavallista hyperavaruuslähetintä
+tekeytyäkseen ilwrathien jumaliksi Dogariksi ja Kazoniksi.
+Kun ilwrathit alkoivat virittää hyperavaruusvastaanottimiaan  `jumalten ääniin'
+heidän pappikastinsa oli ymmärrettävästi skeptinen
+ja neuvoi monia seuraajiaan olemaan välittämättä rienaavista signaaleista.
+Yllätysliikkeenä suurin osa ilwratheista kuitenkin nousi heitä vastaan
+ja teurasti koko pappien kastin.
+Heidän syihinsä tämän kaamean liikkeen tekemiseen kuuluivat yliverotus, 'laatukuoleman puute seremonioissa'
+ja yleinen tunne, että papit olivat tehneet Dogarin ja Kazonin lausunnoista liian monimutkaisia.
+
+#(OK_BUY_EVENT_4)	melnorme-094.ogg
+Kuten tiedät, jaottelussa ulottuvuuksien välillä on heikkouksia.
+Sinun aluksesi esimerkiksi käyttää sellaisia heikkouksia siirtyäkseen hyperavaruuteen.
+Galaksissa on kuitenkin muita heikkoja paikkoja, jotka johtavat muihin ulottuvuuksiin.
+Yksi sellainen portaali on lähellä, Chandrasekharin ja Columbaen tähdistöjen välissä.
+Tämä portaali on auki vain lyhyen aikaa joka kuussa, alkaen 17:sta päivästä.
+Koska emme ole ikinä menneet portaalista, emme voi antaa enempää tietoa tästä aiheesta.
+
+#(OK_BUY_EVENT_5)	melnorme-095.ogg
+Kuten varmaankin tiedät, Ur-Quanien aluksissa -- kutsutte niitä uskoakseni `Taistelulaivoiksi'
+on tehokkaat itsetuhopiirit, jotka estävät muita rotuja
+saamasta selville Ur-Quanien teknologisia salaisuuksia.
+Olemme kuitenkin tulleet tietoisiksi haaksirikkoutuneesta taistelulaivasta, joka on enimmäkseen kunnossa.
+Löydät aluksen jäännökset Alfa Pavonista kiertävän sinisen maailman pinnalta.
+Uskoaksemme löydät sieltä ainakin yhden kiintoisan esineen, ehkä kaksikin.
+
+#(OK_BUY_EVENT_6)	melnorme-096.ogg
+Olet ehkä huomannutkin suuren, jatkuvasti laajenevan punaisten luotainten joukon läsnäolon
+jotka liikkuvat suurella nopeudella ja hyökkäävät heltymättömästi.
+Olemme pahoillamme sanoessamme, että tämä on katalogimme artikkeli 2418-B.
+Älä syytä meitä! Emme ole vastuussa tästä väkivaltaisesta hulluudesta!
+Tuotetta ei käytetä oikealla tavalla.
+Jos haluat kohdata todelliset väärintekijät
+kehotamme sinua tutkimaan planeettoja Beta Corvissa löytääksesi luotainten omistajat.
+
+#(OK_BUY_EVENT_7)	melnorme-097.ogg
+Ei enempää kuin viisikymmentä vuotta sitten
+nyt sukupuuttoon hävinnyt burvixlainen rotu tiedotti druugeja
+voimakkaasta, utwigeina tunnetusta muukalaisvaltiosta.
+Utwigit, burvixlaiset selittivät, olivat miellyttäviä, hienostuneita olentoja
+mutta he olivat myös tappavan masentuneita ja puhuivat usein elämiensä lopettamisesta
+aktivoimalla superase, jonkinlainen giganttinen pommi
+jonka he olivat löytäneet yhdeltä maailmoistaan -- Zeta Hyades 6B, luulisin niin.
+Druuget tunnistivat pommin kuvauksen perusteella Edelläkävijöiden planeetanmuokkaustyökaluksi
+joka tosiaankin oli räjähtävä laite, jonka voima oli ylittämätön, ja he päättivät saada sen itselleen.
+Vaikka kuvottavat, rikolliset ja kavalat druuget harvoin jättävätkään vaikutusympyräänsä
+(se käsittää Algolin, Almagestin, ja Persein tähdet)
+he tekivät tässä tapauksessa erityismatkan Aquariin tähdistöön, jossa he saivat yhteyden utwigeihin.
+On laite, joka yleisesti tunnetaan nimellä `Ultron'.
+Onko se nyt hallussasi? Ah... huomaan.
+Druuget myivät tämän laitteen utwigeille, selittäen että se oli Edelläkävijöiden `Persoonanvahvistin'
+joka rikastaisi koko heidän kulttuurinsa elämiä liian monella tavalla selostettavaksi yksityiskohtaisesti.
+Utwigit, olen pahoillani kertoessani, lankesivat druugejen halpamaiseen juoneen ja tarttuivat Ultroniin välittömästi.
+Meidän kaikkien onneksi utwigit eivät maksaneet druugejen pyytämää hintaa -- superpommia
+ja antoivat sen sijaan heille kokoelman `uniikkeja historiallisia tavaroita ja aitoja artifakteja'
+joita druuget ovat tähän päivään asti yrittäneet tyrkyttää pahaa-aavistamattomille ostajille.
+
+#(OK_BUY_EVENT_8)	melnorme-098.ogg
+Utwigit, jotka asuvat, Aquariin tähdistössä, ovat olleet hyvin masentuneita viime aikoina.
+He rikkoivat vahingossa väitetyn `Ultronin', jonka rikolliset druuget möivät heille.
+seuraamuksena heistä on tullut äreitä ja melankolisia
+ja todennäköisesti haluttomia auttamaan sinua taistelemaan Ur-Quaneja vastaan.
+Jos haluat saada heidät liittolaisiksi, suosittelemme sinua hankkimaan särkyneen Ultronin
+(niin kuin se olisi IKINÄ toiminut)
+ja etsimään siihen soveliaita varaosia.
+Informaatiomme osoittaa, että näitä esineitä löytyy kolmesta ei paikasta
+Ruusukuula druugejen kauppamaailmassa
+Akvakierukka jossain päin thraddashien avaruutta
+ja Kirkas Kehrä, joka on tällä hetkellä pkunkien omistuksessa.
+Kapteeni, tämä oli viimeinen nykytapahtuma, joka meillä on kaupan.
+
+#(OK_BUY_ALIEN_RACE_1)	melnorme-099.ogg
+Zoq-fot-pikit ovat kolmen muukalaislajin, jotka ovat kaikki samalta planeetalta, yhteistyöliitto.
+Tällä hetkellä he kärsivät suurta vahinkoa harhalaukauksista
+jotka johtuvat Ur-Quanien ja Kohr-Ahien rituaalisesta taistelusta.
+Vaikka tämä onkin ikävää zoq-fot-pikien kannalta -- he ovat joutuneet hylkäämään monia maailmojansa
+tämä läheisyys Ur-Quanien väliseen sotaan antaa heille tietoja konfliktista
+joista tulee olemaan sinulle suurta hyötyä.
+Lisäksi zoq-fot-pikit tapasivat chenjesut sodan alkupuolella, ja ovat innokkaita tekemään liittoja
+niiden kanssa, jotka voivat suojella heitä vihollisiltaan. 
+Jos satut olemaan kiinnostunut, zoq-fotien kotimaailma on koordinaateissa 400.0:543.7, planeetta 1.
+
+#(OK_BUY_ALIEN_RACE_2)	melnorme-100.ogg
+Ilwrathit hyökkäävät tällä hetkellä pkunkeja vastaan Lacaillen ja Kruegerin tähdistöissä.
+Näillä olennoilla on orjallinen antaumus pimeitä jumaliaan, Dogaria ja Kazonia kohtaan
+jota umgahit ovat viime vuosina käyttäneet heitä vastaan.
+Jos sinulla on tarvetta ilwrahien manipuloimiseen, ehdotamme että löydät umgahien tekniikan
+ja toistat sitä.
+
+#(OK_BUY_ALIEN_RACE_3)	melnorme-101.ogg
+Pkunkit ovat mystinen Yehat-lajin verso
+jotka jättivät lintuveljensä kauan sitten perustaakseen rauhallisen erillisalueen Kruegerin ja Giclasin tähtiin.
+Tällä hetkellä pkunkit puolustavat itseään ilwratheja vastaan
+jotka hyökkäävät onnellisten lintujen kimppuun Dogarin ja Kazonin käskystä.
+Pkunkit eivät välttämättä halua tehdä muodollista liittoa kanssasi
+mutta olemme varmoja, että jos selität asiasi rehellisesti
+he auttavat sinua pyrkimyksissäsi Ur-Quaneja vastaan.
+
+#(OK_BUY_ALIEN_RACE_4)	melnorme-102.ogg
+Olentoja, jotka taistelevat nyt Ur-Quaneja vastaan, kutsutaan Kohr-Aheiksi.
+He ovat Ur-Quanien alalaji, joka jakautui päälajista monta tuhatta vuotta sitten.
+Heidän tämänhetkinen taistelunsa on rituaali, joka käy uudelleen läpi suuren mielipide-eron
+kahden kilpailevan Ur-Quan-johtajan välillä, kun Ur-Quanit olivat musertaneet orjamestarinsa, dnyarrit.
+Kohr-Ahit ovat immuuneja järkisyille ja ovat kauan sitten menettäneet kykynsä nähdä tilanteensa objektiivisesti.
+He elävät itse ylläpitämässään paradoksissa: varmistaakseen turvallisuutensa
+Kohr-Ahit käyvät loputonta taistelua kaikkia muita älyllisiä lajeja vastaan.
+
+#(OK_BUY_ALIEN_RACE_5)	melnorme-103.ogg
+Minun täytyy varoittaa sinua eräistä erittäin pahoista henkilöistä.
+`Onko tämä näin monen krediitin arvoista?' kysyt itseltäsi.
+Vakuutan sinulle, se on!
+Niitä olentoja kutsutaan `druugeiksi' ja ne ovat paatunut ja paha rotu.
+He eivät välitä mistään muusta kuin liikevoitosta ja henkilökohtaisesta hyödystä epäreiluilla vaihtokaupoilla
+miksi katsot minua tuolla tavalla, Kapteeni? Se ei ole soveliasta.
+Kuten sanoin, nuo katalat olennot yrittävät myydä hyödykkeitä järjettömän halvoilla hinnoilla.
+Hoi! -- he antavat polttoainetta miltei ilmaiseksi! 
+Älä lankea heidän temppuihinsa! Niissä on piilotettuja kuluja -- salaisia tariffeja!
+Niin että voit välttää heitä, kerron sinulle että heidän pääkauppamaailmansa on Zeta Persei 1.
+Miksi hymyilet, Kapteeni?
+
+#(OK_BUY_ALIEN_RACE_6)	melnorme-104.ogg
+Burvixlaisten rotu kehittyi Arcturus 1 -planeetalla.
+He elivät siellä suhteellisen hyvänsuovalla tavalla
+kunnes Kohr-Ahit tulivat ja tuhosivat heidät 2 tai 3 onnettoman päivän aikana.
+Druuget olivat suurelta osin vastuussa siitä, että Kohr-Ahit löysivät burvixlaiset.
+Näethän, burvixlaiset olivat pitkänmatkan hyperavaruuskontaktissa
+lajin kanssa, joka tunnetaan vain nimellä Gg.
+Vuosikymmenien ajan Gg:t ja burvixlaiset vaihtoivat paljon arvokasta tietoa
+kunnes Gg:eiden kimppuun hyökkäsi rotu, jonka ehkä tunnetkin nimellä Kohr-Ah.
+Gg:t varoittivat burvixlaisia siitä, että Kohr-Ahit paikallistivat rotuja hyperavaruuslähetysten perusteella
+ja että he olivat jo havainneet druugejen lähetykset.
+Kun burvixlaiset olivat tarpeeksi ystävällisiä varoittaakseen druugeja siitä että vihamielinen muukalaisrotu
+hakeutui heidän hyperavaruuslähetyksiinsä, druuget sulkivat kaikki lähettimensä
+ja pystyttivät voimakkaan hyperavaruusmajakan Burvixin kuun kamaralle.
+Kohr-Ahit muuttivat suuntaa, hyökkäsivät burvixlais-parkojen kimppuun, ja ikävä kyllä, tuhosivat heidät kaikki.
+
+#(OK_BUY_ALIEN_RACE_7)	melnorme-105.ogg
+Thraddashit ovat röyhkeä, itsepäinen ja paksunahkainen laji
+jotka elävät Draconiksen ja Apodiksen tähdistöissä.
+He eivät tunne pahemmin kunnioitusta mitään muuta kuin voimaa kohtaan, jota he ihailevat suuresti.
+Saadaksesi thraddashit ystäviksesi, sinun pitäisi harkita sitä, että tapat useimmat, mutta ei kaikkia heistä.
+Tämän lisäksi he vartioivat jonkinlaista pyhää reliikkiä Zeta Draconiksen tähtijärjestelmässä
+vaikka emme tiedäkään tämän artifaktin todellista luonnetta.
+Thraddashien kotimaailma on Delta Draconiksessa.
+
+#(OK_BUY_ALIEN_RACE_8)	melnorme-106.ogg
+Sodan jälkeen chenjesut ja mmrnmhrm:t valitsivat orjakilven alle joutumisen
+chenjesujen kotimaailmassa Procyonissa.
+Epäilemme, että he sulauttavat kahta lajiaan muodostaaksen jonkinlaisen uuden hybridirodun,
+rodun joka saattaa olla tarpeeksi voimakas tuhotakseen Ur-Quanit vasenkätisesti.
+Kuitenkin, laskelmiemme mukaan, tämä prosessi vie monta vuosikymmentä, ellei vuosisatoja.
+Jos haluat puhua heidän kanssaan, suosittelemme sinua sijoittamaan hyperavaruuslähetinjärjestelmään
+joka on tarpeeksi voimakas lävistääkseen heidän maailmansa ympärillä olevan kilven.
+
+#(OK_BUY_ALIEN_RACE_9)	melnorme-107.ogg
+Myconit käyttävät tätä aikaa, kun Ur-Quanien huomio on kiinnittynyt muualle
+laajentaakseen vaikutuspiiriään niin nopeasti kuin mahdollista.
+Myconit kolonisoivat planeettoja laukomalla kovia itiöpalkoja kiertoradalta
+ja ruiskuttamalla ne planeetan pinnan alle.
+Kuukausia myöhemmin, kun itiöt ovat kasvattaneet tuhansia paksuja, kuitumaisia kärhiä planeetan pinnan alle
+kärhet työntyvät äkillisesti planeetan pinnasta ja luovat valtavia kalderoita
+jotka, eivätkä sattumalta, täyttävät planeetan ilmakehän myconien suosimilla kaasuilla
+superkuuman höyryn ja rikkihapon pilvillä.
+
+#(OK_BUY_ALIEN_RACE_10)	melnorme-108.ogg
+Sodan lopun jälkeen androsynthit alkoivat tehdä kokeita Ulottuvuuksien Välisellä Väsymyksellä
+prosessi, joka liittyy teidän ylivalonnopeusajoonne
+mutta sisältää ulottuvuuksia, jotka ovat paljon oudompia kuin hyperavaruus.
+He olivat suuri tehneet suuren läpimurron, kun orzeiksi kutsuttu laji yhtäkkiä hävitti heidät
+jotka näyttivät ilmestyvän tyhjästä.
+Emme oikeastaan tiedä, mitä orzit tekivät androsyntheille -- he vain ovat kokonaan poissa.
+
+#(OK_BUY_ALIEN_RACE_11)	melnorme-109.ogg
+Ariloulaleelaut ovat UVV-olentojen mystinen rotu
+UVV siis tarkoittaa Ulottuvuuksien Välistä Väsymystä
+jotka eivät elä tässä galaksissa, tai itse asiassa, missään tässä maailmankaikkeudessa.
+Vaikka onkin totta, arilouta harvoin nähdään kaukana Columbaen tähtiryhmästä
+he tekevät säännöllisiä, salaisia matkoja maailmaanne, ja ovat tehneet niin vuosisatojen ajan.
+Siitä lähtien kun Maa joutui orjakilven alle, he ovat keskittäneet huomionsa
+avaruusasemalla oleviin ihmisiin, joista monet ovat nyt miehistösi jäseniä.
+Vaikka ariloulaleelaut aina hymyilevät eivätkä ole koskaan kovin vihamielisiä
+uskomme, että heillä on salainen suunnitelma, johon planeettanne, Maa, kuuluu.
+Nämä sala-aikeet voivat aiheuttaa suurta murhetta ja kärsimystä teille maakalaisille, tai sitten eivät.
+
+#(OK_BUY_ALIEN_RACE_12)	melnorme-110.ogg
+Vähän alle 20 vuotta sitten, urheat ja itsemurhahakuiset shofixtit hävittivät lajinsa
+räjäyttämällä Edelläkävijöiden laitteen -- jonkinlaisen pommin -- aurinkonsa uumenissa.
+Seurannut auringonpurkauksien myrsky käristi elämän shofixtien kotimaailmasta
+ja poltti yli sata Ur-Quanien Taistelulaivaa tuhkaksi
+jotka olivat juuri saapuneet järjestelmään valloittaakseen shofixtit.
+Totta puhuen, galaksissa on vielä ainakin tusinan verran shofixteja jäljellä
+Yksi tai kaksi on Delta Gornossa vartioimassa kerran kauniin maailmansa hylkyä.
+Muita löytyy VUXien avaruudesta.
+
+#(OK_BUY_ALIEN_RACE_13)	melnorme-111.ogg
+Slylandrot ovat enimmäkseen epäkiinteä, tietoinen rotu joka elää kaasujättiläisessä Beta Corvissa.
+Myimme heille äskettäin itselisääntyvän tutkimusluotaimen
+joka on jotenkin muuttunut vihamieliseksi ja hyökkää kaiken havaitsemansa kimppuun.
+Jos tällaiset kohtaamiset ovat suututtaneet sinut, Kapteeni, ÄLÄ osoita asiaasi meille.
+Meillä on virallinen Vahinkovapautus, jonka slylandrojen Puhuja on valtuuttanut
+emmekä ole millään tapaa vastuullisia tilanteesta.
+
+#(OK_BUY_ALIEN_RACE_14)	melnorme-112.ogg
+Pelkurimaiset spathit elävät ainoalla Epsilon Gruisia kiertävällä planeetalla.
+He eivät oikeastaan asu maailmassaan, vaan asuttavat mieluummin sen ilmatonta kuuta.
+Syy? Ksenomorfinen laji, joka himoaa spathien maukasta lihaa
+on kuljetettu heidän planeettansa pinnalle
+ja yrittää kaikin keinoin ahmaista spathiraukat.
+Olen varma, että spathit olisivat ikuisesti velkaa sinulle
+jos eliminoisit nämä olennot heidän planeetaltaan.
+Mitä? Pelkäät, että sinäkin olisit herkkua niille muukalaisolennoille?
+Ei pelkoa. Tietomme paljastaa, että pedot eivät ole kiinnostuneita lajistasi.
+Jos haluat keskustella spathien Hallintaneuvoston kanssa
+sinun tulee tietää Salainen Spathikoodi  -- salasana, joka on
+`Huffi-Muffi-Guffi'.
+
+#(OK_BUY_ALIEN_RACE_15)	melnorme-113.ogg
+Kuten te maakalaiset, kun sota Ur-Quaneja oli hävitty
+syreenitkin valitsivat orjakilven alle joutumisen. Heidän uusi maailmansa on Betelgeusessa.
+Syreenien avaruusasemalla työskentelevät ne avaruusaluskomentajat ja miehistö
+jotka vapautettiin palveluksesta sodan lopussa.
+Vaikka syreenien vihaavat Ur-Quaneja ja haluaisivat kostaa, he tuskin tarjoavat sinulle apua
+ellet paljasta heille totuutta heidän alkuperäisen kotimaailmansa, Syran, tragedian takana
+jonka tuhosi myconien `Syvän Lapsen' syntymä vuosisata sitten.
+
+#(OK_BUY_ALIEN_RACE_16)	melnorme-114.ogg
+Kun Ur-Quanit saapuivat Gamma Serpentikseen -- yehatien kotitähdelle
+heidän kuningattarensa vaihtoi äkkiä alamaisuuttaan ja liittoutui Ur-Quanien Hierarkian kanssa
+joilloin heistä tuli Ur-Quanien taisteluorjia.
+Useimmat yehatien tähtialusten komentajat pitivät tätä tekoa äärimmäisen kunniattomana
+turmeltuneen hallitsijan epätoivoisena yrityksenä pitää valtaistuimensa.
+Yehatien häpeää lisäsi suuresti shofixtien rohkeudenosoitus
+kun he tuhosivat oman tähtijärjestelmänsä hidastaakseen Ur-Quanien Armadaa.
+Kapteeni, olet kuullut kaiken, mitä meillä on sanottavana tällä avaruusalueella tavattavista muukalaisista.
+Jos saamme tietää lisää lähitulevaisuudessa, kerromme sen taatusti sinulle.
+
+#(OK_BUY_HISTORY_1)	melnorme-115.ogg
+Melkein kaksikymmentäviisi tuhatta vuottanne sitten, lähellä tätä avaruusaluetta oli
+tähtienvälillä kulkevien rotujen seura, jota kutsuttiin `Tietoisten Yhteisöksi'.
+Tämä ryhmä muotoutui muutaman tuhannen vuoden aikana rikastaakseen yhteisesti omia kulttuureitaan
+luodakseen turvallisen seimen uusille tietoisille roduille
+ja tuottaakseen itselleen suojaa ulkoisia vihollisuuksia vastaan sotilasliitolla.
+Seitsemästä aktiivisimmata Yhteisön jäsenestä kuuluisin rotu -- tosiaan, tunnet heidät hyvin, Kapteeni
+olivat Ur-Quanit.
+
+#(OK_BUY_HISTORY_2)	melnorme-116.ogg
+Ur-Quanit kehittyivät ankaralla planeetalla, joka kiertää tähteä tämän avaruuden kolkan ulkopuolella.
+Ne olivat erakkomaisia petoeläimiä, kuten teidän rukoilusirkkanne, Kapteeni, tai jääkarhunne
+joilla oli hyvin rajallinen sarja sosiaalisia käyttäytymisohjeita, joista useimmat liittyivät seksiin.
+Koska niiden piti kilpailla selviytymisestä monia fyysisesti parempia lajeja vastaan
+Ur-Quanit kehittivät älyn ja työkalujen käytön, pitkälti samalla tavalla kuin teidänkin lajinne.
+Ur-Quanit oppivat myös hallitsemaan raivoisan reviirivaistonsa rakentaakseen planeetanlaajuisen yhteistyökulttuurin.
+Kun Taalot löysivät Ur-Quanit, he olivat juuri alkaneet tehdä tutkimusmatkoja aurinkokuntaansa
+karkeissa atomivoimaisissa laitteissa.
+Vaikka Ur-Quanit hyökkäsivät uskomiensa hyökkääjien kimppuun, Taalot olivat kärsivällisiä.
+He selittivät Älyllisen Yhteisön tarkoituksen, ja tarjosivat Ur-Quaneille jäsenyyttä.
+Ur-Quanit tunnistivat ne edut, joita sellainen järjestelmä tarjoaa
+ja valloittivat jälleen kerran metsästävät pedon sisällään
+tullakseen yhteistyökykyisiksi Yhteisön jäseniksi. Tämä kesti muutamia tuhansia vuosia.
+
+#(OK_BUY_HISTORY_3)	melnorme-117.ogg
+Hieman yli kaksikymmentä tuhatta vuotta sitten
+kun esi-isänne alkoivat oppia kartoittamaan kuun ja tähtien ratoja eläinten sarviin
+Tietoisten Yhteisö käsitti viisituhatta valovuotta ja sisälsi sadan maailman jäsenyyden.
+Kuten kaikki muutkin tähdissä kulkijat, he olivat löytäneet raunioita ja jäänteitä paljon muinaisemmasta kulttuurista
+jota lajinne kutsuu `Edelläkävijöiksi'.
+Tutkimusmatkailijat monista lajeista käyttivät elämänsä yrittäen koota yhteen tämän muinaisen mysteerin paloja
+mutta kaikista roduista Ur-Quanit olivat rohkeimpia seikkailijoita.
+Heidän yhden hengen tiedustelualuksensa tunkeutuivat kauas kartoittamattomaan avaruuteen ja laskeutuivat miljoonaan maailmaan.
+Eräällä sellaisella tehtävällä nuori Ur-Quan laskeutui pienelle muukalaisplaneetalle, jolla oli elämää
+tunnistaakseen joitakin epätavallisia energialukemia, jotka toisinaan merkitsivät Edelläkävijöiden rakennuksia.
+Sen sijaan Ur-Quan löysikin pienen, kammottavan olennon -- dnyarrin.
+Ennen kuin tiedustelija pystyi puolustautumaan, dnyarriolento otti Ur-Quanine mielen valtaansa
+ja käski tiedustelijan sijoittamaan dnyarrin satojen pahojen lajitoveriensa kanssa Ur-Quanin alukseen.
+Sitten Ur-Quan palasi Yhteisön sydämeen, laskeutuen sen pääplaneetalle.
+Tuntien sisällä jokainen planeetan asukas oli dnyarrien orja.
+Kuukauden sisällä dnyarrien hallitsemat alukset olivat levittäneet pahoja psi-olentoja kaikkialle Yhteisön alueelle.
+
+#(OK_BUY_HISTORY_4)	melnorme-118.ogg
+Kun dnyarrit ottivat Yhteisön valtaansa, yksi rotu taisteli vastaan -- taalot.
+Nämä hitaat, hiljaiset olennot olivat piipohjaisia elämänmuotoja
+mutta eivät juurikaan muistuttaneet nykyisiä Chenjesuja.
+Taalot olivat luonnostaan immuuneja dnyarrien psyykkiselle pakotukselle; olentojen voima ei vaikuttanut heihin
+ja dnyarrit eivät hyväksyneet, että kukaan olisi niiden vallan ulkopuolella
+joten ne käskivät jäljellä olevia yhtätoista Yhteisön rotua hyökkäämään ja tuhoamaan taalojen kotiplaneetan.
+Tämä planeetta oli yksi harvoista Yhteisön planeetoista tässä avaruuden osassa.
+Uskon, että kutsutte heidän tähteään Delta Vulpeculaeksi. Heidän kotinsa oli kuu, joka kiersi toista planeettaa.
+Olen surullinen sanoessani että taalot tosiaankin eliminoitiin.
+Kuitenkin, tuhonsa koittaessa he olivat saaneet valmiiksi laitteen
+jonka he uskoivat antavan toisille roduille samanlaisen psyykkisen immuniteetin kuin heilläkin.
+Mitäkö tapahtui tälle laitteelle, tälle kilvelle? Vaikea sanoa.
+Ehkä se tuhoutui hyökkäyksessä heidän kotimaailmaansa, ehkä ei.
+
+#(OK_BUY_HISTORY_5)	melnorme-119.ogg
+Dnyarrien uudessa imperiumissa Ur-Quanit olivat suosikkiorjia.
+tämä todennäköisesti johtuu siitä, että Ur-Quanit olivat psyykkisesti herkimpiä, helpoimmin pakotettavia.
+Kun dnyarrien dominoinnin vuosisadat kuluivat, se, mikä kerran oli Tietoisten Yhteisö
+huonontui ja rappeutui suureksi galaksiseksi pakkotyöleiriksi.
+Muukalaisrodut, jotka eivät palvelleet dnyarrien vaatimalla tehokkuudella ja nopeudella
+poltettiin säälittömästi maailmojensa pinnoilta.
+Tämän lajimurhan välikäsien rooli luonnollisesti lankesi dnyarrien suosikkilemmikeille, Ur-Quaneille.
+Dnyarrien hallittua armottomasti miltei kahdenkymmenenviiden vuosisadan ajan
+kerran mahtavasta Yhteisöstä oli jäljellä vain neljä elävää jäsenrotua.
+Tähän hetkeen mennessä dnyarrit olivat käyttäneet geenimuokkausta jakaakseen Ur-Quanit kahteen alalajiin
+Vihreisiin Ur-Quaneihin -- tiedemiehiin, teknikkoihin ja valvojiin
+jotka olivat vastuussa dnyarrien sivilisaation rajatun infrastruktuurin ylläpitämisestä
+ja Mustiin Ur-Quaneihin, jotka täyttivät perustyöläisten ja taistelusotilaiden roolin.
+Sitten, Kzer-Za -nimisen Ur-Quanin sattumalta tekemä löytö
+johti Dnyarrien Orjaimperiumin veriseen kukistumiseen.
+
+#(OK_BUY_HISTORY_6)	melnorme-120.ogg
+Kzer-Zaksi nimetty Ur-Quan oli Vihreä, tutkija joka erikoistui korjaamaan niitä henkisiä vaurioita
+joita pitkäaikainen altistus dnyarrien psyykkiselle pakotukselle aiheutti.
+Tähän historian hetkeen mennessä dnyarrit olivat olivat tulleet leväperäisiksi vallanpidossaan
+ja sallivat silloin tällöin orjilleen itseohjauksen hetkiä.
+Kzer-Za pystyi käyttämään noita harvoja hajanaisia minuutteja muodostaakseen teorian.
+Havaintojensa perusteella Kzer-Za tajusi, että kun orja kuoli
+dnyarri `irrottautui' orjan mielestä ettei se joutuisi itse raahatuksi kuolemaan.
+Ur-Quan-tiedemies sai selville myös sen asian, että kun orja oli suuressa tuskassa
+dnyarrit irrottautuivat väliaikaisesti -- mutta että tuskan suuruuden piti olla äärimmäinen, miltei tappava.
+Kzer-Za valitsi hetkensä huolellisesti -- se odotti kunnes oli lähellä avointa lähetinyksikköä.
+Sitten, lyhyenä henkisen vapauden hetkenä, Ur-Quan ruiskutti itseensä annoksen hapokasta myrkkyä
+joka lähetti uskomattomia tuskan aaltoja sen pitkän kehon halki.
+Muutamassa hetkessä ennen kuolemaansa, Kzer-Za pystyi riistämään itselleen lähettimen kontrollit
+lähettääkseen sanan keksinnöstään yli planeetan ja avaruuteenkin.
+Ennen kuin dnyarrit tiesivät, mitä tapahtui
+Ur-Quan kaikkialla hakkasivat omia kehojaan lasinpaloilla, polttivat itseään hirvittävästi
+tekivät mitä tahansa, joka antaisi niille ne muutamat vapauden sekunnit, jotka tarvittiin lähimmän dnyarrin etsimiseen
+ja tämän määkivän olennon murskaamiseen.
+Kun ne saivat pitempiä ja pitempiä hallinnan jaksoja, Ur-Quanit kehittivät uusia työkaluja ja aseita
+pahojen isäntiensä tuhoamiseen. Karmein näistä laitteista oli Musertaja
+mekanismi, joka syötettiin suoraan aivoihin ja tuotti jatkuvan piinan virtauksen.
+Dnyarrit eivät saattaneet tehdä tarpeellista henkistä yhteyttä näihin kidutettuihin Ur-Quaneihin.
+Niitä teurastettiin tuhansittain.
+Ur-Quanien Orjakapina oli voittanut.
+
+#(OK_BUY_HISTORY_7)	melnorme-121.ogg
+Kun viimeinenkin Ur-Quan oli vapaa psyykkisestä pakotuksesta -- kun viimeinenkin vapaa dnyarri oli kuollut
+Ur-Quanien tähtilaivastojen yhdistynyt mahti tapasi dnyarrien maailman kiertoradalla.
+He olivat tulleet yhteen tehdäkseen kaksi tärkeää päätöstä.
+Ensiksikin -- kuinka harvoja, pelästyneitä alas planeetan pinnalle jääneitä dnyarreja rangaistaisiin
+Toiseksi -- kuinka varmistettaisiin, ettei Ur-Quaneista enää ikinä tehtäisi orjia.
+Ensimmäinen päätös tehtiin pikaisesti. Dnyarrien ei sallittaisi kuolla
+se olisi liian miellyttävä kohtalo.
+Sen sijaan olennot muokattaisiin genettisesti alemmalle tietoisuuden tasolle
+niistä tulisi tyhmiä eläimiä.
+Nämä alhaiset olennot halventuisivat vielä lisää palvelemalla Ur-Quaneja maailmanloppuun asti
+nöyryyttävimmällä tavalla, jota Ur-Quanit saattoivat kuvitella
+toimimalla kääntäjinä, ollen fyysisessä kontaktissa  muihin lajeihin
+joita Ur-Quanit pitivät nyt karkeasti itseään alempiarvoisina ja vastenmielisinä.
+Toinen päätös -- kuinka heidän turvallisuutensa varmistettaisiin pysyvästi -- aiheutti suurta sekasortoa.
+
+#(OK_BUY_HISTORY_8)	melnorme-122.ogg
+Ur-Quanien onnistuneen orjakapinan jälkeen
+Ur-Quanit tapasivat päättääkseen kuinka varmistaisivat vapautensa.
+Vihreät Ur-Quanit, jotka kutsuivat itseään Kzer-Zoiksi kapinan laukaisseen Ur-Quanin kunniaksiin
+tahtoivat perustaa `Nykyisyyden ja Iäisyyden Tien'
+joka vaati, että kaikkien muiden tietoisten lajien täytyy tulla Ur-Quanien orjiksi
+tai olla ikuisesti vangeittuina lävistämättömän voimakilven alle.
+Tämän suunnitelman vastustajia johti Kohr-Ah,  karismaattinen laivastoupseeri.
+Kohr-Ah ehdotti yksinkertaisempaa vaihtoehtoa `Iankaikkista Oppia.'
+Yksinkertaisesti sanoen, tämä suunnitelma vaati että kaikki maailmankaikkeuden älyllinen elämä 
+Ur-Quaneja lukuunottamatta hävitettäisiin järjestelmällisesti.
+Kapteeni, jos nämä asenteet tuntuvat sinusta äärimmäisiltä tai epäoikeutetuilta
+sinun täytyy muistaa, että Ur-Quanit olivat olleet tahdottomia orjia vuosituhanten ajan
+ja että jokainen heistä oli joutunut pysymään tuskaisena vuosikausia dnyarrien voittamiseksi.
+Kzer-Zan ja Kohr-Ahin seuraajat olivat aivan hulluuden partaalla
+mutta kumpikaan puoli ei suostunut alistumaan, ja niinpä he taistelivat verisen sisällissodan.
+
+#(OK_BUY_HISTORY_9)	melnorme-123.ogg
+Tämä on viimeinen historiallinen tieto, joka meillä on kaupan.
+Sisällissota Vihreiden Ur-Quanien, Kzer-Zan seuraajien
+ja heidän vastustajiensa, kuolemaa jakavien Kohr-Ahien, välillä jatku vuosikymmeniä.
+He olisivat varmaankin tuhonneet toinen toisensa
+ellei eräs Kzer-Za olisi löytänyt jotain sattumalta -- Edelläkävijöiden Taistelulaivan!
+Alus oli valtava, monta kertaa Ur-Quanien alusten kokoinen.
+Edelläkävijöiden alus raivasi tiensä Kohr-Ahien joukkojen läpi päivissä -- Kohr-Ahit oli voitettu.
+Kzer-Zat olivat kuitenkin nöyriä voitossaan
+he tajusivat että oli mahdollisuus, että he olivat väärässä, ja Kohr-Ahit oikeassa.
+Sen sijaan että olisivat tuhonneet Kohr-Ahit, Kzer-Zat antoivat heidän mennä
+ohjaten heidät kulkemaan läpi tähtien, matkustaen galaksia vastakiertoon.
+Kzer-Zat matkustaisivat vastakkaiseen suuntaan
+ja kun nämä kaksi Ur-Quan-joukkoa tapaisivat, ne taistelisivat jälleen rituaalisessa taistelussa
+ja Edelläkävijöiden alus annettaisiin voittajalle.
+Kapteeni, tämä tapahtuu täällä ja nyt.
+Kzer-Zat, ne Ur-Quanit, jotka orjuuttivat teidät, taistelevat rituaalitaisteluaan Kohr-Aheja vastaan
+suurella alueella, jonka keskusta on Crateriksen tähdistössä.
+Jos Kohr-Ahit voittavat tämän taistelun, Kzer-Zat astuvat sivuun ja antavat heidät tappaa meidät kaikki.
+Uskomme, että sinun kohtalosi on estää tätä tapahtumasta.
+
+#(INFO_ALL_GONE)	melnorme-124.ogg
+Olemme pahoillamme sanoessamme, että olet tyhjentänyt aidosti arvokkaiden tietojen varantomme.
+meillä kuitenkin ON monta tuhatta arvotonta faktaa, jotka myymme sinulle mieluusti
+huomattavalla alennuksella. Oletko kiinnostunut?
+Emme uskoneetkaan niin.
+
+#(buy_new_tech)
+Haluaisin ostaa kuvailemasi teknologian.
+
+#(no_buy_new_tech)
+En halua ostaa enää lisää teknologiaa.
+
+#(done_buying_new_tech)
+En halua ostaa enää lisää teknologiaa.
+
+#(fill_me_up)
+Täytä kaikki polttoainetankkini maksimiin.
+
+#(OK_FILL_YOU_UP)	melnorme-125.ogg
+Jessöör, täytetään, tältä seisomalta!
+
+#(BUY_NEW_TECH_INTRO)	melnorme-126.ogg
+Investointi! Ah, aivan, olet niin oikeassa.
+Nämä teknologiset läpimurrot eivät maksa sinulle krediittiäkään
+ne ANSAITSEVAT sinulle krediittejä!
+No tietenkin... on aloitusmaksu
+mutta jokaisen teknologisen järjestelmän TAATAAN
+olevan hyödyksi jossain tärkeässä
+jossain päin galaksia
+jossain tilanteessa tulevaisuudessa.
+Kaikki teknologiat maksavat 150 krediittiä.
+
+#(OK_BUY_NEW_TECH)	melnorme-127.ogg
+Juuri nyt tarjoamme 
+
+#(OK_NO_BUY_NEW_TECH)	melnorme-128.ogg
+Mitä muuta haluaisit ostaa?
+
+#(OK_DONE_BUYING_NEW_TECH) melnorme-129.ogg
+Haluaisitko ostaa mitään muuta?
+
+#(OK_DONE_BUYING_FUEL)	melnorme-130.ogg
+Haluaisitko ostaa mitään muuta?
+
+#(NEW_TECH_1)	melnorme-131.ogg
+Teknologia, jota tarjoamme nyt, sisältää suunnitelmat
+sädeaseisiin, jotka ovat tuplasti voimakkaampia kuin ionitykkisi.
+
+#(NEW_TECH_2)	melnorme-132.ogg
+Teknologia, jota tarjoamme nyt, sisältää rakennussuunnitelmat
+planeettalaskeutujien viritelmiin, jotka tuplaavat niiden nopeuden.
+
+#(NEW_TECH_3)	melnorme-133.ogg
+Teknologia, jota tarjoamme nyt, sisältää yksityiskohdat siitä, kuinka
+lisätään lähipuolustuslaserjärjestelmä lippulaivaasi.
+
+#(NEW_TECH_4)	melnorme-134.ogg
+Teknologia, jota tarjoamme nyt, sisältää suunnitelmat, joiden avulla voi rakentaa
+laskeutujiisi parannuksia, jotka tekevät ne vastustuskykyisiksi vihamielisille elämänmuodoille.
+
+#(NEW_TECH_5)	melnorme-135.ogg
+Teknologia, jota tarjoamme nyt, sisältää piirustukset
+jotka näyttävät kuinka lisätä laskeutujiesi rahtitilaa
+sen nykyisen määrän tuplaamiseksi.
+
+#(NEW_TECH_6)	melnorme-136.ogg
+Teknologia, jota tarjoamme nyt, sisältää piirustukset, jotka näyttävät miten lisätään
+tuplasti tilavampia polttoainetankkeja.
+
+#(NEW_TECH_7)	melnorme-137.ogg
+Teknologia, jota tarjoamme nyt, sisältää suunnitelmat laskeutujasi
+tainnutussädetykin tulinopeuden parantamiseen.
+
+#(NEW_TECH_8)	melnorme-138.ogg
+Teknologia, jota tarjoamme nyt, sisältää piirustukset laskeutujiesi virityksiin
+jotka tekevät ne vastustuskykyisiksi maanjäristyksille.
+
+#(NEW_TECH_9)	melnorme-139.ogg
+Teknologia, jota tarjoamme nyt, sisältää suunnitelmat, joilla voit lisätä
+automaattisia hakeutumismoduuleita, jotka parantavat kaikkien aseittesi tarkkuutta.
+
+#(NEW_TECH_10)	melnorme-140.ogg
+Teknologia, jota tarjoamme nyt, sisältää suunnitelmat joiden avulla lisätään
+parannuksia laskeutujiisi, jotka tekevät ne vastustuskykyisiksi planeettojen ankaralle ilmastolle.
+
+#(NEW_TECH_11)	melnorme-141.ogg
+Teknologia, jota tarjoamme nyt, on kaikki, mitä sinun tarvitsee tietää valmistaaksesi
+virityksiä planeettalaskeutujiisi, jotka tekevät ne vastustuskykyisiksi planeettojen kuumille paikoille.
+
+#(NEW_TECH_12)	melnorme-142.ogg
+Teknologia, jota tarjoamme nyt, on suunnitelmat 
+'Infernotykkiin', aseeseen, joka on paljon pelkkää fuusiotykkiä tehokkaampi.
+
+#(NEW_TECH_13)	melnorme-143.ogg
+Teknologia, jota tarjoamme nyt, sisältää yksityiskohdat siitä, kuinka kehitetään
+Shivamasuuni-moduuleja, jotka generoivat virtaa taisteluparistoihisi
+tuplasti nopeammin kuin standardidynamot.
+
+#(OK_BUY_NEW_TECH_1)	melnorme-144.ogg
+Muistathan, että nämä aseet kuluttavat energiaa taisteluparistoistasi
+nopeammin kuin teidän tutut ionitykkinne.
+Haluat ehkä kompensoida tätä rakentamalla lisää dynamomoduuleita lippulaivaasi.
+
+#(OK_BUY_NEW_TECH_2)	melnorme-145.ogg
+Ah, aivan, nopeutta! Erinomainen valinta niin heltymättömälle metsästäjälle 
+kuin myös jänishousullekin.
+Nämä viritykset ovat tarpeeksi yksinkertaisia, että ne voidaan pistää paikalleen välittömästi.
+Laskeutujiesi pitäisi olla hetkessä kunnolla varustettuja.
+
+#(OK_BUY_NEW_TECH_3)	melnorme-146.ogg
+Nämä pikku kaunokaiset ovat mahtavia puolustukseen, mutta niiden rajoitetun kantaman takia
+ne eivät ehkä ole hyviä hyökkäysaseita. Oli miten oli, mitä enemmän rakennat niitä alukseesi
+sitä enemmän vauriota jokainen laserisku tekee.
+
+#(OK_BUY_NEW_TECH_4)	melnorme-147.ogg
+Vahvistustoimenpiteemme laskeutujillesi ovat valmiita.
+Nyt, olettaen että miehistösi lopettaa käsiensä työntämisen ulos ikkunoista
+he ovat paljon paremmassa turvassa vihamielisiltä elämänmuodoilta.
+
+#(OK_BUY_NEW_TECH_5)	melnorme-148.ogg
+Toivon, että tämä tekee resurssienkeräämisestäsi kustannustehokkaampaa, Kapteeni.
+
+#(OK_BUY_NEW_TECH_6)	melnorme-149.ogg
+Toivomme, että saat näillä parannelluilla tankeilla vapaaksi enemmän moduulipaikkoja, Kapteeni
+jotka voit täyttää muilla, hyödyllisemmillä varusteilla.
+
+#(OK_BUY_NEW_TECH_7)	melnorme-150.ogg
+Villiriistaa metsästämässä, hmmm? No, tekemiemme muutosten pitäisi todella näkyä!
+...ööh... ellei johdotus tietenkään mennyt väärin päin
+missä tapauksessa et pysty ampumaan lainkaan, lentoon lähtemisestä puhumattakaan.
+Älä huolehdi, Kapteeni. Seisomme työmme takana. Jos jokin menee vikaan
+tuo se vain takaisin meille, ja korjaamme sen, pronto!
+
+#(OK_BUY_NEW_TECH_8)	melnorme-151.ogg
+Nyt, näiden turvavöiden ja raskaan sarjan iskunvaimentimien kanssa
+laskeutujasi miehistön pitäisi olla paljon paremmassa turvassa ennustamattoman maanjäristyksen iskiessä.
+Työ on suoritettu. Laskeutujasi ovat valmiita.
+
+#(OK_BUY_NEW_TECH_9)	melnorme-152.ogg
+Valmistaudut mahtavaan taisteluun, vai?
+No, salli minun kertoa pieni neuvo.
+Sinun tulisi harkita useampien Hakeutumismoduulien käyttämistä, sillä se parantaa tähtäystäsi suuresti
+älä kuitenkaan ikinä laita alukseesi kolmea enempää. Ylimääräiset olisivat hyödyttömiä.
+
+#(OK_BUY_NEW_TECH_10)	melnorme-153.ogg
+Vähän suprajohtavaa spraymaalia ja Presto!
+Laskeutujasi pystyy kestämään suoran salamaniskun
+ilman että sisällä olevat matkustajat käristyvät... yleensä.
+Koska homma on niin helppo että nymfikin pystyisi siihen
+luulisin kaikkien laskeutujiesi olevan valmiina vähemmässä kuin tunnissa.
+
+#(OK_BUY_NEW_TECH_11)	melnorme-154.ogg
+Näillä lämpöä poistavilla plasmakilvillä miehistösi tulee olemaan huomattavasti paremmassa turvassa kuumissa maailmoissa
+mutta kuten kaikkien laskeutujamodifikaatioidemme kanssa, tämä suojaus ei ole täydellinen, joten pysy varovaisena.
+Koska muutokset laskeutujiisi ovat suoraviivaisia
+laskeutujiesi pitäisi olla varustettu lämpökilvillä siihen mennessä kun palaat aluksellesi.
+
+#(OK_BUY_NEW_TECH_12)	melnorme-155.ogg
+Kapteeni, ehdotus vain!
+Infernotykit ovat energiannielijöitä,joten, jollet halua pitkiä viiveitä laukausten välillä
+kehottaisin sinua lisäämään alukseesi Dynamoita tai jopa Shiva-masuuneita.
+
+#(OK_BUY_NEW_TECH_13)	melnorme-156.ogg
+Olen varma, että tulet arvostamaan tätä uutta moduulia, Kapteeni!
+Sen kanssa sinun pitäisi pystyä tuhoamaan ja hävittämään tuplasti entistä nopeammin.
+
+#(CHARITY)	melnorme-157.ogg
+Koska sinulla ei ole käyttökelpoisia, helposti poistettavia tarvikkeita aluksessasi
+olemme päättäneet antaa sinulle polttoainetta ilman maksua.
+Älä tee sitä virhettä, että pitäisit tätä `lahjana' tai altruistisena tekona
+me vain investoimme suhteeseemme sinun, asiakkaan, kanssasi.
+Olemme varmoja, että pitkällä tähtäimellä tämä tulee osoittautumaan mitä tuottoisimmaksi investoinniksi.
+
+#(NEW_TECH_ALL_GONE)	melnorme-158.ogg
+Komentaja, tämä on sen uuden teknologian, jota voimme tarjota sinulle, raja.
+Jos saan sanoa niin, olet ollut erinomainen asiakas. 
+Kiitokset!
+
+#(we_are_from_alliance0)
+Tulemme rauhassa, edustamme 
+
+#(STRIP_HEAD)	melnorme-159.ogg
+Otamme 
+
+#(LANDERS)	melnorme-160.ogg
+ Planeettalaskeutujaanne
+
+#(THRUSTERS)	melnorme-161.ogg
+ Fuusiomoottorianne
+
+#(JETS)	melnorme-162.ogg
+ Kääntymissuutintanne
+
+#(PODS)	melnorme-163.ogg
+ tyhjää Miehistötilaanne
+
+#(BAYS)	melnorme-164.ogg
+ tyhjää Varastotilaanne
+
+#(DYNAMOS)	melnorme-165.ogg
+ Dynamo-moduulianne
+
+#(FURNACES)	melnorme-166.ogg
+ Shiva-masuunianne
+
+#(GUNS)	melnorme-167.ogg
+ Ionitykkiänne
+
+#(BLASTERS)	melnorme-168.ogg
+ Fuusiotykkiänne
+
+#(CANNONS)	melnorme-169.ogg
+ Infernotykkiänne
+
+#(TRACKERS)	melnorme-170.ogg
+ Autojäljitysmoduulianne
+
+#(DEFENSES)	melnorme-171.ogg
+ Lähipuolustuslaserianne
+
+#(name_1)
+Uutta Vapaiden Tähtien Allianssia!
+
+#(name_2)
+Muukalaisvaltioiden Yhteistyösopimusta!
+
+#(name_3)
+Yhdistyneiden Maailmojen Federaatiota!
+
+#(name_40)
+Imperiumi 
+#(name_41)
+!
+
+#(ENUMERATE_ONE)	melnorme-172.ogg
+yksi
+
+#(ENUMERATE_TWO)	melnorme-173.ogg
+kaksi
+
+#(ENUMERATE_THREE)	melnorme-174.ogg
+kolme
+
+#(ENUMERATE_FOUR)	melnorme-175.ogg
+neljä
+
+#(ENUMERATE_FIVE)	melnorme-176.ogg
+viisi
+
+#(ENUMERATE_SIX)	melnorme-177.ogg
+kuusi
+
+#(ENUMERATE_SEVEN)	melnorme-178.ogg
+seitsemän
+
+#(ENUMERATE_EIGHT)	melnorme-179.ogg
+kahdeksan
+
+#(ENUMERATE_NINE)	melnorme-180.ogg
+yhdeksän
+
+#(ENUMERATE_TEN)	melnorme-181.ogg
+kymmenen
+
+#(ENUMERATE_ELEVEN)	melnorme-182.ogg
+yksitoista
+
+#(ENUMERATE_TWELVE)	melnorme-183.ogg
+kaksitoista
+
+#(ENUMERATE_THIRTEEN)	melnorme-184.ogg
+kolmetoista
+
+#(ENUMERATE_FOURTEEN)	melnorme-185.ogg
+neljätoista
+
+#(ENUMERATE_FIFTEEN)	melnorme-186.ogg
+viisitoista
+
+#(ENUMERATE_SIXTEEN)	melnorme-187.ogg
+kuusitoista
+
+#(END_LIST_WITH_AND)	melnorme-188.ogg
+ja
+
+#(ENUMERATE_ZERO)
+nolla
+
+#(ENUMERATE_SEVENTEEN)	melnorme-190.ogg
+seitsemäntoista
+
+#(ENUMERATE_EIGHTEEN)	melnorme-191.ogg
+kahdeksantoista
+
+#(ENUMERATE_NINETEEN)	melnorme-192.ogg
+yhdeksäntoista
+
+#(ENUMERATE_TWENTY)	melnorme-193.ogg
+kaksikymmentä
+
+#(ENUMERATE_THIRTY)	melnorme-194.ogg
+kolmekymmentä
+
+#(ENUMERATE_FOURTY)	melnorme-195.ogg
+neljäkymmentä
+
+#(ENUMERATE_FIFTY)	melnorme-196.ogg
+viisikymmentä
+
+#(ENUMERATE_SIXTY)	melnorme-197.ogg
+kuusikymmentä
+
+#(ENUMERATE_SEVENTY)	melnorme-198.ogg
+seitsemänkymmentä
+
+#(ENUMERATE_EIGHTY)	melnorme-199.ogg
+kahdeksankymmentä
+
+#(ENUMERATE_NINETY)	melnorme-200.ogg
+yhdeksänkymmentä
+
+#(ENUMERATE_HUNDRED)	melnorme-201.ogg
+sata
+
+#(ENUMERATE_THOUSAND)	melnorme-202.ogg
+tuhat
