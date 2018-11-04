@@ -35,7 +35,7 @@ Alkuperäisen version [readme](uqm_fin_099_readme.txt).
 
 ## Käyttöönotto
 
-Kopioi [https://github.com/osaukko/uqm-lang-finnish/raw/master/uqm-0.7.0-fin.uqm](uqm-0.7.0-fin.uqm) tiedosto pelin addons-kansioon.
+Kopioi [uqm-0.7.0-fin.uqm](https://github.com/osaukko/uqm-lang-finnish/raw/master/uqm-0.7.0-fin.uqm) tiedosto pelin addons-kansioon.
 Linux järjestelmässä tämä on jotain tyyliin: `/usr/share/uqm/content/addons/`.
 
 Käynnistä peli lisäämällä parametri `--addon lang-finnish`.
